@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 316,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qietu/lord_card_backface_big
+  rotate: false
+  xy: 2, 0
+  size: 155, 216
+  orig: 155, 216
+  offset: 0, 0
+  index: -1
+qietu/lord_card_backface_big_final
+  rotate: false
+  xy: 159, 2
+  size: 155, 214
+  orig: 155, 216
+  offset: 0, 2
+  index: -1

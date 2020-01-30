@@ -1,0 +1,517 @@
+{
+  "skeleton": {
+    "width": 316,
+    "height": 203.55,
+    "hash": " ",
+    "spine": "3.5",
+    "name": "gamehall_logo"
+  },
+  "bones": [
+
+    { "name": "root" },
+    {
+      "name": "骨骼",
+      "parent": "root"
+    },
+    {
+      "x": -53.71,
+      "y": 23.84,
+      "name": "骨骼6",
+      "parent": "root"
+    },
+    {
+      "x": -29.59,
+      "y": -1.47,
+      "name": "骨骼2",
+      "parent": "root"
+    },
+    {
+      "x": -38.35,
+      "y": -3.32,
+      "name": "骨骼3",
+      "parent": "骨骼2"
+    },
+    {
+      "x": -14.03,
+      "y": 1.79,
+      "name": "骨骼5",
+      "parent": "骨骼3"
+    },
+    {
+      "x": 18.7,
+      "y": 3.57,
+      "name": "骨骼4",
+      "parent": "骨骼3"
+    }
+  ],
+  "slots": [
+
+    {
+      "name": "logo_txt",
+      "bone": "骨骼2",
+      "attachment": "logo_txt"
+    },
+    {
+      "name": "logo_Y",
+      "bone": "骨骼4",
+      "attachment": "logo_Y"
+    },
+    {
+      "name": "logo_K",
+      "bone": "骨骼5",
+      "attachment": "logo_K"
+    },
+    {
+      "name": "logo_txt2",
+      "bone": "骨骼3",
+      "attachment": "logo_txt2"
+    },
+    {
+      "name": "light",
+      "bone": "骨骼",
+      "color": "FFEB599C",
+      "blend": "additive"
+    },
+    {
+      "name": "EffectStartLight",
+      "bone": "骨骼6",
+      "color": "FFFFFF00",
+      "blend": "additive",
+      "attachment": "EffectStartLight"
+    }
+  ],
+  "skins": {
+    "default": {
+      "logo_K": {
+        "logo_K": {
+          "name": "logo_K",
+          "width": 166,
+          "height": 198,
+          "x": -0.11,
+          "y": -0.09,
+          "scaleX": 0.28,
+          "scaleY": 0.28
+        }
+      },
+      "light": {
+        "hallLogoLight00": {
+          "name": "hallLogoLight00",
+          "width": 21,
+          "height": 21
+        },
+        "hallLogoLight01": {
+          "name": "hallLogoLight01",
+          "width": 37,
+          "height": 39
+        },
+        "hallLogoLight02": {
+          "name": "hallLogoLight02",
+          "width": 52,
+          "height": 48
+        },
+        "hallLogoLight03": {
+          "name": "hallLogoLight03",
+          "width": 66,
+          "height": 56
+        },
+        "hallLogoLight04": {
+          "name": "hallLogoLight04",
+          "width": 78,
+          "height": 59
+        },
+        "hallLogoLight05": {
+          "name": "hallLogoLight05",
+          "width": 89,
+          "height": 59
+        },
+        "hallLogoLight06": {
+          "name": "hallLogoLight06",
+          "width": 89,
+          "height": 56
+        },
+        "hallLogoLight07": {
+          "name": "hallLogoLight07",
+          "width": 86,
+          "height": 55
+        },
+        "hallLogoLight08": {
+          "name": "hallLogoLight08",
+          "width": 89,
+          "height": 54
+        },
+        "hallLogoLight09": {
+          "name": "hallLogoLight09",
+          "width": 86,
+          "height": 53
+        },
+        "hallLogoLight10": {
+          "name": "hallLogoLight10",
+          "width": 80,
+          "height": 52
+        },
+        "hallLogoLight11": {
+          "name": "hallLogoLight11",
+          "width": 89,
+          "height": 53
+        },
+        "hallLogoLight12": {
+          "name": "hallLogoLight12",
+          "width": 90,
+          "height": 53
+        },
+        "hallLogoLight13": {
+          "name": "hallLogoLight13",
+          "width": 88,
+          "height": 51
+        },
+        "hallLogoLight14": {
+          "name": "hallLogoLight14",
+          "width": 81,
+          "height": 51
+        },
+        "hallLogoLight15": {
+          "name": "hallLogoLight15",
+          "width": 69,
+          "height": 51
+        },
+        "hallLogoLight16": {
+          "name": "hallLogoLight16",
+          "width": 56,
+          "height": 52
+        },
+        "hallLogoLight17": {
+          "name": "hallLogoLight17",
+          "width": 41,
+          "height": 54
+        },
+        "hallLogoLight18": {
+          "name": "hallLogoLight18",
+          "width": 27,
+          "height": 54
+        },
+        "hallLogoLight19": {
+          "name": "hallLogoLight19",
+          "width": 12,
+          "height": 46
+        }
+      },
+      "logo_txt2": {
+        "logo_txt2": {
+          "name": "logo_txt2",
+          "width": 81,
+          "height": 63
+        }
+      },
+      "logo_txt": {
+        "logo_txt": {
+          "name": "logo_txt",
+          "width": 133,
+          "height": 56,
+          "x": 70.85,
+          "y": 2.85
+        }
+      },
+      "logo_Y": {
+        "logo_Y": {
+          "name": "logo_Y",
+          "width": 129,
+          "height": 176,
+          "y": 0.85,
+          "scaleX": 0.275,
+          "scaleY": 0.28
+        }
+      },
+      "EffectStartLight": {
+        "EffectStartLight": {
+          "name": "EffectStartLight",
+          "width": 316,
+          "height": 148,
+          "x": 22.34,
+          "y": 3.62
+        }
+      }
+    }
+  },
+  "animations": 
+  {
+    "animation": {
+      "bones": {
+        "骨骼3": {
+          "scale": [
+            {
+              "time": 0,
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.2333,
+              "curve": "stepped",
+              "x": 1.05,
+              "y": 1.05
+            },
+            {
+              "time": 1.1666,
+              "x": 1.05,
+              "y": 1.05
+            },
+            {
+              "time": 1.3999,
+              "x": 1,
+              "y": 1
+            }
+          ]
+        },
+        "骨骼4": {
+          "scale": [
+            {
+              "time": 0,
+              "curve": "stepped",
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.2333,
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.4666,
+              "x": 0,
+              "y": 1
+            },
+            {
+              "time": 0.6999,
+              "x": -1,
+              "y": 1
+            },
+            {
+              "time": 0.9332,
+              "x": 0,
+              "y": 1
+            },
+            {
+              "time": 1.1665,
+              "x": 1,
+              "y": 1
+            }
+          ]
+        },
+        "骨骼5": {
+          "scale": [
+            {
+              "time": 0,
+              "curve": "stepped",
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.2333,
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.4666,
+              "x": 0,
+              "y": 1
+            },
+            {
+              "time": 0.6999,
+              "x": -1,
+              "y": 1
+            },
+            {
+              "time": 0.9332,
+              "x": 0,
+              "y": 1
+            },
+            {
+              "time": 1.1665,
+              "x": 1,
+              "y": 1
+            }
+          ]
+        },
+        "骨骼6": {
+          "translate": [
+            { "time": 0 },
+            {
+              "time": 3.0667,
+              "curve": [ 0, 0.215, 0.75, 1 ]
+            },
+            {
+              "time": 3.9334,
+              "x": 12.66
+            }
+          ],
+          "scale": [
+            {
+              "time": 0,
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 3.0667,
+              "curve": [ 0, 0.215, 0.75, 1 ],
+              "x": 0.7,
+              "y": 0.7
+            },
+            {
+              "time": 3.3,
+              "curve": [ 0.25, 0, 1, 0.78 ],
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 3.9333,
+              "x": 0.7,
+              "y": 0.7
+            }
+          ]
+        }
+      },
+      "slots": {
+        "EffectStartLight": {
+          "color": [
+            {
+              "time": 0,
+              "curve": "stepped",
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 3.0667,
+              "curve": [ 0, 0.19, 0.75, 1 ],
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 3.3,
+              "curve": [ 0.25, 0, 1, 0.75 ],
+              "color": "FFFFFFFF"
+            },
+            {
+              "time": 3.9333,
+              "color": "FFFFFF00"
+            }
+          ]
+        },
+        "light": {
+          "attachment": [
+            {
+              "time": 0,
+              "name": ""
+            },
+            {
+              "time": 1.5667,
+              "name": "hallLogoLight00"
+            },
+            {
+              "time": 1.6334,
+              "name": "hallLogoLight01"
+            },
+            {
+              "time": 1.7001,
+              "name": "hallLogoLight02"
+            },
+            {
+              "time": 1.7668,
+              "name": "hallLogoLight03"
+            },
+            {
+              "time": 1.8335,
+              "name": "hallLogoLight04"
+            },
+            {
+              "time": 1.9002,
+              "name": "hallLogoLight05"
+            },
+            {
+              "time": 1.9669,
+              "name": "hallLogoLight06"
+            },
+            {
+              "time": 2.0336,
+              "name": "hallLogoLight07"
+            },
+            {
+              "time": 2.1003,
+              "name": "hallLogoLight08"
+            },
+            {
+              "time": 2.167,
+              "name": "hallLogoLight09"
+            },
+            {
+              "time": 2.2337,
+              "name": "hallLogoLight10"
+            },
+            {
+              "time": 2.3004,
+              "name": "hallLogoLight11"
+            },
+            {
+              "time": 2.3671,
+              "name": "hallLogoLight12"
+            },
+            {
+              "time": 2.4338,
+              "name": "hallLogoLight13"
+            },
+            {
+              "time": 2.5005,
+              "name": "hallLogoLight14"
+            },
+            {
+              "time": 2.5672,
+              "name": "hallLogoLight15"
+            },
+            {
+              "time": 2.6339,
+              "name": "hallLogoLight16"
+            },
+            {
+              "time": 2.7006,
+              "name": "hallLogoLight17"
+            },
+            {
+              "time": 2.7673,
+              "name": "hallLogoLight18"
+            },
+            {
+              "time": 2.834,
+              "name": "hallLogoLight19"
+            },
+            {
+              "time": 2.9007,
+              "name": ""
+            }
+          ],
+          "color": [
+            {
+              "time": 0,
+              "color": "FFFFFFFF"
+            }
+          ]
+        },
+        "logo_txt2": {
+          "color": [
+            {
+              "time": 0,
+              "color": "FFFFFFFF"
+            },
+            {
+              "time": 0.2333,
+              "curve": "stepped",
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 1.1666,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 1.3999,
+              "color": "FFFFFFFF"
+            }
+          ]
+        }
+      }
+    }
+  }}

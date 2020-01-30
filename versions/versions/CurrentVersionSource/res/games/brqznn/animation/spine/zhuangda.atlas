@@ -1,0 +1,167 @@
+
+zhuangda.png
+size: 787,503
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 740, 122
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+图层 3
+  rotate: false
+  xy: 740, 122
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+s-1
+  rotate: false
+  xy: 687, 151
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+图层 10
+  rotate: true
+  xy: 320, 335
+  size: 166, 157
+  orig: 166, 157
+  offset: 0, 0
+  index: -1
+图层 11
+  rotate: true
+  xy: 175, 333
+  size: 168, 143
+  orig: 168, 143
+  offset: 0, 0
+  index: -1
+图层 12
+  rotate: true
+  xy: 179, 165
+  size: 166, 160
+  orig: 166, 160
+  offset: 0, 0
+  index: -1
+图层 13
+  rotate: false
+  xy: 240, 2
+  size: 165, 161
+  orig: 165, 161
+  offset: 0, 0
+  index: -1
+图层 14
+  rotate: true
+  xy: 479, 343
+  size: 158, 154
+  orig: 158, 154
+  offset: 0, 0
+  index: -1
+图层 15
+  rotate: true
+  xy: 635, 193
+  size: 154, 148
+  orig: 154, 148
+  offset: 0, 0
+  index: -1
+图层 16
+  rotate: false
+  xy: 591, 13
+  size: 84, 87
+  orig: 84, 87
+  offset: 0, 0
+  index: -1
+图层 17
+  rotate: true
+  xy: 612, 106
+  size: 85, 73
+  orig: 85, 73
+  offset: 0, 0
+  index: -1
+图层 18
+  rotate: false
+  xy: 407, 3
+  size: 102, 97
+  orig: 102, 97
+  offset: 0, 0
+  index: -1
+图层 19
+  rotate: false
+  xy: 492, 102
+  size: 118, 114
+  orig: 118, 114
+  offset: 0, 0
+  index: -1
+图层 20
+  rotate: true
+  xy: 2, 10
+  size: 130, 124
+  orig: 130, 124
+  offset: 0, 0
+  index: -1
+图层 21
+  rotate: true
+  xy: 341, 173
+  size: 160, 149
+  orig: 160, 149
+  offset: 0, 0
+  index: -1
+图层 22
+  rotate: true
+  xy: 2, 319
+  size: 182, 171
+  orig: 182, 171
+  offset: 0, 0
+  index: -1
+图层 4
+  rotate: false
+  xy: 740, 156
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+图层 5
+  rotate: false
+  xy: 407, 105
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1
+图层 6
+  rotate: true
+  xy: 511, 5
+  size: 95, 78
+  orig: 95, 78
+  offset: 0, 0
+  index: -1
+图层 7
+  rotate: true
+  xy: 128, 10
+  size: 130, 110
+  orig: 130, 110
+  offset: 0, 0
+  index: -1
+图层 8
+  rotate: false
+  xy: 492, 218
+  size: 128, 123
+  orig: 128, 123
+  offset: 0, 0
+  index: -1
+图层 9
+  rotate: false
+  xy: 2, 142
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+图层-1
+  rotate: true
+  xy: 635, 349
+  size: 152, 149
+  orig: 152, 149
+  offset: 0, 0
+  index: -1

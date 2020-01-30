@@ -1,0 +1,41 @@
+
+zhuang.png
+size: 220,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j_da_1
+  rotate: false
+  xy: 2, 2
+  size: 194, 96
+  orig: 194, 96
+  offset: 0, 0
+  index: -1
+j_da_2
+  rotate: true
+  xy: 2, 100
+  size: 212, 111
+  orig: 212, 111
+  offset: 0, 0
+  index: -1
+j_da_3
+  rotate: true
+  xy: 122, 336
+  size: 197, 96
+  orig: 197, 96
+  offset: 0, 0
+  index: -1
+j_da_4
+  rotate: true
+  xy: 122, 137
+  size: 197, 96
+  orig: 197, 96
+  offset: 0, 0
+  index: -1
+j_da_5
+  rotate: true
+  xy: 2, 314
+  size: 219, 118
+  orig: 227, 122
+  offset: 4, 3
+  index: -1

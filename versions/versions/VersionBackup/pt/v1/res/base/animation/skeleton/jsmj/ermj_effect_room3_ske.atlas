@@ -1,0 +1,62 @@
+
+ermj_effect_room3_ske.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HallRooms03
+  rotate: false
+  xy: 1, 1
+  size: 324, 301
+  orig: 343, 304
+  offset: 10, 1
+  index: -1
+HallRooms03Ani03
+  rotate: false
+  xy: 1, 304
+  size: 214, 230
+  orig: 214, 230
+  offset: 0, 0
+  index: -1
+发
+  rotate: false
+  xy: 411, 193
+  size: 83, 108
+  orig: 90, 110
+  offset: 4, 1
+  index: -1
+HallRooms03Ani02
+  rotate: false
+  xy: 217, 381
+  size: 110, 112
+  orig: 110, 112
+  offset: 0, 0
+  index: -1
+HallRooms03Ani01
+  rotate: false
+  xy: 329, 381
+  size: 91, 89
+  orig: 91, 89
+  offset: 0, 0
+  index: -1
+中级房
+  rotate: false
+  xy: 411, 1
+  size: 76, 190
+  orig: 76, 190
+  offset: 0, 0
+  index: -1
+HallRoomLang03
+  rotate: false
+  xy: 327, 1
+  size: 82, 225
+  orig: 82, 225
+  offset: 0, 0
+  index: -1
+HallRoomsNumBg
+  rotate: false
+  xy: 217, 304
+  size: 209, 75
+  orig: 212, 78
+  offset: 2, 1
+  index: -1

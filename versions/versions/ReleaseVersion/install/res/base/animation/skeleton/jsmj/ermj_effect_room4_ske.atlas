@@ -1,0 +1,90 @@
+
+ermj_effect_room4_ske.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HallRooms04
+  rotate: false
+  xy: 1, 1
+  size: 324, 303
+  orig: 343, 304
+  offset: 9, 0
+  index: -1
+HallRooms04Ani01
+  rotate: false
+  xy: 1, 306
+  size: 292, 283
+  orig: 292, 283
+  offset: 0, 0
+  index: -1
+HallRooms04Ani03
+  rotate: false
+  xy: 327, 109
+  size: 91, 98
+  orig: 91, 98
+  offset: 0, 0
+  index: -1
+HallRooms04Ani04
+  rotate: false
+  xy: 327, 1
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+HallRooms04Ani02
+  rotate: false
+  xy: 327, 209
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+高级房
+  rotate: false
+  xy: 379, 306
+  size: 76, 190
+  orig: 76, 190
+  offset: 0, 0
+  index: -1
+HallRoomLang04
+  rotate: false
+  xy: 295, 306
+  size: 82, 225
+  orig: 82, 225
+  offset: 0, 0
+  index: -1
+HallRoomsNumBg
+  rotate: false
+  xy: 295, 533
+  size: 209, 75
+  orig: 212, 78
+  offset: 2, 1
+  index: -1
+HallRooms04Ani05
+  rotate: false
+  xy: 405, 209
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+桃花瓣
+  rotate: false
+  xy: 451, 260
+  size: 25, 28
+  orig: 32, 32
+  offset: 4, 2
+  index: -1
+红中
+  rotate: false
+  xy: 420, 109
+  size: 29, 45
+  orig: 30, 50
+  offset: 1, 3
+  index: -1
+neutfly_smoke_00000
+  rotate: false
+  xy: 451, 209
+  size: 47, 49
+  orig: 64, 64
+  offset: 10, 8
+  index: -1

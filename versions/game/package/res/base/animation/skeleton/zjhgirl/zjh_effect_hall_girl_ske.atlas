@@ -1,0 +1,181 @@
+
+zjh_effect_hall_girl_ske.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+头带
+  rotate: false
+  xy: 1283, 1
+  size: 123, 313
+  orig: 123, 313
+  offset: 0, 0
+  index: -1
+头发大
+  rotate: false
+  xy: 326, 513
+  size: 406, 311
+  orig: 406, 311
+  offset: 0, 0
+  index: -1
+头发5
+  rotate: false
+  xy: 734, 513
+  size: 200, 309
+  orig: 200, 309
+  offset: 0, 0
+  index: -1
+头发4
+  rotate: false
+  xy: 734, 824
+  size: 331, 126
+  orig: 331, 126
+  offset: 0, 0
+  index: -1
+头发3
+  rotate: false
+  xy: 478, 826
+  size: 160, 175
+  orig: 160, 175
+  offset: 0, 0
+  index: -1
+左手衣摆2
+  rotate: false
+  xy: 1219, 846
+  size: 52, 119
+  orig: 52, 119
+  offset: 0, 0
+  index: -1
+左手衣摆1
+  rotate: false
+  xy: 333, 1
+  size: 140, 238
+  orig: 140, 238
+  offset: 0, 0
+  index: -1
+右手衣摆2
+  rotate: false
+  xy: 477, 213
+  size: 88, 236
+  orig: 88, 236
+  offset: 0, 0
+  index: -1
+右臂
+  rotate: false
+  xy: 1, 513
+  size: 323, 421
+  orig: 323, 421
+  offset: 0, 0
+  index: -1
+右手衣摆1
+  rotate: false
+  xy: 1152, 513
+  size: 129, 331
+  orig: 129, 331
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 1, 1
+  size: 330, 510
+  orig: 330, 510
+  offset: 0, 0
+  index: -1
+左臂
+  rotate: false
+  xy: 475, 1
+  size: 100, 210
+  orig: 100, 210
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 326, 826
+  size: 150, 194
+  orig: 150, 194
+  offset: 0, 0
+  index: -1
+睁眼
+  rotate: false
+  xy: 698, 952
+  size: 76, 50
+  orig: 80, 50
+  offset: 4, 0
+  index: -1
+闭眼中间帧
+  rotate: false
+  xy: 1067, 776
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+闭眼
+  rotate: false
+  xy: 776, 952
+  size: 79, 48
+  orig: 79, 48
+  offset: 0, 0
+  index: -1
+头发1
+  rotate: false
+  xy: 640, 826
+  size: 56, 149
+  orig: 56, 149
+  offset: 0, 0
+  index: -1
+头发2
+  rotate: false
+  xy: 333, 241
+  size: 142, 179
+  orig: 142, 179
+  offset: 0, 0
+  index: -1
+发饰
+  rotate: false
+  xy: 640, 977
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+左手
+  rotate: false
+  xy: 936, 513
+  size: 214, 261
+  orig: 214, 261
+  offset: 0, 0
+  index: -1
+右小臂
+  rotate: false
+  xy: 1067, 846
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+右手
+  rotate: false
+  xy: 333, 422
+  size: 103, 64
+  orig: 103, 64
+  offset: 0, 0
+  index: -1
+发饰1
+  rotate: false
+  xy: 438, 422
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+发饰2
+  rotate: false
+  xy: 674, 977
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+发饰3
+  rotate: false
+  xy: 936, 776
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1

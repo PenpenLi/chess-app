@@ -1,0 +1,167 @@
+
+pj_effect_room1_ske.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 123, 682
+  size: 115, 106
+  orig: 115, 106
+  offset: 0, 0
+  index: -1
+ye3
+  rotate: false
+  xy: 168, 237
+  size: 96, 45
+  orig: 96, 45
+  offset: 0, 0
+  index: -1
+ye2
+  rotate: false
+  xy: 1, 867
+  size: 92, 82
+  orig: 92, 82
+  offset: 0, 0
+  index: -1
+ye6
+  rotate: false
+  xy: 317, 463
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+shuzhi
+  rotate: false
+  xy: 219, 614
+  size: 208, 66
+  orig: 208, 66
+  offset: 0, 0
+  index: -1
+huaban
+  rotate: false
+  xy: 317, 595
+  size: 14, 9
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 168, 305
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+flower
+  rotate: false
+  xy: 1, 553
+  size: 216, 71
+  orig: 216, 71
+  offset: 0, 0
+  index: -1
+tiyanchang
+  rotate: false
+  xy: 1, 1
+  size: 264, 234
+  orig: 315, 234
+  offset: 51, 0
+  index: -1
+huaban23
+  rotate: false
+  xy: 168, 284
+  size: 23, 19
+  orig: 34, 29
+  offset: 2, 5
+  index: -1
+tiyanfangsaoguang_00005
+  rotate: false
+  xy: 267, 1
+  size: 170, 155
+  orig: 210, 157
+  offset: 36, 1
+  index: -1
+tiyanfangsaoguang_00011
+  rotate: false
+  xy: 81, 738
+  size: 38, 56
+  orig: 210, 157
+  offset: 168, 57
+  index: -1
+tiyanfangsaoguang_00007
+  rotate: false
+  xy: 168, 313
+  size: 161, 148
+  orig: 210, 157
+  offset: 46, 8
+  index: -1
+tiyanfangsaoguang_00004
+  rotate: false
+  xy: 1, 237
+  size: 165, 156
+  orig: 210, 157
+  offset: 36, 0
+  index: -1
+tiyanfangsaoguang_00000
+  rotate: false
+  xy: 1, 738
+  size: 78, 127
+  orig: 210, 157
+  offset: 36, 1
+  index: -1
+tiyanfangsaoguang_00006
+  rotate: false
+  xy: 267, 158
+  size: 170, 153
+  orig: 210, 157
+  offset: 37, 3
+  index: -1
+tiyanfangsaoguang_00008
+  rotate: false
+  xy: 331, 313
+  size: 144, 123
+  orig: 210, 157
+  offset: 64, 33
+  index: -1
+tiyanfangsaoguang_00010
+  rotate: false
+  xy: 439, 1
+  size: 67, 98
+  orig: 210, 157
+  offset: 140, 49
+  index: -1
+tiyanfangsaoguang_00003
+  rotate: false
+  xy: 1, 395
+  size: 137, 156
+  orig: 210, 157
+  offset: 35, 0
+  index: -1
+tiyanfangsaoguang_00009
+  rotate: false
+  xy: 1, 626
+  size: 120, 110
+  orig: 210, 157
+  offset: 87, 46
+  index: -1
+tiyanfangsaoguang_00002
+  rotate: false
+  xy: 331, 438
+  size: 114, 155
+  orig: 210, 157
+  offset: 35, 0
+  index: -1
+tiyanfangsaoguang_00001
+  rotate: false
+  xy: 219, 463
+  size: 96, 149
+  orig: 210, 157
+  offset: 36, 0
+  index: -1
+huangtuan_00000
+  rotate: false
+  xy: 429, 595
+  size: 82, 80
+  orig: 88, 82
+  offset: 6, 2
+  index: -1

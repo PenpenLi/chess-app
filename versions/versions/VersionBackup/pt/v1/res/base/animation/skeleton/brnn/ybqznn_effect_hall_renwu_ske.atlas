@@ -1,0 +1,195 @@
+
+ybqznn_effect_hall_renwu_ske.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houfa5
+  rotate: false
+  xy: 293, 1
+  size: 264, 308
+  orig: 264, 308
+  offset: 0, 0
+  index: -1
+houfa4
+  rotate: false
+  xy: 928, 1
+  size: 71, 127
+  orig: 71, 127
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 417, 865
+  size: 69, 150
+  orig: 69, 150
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: false
+  xy: 600, 1
+  size: 18, 23
+  orig: 52, 85
+  offset: 23, 60
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 905, 977
+  size: 30, 38
+  orig: 52, 85
+  offset: 22, 47
+  index: -1
+zuoshou
+  rotate: false
+  xy: 1, 952
+  size: 52, 70
+  orig: 52, 85
+  offset: 0, 0
+  index: -1
+houfa3
+  rotate: false
+  xy: 293, 509
+  size: 197, 178
+  orig: 197, 178
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 1
+  size: 290, 714
+  orig: 290, 714
+  offset: 0, 0
+  index: -1
+youshoubi
+  rotate: false
+  xy: 417, 689
+  size: 153, 174
+  orig: 153, 174
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 1, 717
+  size: 414, 233
+  orig: 414, 233
+  offset: 0, 0
+  index: -1
+zhuangshi
+  rotate: false
+  xy: 492, 865
+  size: 163, 134
+  orig: 163, 134
+  offset: 0, 0
+  index: -1
+xin
+  rotate: false
+  xy: 386, 689
+  size: 21, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 492, 509
+  size: 107, 119
+  orig: 109, 120
+  offset: 0, 1
+  index: -1
+yan1
+  rotate: false
+  xy: 356, 689
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 326, 689
+  size: 28, 22
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+yan3
+  rotate: false
+  xy: 293, 689
+  size: 31, 24
+  orig: 36, 29
+  offset: 2, 3
+  index: -1
+houfa2
+  rotate: false
+  xy: 807, 865
+  size: 119, 110
+  orig: 133, 138
+  offset: 0, 9
+  index: -1
+huaduo
+  rotate: false
+  xy: 559, 130
+  size: 86, 72
+  orig: 86, 72
+  offset: 0, 0
+  index: -1
+houfa1
+  rotate: false
+  xy: 293, 311
+  size: 213, 196
+  orig: 213, 196
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: false
+  xy: 621, 1
+  size: 45, 124
+  orig: 45, 124
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 559, 1
+  size: 39, 114
+  orig: 39, 114
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 508, 418
+  size: 92, 76
+  orig: 92, 76
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 55, 952
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 657, 865
+  size: 148, 140
+  orig: 148, 140
+  offset: 0, 0
+  index: -1
+pai3
+  rotate: false
+  xy: 865, 977
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+pai2
+  rotate: false
+  xy: 508, 311
+  size: 111, 105
+  orig: 111, 105
+  offset: 0, 0
+  index: -1
+pai1
+  rotate: false
+  xy: 807, 977
+  size: 56, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1

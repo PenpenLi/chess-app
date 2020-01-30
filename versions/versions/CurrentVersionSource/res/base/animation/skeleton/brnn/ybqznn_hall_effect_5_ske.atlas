@@ -1,0 +1,111 @@
+
+ybqznn_hall_effect_5_ske.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ybnn_hall_room_bg05
+  rotate: false
+  xy: 1, 1
+  size: 243, 293
+  orig: 243, 294
+  offset: 0, 0
+  index: -1
+ybnn_ani_room5_03
+  rotate: false
+  xy: 592, 1
+  size: 83, 100
+  orig: 83, 100
+  offset: 0, 0
+  index: -1
+ybnn_ani_room5_02
+  rotate: false
+  xy: 246, 166
+  size: 102, 110
+  orig: 102, 110
+  offset: 0, 0
+  index: -1
+ybnn_ani_room5_01
+  rotate: false
+  xy: 416, 1
+  size: 174, 145
+  orig: 174, 145
+  offset: 0, 0
+  index: -1
+ybnn_hall_room_name05
+  rotate: false
+  xy: 652, 148
+  size: 199, 88
+  orig: 201, 89
+  offset: 1, 1
+  index: -1
+ybnn_ani_light
+  rotate: false
+  xy: 416, 148
+  size: 234, 90
+  orig: 234, 110
+  offset: 0, 11
+  index: -1
+guang0004
+  rotate: false
+  xy: 346, 296
+  size: 170, 174
+  orig: 200, 196
+  offset: 9, 13
+  index: -1
+guang0003
+  rotate: false
+  xy: 518, 296
+  size: 169, 170
+  orig: 200, 196
+  offset: 10, 9
+  index: -1
+guang0006
+  rotate: false
+  xy: 859, 313
+  size: 152, 155
+  orig: 200, 196
+  offset: 14, 15
+  index: -1
+guang0002
+  rotate: false
+  xy: 689, 296
+  size: 168, 166
+  orig: 200, 196
+  offset: 11, 8
+  index: -1
+guang0001
+  rotate: false
+  xy: 1, 296
+  size: 171, 176
+  orig: 200, 196
+  offset: 9, 11
+  index: -1
+guang0008
+  rotate: false
+  xy: 246, 1
+  size: 168, 163
+  orig: 200, 196
+  offset: 11, 17
+  index: -1
+guang0009
+  rotate: false
+  xy: 174, 296
+  size: 170, 177
+  orig: 200, 196
+  offset: 10, 12
+  index: -1
+guang0007
+  rotate: false
+  xy: 859, 1
+  size: 164, 160
+  orig: 200, 196
+  offset: 12, 17
+  index: -1
+guang0005
+  rotate: false
+  xy: 859, 163
+  size: 161, 148
+  orig: 200, 196
+  offset: 20, 19
+  index: -1

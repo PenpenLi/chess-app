@@ -1,0 +1,188 @@
+
+loading_effect_logo_ske.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+font
+  rotate: false
+  xy: 1, 1
+  size: 336, 567
+  orig: 336, 567
+  offset: 0, 0
+  index: -1
+biaoti_00021
+  rotate: false
+  xy: 587, 143
+  size: 87, 75
+  orig: 340, 560
+  offset: 93, 3
+  index: -1
+biaoti_00017
+  rotate: false
+  xy: 339, 1
+  size: 246, 241
+  orig: 340, 560
+  offset: 84, 41
+  index: -1
+biaoti_00012
+  rotate: false
+  xy: 1, 805
+  size: 261, 197
+  orig: 340, 560
+  offset: 62, 188
+  index: -1
+biaoti_00007
+  rotate: false
+  xy: 760, 1
+  size: 151, 158
+  orig: 340, 560
+  offset: 48, 335
+  index: -1
+biaoti_00005
+  rotate: false
+  xy: 799, 797
+  size: 190, 162
+  orig: 340, 560
+  offset: 9, 371
+  index: -1
+biaoti_00013
+  rotate: false
+  xy: 537, 570
+  size: 271, 225
+  orig: 340, 560
+  offset: 62, 142
+  index: -1
+biaoti_00015
+  rotate: false
+  xy: 537, 797
+  size: 260, 225
+  orig: 340, 560
+  offset: 75, 97
+  index: -1
+biaoti_00010
+  rotate: false
+  xy: 759, 396
+  size: 194, 133
+  orig: 340, 560
+  offset: 97, 259
+  index: -1
+biaoti_00001
+  rotate: false
+  xy: 889, 961
+  size: 92, 55
+  orig: 340, 560
+  offset: 47, 497
+  index: -1
+biaoti_00022
+  rotate: false
+  xy: 799, 961
+  size: 88, 61
+  orig: 340, 560
+  offset: 93, 3
+  index: -1
+biaoti_00018
+  rotate: false
+  xy: 339, 244
+  size: 228, 235
+  orig: 340, 560
+  offset: 84, 12
+  index: -1
+biaoti_00004
+  rotate: false
+  xy: 569, 244
+  size: 189, 150
+  orig: 340, 560
+  offset: 8, 395
+  index: -1
+biaoti_00008
+  rotate: false
+  xy: 810, 657
+  size: 152, 113
+  orig: 340, 560
+  offset: 52, 317
+  index: -1
+biaoti_00003
+  rotate: false
+  xy: 587, 1
+  size: 169, 140
+  orig: 340, 560
+  offset: 9, 411
+  index: -1
+biaoti_00020
+  rotate: false
+  xy: 760, 280
+  size: 86, 111
+  orig: 340, 560
+  offset: 93, 3
+  index: -1
+biaoti_00023
+  rotate: false
+  xy: 676, 143
+  size: 65, 31
+  orig: 340, 560
+  offset: 115, 3
+  index: -1
+biaoti_00011
+  rotate: false
+  xy: 264, 812
+  size: 240, 197
+  orig: 340, 560
+  offset: 64, 195
+  index: -1
+biaoti_00014
+  rotate: false
+  xy: 1, 570
+  size: 272, 233
+  orig: 340, 560
+  offset: 63, 113
+  index: -1
+biaoti_00024
+  rotate: false
+  xy: 264, 805
+  size: 5, 4
+  orig: 340, 560
+  offset: 151, 3
+  index: -1
+biaoti_00019
+  rotate: false
+  xy: 901, 161
+  size: 89, 134
+  orig: 340, 560
+  offset: 91, 3
+  index: -1
+biaoti_00002
+  rotate: false
+  xy: 760, 161
+  size: 139, 117
+  orig: 340, 560
+  offset: 15, 435
+  index: -1
+biaoti_00006
+  rotate: false
+  xy: 569, 396
+  size: 188, 147
+  orig: 340, 560
+  offset: 12, 362
+  index: -1
+biaoti_00016
+  rotate: false
+  xy: 275, 570
+  size: 260, 240
+  orig: 340, 560
+  offset: 75, 66
+  index: -1
+biaoti_00009
+  rotate: false
+  xy: 810, 531
+  size: 199, 124
+  orig: 340, 560
+  offset: 70, 276
+  index: -1
+gamehall_loading_title_2
+  rotate: false
+  xy: 991, 657
+  size: 26, 274
+  orig: 26, 274
+  offset: 0, 0
+  index: -1

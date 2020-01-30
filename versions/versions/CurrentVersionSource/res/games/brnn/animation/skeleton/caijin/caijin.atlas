@@ -1,0 +1,48 @@
+
+caijin.png
+size: 307,121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pbulic
+  rotate: false
+  xy: 219, 2
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Pbulic_01
+  rotate: false
+  xy: 251, 25
+  size: 19, 19
+  orig: 20, 20
+  offset: 0, 1
+  index: -1
+b0
+  rotate: false
+  xy: 225, 46
+  size: 80, 73
+  orig: 81, 74
+  offset: 1, 0
+  index: -1
+c1
+  rotate: false
+  xy: 117, 7
+  size: 100, 29
+  orig: 100, 29
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 2, 6
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 117, 38
+  size: 106, 81
+  orig: 106, 81
+  offset: 0, 0
+  index: -1

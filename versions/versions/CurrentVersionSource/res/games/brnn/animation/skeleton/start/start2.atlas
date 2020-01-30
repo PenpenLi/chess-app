@@ -1,0 +1,83 @@
+
+start2.png
+size: 1671,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+brnn_start_01
+  rotate: false
+  xy: 554, 2
+  size: 547, 52
+  orig: 550, 53
+  offset: 0, 0
+  index: -1
+brnn_start_02
+  rotate: false
+  xy: 567, 56
+  size: 550, 52
+  orig: 550, 52
+  offset: 0, 0
+  index: -1
+brnn_start_03
+  rotate: false
+  xy: 567, 110
+  size: 549, 55
+  orig: 550, 55
+  offset: 0, 0
+  index: -1
+brnn_start_04
+  rotate: false
+  xy: 567, 167
+  size: 550, 56
+  orig: 550, 56
+  offset: 0, 0
+  index: -1
+brnn_start_05
+  rotate: false
+  xy: 1119, 169
+  size: 549, 55
+  orig: 550, 56
+  offset: 0, 0
+  index: -1
+brnn_start_06
+  rotate: false
+  xy: 2, 14
+  size: 550, 57
+  orig: 550, 57
+  offset: 0, 0
+  index: -1
+brnn_start_07
+  rotate: false
+  xy: 1119, 113
+  size: 550, 54
+  orig: 550, 54
+  offset: 0, 0
+  index: -1
+brnn_start_08
+  rotate: false
+  xy: 1119, 58
+  size: 550, 53
+  orig: 550, 54
+  offset: 0, 0
+  index: -1
+brnn_start_09
+  rotate: false
+  xy: 567, 225
+  size: 550, 57
+  orig: 550, 57
+  offset: 0, 0
+  index: -1
+brnn_start_10
+  rotate: false
+  xy: 1119, 226
+  size: 550, 56
+  orig: 550, 56
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 2, 73
+  size: 563, 209
+  orig: 563, 209
+  offset: 0, 0
+  index: -1

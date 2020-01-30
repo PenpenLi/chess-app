@@ -1,0 +1,112 @@
+{
+  "skeleton": {
+    "width": 343,
+    "height": 324.5,
+    "fps": 24,
+    "hash": " ",
+    "spine": " ",
+    "name": "ermj_effect_room4"
+  },
+  "bones": [
+    
+    { "name": "root" },
+    {
+      "name": "底图",
+      "parent": "root"
+    },
+    {
+      "x": -60,
+      "y": 60,
+      "name": "条幅",
+      "parent": "底图"
+    },
+    {
+      "x": 10.5396,
+      "y": 18.2935,
+      "scaleX": 0.6,
+      "scaleY": 0.6,
+      "name": "茶壶",
+      "parent": "底图"
+    },
+    {
+      "x": 10,
+      "y": -60,
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "name": "底注框",
+      "parent": "底图"
+    },
+    {
+      "x": 24.5949,
+      "scaleX": 0.6,
+      "scaleY": 0.6,
+      "name": "麻将1",
+      "parent": "底图"
+    },
+    {
+      "x": 73.5152,
+      "scaleX": 0.6,
+      "scaleY": 0.6,
+      "name": "麻将2",
+      "parent": "底图"
+    },
+    {
+      "x": -19.5912,
+      "y": 28.7518,
+      "scaleX": 0.6,
+      "scaleY": 0.6,
+      "name": "骰子",
+      "parent": "底图"
+    },
+    {
+      "x": -2.6558,
+      "y": -11.9318,
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "name": "鱼",
+      "parent": "底图"
+    },
+    {
+      "scaleX": 0.4,
+      "scaleY": 0.4,
+      "name": "花瓣",
+      "parent": "底图"
+    },
+    {
+      "scaleX": 0.4,
+      "scaleY": 0.4,
+      "name": "花瓣1",
+      "parent": "底图"
+    },
+    {
+      "scaleX": 0.4,
+      "scaleY": 0.4,
+      "name": "花瓣2",
+      "parent": "底图"
+    },
+    {
+      "scaleX": 0.4,
+      "scaleY": 0.4,
+      "name": "花瓣3",
+      "parent": "底图"
+    },
+    {
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "name": "高级房",
+      "parent": "条幅"
+    },
+    {
+      "y": 0.4204,
+      "name": "红中",
+      "parent": "麻将2"
+    },
+    {
+      "x": 106.663,
+      "y": 122.2469,
+      "scaleX": 1.6,
+      "scaleY": 1.6,
+      "name": "烟",
+      "parent": "茶壶"
+    }
+  ],"slots":[{"name":"底图","bone":"底图","attachment":"HallRooms04"},{"name":"茶壶","bone":"茶壶","attachment":"HallRooms04Ani01"},{"name":"麻将","bone":"麻将1","attachment":"HallRooms04Ani03"},{"name":"麻将2","bone":"麻将2","attachment":"HallRooms04Ani04"},{"name":"骰子","bone":"骰子","attachment":"HallRooms04Ani02"},{"name":"条幅","bone":"条幅","attachment":"高级房"},{"name":"高级房","bone":"高级房","attachment":"HallRoomLang04"},{"name":"底注框","bone":"底注框","attachment":"HallRoomsNumBg"},{"name":"鱼","bone":"鱼","attachment":"HallRooms04Ani05"},{"name":"花瓣","bone":"花瓣","attachment":"桃花瓣"},{"name":"花瓣1","bone":"花瓣1","attachment":"桃花瓣"},{"name":"花瓣2","bone":"花瓣2","attachment":"桃花瓣"},{"name":"花瓣3","bone":"花瓣3","attachment":"桃花瓣"},{"name":"红中","bone":"红中","attachment":"红中"},{"name":"烟","bone":"烟","attachment":"neutfly_smoke_00000"}],"skins":{"default":{"花瓣":{"桃花瓣":{"name":"桃花瓣","width":25,"height":28}},"条幅":{"高级房":{"name":"高级房","width":76,"height":190}},"底注框":{"HallRoomsNumBg":{"name":"HallRoomsNumBg","width":209,"height":75}},"茶壶":{"HallRooms04Ani01":{"name":"HallRooms04Ani01","width":292,"height":283}},"骰子":{"HallRooms04Ani02":{"name":"HallRooms04Ani02","width":76,"height":76}},"花瓣3":{"桃花瓣":{"name":"桃花瓣","width":25,"height":28}},"花瓣2":{"桃花瓣":{"name":"桃花瓣","width":25,"height":28}},"麻将":{"HallRooms04Ani03":{"name":"HallRooms04Ani03","width":91,"height":98}},"花瓣1":{"桃花瓣":{"name":"桃花瓣","width":25,"height":28}},"鱼":{"HallRooms04Ani05":{"name":"HallRooms04Ani05","width":44,"height":55}},"烟":{"neutfly_smoke_00000":{"name":"neutfly_smoke_00000","width":47,"height":49}},"高级房":{"HallRoomLang04":{"name":"HallRoomLang04","width":82,"height":225}},"红中":{"红中":{"name":"红中","width":29,"height":45,"x":3.69,"y":42.36}},"底图":{"HallRooms04":{"name":"HallRooms04","width":324,"height":303}},"麻将2":{"HallRooms04Ani04":{"name":"HallRooms04Ani04","width":96,"height":106,"x":-6.41,"y":31.43}}}},"animations":{"newAnimation":{"bones":{"鱼":{"translate":[{"time":0},{"time":1.75,"x":-0.97,"y":3.09},{"time":3.6667}]},"花瓣":{"translate":[{"time":0,"x":84.11,"y":-30.36},{"time":1.5833,"x":108.98,"y":-65.01}],"rotate":[{"time":0,"angle":0},{"time":1.5833,"angle":-66}],"scale":[{"time":0,"x":0.75,"y":0.75}],"shear":[{"time":0},{"time":1.5833}]},"花瓣1":{"translate":[{"time":0,"curve":"stepped"},{"time":0.7083,"x":91.35,"y":-5.85},{"time":2.4166,"x":116.89,"y":-65.01}],"rotate":[{"time":0,"curve":"stepped","angle":0},{"time":0.7083,"angle":90},{"time":2.4166,"angle":177}],"shear":[{"time":0,"curve":"stepped"},{"time":0.7083},{"time":2.4166}]},"花瓣2":{"translate":[{"time":0,"x":51.69,"y":-16.01},{"time":1.25,"x":51.69,"y":-16.01},{"time":3.6667,"x":80.51,"y":-78.45}],"rotate":[{"time":0,"curve":"stepped","angle":0},{"time":1.25,"angle":0},{"time":3.6667,"angle":-66}],"scale":[{"time":0,"curve":"stepped","x":1,"y":1},{"time":1.25,"x":0.75,"y":0.75}],"shear":[{"time":0,"curve":"stepped"},{"time":1.25},{"time":3.6667}]},"花瓣3":{"translate":[{"time":0,"curve":"stepped"},{"time":0.4583,"x":84.11,"y":-30.36},{"time":3.0416,"x":108.98,"y":-65.01}],"rotate":[{"time":0,"curve":"stepped","angle":0},{"time":0.4583,"angle":0},{"time":3.0416,"angle":-66}],"scale":[{"time":0,"curve":"stepped","x":1,"y":1},{"time":0.4583,"x":0.75,"y":0.75}],"shear":[{"time":0,"curve":"stepped"},{"time":0.4583},{"time":3.0416}]},"烟":{"translate":[{"time":0,"curve":"stepped"},{"time":1.875,"curve":[0,0,0.5,1],"y":-27.12},{"time":3.5417,"y":15.35}],"scale":[{"time":0,"curve":"stepped","x":1,"y":1},{"time":1.875,"x":0.01,"y":-0.31},{"time":2.25,"x":0.19,"y":0.66},{"time":3.5417,"x":1,"y":1}]}},"slots":{"花瓣":{"color":[{"time":0,"color":"FFFFFF00"},{"time":0.2917,"color":"FFFFFFFF"},{"time":1.1667,"color":"FFFFFFFF"},{"time":1.5834,"color":"FFFFFF00"}]},"花瓣1":{"color":[{"time":0,"color":"FFFFFF00"},{"time":0.7083,"color":"FFFFFF00"},{"time":1.0833,"color":"FFFFFFFF"},{"time":2,"color":"FFFFFFFF"},{"time":2.4167,"color":"FFFFFF00"}]},"花瓣2":{"color":[{"time":0,"color":"FFFFFF00"},{"time":1.25,"color":"FFFFFF00"},{"time":1.5417,"color":"FFFFFFFF"},{"time":2.75,"color":"FFFFFFFF"},{"time":3.6667,"color":"FFFFFF00"}]},"花瓣3":{"color":[{"time":0,"color":"FFFFFF00"},{"time":0.4583,"color":"FFFFFF00"},{"time":1.125,"color":"FFFFFFFF"},{"time":2.5,"color":"FFFFFFFF"},{"time":3.0417,"color":"FFFFFF00"}]},"红中":{"color":[{"time":0,"color":"FFFFFF00"},{"time":0.75,"color":"FFFFFFFF"}]},"烟":{"color":[{"time":0,"color":"FFFFFF00"},{"time":1.875,"color":"FFFFFF00"},{"time":2.25,"curve":[0,0,0.5,1],"color":"FFFFFFFF"},{"time":2.7083,"curve":[0,0,0.5,1],"color":"FFFFFFFF"},{"time":3.5416,"color":"FFFFFF00"}]}}}}}

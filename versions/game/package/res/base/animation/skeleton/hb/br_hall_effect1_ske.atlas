@@ -1,0 +1,167 @@
+
+br_hall_effect1_ske.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HallAniRoomsBg
+  rotate: false
+  xy: 1, 1
+  size: 242, 268
+  orig: 242, 268
+  offset: 0, 0
+  index: -1
+HallAni01_03
+  rotate: false
+  xy: 111, 389
+  size: 111, 104
+  orig: 111, 104
+  offset: 0, 0
+  index: -1
+HallAni01_01
+  rotate: false
+  xy: 1, 389
+  size: 108, 120
+  orig: 113, 125
+  offset: 0, 5
+  index: -1
+HallAni01_02
+  rotate: false
+  xy: 372, 191
+  size: 76, 87
+  orig: 76, 87
+  offset: 0, 0
+  index: -1
+HallAniNameBg01
+  rotate: false
+  xy: 1, 271
+  size: 225, 116
+  orig: 225, 116
+  offset: 0, 0
+  index: -1
+合成 1_00010
+  rotate: false
+  xy: 647, 280
+  size: 66, 55
+  orig: 128, 128
+  offset: 24, 73
+  index: -1
+合成 1_00000
+  rotate: false
+  xy: 511, 1
+  size: 65, 51
+  orig: 128, 128
+  offset: 26, 77
+  index: -1
+合成 1_00006
+  rotate: false
+  xy: 245, 1
+  size: 69, 110
+  orig: 128, 128
+  offset: 34, 18
+  index: -1
+合成 1_00014
+  rotate: false
+  xy: 372, 280
+  size: 68, 92
+  orig: 128, 128
+  offset: 37, 23
+  index: -1
+合成 1_00012
+  rotate: false
+  xy: 579, 402
+  size: 66, 58
+  orig: 128, 128
+  offset: 22, 67
+  index: -1
+合成 1_00003
+  rotate: false
+  xy: 511, 402
+  size: 66, 58
+  orig: 128, 128
+  offset: 22, 67
+  index: -1
+合成 1_00009
+  rotate: false
+  xy: 368, 389
+  size: 69, 115
+  orig: 128, 128
+  offset: 26, 13
+  index: -1
+合成 1_00016
+  rotate: false
+  xy: 300, 271
+  size: 70, 112
+  orig: 128, 128
+  offset: 31, 16
+  index: -1
+合成 1_00004
+  rotate: false
+  xy: 316, 1
+  size: 81, 93
+  orig: 128, 128
+  offset: 24, 28
+  index: -1
+合成 1_00005
+  rotate: false
+  xy: 439, 374
+  size: 68, 92
+  orig: 128, 128
+  offset: 37, 23
+  index: -1
+合成 1_00001
+  rotate: false
+  xy: 578, 1
+  size: 66, 55
+  orig: 128, 128
+  offset: 24, 73
+  index: -1
+合成 1_00015
+  rotate: false
+  xy: 245, 113
+  size: 69, 110
+  orig: 128, 128
+  offset: 34, 18
+  index: -1
+合成 1_00011
+  rotate: false
+  xy: 509, 341
+  size: 67, 59
+  orig: 128, 128
+  offset: 22, 69
+  index: -1
+合成 1_00013
+  rotate: false
+  xy: 316, 96
+  size: 81, 93
+  orig: 128, 128
+  offset: 24, 28
+  index: -1
+合成 1_00008
+  rotate: false
+  xy: 296, 389
+  size: 70, 115
+  orig: 128, 128
+  offset: 29, 13
+  index: -1
+合成 1_00002
+  rotate: false
+  xy: 442, 280
+  size: 67, 59
+  orig: 128, 128
+  offset: 22, 69
+  index: -1
+合成 1_00007
+  rotate: false
+  xy: 228, 271
+  size: 70, 112
+  orig: 128, 128
+  offset: 31, 16
+  index: -1
+合成 1_00017
+  rotate: false
+  xy: 224, 389
+  size: 70, 115
+  orig: 128, 128
+  offset: 29, 13
+  index: -1

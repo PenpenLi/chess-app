@@ -1,0 +1,67 @@
+{
+"skeleton": { "hash": "XoD7vQ51Mh4SNJF2gO0nZiTy66g", "spine": "3.6.53", "width": 141.32, "height": 137.9, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "y": 0.61, "scaleX": 0.857, "scaleY": 0.857 },
+	{ "name": "s-1", "parent": "root" }
+],
+"slots": [
+	{ "name": "a", "bone": "bone", "attachment": "图层 13" },
+	{ "name": "s-1", "bone": "s-1", "attachment": "s-1" }
+],
+"skins": {
+	"default": {
+		"a": {
+			"a": { "width": 41, "height": 32 },
+			"图层 3": { "width": 41, "height": 32 },
+			"图层 4": { "width": 45, "height": 35 },
+			"图层 5": { "width": 76, "height": 66 },
+			"图层 6": { "x": -1.84, "width": 95, "height": 78 },
+			"图层 7": { "width": 130, "height": 110 },
+			"图层 8": { "x": 1.23, "y": 6.13, "width": 128, "height": 123 },
+			"图层 9": { "y": 2.45, "width": 175, "height": 175 },
+			"图层 10": { "y": 5.52, "width": 166, "height": 157 },
+			"图层 11": { "y": 4.29, "width": 168, "height": 143 },
+			"图层 12": { "y": 7.36, "width": 166, "height": 160 },
+			"图层 13": { "x": -0.51, "y": 4.29, "width": 165, "height": 161 },
+			"图层 14": { "x": -1.23, "y": 4.29, "width": 158, "height": 154 },
+			"图层 15": { "y": 6.13, "width": 154, "height": 148 },
+			"图层 16": { "x": 1.23, "y": 4.29, "width": 84, "height": 87 },
+			"图层 17": { "width": 85, "height": 73 },
+			"图层 18": { "y": 3.07, "width": 102, "height": 97 },
+			"图层 19": { "y": 6.13, "width": 118, "height": 114 },
+			"图层 20": { "y": 6.13, "width": 130, "height": 124 },
+			"图层 21": { "x": 2.45, "y": 6.13, "width": 160, "height": 149 },
+			"图层 22": { "x": 1.23, "y": 4.9, "width": 182, "height": 171 },
+			"图层-1": { "y": 3.07, "width": 152, "height": 149 }
+		},
+		"s-1": {
+			"s-1": { "width": 51, "height": 40 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"a": {
+				"attachment": [
+					{ "time": 0, "name": "图层 11" },
+					{ "time": 0.0667, "name": "图层 7" },
+					{ "time": 0.1333, "name": "图层 6" },
+					{ "time": 0.2, "name": "图层 4" },
+					{ "time": 0.2667, "name": "图层 16" },
+					{ "time": 0.3333, "name": "图层 18" },
+					{ "time": 0.4, "name": "图层 19" },
+					{ "time": 0.4667, "name": "图层-1" },
+					{ "time": 0.5333, "name": "图层 13" },
+					{ "time": 0.6, "name": "图层 9" },
+					{ "time": 0.6667, "name": "图层 8" },
+					{ "time": 0.7333, "name": "图层 13" },
+					{ "time": 0.8, "name": "图层 10" },
+					{ "time": 0.8667, "name": null }
+				]
+			}
+		}
+	}
+}
+}

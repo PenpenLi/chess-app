@@ -1,0 +1,188 @@
+
+kyby_logo_ske.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+logo
+  rotate: false
+  xy: 1, 1
+  size: 233, 91
+  orig: 234, 98
+  offset: 0, 7
+  index: -1
+saoguang0004
+  rotate: false
+  xy: 188, 224
+  size: 20, 27
+  orig: 94, 30
+  offset: 0, 2
+  index: -1
+saoguang0011
+  rotate: false
+  xy: 1, 194
+  size: 34, 28
+  orig: 94, 30
+  offset: 24, 1
+  index: -1
+saoguang0014
+  rotate: false
+  xy: 1, 133
+  size: 34, 29
+  orig: 94, 30
+  offset: 38, 0
+  index: -1
+saoguang0002
+  rotate: false
+  xy: 236, 25
+  size: 10, 23
+  orig: 94, 30
+  offset: 0, 2
+  index: -1
+saoguang0015
+  rotate: false
+  xy: 37, 194
+  size: 32, 28
+  orig: 94, 30
+  offset: 44, 0
+  index: -1
+saoguang0001
+  rotate: false
+  xy: 247, 50
+  size: 4, 19
+  orig: 94, 30
+  offset: 0, 2
+  index: -1
+saoguang0013
+  rotate: false
+  xy: 40, 94
+  size: 34, 28
+  orig: 94, 30
+  offset: 33, 1
+  index: -1
+saoguang0003
+  rotate: false
+  xy: 232, 224
+  size: 15, 27
+  orig: 94, 30
+  offset: 0, 2
+  index: -1
+saoguang0021
+  rotate: false
+  xy: 210, 224
+  size: 20, 24
+  orig: 94, 30
+  offset: 74, 0
+  index: -1
+saoguang0024
+  rotate: false
+  xy: 248, 25
+  size: 4, 15
+  orig: 94, 30
+  offset: 90, 0
+  index: -1
+saoguang0022
+  rotate: false
+  xy: 236, 1
+  size: 15, 22
+  orig: 94, 30
+  offset: 79, 0
+  index: -1
+saoguang0016
+  rotate: false
+  xy: 68, 224
+  size: 32, 28
+  orig: 94, 30
+  offset: 49, 0
+  index: -1
+saoguang0019
+  rotate: false
+  xy: 102, 224
+  size: 29, 26
+  orig: 94, 30
+  offset: 64, 0
+  index: -1
+saoguang0006
+  rotate: false
+  xy: 103, 195
+  size: 29, 27
+  orig: 94, 30
+  offset: 2, 2
+  index: -1
+saoguang0020
+  rotate: false
+  xy: 161, 224
+  size: 25, 24
+  orig: 94, 30
+  offset: 69, 0
+  index: -1
+saoguang0012
+  rotate: false
+  xy: 1, 164
+  size: 35, 28
+  orig: 94, 30
+  offset: 28, 1
+  index: -1
+saoguang0007
+  rotate: false
+  xy: 71, 164
+  size: 30, 29
+  orig: 94, 30
+  offset: 6, 1
+  index: -1
+saoguang0023
+  rotate: false
+  xy: 236, 50
+  size: 9, 21
+  orig: 94, 30
+  offset: 85, 0
+  index: -1
+saoguang0017
+  rotate: false
+  xy: 38, 164
+  size: 31, 28
+  orig: 94, 30
+  offset: 54, 0
+  index: -1
+saoguang0018
+  rotate: false
+  xy: 71, 195
+  size: 30, 27
+  orig: 94, 30
+  offset: 59, 0
+  index: -1
+saoguang0008
+  rotate: false
+  xy: 35, 224
+  size: 31, 29
+  orig: 94, 30
+  offset: 11, 1
+  index: -1
+saoguang0005
+  rotate: false
+  xy: 133, 224
+  size: 26, 27
+  orig: 94, 30
+  offset: 0, 2
+  index: -1
+saoguang0010
+  rotate: false
+  xy: 37, 133
+  size: 33, 29
+  orig: 94, 30
+  offset: 19, 1
+  index: -1
+saoguang0009
+  rotate: false
+  xy: 1, 224
+  size: 32, 29
+  orig: 94, 30
+  offset: 15, 1
+  index: -1
+xing
+  rotate: false
+  xy: 1, 94
+  size: 37, 37
+  orig: 40, 40
+  offset: 2, 1
+  index: -1

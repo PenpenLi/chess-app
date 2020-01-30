@@ -1,0 +1,5221 @@
+
+gamehall_gameItem_ske.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KyGameTxtEf11YZLH21
+  rotate: false
+  xy: 1030, 596
+  size: 11, 19
+  orig: 104, 33
+  offset: 83, 4
+  index: -1
+KyGameTxtEf10QZPJ13
+  rotate: false
+  xy: 1398, 99
+  size: 43, 20
+  orig: 104, 33
+  offset: 38, 5
+  index: -1
+KyGameTxtEf06TBNN20
+  rotate: false
+  xy: 1026, 873
+  size: 19, 21
+  orig: 104, 33
+  offset: 78, 4
+  index: -1
+KyGameTxtEf07DDZ11
+  rotate: false
+  xy: 895, 176
+  size: 43, 23
+  orig: 104, 33
+  offset: 27, 5
+  index: -1
+KyGameTxtEf00QZNN07
+  rotate: false
+  xy: 915, 422
+  size: 43, 24
+  orig: 104, 33
+  offset: 5, 5
+  index: -1
+KyGameTxtEf01ZJH04
+  rotate: false
+  xy: 796, 960
+  size: 25, 23
+  orig: 104, 33
+  offset: 6, 5
+  index: -1
+KyGameTxtEf27ZJN0018
+  rotate: false
+  xy: 831, 749
+  size: 30, 21
+  orig: 71, 21
+  offset: 41, 0
+  index: -1
+KyGameTxtEf27ZJN0019
+  rotate: false
+  xy: 827, 982
+  size: 25, 21
+  orig: 71, 21
+  offset: 46, 0
+  index: -1
+KyGameTxtEf01ZJH01
+  rotate: false
+  xy: 1021, 722
+  size: 7, 13
+  orig: 104, 33
+  offset: 7, 10
+  index: -1
+KyGameTxtEf27ZJN0005
+  rotate: false
+  xy: 849, 932
+  size: 24, 21
+  orig: 71, 21
+  offset: 0, 0
+  index: -1
+KyGameTxtEf03SG00
+  rotate: false
+  xy: 895, 483
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf06TBNN14
+  rotate: false
+  xy: 990, 329
+  size: 42, 22
+  orig: 104, 33
+  offset: 44, 4
+  index: -1
+KyGameTxtEf06TBNN17
+  rotate: false
+  xy: 591, 553
+  size: 37, 22
+  orig: 104, 33
+  offset: 60, 4
+  index: -1
+KyGameTxtEf07DDZ00
+  rotate: false
+  xy: 443, 588
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf08BRNN03
+  rotate: false
+  xy: 944, 710
+  size: 18, 19
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf01ZJH13
+  rotate: false
+  xy: 971, 227
+  size: 41, 24
+  orig: 104, 33
+  offset: 39, 4
+  index: -1
+KyGameTxtEf26DTNN0021
+  rotate: false
+  xy: 955, 773
+  size: 18, 17
+  orig: 82, 17
+  offset: 64, 0
+  index: -1
+KyGameTxtEf25YBQZNN0007
+  rotate: false
+  xy: 392, 837
+  size: 35, 34
+  orig: 85, 35
+  offset: 1, 0
+  index: -1
+KyGameTxtEf04EBG10
+  rotate: false
+  xy: 655, 518
+  size: 42, 19
+  orig: 104, 33
+  offset: 22, 6
+  index: -1
+KyGameTxtEf11YZLH01
+  rotate: false
+  xy: 549, 145
+  size: 6, 9
+  orig: 104, 33
+  offset: 8, 13
+  index: -1
+KyGameTxtEf27ZJN0007
+  rotate: false
+  xy: 984, 556
+  size: 29, 21
+  orig: 71, 21
+  offset: 4, 0
+  index: -1
+KyGameTxtEf10QZPJ20
+  rotate: false
+  xy: 984, 683
+  size: 14, 17
+  orig: 104, 33
+  offset: 79, 5
+  index: -1
+KyGameTxtEf00QZNN08
+  rotate: false
+  xy: 989, 303
+  size: 39, 24
+  orig: 104, 33
+  offset: 12, 5
+  index: -1
+KyGameTxtEf15WRZJH10
+  rotate: false
+  xy: 504, 156
+  size: 44, 27
+  orig: 104, 33
+  offset: 21, 3
+  index: -1
+KyGameTxtEf15WRZJH11
+  rotate: false
+  xy: 664, 263
+  size: 42, 28
+  orig: 104, 33
+  offset: 27, 3
+  index: -1
+KyGameTxtEf15WRZJH09
+  rotate: false
+  xy: 843, 403
+  size: 44, 27
+  orig: 104, 33
+  offset: 16, 3
+  index: -1
+KyGameTxtEf06TBNN06
+  rotate: false
+  xy: 600, 790
+  size: 35, 22
+  orig: 104, 33
+  offset: 7, 4
+  index: -1
+KyGameTxtEf25YBQZNN0008
+  rotate: false
+  xy: 144, 365
+  size: 40, 34
+  orig: 85, 35
+  offset: 1, 0
+  index: -1
+KyGameTxtEf08BRNN09
+  rotate: false
+  xy: 591, 624
+  size: 42, 19
+  orig: 104, 33
+  offset: 16, 6
+  index: -1
+KyGameTxtEf15WRZJH14
+  rotate: false
+  xy: 824, 374
+  size: 44, 27
+  orig: 104, 33
+  offset: 44, 3
+  index: -1
+KyGameTxtEf27ZJN0008
+  rotate: false
+  xy: 824, 798
+  size: 30, 21
+  orig: 71, 21
+  offset: 7, 0
+  index: -1
+KyGameTxtEf06TBNN15
+  rotate: false
+  xy: 549, 622
+  size: 40, 21
+  orig: 104, 33
+  offset: 51, 4
+  index: -1
+KyGameTxtEf10QZPJ21
+  rotate: false
+  xy: 194, 1008
+  size: 10, 15
+  orig: 104, 33
+  offset: 83, 5
+  index: -1
+KyGameTxtEf15WRZJH13
+  rotate: false
+  xy: 504, 126
+  size: 43, 28
+  orig: 104, 33
+  offset: 39, 3
+  index: -1
+KyGameTxtEf10QZPJ22
+  rotate: false
+  xy: 1398, 121
+  size: 2, 5
+  orig: 104, 33
+  offset: 89, 8
+  index: -1
+KyGameTxtEf15WRZJH08
+  rotate: false
+  xy: 664, 293
+  size: 43, 27
+  orig: 104, 33
+  offset: 10, 3
+  index: -1
+KyGameTxtEf00QZNN05
+  rotate: false
+  xy: 1528, 24
+  size: 36, 24
+  orig: 104, 33
+  offset: 1, 5
+  index: -1
+KyGameTxtEf24HBBY0003
+  rotate: false
+  xy: 993, 661
+  size: 13, 18
+  orig: 86, 18
+  offset: 0, 0
+  index: -1
+KyGameTxtEf15WRZJH12
+  rotate: false
+  xy: 488, 938
+  size: 44, 28
+  orig: 104, 33
+  offset: 32, 3
+  index: -1
+KyGameTxtEf02DZPK11
+  rotate: false
+  xy: 558, 783
+  size: 40, 21
+  orig: 104, 33
+  offset: 27, 6
+  index: -1
+KyGameTxtEf19ERMJ20
+  rotate: false
+  xy: 212, 137
+  size: 15, 20
+  orig: 104, 33
+  offset: 78, 5
+  index: -1
+KyGameTxtEf19ERMJ23
+  rotate: false
+  xy: 683, 413
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf19ERMJ21
+  rotate: false
+  xy: 1021, 701
+  size: 9, 19
+  orig: 104, 33
+  offset: 83, 5
+  index: -1
+KyGameTxtEf01ZJH00
+  rotate: false
+  xy: 1041, 36
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf06TBNN05
+  rotate: false
+  xy: 895, 628
+  size: 30, 22
+  orig: 104, 33
+  offset: 6, 4
+  index: -1
+KyGameTxtEf19ERMJ22
+  rotate: false
+  xy: 488, 903
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf10QZPJ18
+  rotate: false
+  xy: 1152, 368
+  size: 27, 20
+  orig: 104, 33
+  offset: 66, 5
+  index: -1
+KyGameTxtEf20XZDD02
+  rotate: false
+  xy: 1020, 738
+  size: 11, 17
+  orig: 104, 33
+  offset: 8, 6
+  index: -1
+KyGameTxtEf27ZJN0017
+  rotate: false
+  xy: 782, 605
+  size: 33, 21
+  orig: 71, 21
+  offset: 37, 0
+  index: -1
+KyGameTxtEf10QZPJ17
+  rotate: false
+  xy: 761, 825
+  size: 32, 20
+  orig: 104, 33
+  offset: 61, 5
+  index: -1
+KyGameTxtEf07DDZ14
+  rotate: false
+  xy: 723, 991
+  size: 37, 22
+  orig: 104, 33
+  offset: 44, 5
+  index: -1
+KyGameTxtEf20XZDD01
+  rotate: false
+  xy: 452, 798
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf20XZDD04
+  rotate: false
+  xy: 863, 739
+  size: 24, 23
+  orig: 104, 33
+  offset: 6, 4
+  index: -1
+KyGameTxtEf00QZNN06
+  rotate: false
+  xy: 981, 201
+  size: 41, 24
+  orig: 104, 33
+  offset: 2, 5
+  index: -1
+KyGameTxtEf26DTNN0014
+  rotate: false
+  xy: 927, 537
+  size: 38, 17
+  orig: 82, 17
+  offset: 32, 0
+  index: -1
+KyGameTxtEf02DZPK21
+  rotate: false
+  xy: 321, 381
+  size: 14, 20
+  orig: 104, 33
+  offset: 83, 5
+  index: -1
+KyGameTxtEf17JSYS07
+  rotate: false
+  xy: 549, 576
+  size: 40, 21
+  orig: 104, 33
+  offset: 7, 4
+  index: -1
+KyGameTxtEf10QZPJ14
+  rotate: false
+  xy: 1278, 213
+  size: 42, 20
+  orig: 104, 33
+  offset: 43, 5
+  index: -1
+KyGameTxtEf20XZDD05
+  rotate: false
+  xy: 751, 607
+  size: 29, 25
+  orig: 104, 33
+  offset: 6, 3
+  index: -1
+KyGameTxtEf16XLCH02
+  rotate: false
+  xy: 1036, 797
+  size: 11, 16
+  orig: 104, 33
+  offset: 8, 7
+  index: -1
+KyGameTxtEf10QZPJ19
+  rotate: false
+  xy: 943, 988
+  size: 22, 19
+  orig: 104, 33
+  offset: 71, 5
+  index: -1
+KyGameTxtEf01ZJH12
+  rotate: false
+  xy: 1026, 395
+  size: 42, 24
+  orig: 104, 33
+  offset: 34, 4
+  index: -1
+KyGameTxtEf16XLCH03
+  rotate: false
+  xy: 963, 622
+  size: 17, 19
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf00QZNN03
+  rotate: false
+  xy: 1059, 502
+  size: 24, 23
+  orig: 104, 33
+  offset: 1, 6
+  index: -1
+KyGameTxtEf00QZNN21
+  rotate: false
+  xy: 308, 831
+  size: 18, 23
+  orig: 104, 33
+  offset: 84, 5
+  index: -1
+KyGameTxtEf16XLCH04
+  rotate: false
+  xy: 1013, 915
+  size: 21, 19
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf16XLCH07
+  rotate: false
+  xy: 712, 642
+  size: 39, 19
+  orig: 104, 33
+  offset: 8, 6
+  index: -1
+KyGameTxtEf16XLCH05
+  rotate: false
+  xy: 872, 819
+  size: 29, 19
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf16XLCH08
+  rotate: false
+  xy: 711, 664
+  size: 39, 19
+  orig: 104, 33
+  offset: 11, 6
+  index: -1
+KyGameTxtEf01ZJH09
+  rotate: false
+  xy: 947, 304
+  size: 40, 24
+  orig: 104, 33
+  offset: 17, 4
+  index: -1
+KyGameTxtEf16XLCH09
+  rotate: false
+  xy: 742, 518
+  size: 41, 19
+  orig: 104, 33
+  offset: 16, 6
+  index: -1
+KyGameTxtEf22BRTB05
+  rotate: false
+  xy: 928, 773
+  size: 25, 19
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf02DZPK12
+  rotate: false
+  xy: 1144, 263
+  size: 40, 22
+  orig: 104, 33
+  offset: 33, 5
+  index: -1
+KyGameTxtEf20XZDD03
+  rotate: false
+  xy: 921, 994
+  size: 20, 22
+  orig: 104, 33
+  offset: 6, 4
+  index: -1
+KyGameTxtEf03SG14
+  rotate: false
+  xy: 962, 925
+  size: 21, 21
+  orig: 104, 33
+  offset: 44, 6
+  index: -1
+KyGameTxtEf16XLCH06
+  rotate: false
+  xy: 858, 650
+  size: 35, 19
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf16XLCH12
+  rotate: false
+  xy: 1272, 190
+  size: 42, 21
+  orig: 104, 33
+  offset: 33, 5
+  index: -1
+KyGameTxtEf10QZPJ15
+  rotate: false
+  xy: 714, 585
+  size: 38, 20
+  orig: 104, 33
+  offset: 50, 5
+  index: -1
+KyGameTxtEf04ESYD14
+  rotate: false
+  xy: 699, 518
+  size: 41, 19
+  orig: 104, 33
+  offset: 45, 6
+  index: -1
+KyGameTxtEf16XLCH11
+  rotate: false
+  xy: 1131, 346
+  size: 42, 20
+  orig: 104, 33
+  offset: 27, 6
+  index: -1
+KyGameTxtEf08BRNN04
+  rotate: false
+  xy: 955, 832
+  size: 24, 19
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf22BRTB06
+  rotate: false
+  xy: 392, 905
+  size: 35, 19
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf16XLCH15
+  rotate: false
+  xy: 637, 897
+  size: 41, 20
+  orig: 104, 33
+  offset: 50, 5
+  index: -1
+KyGameTxtEf10QZPJ16
+  rotate: false
+  xy: 677, 736
+  size: 37, 20
+  orig: 104, 33
+  offset: 55, 5
+  index: -1
+KyGameTxtEf16XLCH16
+  rotate: false
+  xy: 676, 620
+  size: 38, 20
+  orig: 104, 33
+  offset: 55, 5
+  index: -1
+KyGameTxtEf16XLCH14
+  rotate: false
+  xy: 1310, 106
+  size: 42, 21
+  orig: 104, 33
+  offset: 44, 5
+  index: -1
+KyGameTxtEf08BRNN01
+  rotate: false
+  xy: 1153, 287
+  size: 7, 7
+  orig: 104, 33
+  offset: 7, 18
+  index: -1
+KyGameTxtEf22BRTB08
+  rotate: false
+  xy: 752, 663
+  size: 38, 19
+  orig: 104, 33
+  offset: 11, 6
+  index: -1
+KyGameTxtEf16XLCH18
+  rotate: false
+  xy: 890, 754
+  size: 28, 19
+  orig: 104, 33
+  offset: 65, 5
+  index: -1
+KyGameTxtEf16XLCH13
+  rotate: false
+  xy: 1118, 299
+  size: 42, 21
+  orig: 104, 33
+  offset: 39, 5
+  index: -1
+KyGameTxtEf01ZJH02
+  rotate: false
+  xy: 981, 703
+  size: 12, 20
+  orig: 104, 33
+  offset: 7, 7
+  index: -1
+KyGameTxtEf16XLCH17
+  rotate: false
+  xy: 794, 776
+  size: 32, 20
+  orig: 104, 33
+  offset: 61, 5
+  index: -1
+KyGameTxtEf00QZNN04
+  rotate: false
+  xy: 873, 562
+  size: 30, 23
+  orig: 104, 33
+  offset: 1, 6
+  index: -1
+KyGameTxtEf20XZDD00
+  rotate: false
+  xy: 939, 106
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf10QZPJ11
+  rotate: false
+  xy: 594, 901
+  size: 41, 20
+  orig: 104, 33
+  offset: 28, 5
+  index: -1
+KyGameTxtEf16XLCH19
+  rotate: false
+  xy: 1004, 940
+  size: 21, 19
+  orig: 104, 33
+  offset: 72, 5
+  index: -1
+KyGameTxtEf16XLCH22
+  rotate: false
+  xy: 577, 448
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf08BRNN21
+  rotate: false
+  xy: 985, 598
+  size: 15, 17
+  orig: 104, 33
+  offset: 82, 6
+  index: -1
+KyGameTxtEf00QZNN01
+  rotate: false
+  xy: 859, 883
+  size: 13, 22
+  orig: 104, 33
+  offset: 1, 7
+  index: -1
+KyGameTxtEf16XLCH21
+  rotate: false
+  xy: 1026, 757
+  size: 10, 18
+  orig: 104, 33
+  offset: 83, 6
+  index: -1
+KyGameTxtEf00QZNN02
+  rotate: false
+  xy: 837, 864
+  size: 19, 22
+  orig: 104, 33
+  offset: 1, 7
+  index: -1
+KyGameTxtEf22BRTB14
+  rotate: false
+  xy: 1354, 106
+  size: 42, 21
+  orig: 104, 33
+  offset: 44, 4
+  index: -1
+KyGameTxtEf02DZPK09
+  rotate: false
+  xy: 958, 355
+  size: 42, 22
+  orig: 104, 33
+  offset: 16, 5
+  index: -1
+KyGameTxtEf04ESYD11
+  rotate: false
+  xy: 672, 763
+  size: 39, 19
+  orig: 104, 33
+  offset: 29, 5
+  index: -1
+KyGameTxtEf04EBG07
+  rotate: false
+  xy: 870, 518
+  size: 40, 19
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf16XLCH10
+  rotate: false
+  xy: 800, 316
+  size: 42, 19
+  orig: 104, 33
+  offset: 22, 6
+  index: -1
+KyGameTxtEf10QZPJ12
+  rotate: false
+  xy: 628, 577
+  size: 40, 20
+  orig: 104, 33
+  offset: 33, 5
+  index: -1
+KyGameTxtEf06TBNN03
+  rotate: false
+  xy: 973, 753
+  size: 18, 18
+  orig: 104, 33
+  offset: 7, 7
+  index: -1
+KyGameTxtEf17JSYS04
+  rotate: false
+  xy: 897, 950
+  size: 22, 21
+  orig: 104, 33
+  offset: 7, 4
+  index: -1
+KyGameTxtEf06TBNN11
+  rotate: false
+  xy: 785, 518
+  size: 41, 19
+  orig: 104, 33
+  offset: 27, 6
+  index: -1
+KyGameTxtEf04EBG19
+  rotate: false
+  xy: 1021, 575
+  size: 11, 19
+  orig: 104, 33
+  offset: 72, 5
+  index: -1
+KyGameTxtEf17JSYS00
+  rotate: false
+  xy: 443, 518
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf17JSYS06
+  rotate: false
+  xy: 1530, 1
+  size: 34, 21
+  orig: 104, 33
+  offset: 7, 4
+  index: -1
+KyGameTxtEf17JSYS01
+  rotate: false
+  xy: 794, 749
+  size: 4, 4
+  orig: 104, 33
+  offset: 8, 13
+  index: -1
+KyGameTxtEf04ESYD12
+  rotate: false
+  xy: 706, 837
+  size: 39, 18
+  orig: 104, 33
+  offset: 33, 5
+  index: -1
+KyGameTxtEf06TBNN04
+  rotate: false
+  xy: 977, 853
+  size: 23, 19
+  orig: 104, 33
+  offset: 6, 6
+  index: -1
+KyGameTxtEf16XLCH23
+  rotate: false
+  xy: 833, 141
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf16XLCH20
+  rotate: false
+  xy: 1002, 810
+  size: 15, 19
+  orig: 104, 33
+  offset: 78, 5
+  index: -1
+KyGameTxtEf07DDZ07
+  rotate: false
+  xy: 1045, 167
+  size: 40, 24
+  orig: 104, 33
+  offset: 7, 4
+  index: -1
+KyGameTxtEf19ERMJ11
+  rotate: false
+  xy: 1442, 70
+  size: 41, 21
+  orig: 104, 33
+  offset: 27, 4
+  index: -1
+KyGameTxtEf03SG11
+  rotate: false
+  xy: 600, 743
+  size: 37, 21
+  orig: 104, 33
+  offset: 27, 6
+  index: -1
+KyGameTxtEf17JSYS05
+  rotate: false
+  xy: 761, 891
+  size: 29, 21
+  orig: 104, 33
+  offset: 7, 4
+  index: -1
+KyGameTxtEf02DZPK10
+  rotate: false
+  xy: 1316, 190
+  size: 42, 21
+  orig: 104, 33
+  offset: 22, 6
+  index: -1
+KyGameTxtEf10QZPJ09
+  rotate: false
+  xy: 1315, 129
+  size: 42, 21
+  orig: 104, 33
+  offset: 16, 4
+  index: -1
+KyGameTxtEf10QZPJ10
+  rotate: false
+  xy: 429, 1003
+  size: 43, 20
+  orig: 104, 33
+  offset: 21, 5
+  index: -1
+KyGameTxtEf17JSYS10
+  rotate: false
+  xy: 1110, 190
+  size: 43, 21
+  orig: 104, 33
+  offset: 21, 4
+  index: -1
+KyGameTxtEf17JSYS13
+  rotate: false
+  xy: 1444, 1
+  size: 41, 21
+  orig: 104, 33
+  offset: 39, 4
+  index: -1
+KyGameTxtEf17JSYS09
+  rotate: false
+  xy: 1222, 165
+  size: 42, 21
+  orig: 104, 33
+  offset: 16, 4
+  index: -1
+KyGameTxtEf10QZPJ07
+  rotate: false
+  xy: 549, 691
+  size: 40, 21
+  orig: 104, 33
+  offset: 7, 4
+  index: -1
+KyGameTxtEf17JSYS02
+  rotate: false
+  xy: 1007, 701
+  size: 12, 16
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf17JSYS15
+  rotate: false
+  xy: 549, 599
+  size: 40, 21
+  orig: 104, 33
+  offset: 50, 4
+  index: -1
+KyGameTxtEf17JSYS03
+  rotate: false
+  xy: 944, 731
+  size: 17, 20
+  orig: 104, 33
+  offset: 7, 4
+  index: -1
+KyGameTxtEf02DZPK22
+  rotate: false
+  xy: 1039, 677
+  size: 8, 17
+  orig: 104, 33
+  offset: 89, 6
+  index: -1
+KyGameTxtEf17JSYS11
+  rotate: false
+  xy: 1485, 70
+  size: 41, 21
+  orig: 104, 33
+  offset: 28, 4
+  index: -1
+KyGameTxtEf08BRNN02
+  rotate: false
+  xy: 1023, 638
+  size: 12, 17
+  orig: 104, 33
+  offset: 7, 8
+  index: -1
+KyGameTxtEf17JSYS12
+  rotate: false
+  xy: 1266, 165
+  size: 42, 21
+  orig: 104, 33
+  offset: 33, 4
+  index: -1
+KyGameTxtEf17JSYS08
+  rotate: false
+  xy: 1485, 47
+  size: 41, 21
+  orig: 104, 33
+  offset: 11, 4
+  index: -1
+KyGameTxtEf00QZNN23
+  rotate: false
+  xy: 927, 643
+  size: 7, 7
+  orig: 104, 33
+  offset: 94, 11
+  index: -1
+KyGameTxtEf03SG12
+  rotate: false
+  xy: 753, 634
+  size: 33, 21
+  orig: 104, 33
+  offset: 32, 6
+  index: -1
+KyGameTxtEf17JSYS14
+  rotate: false
+  xy: 1228, 190
+  size: 42, 21
+  orig: 104, 33
+  offset: 44, 4
+  index: -1
+KyGameTxtEf17JSYS20
+  rotate: false
+  xy: 519, 1003
+  size: 14, 20
+  orig: 104, 33
+  offset: 78, 4
+  index: -1
+KyGameTxtEf17JSYS18
+  rotate: false
+  xy: 1155, 190
+  size: 27, 21
+  orig: 104, 33
+  offset: 65, 4
+  index: -1
+KyGameTxtEf17JSYS21
+  rotate: false
+  xy: 1036, 657
+  size: 9, 18
+  orig: 104, 33
+  offset: 83, 4
+  index: -1
+KyGameTxtEf02DZPK07
+  rotate: false
+  xy: 1184, 236
+  size: 40, 22
+  orig: 104, 33
+  offset: 7, 5
+  index: -1
+KyGameTxtEf17JSYS22
+  rotate: false
+  xy: 1030, 325
+  size: 2, 2
+  orig: 104, 33
+  offset: 89, 7
+  index: -1
+KyGameTxtEf17JSYS17
+  rotate: false
+  xy: 921, 577
+  size: 31, 21
+  orig: 104, 33
+  offset: 61, 4
+  index: -1
+KyGameTxtEf17JSYS23
+  rotate: false
+  xy: 617, 36
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf22BRTB12
+  rotate: false
+  xy: 558, 806
+  size: 40, 21
+  orig: 104, 33
+  offset: 33, 5
+  index: -1
+KyGameTxtEf04EBG20
+  rotate: false
+  xy: 1102, 267
+  size: 6, 6
+  orig: 104, 33
+  offset: 77, 7
+  index: -1
+KyGameTxtEf17JSYS19
+  rotate: false
+  xy: 1046, 373
+  size: 22, 20
+  orig: 104, 33
+  offset: 71, 4
+  index: -1
+KyGameTxtEf17JSYS16
+  rotate: false
+  xy: 639, 740
+  size: 36, 21
+  orig: 104, 33
+  offset: 55, 4
+  index: -1
+KyGameTxtEf22BRTB17
+  rotate: false
+  xy: 600, 766
+  size: 35, 22
+  orig: 104, 33
+  offset: 61, 4
+  index: -1
+KyGameTxtEf10QZPJ08
+  rotate: false
+  xy: 1359, 129
+  size: 42, 21
+  orig: 104, 33
+  offset: 11, 4
+  index: -1
+KyGameTxtEf18KPNN00
+  rotate: false
+  xy: 443, 693
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf04ESYD09
+  rotate: false
+  xy: 669, 667
+  size: 40, 19
+  orig: 104, 33
+  offset: 16, 5
+  index: -1
+KyGameTxtEf18KPNN01
+  rotate: false
+  xy: 746, 871
+  size: 5, 9
+  orig: 104, 33
+  offset: 8, 14
+  index: -1
+KyGameTxtEf01ZJH14
+  rotate: false
+  xy: 1359, 74
+  size: 38, 23
+  orig: 104, 33
+  offset: 43, 5
+  index: -1
+KyGameTxtEf18KPNN02
+  rotate: false
+  xy: 844, 316
+  size: 11, 19
+  orig: 104, 33
+  offset: 7, 7
+  index: -1
+KyGameTxtEf18KPNN05
+  rotate: false
+  xy: 761, 847
+  size: 29, 22
+  orig: 104, 33
+  offset: 7, 5
+  index: -1
+KyGameTxtEf03SG09
+  rotate: false
+  xy: 1066, 193
+  size: 42, 22
+  orig: 104, 33
+  offset: 16, 5
+  index: -1
+KyGameTxtEf18KPNN06
+  rotate: false
+  xy: 672, 712
+  size: 34, 22
+  orig: 104, 33
+  offset: 7, 5
+  index: -1
+KyGameTxtEf18KPNN04
+  rotate: false
+  xy: 901, 927
+  size: 22, 21
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf02DZPK08
+  rotate: false
+  xy: 1147, 213
+  size: 42, 21
+  orig: 104, 33
+  offset: 11, 5
+  index: -1
+KyGameTxtEf22BRTB09
+  rotate: false
+  xy: 1108, 371
+  size: 42, 20
+  orig: 104, 33
+  offset: 16, 5
+  index: -1
+KyGameTxtEf03SG10
+  rotate: false
+  xy: 1151, 106
+  size: 41, 22
+  orig: 104, 33
+  offset: 22, 5
+  index: -1
+KyGameTxtEf18KPNN03
+  rotate: false
+  xy: 936, 643
+  size: 17, 20
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf18KPNN09
+  rotate: false
+  xy: 1046, 349
+  size: 42, 22
+  orig: 104, 33
+  offset: 16, 5
+  index: -1
+KyGameTxtEf18KPNN07
+  rotate: false
+  xy: 594, 829
+  size: 40, 21
+  orig: 104, 33
+  offset: 7, 5
+  index: -1
+KyGameTxtEf18KPNN10
+  rotate: false
+  xy: 1078, 323
+  size: 42, 22
+  orig: 104, 33
+  offset: 21, 5
+  index: -1
+KyGameTxtEf18KPNN08
+  rotate: false
+  xy: 1399, 49
+  size: 41, 21
+  orig: 104, 33
+  offset: 10, 5
+  index: -1
+KyGameTxtEf00QZNN22
+  rotate: false
+  xy: 321, 490
+  size: 12, 14
+  orig: 104, 33
+  offset: 90, 11
+  index: -1
+KyGameTxtEf22BRTB13
+  rotate: false
+  xy: 1401, 1
+  size: 41, 21
+  orig: 104, 33
+  offset: 40, 5
+  index: -1
+KyGameTxtEf08BRNN10
+  rotate: false
+  xy: 474, 1003
+  size: 43, 20
+  orig: 104, 33
+  offset: 22, 5
+  index: -1
+KyGameTxtEf23GSWZP0020
+  rotate: false
+  xy: 621, 176
+  size: 22, 15
+  orig: 83, 18
+  offset: 61, 2
+  index: -1
+KyGameTxtEf01ZJH10
+  rotate: false
+  xy: 800, 290
+  size: 44, 24
+  orig: 104, 33
+  offset: 21, 4
+  index: -1
+KyGameTxtEf03SG07
+  rotate: false
+  xy: 713, 791
+  size: 36, 21
+  orig: 104, 33
+  offset: 12, 6
+  index: -1
+KyGameTxtEf04EBG08
+  rotate: false
+  xy: 632, 691
+  size: 40, 19
+  orig: 104, 33
+  offset: 11, 6
+  index: -1
+KyGameTxtEf18KPNN12
+  rotate: false
+  xy: 1186, 260
+  size: 39, 22
+  orig: 104, 33
+  offset: 33, 5
+  index: -1
+KyGameTxtEf01ZJH07
+  rotate: false
+  xy: 1045, 141
+  size: 40, 24
+  orig: 104, 33
+  offset: 7, 4
+  index: -1
+KyGameTxtEf07DDZ23
+  rotate: false
+  xy: 723, 71
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf02DZPK19
+  rotate: false
+  xy: 801, 985
+  size: 24, 22
+  orig: 104, 33
+  offset: 73, 5
+  index: -1
+KyGameTxtEf18KPNN11
+  rotate: false
+  xy: 558, 737
+  size: 40, 21
+  orig: 104, 33
+  offset: 29, 5
+  index: -1
+KyGameTxtEf04ESYD10
+  rotate: false
+  xy: 828, 518
+  size: 40, 19
+  orig: 104, 33
+  offset: 22, 5
+  index: -1
+KyGameTxtEf18KPNN15
+  rotate: false
+  xy: 1014, 227
+  size: 42, 23
+  orig: 104, 33
+  offset: 49, 4
+  index: -1
+KyGameTxtEf18KPNN18
+  rotate: false
+  xy: 673, 837
+  size: 31, 23
+  orig: 104, 33
+  offset: 66, 4
+  index: -1
+KyGameTxtEf18KPNN13
+  rotate: false
+  xy: 1058, 251
+  size: 42, 22
+  orig: 104, 33
+  offset: 38, 5
+  index: -1
+KyGameTxtEf18KPNN19
+  rotate: false
+  xy: 793, 935
+  size: 25, 23
+  orig: 104, 33
+  offset: 72, 4
+  index: -1
+KyGameTxtEf10QZPJ05
+  rotate: false
+  xy: 792, 891
+  size: 30, 20
+  orig: 104, 33
+  offset: 6, 5
+  index: -1
+KyGameTxtEf18KPNN20
+  rotate: false
+  xy: 981, 898
+  size: 20, 21
+  orig: 104, 33
+  offset: 77, 5
+  index: -1
+KyGameTxtEf22BRTB15
+  rotate: false
+  xy: 1058, 227
+  size: 42, 22
+  orig: 104, 33
+  offset: 50, 4
+  index: -1
+KyGameTxtEf03SG08
+  rotate: false
+  xy: 641, 990
+  size: 39, 21
+  orig: 104, 33
+  offset: 13, 5
+  index: -1
+KyGameTxtEf18KPNN16
+  rotate: false
+  xy: 1090, 347
+  size: 39, 22
+  orig: 104, 33
+  offset: 55, 5
+  index: -1
+KyGameTxtEf18KPNN22
+  rotate: false
+  xy: 947, 355
+  size: 8, 11
+  orig: 104, 33
+  offset: 88, 10
+  index: -1
+KyGameTxtEf18KPNN17
+  rotate: false
+  xy: 591, 645
+  size: 36, 22
+  orig: 104, 33
+  offset: 60, 5
+  index: -1
+KyGameTxtEf08BRNN00
+  rotate: false
+  xy: 577, 483
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf04ESYD07
+  rotate: false
+  xy: 833, 582
+  size: 38, 18
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf10QZPJ03
+  rotate: false
+  xy: 1054, 957
+  size: 18, 20
+  orig: 104, 33
+  offset: 6, 5
+  index: -1
+KyGameTxtEf20XZDD06
+  rotate: false
+  xy: 1566, 1
+  size: 36, 24
+  orig: 104, 33
+  offset: 6, 4
+  index: -1
+KyGameTxtEf07DDZ21
+  rotate: false
+  xy: 471, 413
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf18KPNN23
+  rotate: false
+  xy: 683, 483
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf06TBNN02
+  rotate: false
+  xy: 1023, 619
+  size: 12, 17
+  orig: 104, 33
+  offset: 7, 8
+  index: -1
+KyGameTxtEf06TBNN01
+  rotate: false
+  xy: 873, 587
+  size: 6, 14
+  orig: 104, 33
+  offset: 8, 10
+  index: -1
+KyGameTxtEf07DDZ22
+  rotate: false
+  xy: 595, 228
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf19ERMJ01
+  rotate: false
+  xy: 177, 46
+  size: 5, 11
+  orig: 104, 33
+  offset: 8, 10
+  index: -1
+KyGameTxtEf03SG05
+  rotate: false
+  xy: 951, 856
+  size: 24, 19
+  orig: 104, 33
+  offset: 12, 7
+  index: -1
+KyGameTxtEf10QZPJ04
+  rotate: false
+  xy: 932, 877
+  size: 23, 20
+  orig: 104, 33
+  offset: 6, 5
+  index: -1
+KyGameTxtEf03SG06
+  rotate: false
+  xy: 828, 773
+  size: 30, 21
+  orig: 104, 33
+  offset: 12, 6
+  index: -1
+KyGameTxtEf19ERMJ00
+  rotate: false
+  xy: 443, 623
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf10QZPJ06
+  rotate: false
+  xy: 718, 685
+  size: 35, 21
+  orig: 104, 33
+  offset: 7, 4
+  index: -1
+KyGameTxtEf10QZPJ01
+  rotate: false
+  xy: 663, 727
+  size: 7, 11
+  orig: 104, 33
+  offset: 7, 12
+  index: -1
+KyGameTxtEf19ERMJ07
+  rotate: false
+  xy: 993, 518
+  size: 37, 17
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf19ERMJ02
+  rotate: false
+  xy: 679, 176
+  size: 12, 15
+  orig: 104, 33
+  offset: 7, 7
+  index: -1
+KyGameTxtEf00QZNN00
+  rotate: false
+  xy: 663, 712
+  size: 7, 13
+  orig: 104, 33
+  offset: 2, 14
+  index: -1
+KyGameTxtEf19ERMJ03
+  rotate: false
+  xy: 1025, 831
+  size: 17, 16
+  orig: 104, 33
+  offset: 7, 7
+  index: -1
+KyGameTxtEf03SG03
+  rotate: false
+  xy: 321, 403
+  size: 14, 19
+  orig: 104, 33
+  offset: 12, 7
+  index: -1
+KyGameTxtEf18KPNN21
+  rotate: false
+  xy: 967, 684
+  size: 15, 17
+  orig: 104, 33
+  offset: 82, 6
+  index: -1
+KyGameTxtEf01ZJH08
+  rotate: false
+  xy: 938, 201
+  size: 41, 24
+  orig: 104, 33
+  offset: 11, 4
+  index: -1
+KyGameTxtEf10QZPJ02
+  rotate: false
+  xy: 995, 724
+  size: 11, 18
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf18KPNN14
+  rotate: false
+  xy: 893, 202
+  size: 43, 23
+  orig: 104, 33
+  offset: 44, 4
+  index: -1
+KyGameTxtEf19ERMJ06
+  rotate: false
+  xy: 886, 795
+  size: 34, 17
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf19ERMJ13
+  rotate: false
+  xy: 1354, 152
+  size: 42, 21
+  orig: 104, 33
+  offset: 39, 4
+  index: -1
+KyGameTxtEf19ERMJ10
+  rotate: false
+  xy: 1140, 240
+  size: 42, 21
+  orig: 104, 33
+  offset: 22, 4
+  index: -1
+KyGameTxtEf03SG04
+  rotate: false
+  xy: 992, 989
+  size: 20, 19
+  orig: 104, 33
+  offset: 12, 7
+  index: -1
+KyGameTxtEf19ERMJ08
+  rotate: false
+  xy: 967, 537
+  size: 37, 17
+  orig: 104, 33
+  offset: 11, 6
+  index: -1
+KyGameTxtEf02DZPK05
+  rotate: false
+  xy: 800, 749
+  size: 29, 22
+  orig: 104, 33
+  offset: 7, 5
+  index: -1
+KyGameTxtEf19ERMJ09
+  rotate: false
+  xy: 755, 317
+  size: 42, 18
+  orig: 104, 33
+  offset: 16, 5
+  index: -1
+KyGameTxtEf19ERMJ16
+  rotate: false
+  xy: 675, 597
+  size: 37, 21
+  orig: 104, 33
+  offset: 55, 4
+  index: -1
+KyGameTxtEf19ERMJ14
+  rotate: false
+  xy: 103, 687
+  size: 43, 21
+  orig: 104, 33
+  offset: 43, 4
+  index: -1
+KyGameTxtEf10QZPJ00
+  rotate: false
+  xy: 701, 176
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf09SLWH23
+  rotate: false
+  xy: 443, 553
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf09SLWH21
+  rotate: false
+  xy: 943, 1009
+  size: 11, 14
+  orig: 104, 33
+  offset: 82, 5
+  index: -1
+KyGameTxtEf19ERMJ05
+  rotate: false
+  xy: 977, 948
+  size: 25, 16
+  orig: 104, 33
+  offset: 7, 7
+  index: -1
+KyGameTxtEf03SG01
+  rotate: false
+  xy: 452, 763
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf19ERMJ17
+  rotate: false
+  xy: 795, 676
+  size: 32, 21
+  orig: 104, 33
+  offset: 61, 4
+  index: -1
+KyGameTxtEf22BRTB11
+  rotate: false
+  xy: 633, 599
+  size: 40, 20
+  orig: 104, 33
+  offset: 29, 5
+  index: -1
+KyGameTxtEf19ERMJ15
+  rotate: false
+  xy: 1401, 24
+  size: 41, 21
+  orig: 104, 33
+  offset: 49, 4
+  index: -1
+KyGameTxtEf19ERMJ12
+  rotate: false
+  xy: 1487, 1
+  size: 41, 21
+  orig: 104, 33
+  offset: 33, 4
+  index: -1
+KyGameTxtEf19ERMJ04
+  rotate: false
+  xy: 945, 690
+  size: 20, 16
+  orig: 104, 33
+  offset: 7, 7
+  index: -1
+KyGameTxtEf23GSWZP0011
+  rotate: false
+  xy: 831, 562
+  size: 38, 18
+  orig: 83, 18
+  offset: 20, 0
+  index: -1
+KyGameTxtEf22BRTB07
+  rotate: false
+  xy: 754, 584
+  size: 37, 19
+  orig: 104, 33
+  offset: 8, 6
+  index: -1
+KyGameTxtEf23GSWZP0022
+  rotate: false
+  xy: 664, 176
+  size: 13, 15
+  orig: 83, 18
+  offset: 70, 2
+  index: -1
+KyGameTxtEf19ERMJ18
+  rotate: false
+  xy: 820, 935
+  size: 27, 21
+  orig: 104, 33
+  offset: 66, 4
+  index: -1
+KyGameTxtEf23GSWZP0009
+  rotate: false
+  xy: 859, 841
+  size: 33, 17
+  orig: 83, 18
+  offset: 14, 1
+  index: -1
+KyGameTxtEf19ERMJ19
+  rotate: false
+  xy: 958, 899
+  size: 21, 21
+  orig: 104, 33
+  offset: 72, 4
+  index: -1
+KyGameTxtEf04EBG17
+  rotate: false
+  xy: 910, 903
+  size: 23, 20
+  orig: 104, 33
+  offset: 61, 5
+  index: -1
+KyGameTxtEf22BRTB19
+  rotate: false
+  xy: 854, 982
+  size: 25, 21
+  orig: 104, 33
+  offset: 72, 5
+  index: -1
+KyGameTxtEf22BRTB16
+  rotate: false
+  xy: 1228, 141
+  size: 41, 22
+  orig: 104, 33
+  offset: 55, 4
+  index: -1
+KyGameTxtEf22BRTB10
+  rotate: false
+  xy: 1203, 284
+  size: 42, 20
+  orig: 104, 33
+  offset: 22, 5
+  index: -1
+KyGameTxtEf00QZNN19
+  rotate: false
+  xy: 715, 857
+  size: 29, 24
+  orig: 104, 33
+  offset: 73, 5
+  index: -1
+KyGameTxtEf22BRTB20
+  rotate: false
+  xy: 1013, 961
+  size: 19, 20
+  orig: 104, 33
+  offset: 78, 5
+  index: -1
+KyGameTxtEf00QZNN20
+  rotate: false
+  xy: 889, 422
+  size: 24, 24
+  orig: 104, 33
+  offset: 78, 5
+  index: -1
+KyGameTxtEf22BRTB21
+  rotate: false
+  xy: 321, 424
+  size: 14, 19
+  orig: 104, 33
+  offset: 83, 5
+  index: -1
+KyGameTxtEf00QZNN17
+  rotate: false
+  xy: 1024, 201
+  size: 40, 24
+  orig: 104, 33
+  offset: 61, 5
+  index: -1
+KyGameTxtEf07DDZ19
+  rotate: false
+  xy: 1022, 782
+  size: 10, 18
+  orig: 104, 33
+  offset: 72, 6
+  index: -1
+KyGameTxtEf00QZNN18
+  rotate: false
+  xy: 594, 875
+  size: 35, 24
+  orig: 104, 33
+  offset: 67, 5
+  index: -1
+KyGameTxtEf22BRTB23
+  rotate: false
+  xy: 1253, 36
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf01ZJH06
+  rotate: false
+  xy: 1566, 27
+  size: 36, 24
+  orig: 104, 33
+  offset: 6, 4
+  index: -1
+KyGameTxtEf02DZPK06
+  rotate: false
+  xy: 636, 814
+  size: 35, 22
+  orig: 104, 33
+  offset: 7, 5
+  index: -1
+KyGameTxtEf04ESYD08
+  rotate: false
+  xy: 670, 643
+  size: 40, 19
+  orig: 104, 33
+  offset: 11, 5
+  index: -1
+KyGameTxtEf01ZJH05
+  rotate: false
+  xy: 941, 227
+  size: 28, 23
+  orig: 104, 33
+  offset: 6, 5
+  index: -1
+KyGameTxtEf07DDZ20
+  rotate: false
+  xy: 796, 985
+  size: 3, 4
+  orig: 104, 33
+  offset: 78, 8
+  index: -1
+KyGameTxtEf09SLWH19
+  rotate: false
+  xy: 982, 874
+  size: 21, 20
+  orig: 104, 33
+  offset: 72, 4
+  index: -1
+KyGameTxtEf09SLWH20
+  rotate: false
+  xy: 957, 665
+  size: 15, 17
+  orig: 104, 33
+  offset: 78, 5
+  index: -1
+KyGameTxtEf20XZDD08
+  rotate: false
+  xy: 960, 422
+  size: 43, 24
+  orig: 104, 33
+  offset: 10, 3
+  index: -1
+KyGameTxtEf07DDZ17
+  rotate: false
+  xy: 908, 880
+  size: 22, 21
+  orig: 104, 33
+  offset: 61, 6
+  index: -1
+KyGameTxtEf00QZNN15
+  rotate: false
+  xy: 938, 278
+  size: 41, 24
+  orig: 104, 33
+  offset: 51, 5
+  index: -1
+KyGameTxtEf04EBG18
+  rotate: false
+  xy: 1125, 1000
+  size: 18, 19
+  orig: 104, 33
+  offset: 66, 5
+  index: -1
+KyGameTxtEf20XZDD09
+  rotate: false
+  xy: 934, 395
+  size: 44, 23
+  orig: 104, 33
+  offset: 15, 4
+  index: -1
+KyGameTxtEf09SLWH18
+  rotate: false
+  xy: 1135, 393
+  size: 27, 20
+  orig: 104, 33
+  offset: 66, 4
+  index: -1
+KyGameTxtEf09SLWH17
+  rotate: false
+  xy: 790, 799
+  size: 32, 20
+  orig: 104, 33
+  offset: 61, 4
+  index: -1
+KyGameTxtEf20XZDD13
+  rotate: false
+  xy: 750, 263
+  size: 43, 25
+  orig: 104, 33
+  offset: 39, 2
+  index: -1
+KyGameTxtEf08BRNN22
+  rotate: false
+  xy: 1144, 287
+  size: 7, 10
+  orig: 104, 33
+  offset: 89, 10
+  index: -1
+KyGameTxtEf20XZDD14
+  rotate: false
+  xy: 262, 831
+  size: 44, 24
+  orig: 104, 33
+  offset: 43, 3
+  index: -1
+KyGameTxtEf09SLWH22
+  rotate: false
+  xy: 443, 658
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf20XZDD15
+  rotate: false
+  xy: 902, 316
+  size: 43, 24
+  orig: 104, 33
+  offset: 49, 3
+  index: -1
+KyGameTxtEf20XZDD10
+  rotate: false
+  xy: 846, 290
+  size: 44, 24
+  orig: 104, 33
+  offset: 21, 3
+  index: -1
+KyGameTxtEf20XZDD16
+  rotate: false
+  xy: 858, 316
+  size: 42, 25
+  orig: 104, 33
+  offset: 53, 3
+  index: -1
+KyGameTxtEf20XZDD11
+  rotate: false
+  xy: 915, 368
+  size: 41, 25
+  orig: 104, 33
+  offset: 27, 2
+  index: -1
+KyGameTxtEf20XZDD07
+  rotate: false
+  xy: 981, 278
+  size: 41, 23
+  orig: 104, 33
+  offset: 7, 4
+  index: -1
+KyGameTxtEf20XZDD12
+  rotate: false
+  xy: 795, 263
+  size: 43, 25
+  orig: 104, 33
+  offset: 32, 2
+  index: -1
+KyGameTxtEf04EBG05
+  rotate: false
+  xy: 875, 883
+  size: 26, 19
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf21BCBM12
+  rotate: false
+  xy: 1271, 130
+  size: 42, 21
+  orig: 104, 33
+  offset: 33, 4
+  index: -1
+KyGameTxtEf20XZDD19
+  rotate: false
+  xy: 761, 799
+  size: 27, 24
+  orig: 104, 33
+  offset: 71, 3
+  index: -1
+KyGameTxtEf20XZDD17
+  rotate: false
+  xy: 191, 174
+  size: 36, 25
+  orig: 104, 33
+  offset: 61, 3
+  index: -1
+KyGameTxtEf01ZJH03
+  rotate: false
+  xy: 262, 787
+  size: 19, 21
+  orig: 104, 33
+  offset: 6, 6
+  index: -1
+KyGameTxtEf07DDZ18
+  rotate: false
+  xy: 955, 643
+  size: 17, 20
+  orig: 104, 33
+  offset: 66, 6
+  index: -1
+KyGameTxtEf09SLWH15
+  rotate: false
+  xy: 630, 553
+  size: 40, 20
+  orig: 104, 33
+  offset: 50, 4
+  index: -1
+KyGameTxtEf23GSWZP0008
+  rotate: false
+  xy: 827, 1005
+  size: 30, 17
+  orig: 83, 18
+  offset: 11, 1
+  index: -1
+KyGameTxtEf07DDZ15
+  rotate: false
+  xy: 758, 940
+  size: 33, 21
+  orig: 104, 33
+  offset: 49, 6
+  index: -1
+KyGameTxtEf20XZDD20
+  rotate: false
+  xy: 85, 922
+  size: 21, 24
+  orig: 104, 33
+  offset: 77, 3
+  index: -1
+KyGameTxtEf08BRNN08
+  rotate: false
+  xy: 755, 684
+  size: 38, 19
+  orig: 104, 33
+  offset: 11, 6
+  index: -1
+KyGameTxtEf08BRNN07
+  rotate: false
+  xy: 792, 562
+  size: 37, 19
+  orig: 104, 33
+  offset: 8, 6
+  index: -1
+KyGameTxtEf21BCBM00
+  rotate: false
+  xy: 723, 1
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf04ESYD05
+  rotate: false
+  xy: 893, 860
+  size: 27, 18
+  orig: 104, 33
+  offset: 6, 6
+  index: -1
+KyGameTxtEf09SLWH13
+  rotate: false
+  xy: 1163, 311
+  size: 42, 20
+  orig: 104, 33
+  offset: 39, 4
+  index: -1
+KyGameTxtEf09SLWH16
+  rotate: false
+  xy: 751, 562
+  size: 38, 20
+  orig: 104, 33
+  offset: 55, 4
+  index: -1
+KyGameTxtEf04EBG15
+  rotate: false
+  xy: 716, 607
+  size: 33, 22
+  orig: 104, 33
+  offset: 50, 4
+  index: -1
+KyGameTxtEf04ESYD23
+  rotate: false
+  xy: 577, 413
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf20XZDD18
+  rotate: false
+  xy: 641, 963
+  size: 33, 25
+  orig: 104, 33
+  offset: 65, 3
+  index: -1
+KyGameTxtEf20XZDD22
+  rotate: false
+  xy: 956, 1009
+  size: 9, 12
+  orig: 104, 33
+  offset: 88, 5
+  index: -1
+KyGameTxtEf00QZNN16
+  rotate: false
+  xy: 807, 176
+  size: 42, 24
+  orig: 104, 33
+  offset: 55, 5
+  index: -1
+KyGameTxtEf07DDZ16
+  rotate: false
+  xy: 856, 796
+  size: 28, 21
+  orig: 104, 33
+  offset: 55, 6
+  index: -1
+KyGameTxtEf08BRNN05
+  rotate: false
+  xy: 858, 907
+  size: 26, 19
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf21BCBM03
+  rotate: false
+  xy: 262, 810
+  size: 19, 19
+  orig: 104, 33
+  offset: 6, 6
+  index: -1
+KyGameTxtEf02DZPK20
+  rotate: false
+  xy: 1027, 936
+  size: 19, 21
+  orig: 104, 33
+  offset: 78, 5
+  index: -1
+KyGameTxtEf21BCBM01
+  rotate: false
+  xy: 177, 33
+  size: 5, 11
+  orig: 104, 33
+  offset: 8, 10
+  index: -1
+KyGameTxtEf21BCBM07
+  rotate: false
+  xy: 1070, 399
+  size: 39, 22
+  orig: 104, 33
+  offset: 7, 3
+  index: -1
+KyGameTxtEf21BCBM02
+  rotate: false
+  xy: 1014, 683
+  size: 12, 16
+  orig: 104, 33
+  offset: 7, 7
+  index: -1
+KyGameTxtEf03SG02
+  rotate: false
+  xy: 1026, 777
+  size: 2, 3
+  orig: 104, 33
+  offset: 17, 21
+  index: -1
+KyGameTxtEf21BCBM06
+  rotate: false
+  xy: 632, 667
+  size: 35, 22
+  orig: 104, 33
+  offset: 6, 3
+  index: -1
+KyGameTxtEf21BCBM09
+  rotate: false
+  xy: 1443, 93
+  size: 41, 21
+  orig: 104, 33
+  offset: 16, 4
+  index: -1
+KyGameTxtEf20XZDD21
+  rotate: false
+  xy: 442, 237
+  size: 16, 23
+  orig: 104, 33
+  offset: 82, 3
+  index: -1
+KyGameTxtEf21BCBM10
+  rotate: false
+  xy: 1360, 190
+  size: 42, 21
+  orig: 104, 33
+  offset: 22, 4
+  index: -1
+KyGameTxtEf00QZNN13
+  rotate: false
+  xy: 884, 254
+  size: 42, 24
+  orig: 104, 33
+  offset: 39, 5
+  index: -1
+KyGameTxtEf00QZNN14
+  rotate: false
+  xy: 851, 176
+  size: 42, 24
+  orig: 104, 33
+  offset: 44, 5
+  index: -1
+KyGameTxtEf20XZDD23
+  rotate: false
+  xy: 429, 968
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf00QZNN11
+  rotate: false
+  xy: 984, 176
+  size: 42, 23
+  orig: 104, 33
+  offset: 27, 6
+  index: -1
+KyGameTxtEf23GSWZP0021
+  rotate: false
+  xy: 645, 176
+  size: 17, 15
+  orig: 83, 18
+  offset: 66, 2
+  index: -1
+KyGameTxtEf21BCBM04
+  rotate: false
+  xy: 886, 904
+  size: 22, 21
+  orig: 104, 33
+  offset: 6, 4
+  index: -1
+KyGameTxtEf02DZPK23
+  rotate: false
+  xy: 535, 938
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf21BCBM05
+  rotate: false
+  xy: 795, 821
+  size: 30, 21
+  orig: 104, 33
+  offset: 6, 4
+  index: -1
+KyGameTxtEf23GSWZP0015
+  rotate: false
+  xy: 796, 729
+  size: 37, 18
+  orig: 83, 18
+  offset: 37, 0
+  index: -1
+KyGameTxtEf04EBG06
+  rotate: false
+  xy: 835, 718
+  size: 33, 19
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf21BCBM14
+  rotate: false
+  xy: 1102, 217
+  size: 43, 21
+  orig: 104, 33
+  offset: 43, 4
+  index: -1
+KyGameTxtEf21BCBM16
+  rotate: false
+  xy: 795, 539
+  size: 38, 21
+  orig: 104, 33
+  offset: 55, 4
+  index: -1
+KyGameTxtEf01ZJH11
+  rotate: false
+  xy: 870, 370
+  size: 43, 24
+  orig: 104, 33
+  offset: 27, 4
+  index: -1
+KyGameTxtEf00QZNN12
+  rotate: false
+  xy: 928, 252
+  size: 41, 24
+  orig: 104, 33
+  offset: 33, 5
+  index: -1
+KyGameTxtEf21BCBM15
+  rotate: false
+  xy: 558, 714
+  size: 40, 21
+  orig: 104, 33
+  offset: 50, 4
+  index: -1
+KyGameTxtEf07DDZ13
+  rotate: false
+  xy: 1359, 25
+  size: 40, 22
+  orig: 104, 33
+  offset: 40, 5
+  index: -1
+KyGameTxtEf23GSWZP0007
+  rotate: false
+  xy: 922, 794
+  size: 28, 17
+  orig: 83, 18
+  offset: 8, 1
+  index: -1
+KyGameTxtEf09SLWH11
+  rotate: false
+  xy: 641, 941
+  size: 41, 20
+  orig: 104, 33
+  offset: 27, 4
+  index: -1
+KyGameTxtEf09SLWH14
+  rotate: false
+  xy: 680, 897
+  size: 41, 20
+  orig: 104, 33
+  offset: 44, 4
+  index: -1
+KyGameTxtEf00QZNN10
+  rotate: false
+  xy: 896, 227
+  size: 43, 23
+  orig: 104, 33
+  offset: 22, 6
+  index: -1
+KyGameTxtEf00QZNN09
+  rotate: false
+  xy: 851, 229
+  size: 43, 23
+  orig: 104, 33
+  offset: 16, 6
+  index: -1
+KyGameTxtEf24HBBY0021
+  rotate: false
+  xy: 1007, 831
+  size: 16, 17
+  orig: 86, 18
+  offset: 70, 0
+  index: -1
+KyGameTxtEf21BCBM19
+  rotate: false
+  xy: 1003, 851
+  size: 21, 20
+  orig: 104, 33
+  offset: 72, 4
+  index: -1
+KyGameTxtEf27ZJN0020
+  rotate: false
+  xy: 935, 899
+  size: 21, 21
+  orig: 71, 21
+  offset: 50, 0
+  index: -1
+KyGameTxtEf08BRNN06
+  rotate: false
+  xy: 829, 673
+  size: 35, 19
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf21BCBM13
+  rotate: false
+  xy: 1398, 152
+  size: 42, 21
+  orig: 104, 33
+  offset: 39, 4
+  index: -1
+KyGameTxtEf07DDZ12
+  rotate: false
+  xy: 1074, 299
+  size: 42, 22
+  orig: 104, 33
+  offset: 33, 5
+  index: -1
+KyGameTxtEf23GSWZP0019
+  rotate: false
+  xy: 928, 813
+  size: 27, 17
+  orig: 83, 18
+  offset: 56, 0
+  index: -1
+KyGameTxtEf06TBNN18
+  rotate: false
+  xy: 761, 732
+  size: 31, 22
+  orig: 104, 33
+  offset: 66, 4
+  index: -1
+KyGameTxtEf24HBBY0018
+  rotate: false
+  xy: 890, 775
+  size: 31, 17
+  orig: 86, 18
+  offset: 55, 0
+  index: -1
+KyGameTxtEf14JSZJH05
+  rotate: false
+  xy: 630, 713
+  size: 31, 25
+  orig: 104, 33
+  offset: 6, 4
+  index: -1
+KyGameTxtEf04EBG03
+  rotate: false
+  xy: 924, 731
+  size: 18, 19
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf14JSZJH03
+  rotate: false
+  xy: 1005, 420
+  size: 19, 25
+  orig: 104, 33
+  offset: 6, 4
+  index: -1
+KyGameTxtEf04EBG16
+  rotate: false
+  xy: 1280, 106
+  size: 28, 22
+  orig: 104, 33
+  offset: 55, 4
+  index: -1
+KyGameTxtEf21BCBM18
+  rotate: false
+  xy: 860, 772
+  size: 28, 21
+  orig: 104, 33
+  offset: 65, 4
+  index: -1
+KyGameTxtEf14JSZJH04
+  rotate: false
+  xy: 725, 912
+  size: 25, 25
+  orig: 104, 33
+  offset: 6, 4
+  index: -1
+KyGameTxtEf14JSZJH07
+  rotate: false
+  xy: 145, 69
+  size: 39, 25
+  orig: 104, 33
+  offset: 7, 4
+  index: -1
+KyGameTxtEf23GSWZP0017
+  rotate: false
+  xy: 837, 821
+  size: 33, 18
+  orig: 83, 18
+  offset: 47, 0
+  index: -1
+KyGameTxtEf21BCBM23
+  rotate: false
+  xy: 895, 448
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf09SLWH12
+  rotate: false
+  xy: 670, 575
+  size: 40, 20
+  orig: 104, 33
+  offset: 33, 4
+  index: -1
+KyGameTxtEf21BCBM08
+  rotate: false
+  xy: 1185, 141
+  size: 41, 22
+  orig: 104, 33
+  offset: 11, 3
+  index: -1
+KyGameTxtEf14JSZJH06
+  rotate: false
+  xy: 1102, 240
+  size: 36, 25
+  orig: 104, 33
+  offset: 6, 4
+  index: -1
+KyGameTxtEf14JSZJH09
+  rotate: false
+  xy: 892, 290
+  size: 44, 24
+  orig: 104, 33
+  offset: 15, 5
+  index: -1
+KyGameTxtEf23GSWZP0016
+  rotate: false
+  xy: 927, 623
+  size: 34, 18
+  orig: 83, 18
+  offset: 43, 0
+  index: -1
+KyGameTxtEf21BCBM22
+  rotate: false
+  xy: 1140, 263
+  size: 2, 2
+  orig: 104, 33
+  offset: 90, 14
+  index: -1
+KyGameTxtEf14JSZJH10
+  rotate: false
+  xy: 1026, 421
+  size: 42, 24
+  orig: 104, 33
+  offset: 22, 5
+  index: -1
+KyGameTxtEf23GSWZP0005
+  rotate: false
+  xy: 985, 921
+  size: 24, 17
+  orig: 83, 18
+  offset: 1, 1
+  index: -1
+KyGameTxtEf14JSZJH08
+  rotate: false
+  xy: 145, 174
+  size: 44, 25
+  orig: 104, 33
+  offset: 10, 4
+  index: -1
+KyGameTxtEf14JSZJH11
+  rotate: false
+  xy: 851, 202
+  size: 40, 25
+  orig: 104, 33
+  offset: 28, 5
+  index: -1
+KyGameTxtEf21BCBM11
+  rotate: false
+  xy: 1442, 47
+  size: 41, 21
+  orig: 104, 33
+  offset: 27, 4
+  index: -1
+KyGameTxtEf22BRTB00
+  rotate: false
+  xy: 1253, 71
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf14JSZJH12
+  rotate: false
+  xy: 709, 293
+  size: 44, 25
+  orig: 104, 33
+  offset: 32, 5
+  index: -1
+KyGameTxtEf23GSWZP0013
+  rotate: false
+  xy: 674, 862
+  size: 39, 18
+  orig: 83, 18
+  offset: 28, 0
+  index: -1
+KyGameTxtEf22BRTB01
+  rotate: false
+  xy: 912, 577
+  size: 6, 6
+  orig: 104, 33
+  offset: 8, 18
+  index: -1
+KyGameTxtEf14JSZJH14
+  rotate: false
+  xy: 807, 202
+  size: 42, 24
+  orig: 104, 33
+  offset: 45, 5
+  index: -1
+KyGameTxtEf23GSWZP0012
+  rotate: false
+  xy: 232, 667
+  size: 40, 18
+  orig: 83, 18
+  offset: 23, 0
+  index: -1
+KyGameTxtEf22BRTB02
+  rotate: false
+  xy: 1012, 764
+  size: 12, 16
+  orig: 104, 33
+  offset: 7, 8
+  index: -1
+KyGameTxtEf08BRNN19
+  rotate: false
+  xy: 898, 690
+  size: 24, 21
+  orig: 104, 33
+  offset: 73, 5
+  index: -1
+KyGameTxtEf24HBBY0005
+  rotate: false
+  xy: 967, 987
+  size: 23, 18
+  orig: 86, 18
+  offset: 1, 0
+  index: -1
+KyGameTxtEf22BRTB03
+  rotate: false
+  xy: 924, 710
+  size: 18, 19
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf14JSZJH16
+  rotate: false
+  xy: 1102, 141
+  size: 38, 24
+  orig: 104, 33
+  offset: 55, 6
+  index: -1
+KyGameTxtEf23GSWZP0003
+  rotate: false
+  xy: 996, 770
+  size: 14, 17
+  orig: 83, 18
+  offset: 0, 1
+  index: -1
+KyGameTxtEf21BCBM21
+  rotate: false
+  xy: 1007, 744
+  size: 11, 18
+  orig: 104, 33
+  offset: 82, 5
+  index: -1
+KyGameTxtEf08BRNN20
+  rotate: false
+  xy: 992, 966
+  size: 19, 21
+  orig: 104, 33
+  offset: 78, 5
+  index: -1
+KyGameTxtEf23GSWZP0010
+  rotate: false
+  xy: 1006, 483
+  size: 35, 18
+  orig: 83, 18
+  offset: 17, 0
+  index: -1
+KyGameTxtEf14JSZJH15
+  rotate: false
+  xy: 858, 343
+  size: 42, 25
+  orig: 104, 33
+  offset: 50, 5
+  index: -1
+KyGameTxtEf23GSWZP0006
+  rotate: false
+  xy: 957, 812
+  size: 26, 17
+  orig: 83, 18
+  offset: 5, 1
+  index: -1
+KyGameTxtEf21BCBM17
+  rotate: false
+  xy: 824, 650
+  size: 32, 21
+  orig: 104, 33
+  offset: 61, 4
+  index: -1
+KyGameTxtEf27ZJN0002
+  rotate: false
+  xy: 1034, 777
+  size: 10, 18
+  orig: 71, 21
+  offset: 0, 2
+  index: -1
+KyGameTxtEf14JSZJH18
+  rotate: false
+  xy: 309, 574
+  size: 26, 24
+  orig: 104, 33
+  offset: 68, 6
+  index: -1
+KyGameTxtEf22BRTB22
+  rotate: false
+  xy: 1028, 680
+  size: 9, 18
+  orig: 104, 33
+  offset: 88, 5
+  index: -1
+KyGameTxtEf14JSZJH17
+  rotate: false
+  xy: 723, 965
+  size: 34, 24
+  orig: 104, 33
+  offset: 60, 6
+  index: -1
+KyGameTxtEf09SLWH09
+  rotate: false
+  xy: 1227, 260
+  size: 42, 20
+  orig: 104, 33
+  offset: 16, 4
+  index: -1
+KyGameTxtEf24HBBY0023
+  rotate: false
+  xy: 549, 714
+  size: 6, 12
+  orig: 86, 18
+  offset: 80, 0
+  index: -1
+KyGameTxtEf28XZDD0024
+  rotate: false
+  xy: 790, 821
+  size: 2, 2
+  orig: 86, 17
+  offset: 84, 1
+  index: -1
+KyGameTxtEf15WRZJH07
+  rotate: false
+  xy: 186, 506
+  size: 43, 29
+  orig: 104, 33
+  offset: 5, 2
+  index: -1
+KyGameTxtEf21BCBM20
+  rotate: false
+  xy: 1028, 176
+  size: 15, 20
+  orig: 104, 33
+  offset: 78, 4
+  index: -1
+KyGameTxtEf28XZDD0023
+  rotate: false
+  xy: 925, 925
+  size: 7, 15
+  orig: 86, 17
+  offset: 79, 0
+  index: -1
+KyGameTxtEf22BRTB18
+  rotate: false
+  xy: 761, 776
+  size: 31, 21
+  orig: 104, 33
+  offset: 66, 5
+  index: -1
+KyGameTxtEf23GSWZP0024
+  rotate: false
+  xy: 1002, 636
+  size: 2, 3
+  orig: 83, 18
+  offset: 81, 6
+  index: -1
+KyGameTxtEf14JSZJH19
+  rotate: false
+  xy: 1111, 393
+  size: 22, 24
+  orig: 104, 33
+  offset: 72, 6
+  index: -1
+KyGameTxtEf14JSZJH21
+  rotate: false
+  xy: 1008, 661
+  size: 11, 20
+  orig: 104, 33
+  offset: 83, 6
+  index: -1
+KyGameTxtEf24HBBY0008
+  rotate: false
+  xy: 1109, 423
+  size: 30, 18
+  orig: 86, 18
+  offset: 11, 0
+  index: -1
+KyGameTxtEf22BRTB04
+  rotate: false
+  xy: 908, 973
+  size: 24, 19
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf14JSZJH22
+  rotate: false
+  xy: 1022, 802
+  size: 4, 6
+  orig: 104, 33
+  offset: 89, 8
+  index: -1
+KyGameTxtEf23GSWZP0023
+  rotate: false
+  xy: 655, 539
+  size: 8, 11
+  orig: 83, 18
+  offset: 75, 2
+  index: -1
+KyGameTxtEf27ZJN0003
+  rotate: false
+  xy: 1019, 810
+  size: 15, 19
+  orig: 71, 21
+  offset: 0, 2
+  index: -1
+KyGameTxtEf14JSZJH23
+  rotate: false
+  xy: 723, 36
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf24HBBY0019
+  rotate: false
+  xy: 921, 950
+  size: 26, 17
+  orig: 86, 18
+  offset: 60, 0
+  index: -1
+KyGameTxtEf28XZDD0019
+  rotate: false
+  xy: 922, 858
+  size: 27, 17
+  orig: 86, 17
+  offset: 59, 0
+  index: -1
+KyGameTxtEf09SLWH10
+  rotate: false
+  xy: 1234, 213
+  size: 42, 20
+  orig: 104, 33
+  offset: 22, 4
+  index: -1
+KyGameTxtEf26DTNN0001
+  rotate: false
+  xy: 693, 176
+  size: 6, 15
+  orig: 82, 17
+  offset: 0, 2
+  index: -1
+KyGameTxtEf27ZJN0001
+  rotate: false
+  xy: 549, 126
+  size: 6, 17
+  orig: 71, 21
+  offset: 0, 2
+  index: -1
+KyGameTxtEf02DZPK03
+  rotate: false
+  xy: 1056, 979
+  size: 18, 20
+  orig: 104, 33
+  offset: 7, 7
+  index: -1
+KyGameTxtEf26DTNN0008
+  rotate: false
+  xy: 894, 840
+  size: 30, 16
+  orig: 82, 17
+  offset: 12, 1
+  index: -1
+KyGameTxtEf26DTNN0010
+  rotate: false
+  xy: 984, 579
+  size: 35, 17
+  orig: 82, 17
+  offset: 18, 0
+  index: -1
+KyGameTxtEf04EBG04
+  rotate: false
+  xy: 957, 877
+  size: 23, 19
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf24HBBY0017
+  rotate: false
+  xy: 1043, 483
+  size: 33, 17
+  orig: 86, 18
+  offset: 50, 0
+  index: -1
+KyGameTxtEf15WRZJH00
+  rotate: false
+  xy: 488, 868
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf04ESYD21
+  rotate: false
+  xy: 993, 641
+  size: 13, 18
+  orig: 104, 33
+  offset: 83, 6
+  index: -1
+KyGameTxtEf24HBBY0016
+  rotate: false
+  xy: 1006, 537
+  size: 35, 17
+  orig: 86, 18
+  offset: 44, 0
+  index: -1
+KyGameTxtEf15WRZJH01
+  rotate: false
+  xy: 321, 445
+  size: 11, 23
+  orig: 104, 33
+  offset: 5, 7
+  index: -1
+KyGameTxtEf15WRZJH04
+  rotate: false
+  xy: 1112, 267
+  size: 30, 30
+  orig: 104, 33
+  offset: 3, 2
+  index: -1
+KyGameTxtEf24HBBY0015
+  rotate: false
+  xy: 898, 652
+  size: 36, 17
+  orig: 86, 18
+  offset: 39, 0
+  index: -1
+KyGameTxtEf06TBNN00
+  rotate: false
+  xy: 1147, 71
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf04ESYD06
+  rotate: false
+  xy: 1528, 50
+  size: 36, 18
+  orig: 104, 33
+  offset: 6, 6
+  index: -1
+KyGameTxtEf24HBBY0014
+  rotate: false
+  xy: 954, 518
+  size: 37, 17
+  orig: 86, 18
+  offset: 34, 0
+  index: -1
+KyGameTxtEf15WRZJH03
+  rotate: false
+  xy: 309, 542
+  size: 21, 30
+  orig: 104, 33
+  offset: 3, 2
+  index: -1
+KyGameTxtEf23GSWZP0002
+  rotate: false
+  xy: 218, 1008
+  size: 9, 15
+  orig: 83, 18
+  offset: 0, 2
+  index: -1
+KyGameTxtEf24HBBY0013
+  rotate: false
+  xy: 881, 587
+  size: 38, 17
+  orig: 86, 18
+  offset: 29, 0
+  index: -1
+KyGameTxtEf28XZDD0012
+  rotate: false
+  xy: 912, 518
+  size: 40, 17
+  orig: 86, 17
+  offset: 23, 0
+  index: -1
+KyGameTxtEf25YBQZNN0004
+  rotate: false
+  xy: 85, 865
+  size: 20, 31
+  orig: 85, 35
+  offset: 0, 0
+  index: -1
+KyGameTxtEf23GSWZP0018
+  rotate: false
+  xy: 684, 942
+  size: 31, 18
+  orig: 83, 18
+  offset: 52, 0
+  index: -1
+KyGameTxtEf15WRZJH02
+  rotate: false
+  xy: 471, 348
+  size: 17, 27
+  orig: 104, 33
+  offset: 4, 4
+  index: -1
+KyGameTxtEf23GSWZP0001
+  rotate: false
+  xy: 1041, 377
+  size: 3, 15
+  orig: 83, 18
+  offset: 0, 2
+  index: -1
+KyGameTxtEf24HBBY0011
+  rotate: false
+  xy: 793, 583
+  size: 38, 18
+  orig: 86, 18
+  offset: 20, 0
+  index: -1
+KyGameTxtEf28XZDD0021
+  rotate: false
+  xy: 982, 791
+  size: 17, 17
+  orig: 86, 17
+  offset: 69, 0
+  index: -1
+KyGameTxtEf04EBG01
+  rotate: false
+  xy: 717, 965
+  size: 4, 12
+  orig: 104, 33
+  offset: 9, 10
+  index: -1
+KyGameTxtEf24HBBY0010
+  rotate: false
+  xy: 761, 871
+  size: 35, 18
+  orig: 86, 18
+  offset: 17, 0
+  index: -1
+KyGameTxtEf28XZDD0020
+  rotate: false
+  xy: 1062, 1006
+  size: 22, 17
+  orig: 86, 17
+  offset: 64, 0
+  index: -1
+KyGameTxtEf26DTNN0009
+  rotate: false
+  xy: 889, 736
+  size: 33, 16
+  orig: 82, 17
+  offset: 15, 1
+  index: -1
+KyGameTxtEf25YBQZNN0014
+  rotate: false
+  xy: 145, 137
+  size: 65, 35
+  orig: 85, 35
+  offset: 5, 0
+  index: -1
+KyGameTxtEf15WRZJH05
+  rotate: false
+  xy: 392, 873
+  size: 34, 30
+  orig: 104, 33
+  offset: 3, 2
+  index: -1
+KyGameTxtEf09SLWH07
+  rotate: false
+  xy: 591, 691
+  size: 39, 20
+  orig: 104, 33
+  offset: 7, 4
+  index: -1
+KyGameTxtEf25YBQZNN0003
+  rotate: false
+  xy: 963, 731
+  size: 15, 18
+  orig: 85, 35
+  offset: 0, 0
+  index: -1
+KyGameTxtEf28XZDD0018
+  rotate: false
+  xy: 920, 754
+  size: 31, 17
+  orig: 86, 17
+  offset: 54, 0
+  index: -1
+KyGameTxtEf09SLWH08
+  rotate: false
+  xy: 631, 875
+  size: 41, 20
+  orig: 104, 33
+  offset: 11, 4
+  index: -1
+KyGameTxtEf26DTNN0007
+  rotate: false
+  xy: 952, 794
+  size: 28, 16
+  orig: 82, 17
+  offset: 9, 1
+  index: -1
+KyGameTxtEf28XZDD0017
+  rotate: false
+  xy: 824, 888
+  size: 33, 17
+  orig: 86, 17
+  offset: 49, 0
+  index: -1
+KyGameTxtEf24HBBY0006
+  rotate: false
+  xy: 934, 925
+  size: 26, 17
+  orig: 86, 18
+  offset: 4, 1
+  index: -1
+KyGameTxtEf23GSWZP0014
+  rotate: false
+  xy: 761, 756
+  size: 37, 18
+  orig: 83, 18
+  offset: 33, 0
+  index: -1
+KyGameTxtEf26DTNN0013
+  rotate: false
+  xy: 819, 699
+  size: 39, 17
+  orig: 82, 17
+  offset: 28, 0
+  index: -1
+KyGameTxtEf02DZPK04
+  rotate: false
+  xy: 903, 814
+  size: 23, 21
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf23GSWZP0004
+  rotate: false
+  xy: 935, 671
+  size: 20, 17
+  orig: 83, 18
+  offset: 0, 1
+  index: -1
+KyGameTxtEf28XZDD0015
+  rotate: false
+  xy: 798, 870
+  size: 37, 16
+  orig: 86, 17
+  offset: 38, 0
+  index: -1
+KyGameTxtEf06TBNN07
+  rotate: false
+  xy: 1359, 1
+  size: 40, 22
+  orig: 104, 33
+  offset: 7, 4
+  index: -1
+KyGameTxtEf28XZDD0014
+  rotate: false
+  xy: 1002, 377
+  size: 37, 16
+  orig: 86, 17
+  offset: 34, 0
+  index: -1
+KyGameTxtEf26DTNN0003
+  rotate: false
+  xy: 1026, 849
+  size: 16, 16
+  orig: 82, 17
+  offset: 0, 1
+  index: -1
+KyGameTxtEf24HBBY0009
+  rotate: false
+  xy: 824, 844
+  size: 33, 18
+  orig: 86, 18
+  offset: 14, 0
+  index: -1
+KyGameTxtEf04EBG02
+  rotate: false
+  xy: 1034, 575
+  size: 12, 17
+  orig: 104, 33
+  offset: 7, 7
+  index: -1
+KyGameTxtEf25YBQZNN0021
+  rotate: false
+  xy: 924, 690
+  size: 19, 18
+  orig: 85, 35
+  offset: 66, 0
+  index: -1
+KyGameTxtEf25YBQZNN0020
+  rotate: false
+  xy: 397, 201
+  size: 59, 34
+  orig: 85, 35
+  offset: 26, 0
+  index: -1
+KyGameTxtEf28XZDD0008
+  rotate: false
+  xy: 904, 671
+  size: 29, 17
+  orig: 86, 17
+  offset: 12, 0
+  index: -1
+KyGameTxtEf26DTNN0002
+  rotate: false
+  xy: 168, 1008
+  size: 11, 15
+  orig: 82, 17
+  offset: 0, 2
+  index: -1
+KyGameTxtEf28XZDD0011
+  rotate: false
+  xy: 881, 606
+  size: 38, 17
+  orig: 86, 17
+  offset: 20, 0
+  index: -1
+KyGameTxtEf25YBQZNN0017
+  rotate: false
+  xy: 700, 374
+  size: 63, 35
+  orig: 85, 35
+  offset: 18, 0
+  index: -1
+KyGameTxtEf24HBBY0022
+  rotate: false
+  xy: 181, 1008
+  size: 11, 15
+  orig: 86, 18
+  offset: 75, 0
+  index: -1
+KyGameTxtEf01ZJH19
+  rotate: false
+  xy: 995, 702
+  size: 10, 20
+  orig: 104, 33
+  offset: 72, 5
+  index: -1
+KyGameTxtEf26DTNN0005
+  rotate: false
+  xy: 1029, 896
+  size: 24, 16
+  orig: 82, 17
+  offset: 3, 1
+  index: -1
+KyGameTxtEf25YBQZNN0022
+  rotate: false
+  xy: 321, 470
+  size: 14, 18
+  orig: 85, 35
+  offset: 71, 0
+  index: -1
+KyGameTxtEf28XZDD0009
+  rotate: false
+  xy: 823, 913
+  size: 33, 17
+  orig: 86, 17
+  offset: 14, 0
+  index: -1
+KyGameTxtEf26DTNN0006
+  rotate: false
+  xy: 949, 948
+  size: 26, 16
+  orig: 82, 17
+  offset: 6, 1
+  index: -1
+KyGameTxtEf27ZJN0013
+  rotate: false
+  xy: 715, 539
+  size: 38, 21
+  orig: 71, 21
+  offset: 20, 0
+  index: -1
+KyGameTxtEf28XZDD0022
+  rotate: false
+  xy: 1000, 683
+  size: 12, 16
+  orig: 86, 17
+  offset: 74, 0
+  index: -1
+KyGameTxtEf02DZPK01
+  rotate: false
+  xy: 938, 304
+  size: 7, 10
+  orig: 104, 33
+  offset: 8, 16
+  index: -1
+KyGameTxtEf24HBBY0020
+  rotate: false
+  xy: 1076, 957
+  size: 21, 17
+  orig: 86, 18
+  offset: 65, 0
+  index: -1
+KyGameTxtEf28XZDD0016
+  rotate: false
+  xy: 1015, 556
+  size: 35, 17
+  orig: 86, 17
+  offset: 44, 0
+  index: -1
+KyGameTxtEf04EBG13
+  rotate: false
+  xy: 1122, 322
+  size: 39, 22
+  orig: 104, 33
+  offset: 42, 4
+  index: -1
+KyGameTxtEf25YBQZNN0009
+  rotate: false
+  xy: 232, 630
+  size: 46, 35
+  orig: 85, 35
+  offset: 1, 0
+  index: -1
+KyGameTxtEf28XZDD0006
+  rotate: false
+  xy: 934, 969
+  size: 25, 17
+  orig: 86, 17
+  offset: 6, 0
+  index: -1
+KyGameTxtEf02DZPK02
+  rotate: false
+  xy: 993, 748
+  size: 12, 20
+  orig: 104, 33
+  offset: 7, 7
+  index: -1
+KyGameTxtEf27ZJN0010
+  rotate: false
+  xy: 713, 709
+  size: 35, 21
+  orig: 71, 21
+  offset: 11, 0
+  index: -1
+KyGameTxtEf28XZDD0005
+  rotate: false
+  xy: 1003, 896
+  size: 24, 17
+  orig: 86, 17
+  offset: 2, 0
+  index: -1
+KyGameTxtEf26DTNN0012
+  rotate: false
+  xy: 875, 539
+  size: 40, 17
+  orig: 82, 17
+  offset: 23, 0
+  index: -1
+KyGameTxtEf09SLWH05
+  rotate: false
+  xy: 792, 847
+  size: 30, 21
+  orig: 104, 33
+  offset: 6, 4
+  index: -1
+KyGameTxtEf09SLWH06
+  rotate: false
+  xy: 713, 758
+  size: 35, 21
+  orig: 104, 33
+  offset: 6, 4
+  index: -1
+KyGameTxtEf04ESYD22
+  rotate: false
+  xy: 274, 667
+  size: 7, 17
+  orig: 104, 33
+  offset: 88, 6
+  index: -1
+KyGameTxtEf04EBG14
+  rotate: false
+  xy: 762, 991
+  size: 37, 22
+  orig: 104, 33
+  offset: 45, 4
+  index: -1
+KyGameTxtEf25YBQZNN0005
+  rotate: false
+  xy: 309, 506
+  size: 25, 34
+  orig: 85, 35
+  offset: 1, 0
+  index: -1
+KyGameTxtEf28XZDD0002
+  rotate: false
+  xy: 1032, 700
+  size: 10, 16
+  orig: 86, 17
+  offset: 0, 1
+  index: -1
+KyGameTxtEf03SG23
+  rotate: false
+  xy: 727, 141
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf25YBQZNN0016
+  rotate: false
+  xy: 597, 337
+  size: 64, 35
+  orig: 85, 35
+  offset: 13, 0
+  index: -1
+KyGameTxtEf27ZJN0015
+  rotate: false
+  xy: 637, 791
+  size: 36, 21
+  orig: 71, 21
+  offset: 28, 0
+  index: -1
+KyGameTxtEf01ZJH20
+  rotate: false
+  xy: 1007, 764
+  size: 3, 4
+  orig: 104, 33
+  offset: 78, 8
+  index: -1
+KyGameTxtEf26DTNN0004
+  rotate: false
+  xy: 967, 1007
+  size: 22, 16
+  orig: 82, 17
+  offset: 0, 1
+  index: -1
+KyGameTxtEf25YBQZNN0024
+  rotate: false
+  xy: 905, 577
+  size: 5, 8
+  orig: 85, 35
+  offset: 80, 5
+  index: -1
+KyGameTxtEf25YBQZNN0019
+  rotate: false
+  xy: 729, 337
+  size: 63, 35
+  orig: 85, 35
+  offset: 22, 0
+  index: -1
+KyGameTxtEf04ESYD19
+  rotate: false
+  xy: 875, 928
+  size: 24, 20
+  orig: 104, 33
+  offset: 72, 5
+  index: -1
+KyGameTxtEf28XZDD0003
+  rotate: false
+  xy: 974, 665
+  size: 15, 16
+  orig: 86, 17
+  offset: 0, 1
+  index: -1
+KyGameTxtEf24HBBY0012
+  rotate: false
+  xy: 709, 814
+  size: 39, 18
+  orig: 86, 18
+  offset: 24, 0
+  index: -1
+KyGameTxtEf06TBNN12
+  rotate: false
+  xy: 717, 942
+  size: 39, 21
+  orig: 104, 33
+  offset: 33, 4
+  index: -1
+KyGameTxtEf04EBG23
+  rotate: false
+  xy: 1001, 448
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf25YBQZNN0001
+  rotate: false
+  xy: 1017, 619
+  size: 4, 14
+  orig: 85, 35
+  offset: 0, 2
+  index: -1
+KyGameTxtEf27ZJN0004
+  rotate: false
+  xy: 1005, 873
+  size: 19, 21
+  orig: 71, 21
+  offset: 0, 0
+  index: -1
+KyGameTxtEf28XZDD0001
+  rotate: false
+  xy: 985, 966
+  size: 5, 13
+  orig: 86, 17
+  offset: 0, 1
+  index: -1
+KyGameTxtEf27ZJN0011
+  rotate: false
+  xy: 675, 539
+  size: 38, 21
+  orig: 71, 21
+  offset: 13, 0
+  index: -1
+KyGameTxtEf09SLWH03
+  rotate: false
+  xy: 1048, 936
+  size: 19, 19
+  orig: 104, 33
+  offset: 6, 5
+  index: -1
+KyGameTxtEf26DTNN0017
+  rotate: false
+  xy: 858, 864
+  size: 33, 17
+  orig: 82, 17
+  offset: 46, 0
+  index: -1
+KyGameTxtEf28XZDD0004
+  rotate: false
+  xy: 975, 773
+  size: 19, 16
+  orig: 86, 17
+  offset: 0, 1
+  index: -1
+KyGameTxtEf24HBBY0007
+  rotate: false
+  xy: 859, 1005
+  size: 29, 17
+  orig: 86, 18
+  offset: 7, 1
+  index: -1
+KyGameTxtEf25YBQZNN0002
+  rotate: false
+  xy: 1032, 718
+  size: 9, 16
+  orig: 85, 35
+  offset: 0, 1
+  index: -1
+KyGameTxtEf28XZDD0007
+  rotate: false
+  xy: 890, 1005
+  size: 29, 17
+  orig: 86, 17
+  offset: 8, 0
+  index: -1
+KyGameTxtEf27ZJN0021
+  rotate: false
+  xy: 1076, 976
+  size: 17, 21
+  orig: 71, 21
+  offset: 54, 0
+  index: -1
+KyGameTxtEf27ZJN0023
+  rotate: false
+  xy: 665, 539
+  size: 8, 11
+  orig: 71, 21
+  offset: 63, 6
+  index: -1
+KyGameTxtEf01ZJH23
+  rotate: false
+  xy: 621, 141
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf25YBQZNN0006
+  rotate: false
+  xy: 145, 33
+  size: 30, 34
+  orig: 85, 35
+  offset: 1, 0
+  index: -1
+KyGameTxtEf25YBQZNN0013
+  rotate: false
+  xy: 597, 300
+  size: 65, 35
+  orig: 85, 35
+  offset: 2, 0
+  index: -1
+KyGameTxtEf25YBQZNN0018
+  rotate: false
+  xy: 663, 337
+  size: 64, 35
+  orig: 85, 35
+  offset: 19, 0
+  index: -1
+KyGameTxtEf08BRNN17
+  rotate: false
+  xy: 675, 791
+  size: 36, 21
+  orig: 104, 33
+  offset: 60, 5
+  index: -1
+KyGameTxtEf04EBG00
+  rotate: false
+  xy: 789, 483
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf28XZDD0013
+  rotate: false
+  xy: 905, 558
+  size: 38, 17
+  orig: 86, 17
+  offset: 29, 0
+  index: -1
+KyGameTxtEf25YBQZNN0010
+  rotate: false
+  xy: 789, 411
+  size: 52, 35
+  orig: 85, 35
+  offset: 1, 0
+  index: -1
+KyGameTxtEf25YBQZNN0015
+  rotate: false
+  xy: 597, 263
+  size: 65, 35
+  orig: 85, 35
+  offset: 9, 0
+  index: -1
+KyGameTxtEf25YBQZNN0023
+  rotate: false
+  xy: 206, 1008
+  size: 10, 15
+  orig: 85, 35
+  offset: 75, 0
+  index: -1
+KyGameTxtEf27ZJN0016
+  rotate: false
+  xy: 716, 732
+  size: 35, 21
+  orig: 71, 21
+  offset: 32, 0
+  index: -1
+KyGameTxtEf27ZJN0024
+  rotate: false
+  xy: 782, 628
+  size: 4, 4
+  orig: 71, 21
+  offset: 67, 6
+  index: -1
+KyGameTxtEf28XZDD0010
+  rotate: false
+  xy: 866, 671
+  size: 36, 17
+  orig: 86, 17
+  offset: 17, 0
+  index: -1
+KyGameTxtEf07DDZ09
+  rotate: false
+  xy: 1162, 287
+  size: 39, 22
+  orig: 104, 33
+  offset: 17, 5
+  index: -1
+KyGameTxtEf27ZJN0014
+  rotate: false
+  xy: 712, 562
+  size: 37, 21
+  orig: 71, 21
+  offset: 24, 0
+  index: -1
+KyGameTxtEf26DTNN0018
+  rotate: false
+  xy: 1078, 483
+  size: 32, 17
+  orig: 82, 17
+  offset: 50, 0
+  index: -1
+KyGameTxtEf25YBQZNN0011
+  rotate: false
+  xy: 765, 374
+  size: 57, 35
+  orig: 85, 35
+  offset: 1, 0
+  index: -1
+KyGameTxtEf04ESYD03
+  rotate: false
+  xy: 982, 622
+  size: 18, 17
+  orig: 104, 33
+  offset: 6, 6
+  index: -1
+KyGameTxtEf03SG21
+  rotate: false
+  xy: 549, 518
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf04EBG11
+  rotate: false
+  xy: 1267, 235
+  size: 42, 20
+  orig: 104, 33
+  offset: 27, 6
+  index: -1
+KyGameTxtEf27ZJN0022
+  rotate: false
+  xy: 1021, 661
+  size: 13, 17
+  orig: 71, 21
+  offset: 58, 0
+  index: -1
+KyGameTxtEf04ESYD00
+  rotate: false
+  xy: 939, 141
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf02DZPK00
+  rotate: false
+  xy: 488, 833
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf01ZJH17
+  rotate: false
+  xy: 874, 955
+  size: 21, 23
+  orig: 104, 33
+  offset: 61, 5
+  index: -1
+KyGameTxtEf04ESYD20
+  rotate: false
+  xy: 397, 179
+  size: 17, 20
+  orig: 104, 33
+  offset: 79, 5
+  index: -1
+KyGameTxtEf27ZJN0012
+  rotate: false
+  xy: 549, 553
+  size: 40, 21
+  orig: 71, 21
+  offset: 15, 0
+  index: -1
+KyGameTxtEf02DZPK17
+  rotate: false
+  xy: 636, 838
+  size: 35, 22
+  orig: 104, 33
+  offset: 61, 5
+  index: -1
+KyGameTxtEf03SG22
+  rotate: false
+  xy: 1045, 106
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf01ZJH18
+  rotate: false
+  xy: 1086, 999
+  size: 16, 22
+  orig: 104, 33
+  offset: 66, 5
+  index: -1
+KyGameTxtEf25YBQZNN0012
+  rotate: false
+  xy: 794, 337
+  size: 62, 35
+  orig: 85, 35
+  offset: 1, 0
+  index: -1
+KyGameTxtEf26DTNN0019
+  rotate: false
+  xy: 926, 837
+  size: 27, 17
+  orig: 82, 17
+  offset: 55, 0
+  index: -1
+KyGameTxtEf16XLCH01
+  rotate: false
+  xy: 793, 960
+  size: 1, 1
+  orig: 104, 33
+  offset: 12, 19
+  index: -1
+KyGameTxtEf15WRZJH15
+  rotate: false
+  xy: 397, 237
+  size: 43, 28
+  orig: 104, 33
+  offset: 49, 3
+  index: -1
+KyGameTxtEf15WRZJH16
+  rotate: false
+  xy: 708, 263
+  size: 40, 28
+  orig: 104, 33
+  offset: 54, 3
+  index: -1
+KyGameTxtEf15WRZJH17
+  rotate: false
+  xy: 145, 96
+  size: 35, 27
+  orig: 104, 33
+  offset: 60, 4
+  index: -1
+KyGameTxtEf02DZPK18
+  rotate: false
+  xy: 786, 705
+  size: 31, 22
+  orig: 104, 33
+  offset: 66, 5
+  index: -1
+KyGameTxtEf15WRZJH18
+  rotate: false
+  xy: 600, 713
+  size: 28, 28
+  orig: 104, 33
+  offset: 67, 3
+  index: -1
+KyGameTxtEf15WRZJH19
+  rotate: false
+  xy: 723, 883
+  size: 25, 27
+  orig: 104, 33
+  offset: 71, 3
+  index: -1
+KyGameTxtEf15WRZJH20
+  rotate: false
+  xy: 262, 760
+  size: 19, 25
+  orig: 104, 33
+  offset: 76, 4
+  index: -1
+KyGameTxtEf03SG19
+  rotate: false
+  xy: 617, 1
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf15WRZJH21
+  rotate: false
+  xy: 1087, 141
+  size: 13, 20
+  orig: 104, 33
+  offset: 82, 5
+  index: -1
+KyGameTxtEf15WRZJH22
+  rotate: false
+  xy: 985, 981
+  size: 2, 4
+  orig: 104, 33
+  offset: 89, 9
+  index: -1
+KyGameTxtEf15WRZJH23
+  rotate: false
+  xy: 1041, 1
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf01ZJH15
+  rotate: false
+  xy: 637, 766
+  size: 33, 23
+  orig: 104, 33
+  offset: 49, 5
+  index: -1
+KyGameTxtEf16XLCH00
+  rotate: false
+  xy: 1041, 71
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf15WRZJH06
+  rotate: false
+  xy: 145, 1
+  size: 39, 30
+  orig: 104, 33
+  offset: 4, 2
+  index: -1
+KyGameTxtEf01ZJH16
+  rotate: false
+  xy: 309, 600
+  size: 26, 23
+  orig: 104, 33
+  offset: 56, 5
+  index: -1
+KyGameTxtEf01ZJH21
+  rotate: false
+  xy: 452, 728
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf11YZLH05
+  rotate: false
+  xy: 1175, 333
+  size: 28, 19
+  orig: 104, 33
+  offset: 7, 5
+  index: -1
+KyGameTxtEf06TBNN08
+  rotate: false
+  xy: 684, 919
+  size: 39, 21
+  orig: 104, 33
+  offset: 11, 4
+  index: -1
+KyGameTxtEf12BJL09
+  rotate: false
+  xy: 807, 228
+  size: 42, 24
+  orig: 104, 33
+  offset: 16, 4
+  index: -1
+KyGameTxtEf11YZLH07
+  rotate: false
+  xy: 635, 621
+  size: 39, 20
+  orig: 104, 33
+  offset: 8, 5
+  index: -1
+KyGameTxtEf03SG20
+  rotate: false
+  xy: 471, 448
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf04ESYD04
+  rotate: false
+  xy: 1014, 1006
+  size: 22, 17
+  orig: 104, 33
+  offset: 6, 6
+  index: -1
+KyGameTxtEf11YZLH02
+  rotate: false
+  xy: 1008, 719
+  size: 11, 17
+  orig: 104, 33
+  offset: 8, 7
+  index: -1
+KyGameTxtEf04ESYD17
+  rotate: false
+  xy: 823, 628
+  size: 34, 20
+  orig: 104, 33
+  offset: 62, 6
+  index: -1
+KyGameTxtEf11YZLH09
+  rotate: false
+  xy: 591, 602
+  size: 40, 20
+  orig: 104, 33
+  offset: 17, 5
+  index: -1
+KyGameTxtEf11YZLH06
+  rotate: false
+  xy: 859, 628
+  size: 34, 19
+  orig: 104, 33
+  offset: 8, 5
+  index: -1
+KyGameTxtEf06TBNN09
+  rotate: false
+  xy: 549, 645
+  size: 40, 21
+  orig: 104, 33
+  offset: 16, 4
+  index: -1
+KyGameTxtEf06TBNN13
+  rotate: false
+  xy: 1034, 325
+  size: 42, 22
+  orig: 104, 33
+  offset: 39, 4
+  index: -1
+KyGameTxtEf03SG17
+  rotate: false
+  xy: 535, 973
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf11YZLH12
+  rotate: false
+  xy: 755, 539
+  size: 38, 21
+  orig: 104, 33
+  offset: 33, 4
+  index: -1
+KyGameTxtEf11YZLH10
+  rotate: false
+  xy: 1087, 167
+  size: 43, 21
+  orig: 104, 33
+  offset: 21, 4
+  index: -1
+KyGameTxtEf07DDZ08
+  rotate: false
+  xy: 971, 253
+  size: 42, 23
+  orig: 104, 33
+  offset: 11, 4
+  index: -1
+KyGameTxtEf11YZLH08
+  rotate: false
+  xy: 629, 645
+  size: 39, 20
+  orig: 104, 33
+  offset: 11, 5
+  index: -1
+KyGameTxtEf04EBG12
+  rotate: false
+  xy: 1030, 301
+  size: 42, 22
+  orig: 104, 33
+  offset: 33, 4
+  index: -1
+KyGameTxtEf04ESYD18
+  rotate: false
+  xy: 792, 913
+  size: 29, 20
+  orig: 104, 33
+  offset: 67, 6
+  index: -1
+KyGameTxtEf02DZPK15
+  rotate: false
+  xy: 1002, 353
+  size: 42, 22
+  orig: 104, 33
+  offset: 50, 5
+  index: -1
+KyGameTxtEf11YZLH13
+  rotate: false
+  xy: 1184, 190
+  size: 42, 21
+  orig: 104, 33
+  offset: 39, 4
+  index: -1
+KyGameTxtEf11YZLH16
+  rotate: false
+  xy: 835, 539
+  size: 38, 21
+  orig: 104, 33
+  offset: 55, 4
+  index: -1
+KyGameTxtEf04ESYD15
+  rotate: false
+  xy: 641, 919
+  size: 41, 20
+  orig: 104, 33
+  offset: 51, 6
+  index: -1
+KyGameTxtEf11YZLH17
+  rotate: false
+  xy: 761, 963
+  size: 33, 21
+  orig: 104, 33
+  offset: 61, 4
+  index: -1
+KyGameTxtEf11YZLH03
+  rotate: false
+  xy: 953, 753
+  size: 18, 18
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf11YZLH18
+  rotate: false
+  xy: 761, 914
+  size: 29, 21
+  orig: 104, 33
+  offset: 65, 4
+  index: -1
+KyGameTxtEf07DDZ05
+  rotate: false
+  xy: 849, 603
+  size: 30, 23
+  orig: 104, 33
+  offset: 6, 5
+  index: -1
+KyGameTxtEf02DZPK16
+  rotate: false
+  xy: 1142, 141
+  size: 41, 22
+  orig: 104, 33
+  offset: 54, 5
+  index: -1
+KyGameTxtEf11YZLH14
+  rotate: false
+  xy: 1177, 167
+  size: 43, 21
+  orig: 104, 33
+  offset: 43, 4
+  index: -1
+KyGameTxtEf11YZLH20
+  rotate: false
+  xy: 974, 643
+  size: 17, 20
+  orig: 104, 33
+  offset: 78, 4
+  index: -1
+KyGameTxtEf03SG18
+  rotate: false
+  xy: 1253, 1
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf09SLWH04
+  rotate: false
+  xy: 961, 966
+  size: 22, 19
+  orig: 104, 33
+  offset: 6, 5
+  index: -1
+KyGameTxtEf07DDZ06
+  rotate: false
+  xy: 1070, 373
+  size: 36, 24
+  orig: 104, 33
+  offset: 6, 4
+  index: -1
+KyGameTxtEf10QZPJ23
+  rotate: false
+  xy: 789, 448
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf24HBBY0004
+  rotate: false
+  xy: 1104, 1000
+  size: 19, 18
+  orig: 86, 18
+  offset: 0, 0
+  index: -1
+KyGameTxtEf11YZLH23
+  rotate: false
+  xy: 701, 228
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf11YZLH04
+  rotate: false
+  xy: 981, 831
+  size: 24, 18
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf08BRNN15
+  rotate: false
+  xy: 1310, 153
+  size: 42, 21
+  orig: 104, 33
+  offset: 50, 5
+  index: -1
+KyGameTxtEf11YZLH22
+  rotate: false
+  xy: 925, 942
+  size: 6, 6
+  orig: 104, 33
+  offset: 88, 6
+  index: -1
+KyGameTxtEf12BJL01
+  rotate: false
+  xy: 908, 994
+  size: 6, 7
+  orig: 104, 33
+  offset: 8, 19
+  index: -1
+KyGameTxtEf27ZJN0009
+  rotate: false
+  xy: 788, 628
+  size: 33, 21
+  orig: 71, 21
+  offset: 9, 0
+  index: -1
+KyGameTxtEf02DZPK13
+  rotate: false
+  xy: 1194, 106
+  size: 41, 22
+  orig: 104, 33
+  offset: 40, 5
+  index: -1
+KyGameTxtEf12BJL02
+  rotate: false
+  xy: 1007, 789
+  size: 13, 18
+  orig: 104, 33
+  offset: 7, 8
+  index: -1
+KyGameTxtEf12BJL00
+  rotate: false
+  xy: 829, 71
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf12BJL03
+  rotate: false
+  xy: 1036, 914
+  size: 19, 20
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf07DDZ03
+  rotate: false
+  xy: 1034, 982
+  size: 20, 18
+  orig: 104, 33
+  offset: 6, 9
+  index: -1
+KyGameTxtEf12BJL04
+  rotate: false
+  xy: 881, 982
+  size: 25, 21
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf24HBBY0002
+  rotate: false
+  xy: 917, 537
+  size: 8, 18
+  orig: 86, 18
+  offset: 0, 0
+  index: -1
+KyGameTxtEf12BJL05
+  rotate: false
+  xy: 954, 599
+  size: 29, 21
+  orig: 104, 33
+  offset: 7, 6
+  index: -1
+KyGameTxtEf24HBBY0001
+  rotate: false
+  xy: 788, 651
+  size: 2, 9
+  orig: 86, 18
+  offset: 0, 5
+  index: -1
+KyGameTxtEf12BJL06
+  rotate: false
+  xy: 673, 814
+  size: 34, 21
+  orig: 104, 33
+  offset: 8, 6
+  index: -1
+KyGameTxtEf07DDZ04
+  rotate: false
+  xy: 85, 898
+  size: 23, 22
+  orig: 104, 33
+  offset: 6, 5
+  index: -1
+KyGameTxtEf12BJL07
+  rotate: false
+  xy: 549, 668
+  size: 40, 21
+  orig: 104, 33
+  offset: 8, 6
+  index: -1
+KyGameTxtEf04EBG09
+  rotate: false
+  xy: 677, 688
+  size: 39, 19
+  orig: 104, 33
+  offset: 16, 6
+  index: -1
+KyGameTxtEf11YZLH11
+  rotate: false
+  xy: 558, 760
+  size: 40, 21
+  orig: 104, 33
+  offset: 28, 4
+  index: -1
+KyGameTxtEf26DTNN0023
+  rotate: false
+  xy: 928, 278
+  size: 8, 9
+  orig: 82, 17
+  offset: 74, 5
+  index: -1
+KyGameTxtEf14JSZJH13
+  rotate: false
+  xy: 755, 290
+  size: 43, 25
+  orig: 104, 33
+  offset: 39, 5
+  index: -1
+KyGameTxtEf08BRNN16
+  rotate: false
+  xy: 1487, 24
+  size: 39, 21
+  orig: 104, 33
+  offset: 55, 5
+  index: -1
+KyGameTxtEf12BJL11
+  rotate: false
+  xy: 889, 396
+  size: 43, 24
+  orig: 104, 33
+  offset: 27, 4
+  index: -1
+KyGameTxtEf08BRNN18
+  rotate: false
+  xy: 921, 600
+  size: 31, 21
+  orig: 104, 33
+  offset: 66, 5
+  index: -1
+KyGameTxtEf12BJL10
+  rotate: false
+  xy: 902, 342
+  size: 43, 24
+  orig: 104, 33
+  offset: 22, 4
+  index: -1
+KyGameTxtEf03SG15
+  rotate: false
+  xy: 985, 810
+  size: 15, 19
+  orig: 104, 33
+  offset: 50, 6
+  index: -1
+KyGameTxtEf12BJL12
+  rotate: false
+  xy: 840, 254
+  size: 42, 24
+  orig: 104, 33
+  offset: 34, 4
+  index: -1
+KyGameTxtEf07DDZ01
+  rotate: false
+  xy: 1095, 976
+  size: 7, 15
+  orig: 104, 33
+  offset: 7, 10
+  index: -1
+KyGameTxtEf12BJL13
+  rotate: false
+  xy: 1237, 106
+  size: 41, 22
+  orig: 104, 33
+  offset: 39, 5
+  index: -1
+KyGameTxtEf02DZPK14
+  rotate: false
+  xy: 1528, 70
+  size: 41, 21
+  orig: 104, 33
+  offset: 45, 5
+  index: -1
+KyGameTxtEf12BJL14
+  rotate: false
+  xy: 1226, 236
+  size: 39, 22
+  orig: 104, 33
+  offset: 43, 5
+  index: -1
+KyGameTxtEf04ESYD01
+  rotate: false
+  xy: 981, 921
+  size: 2, 2
+  orig: 104, 33
+  offset: 8, 10
+  index: -1
+KyGameTxtEf12BJL15
+  rotate: false
+  xy: 751, 708
+  size: 33, 22
+  orig: 104, 33
+  offset: 50, 5
+  index: -1
+KyGameTxtEf04ESYD13
+  rotate: false
+  xy: 709, 320
+  size: 41, 15
+  orig: 104, 33
+  offset: 39, 6
+  index: -1
+KyGameTxtEf12BJL16
+  rotate: false
+  xy: 954, 575
+  size: 28, 22
+  orig: 104, 33
+  offset: 55, 5
+  index: -1
+KyGameTxtEf11YZLH15
+  rotate: false
+  xy: 1191, 213
+  size: 41, 21
+  orig: 104, 33
+  offset: 50, 4
+  index: -1
+KyGameTxtEf12BJL17
+  rotate: false
+  xy: 85, 948
+  size: 22, 22
+  orig: 104, 33
+  offset: 61, 5
+  index: -1
+KyGameTxtEf26DTNN0022
+  rotate: false
+  xy: 1008, 636
+  size: 13, 17
+  orig: 82, 17
+  offset: 69, 0
+  index: -1
+KyGameTxtEf12BJL18
+  rotate: false
+  xy: 1104, 976
+  size: 16, 22
+  orig: 104, 33
+  offset: 67, 5
+  index: -1
+KyGameTxtEf26DTNN0024
+  rotate: false
+  xy: 921, 623
+  size: 4, 3
+  orig: 82, 17
+  offset: 78, 5
+  index: -1
+KyGameTxtEf12BJL19
+  rotate: false
+  xy: 1017, 598
+  size: 11, 19
+  orig: 104, 33
+  offset: 72, 6
+  index: -1
+KyGameTxtEf04EBG21
+  rotate: false
+  xy: 683, 448
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf12BJL20
+  rotate: false
+  xy: 257, 843
+  size: 3, 10
+  orig: 104, 33
+  offset: 78, 9
+  index: -1
+KyGameTxtEf11YZLH00
+  rotate: false
+  xy: 471, 483
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf12BJL21
+  rotate: false
+  xy: 727, 106
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf04ESYD16
+  rotate: false
+  xy: 591, 669
+  size: 39, 20
+  orig: 104, 33
+  offset: 56, 6
+  index: -1
+KyGameTxtEf12BJL22
+  rotate: false
+  xy: 935, 36
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf04ESYD02
+  rotate: false
+  xy: 154, 1008
+  size: 12, 15
+  orig: 104, 33
+  offset: 6, 7
+  index: -1
+KyGameTxtEf12BJL23
+  rotate: false
+  xy: 935, 1
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf07DDZ10
+  rotate: false
+  xy: 980, 395
+  size: 44, 23
+  orig: 104, 33
+  offset: 21, 5
+  index: -1
+KyGameTxtEf13SSS00
+  rotate: false
+  xy: 829, 36
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf07DDZ02
+  rotate: false
+  xy: 1002, 598
+  size: 13, 17
+  orig: 104, 33
+  offset: 6, 9
+  index: -1
+KyGameTxtEf13SSS01
+  rotate: false
+  xy: 177, 59
+  size: 7, 7
+  orig: 104, 33
+  offset: 6, 14
+  index: -1
+KyGameTxtEf11YZLH19
+  rotate: false
+  xy: 849, 955
+  size: 23, 21
+  orig: 104, 33
+  offset: 72, 4
+  index: -1
+KyGameTxtEf13SSS02
+  rotate: false
+  xy: 212, 159
+  size: 14, 12
+  orig: 104, 33
+  offset: 6, 14
+  index: -1
+KyGameTxtEf08BRNN13
+  rotate: false
+  xy: 1444, 24
+  size: 41, 21
+  orig: 104, 33
+  offset: 40, 5
+  index: -1
+KyGameTxtEf13SSS03
+  rotate: false
+  xy: 1014, 983
+  size: 18, 21
+  orig: 104, 33
+  offset: 6, 7
+  index: -1
+KyGameTxtEf06TBNN23
+  rotate: false
+  xy: 833, 106
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf13SSS04
+  rotate: false
+  xy: 823, 958
+  size: 24, 22
+  orig: 104, 33
+  offset: 6, 6
+  index: -1
+KyGameTxtEf09SLWH01
+  rotate: false
+  xy: 746, 857
+  size: 5, 12
+  orig: 104, 33
+  offset: 8, 9
+  index: -1
+KyGameTxtEf13SSS05
+  rotate: false
+  xy: 792, 651
+  size: 30, 23
+  orig: 104, 33
+  offset: 6, 5
+  index: -1
+KyGameTxtEf01ZJH22
+  rotate: false
+  xy: 595, 193
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf13SSS06
+  rotate: false
+  xy: 1070, 423
+  size: 37, 23
+  orig: 104, 33
+  offset: 6, 5
+  index: -1
+KyGameTxtEf03SG16
+  rotate: false
+  xy: 1033, 736
+  size: 9, 16
+  orig: 104, 33
+  offset: 55, 7
+  index: -1
+KyGameTxtEf13SSS07
+  rotate: false
+  xy: 1015, 252
+  size: 41, 23
+  orig: 104, 33
+  offset: 7, 5
+  index: -1
+KyGameTxtEf09SLWH02
+  rotate: false
+  xy: 1002, 617
+  size: 13, 17
+  orig: 104, 33
+  offset: 6, 6
+  index: -1
+KyGameTxtEf13SSS08
+  rotate: false
+  xy: 947, 330
+  size: 41, 23
+  orig: 104, 33
+  offset: 12, 5
+  index: -1
+KyGameTxtEf08BRNN14
+  rotate: false
+  xy: 1068, 275
+  size: 42, 22
+  orig: 104, 33
+  offset: 44, 4
+  index: -1
+KyGameTxtEf13SSS09
+  rotate: false
+  xy: 1399, 72
+  size: 41, 21
+  orig: 104, 33
+  offset: 16, 6
+  index: -1
+KyGameTxtEf06TBNN21
+  rotate: false
+  xy: 964, 708
+  size: 15, 17
+  orig: 104, 33
+  offset: 82, 5
+  index: -1
+KyGameTxtEf13SSS10
+  rotate: false
+  xy: 1403, 121
+  size: 41, 21
+  orig: 104, 33
+  offset: 23, 6
+  index: -1
+KyGameTxtEf27ZJN0006
+  rotate: false
+  xy: 1107, 448
+  size: 26, 21
+  orig: 71, 21
+  offset: 2, 0
+  index: -1
+KyGameTxtEf13SSS11
+  rotate: false
+  xy: 288, 113
+  size: 41, 22
+  orig: 104, 33
+  offset: 28, 6
+  index: -1
+KyGameTxtEf08BRNN23
+  rotate: false
+  xy: 935, 71
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf13SSS12
+  rotate: false
+  xy: 1024, 277
+  size: 42, 22
+  orig: 104, 33
+  offset: 33, 6
+  index: -1
+KyGameTxtEf06TBNN10
+  rotate: false
+  xy: 1132, 167
+  size: 43, 21
+  orig: 104, 33
+  offset: 21, 4
+  index: -1
+KyGameTxtEf13SSS13
+  rotate: false
+  xy: 1359, 49
+  size: 38, 23
+  orig: 104, 33
+  offset: 39, 5
+  index: -1
+KyGameTxtEf26DTNN0020
+  rotate: false
+  xy: 1038, 1006
+  size: 22, 17
+  orig: 82, 17
+  offset: 60, 0
+  index: -1
+KyGameTxtEf13SSS14
+  rotate: false
+  xy: 591, 577
+  size: 35, 23
+  orig: 104, 33
+  offset: 44, 5
+  index: -1
+KyGameTxtEf14JSZJH20
+  rotate: false
+  xy: 85, 540
+  size: 16, 23
+  orig: 104, 33
+  offset: 78, 6
+  index: -1
+KyGameTxtEf13SSS15
+  rotate: false
+  xy: 817, 603
+  size: 30, 23
+  orig: 104, 33
+  offset: 50, 5
+  index: -1
+KyGameTxtEf06TBNN22
+  rotate: false
+  xy: 1163, 333
+  size: 8, 11
+  orig: 104, 33
+  offset: 89, 9
+  index: -1
+KyGameTxtEf06TBNN19
+  rotate: false
+  xy: 898, 713
+  size: 24, 21
+  orig: 104, 33
+  offset: 73, 4
+  index: -1
+KyGameTxtEf06TBNN16
+  rotate: false
+  xy: 682, 986
+  size: 39, 21
+  orig: 104, 33
+  offset: 55, 4
+  index: -1
+KyGameTxtEf13SSS17
+  rotate: false
+  xy: 1034, 959
+  size: 18, 21
+  orig: 104, 33
+  offset: 62, 6
+  index: -1
+KyGameTxtEf26DTNN0015
+  rotate: false
+  xy: 860, 694
+  size: 36, 17
+  orig: 82, 17
+  offset: 37, 0
+  index: -1
+KyGameTxtEf09SLWH00
+  rotate: false
+  xy: 829, 1
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf08BRNN12
+  rotate: false
+  xy: 676, 963
+  size: 39, 21
+  orig: 104, 33
+  offset: 33, 5
+  index: -1
+KyGameTxtEf13SSS19
+  rotate: false
+  xy: 897, 973
+  size: 8, 7
+  orig: 104, 33
+  offset: 71, 7
+  index: -1
+KyGameTxtEf08BRNN11
+  rotate: false
+  xy: 594, 852
+  size: 40, 21
+  orig: 104, 33
+  offset: 29, 5
+  index: -1
+KyGameTxtEf13SSS20
+  rotate: false
+  xy: 1147, 36
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf13SSS18
+  rotate: false
+  xy: 980, 727
+  size: 13, 19
+  orig: 104, 33
+  offset: 67, 6
+  index: -1
+KyGameTxtEf13SSS21
+  rotate: false
+  xy: 621, 106
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf13SSS16
+  rotate: false
+  xy: 1032, 503
+  size: 25, 23
+  orig: 104, 33
+  offset: 55, 5
+  index: -1
+KyGameTxtEf13SSS22
+  rotate: false
+  xy: 617, 71
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf26DTNN0016
+  rotate: false
+  xy: 1043, 537
+  size: 35, 17
+  orig: 82, 17
+  offset: 41, 0
+  index: -1
+KyGameTxtEf13SSS23
+  rotate: false
+  xy: 471, 378
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf04EBG22
+  rotate: false
+  xy: 1147, 1
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf14JSZJH00
+  rotate: false
+  xy: 594, 378
+  size: 104, 33
+  orig: 104, 33
+  offset: 0, 0
+  index: -1
+KyGameTxtEf03SG13
+  rotate: false
+  xy: 870, 713
+  size: 26, 21
+  orig: 104, 33
+  offset: 39, 6
+  index: -1
+KyGameTxtEf14JSZJH01
+  rotate: false
+  xy: 827, 821
+  size: 8, 18
+  orig: 104, 33
+  offset: 7, 10
+  index: -1
+KyGameTxtEf12BJL08
+  rotate: false
+  xy: 940, 176
+  size: 42, 23
+  orig: 104, 33
+  offset: 11, 5
+  index: -1
+KyGameTxtEf14JSZJH02
+  rotate: false
+  xy: 577, 378
+  size: 14, 24
+  orig: 104, 33
+  offset: 6, 5
+  index: -1
+KyGameTxtEf26DTNN0011
+  rotate: false
+  xy: 945, 556
+  size: 37, 17
+  orig: 82, 17
+  offset: 21, 0
+  index: -1
+KyGameFrameLightL08
+  rotate: false
+  xy: 757, 732
+  size: 2, 206
+  orig: 176, 273
+  offset: 165, 35
+  index: -1
+KyGameFrameLight07
+  rotate: false
+  xy: 1, 783
+  size: 107, 80
+  orig: 133, 123
+  offset: 26, 0
+  index: -1
+KyGameFrameLight08
+  rotate: false
+  xy: 103, 540
+  size: 129, 71
+  orig: 133, 123
+  offset: 4, 0
+  index: -1
+KyGameFrameLightL23
+  rotate: false
+  xy: 1, 571
+  size: 100, 137
+  orig: 176, 273
+  offset: 16, 129
+  index: -1
+KyGameFrameLightL02
+  rotate: false
+  xy: 1, 710
+  size: 151, 71
+  orig: 176, 273
+  offset: 16, 195
+  index: -1
+KyGameFrameLightL03
+  rotate: false
+  xy: 1, 301
+  size: 141, 98
+  orig: 176, 273
+  offset: 26, 168
+  index: -1
+KyGameFrameLight16
+  rotate: false
+  xy: 504, 1
+  size: 51, 123
+  orig: 133, 123
+  offset: 0, 0
+  index: -1
+KyGameFrameLightL04
+  rotate: false
+  xy: 337, 625
+  size: 104, 105
+  orig: 176, 273
+  offset: 63, 161
+  index: -1
+KyGameFrameLight20
+  rotate: false
+  xy: 288, 1
+  size: 126, 71
+  orig: 133, 123
+  offset: 0, 52
+  index: -1
+KyGameFrameLight22
+  rotate: false
+  xy: 154, 687
+  size: 127, 71
+  orig: 133, 123
+  offset: 6, 52
+  index: -1
+KyGameFrameLight10
+  rotate: false
+  xy: 103, 613
+  size: 127, 72
+  orig: 133, 123
+  offset: 0, 0
+  index: -1
+KyGameFrameLightL16
+  rotate: false
+  xy: 337, 518
+  size: 104, 105
+  orig: 176, 273
+  offset: 16, 11
+  index: -1
+KyGameFrameLight01
+  rotate: false
+  xy: 387, 732
+  size: 63, 103
+  orig: 133, 123
+  offset: 70, 20
+  index: -1
+KyGameFrameLightL22
+  rotate: false
+  xy: 404, 348
+  size: 65, 168
+  orig: 176, 273
+  offset: 16, 98
+  index: -1
+KyGameFrameLightL10
+  rotate: false
+  xy: 144, 201
+  size: 83, 162
+  orig: 176, 273
+  offset: 84, 11
+  index: -1
+KyGameFrameLightL07
+  rotate: false
+  xy: 110, 783
+  size: 42, 199
+  orig: 176, 273
+  offset: 125, 67
+  index: -1
+KyGameFrameLightL14
+  rotate: false
+  xy: 337, 271
+  size: 151, 75
+  orig: 176, 273
+  offset: 16, 11
+  index: -1
+KyGameFrameLight23
+  rotate: false
+  xy: 154, 926
+  size: 100, 80
+  orig: 133, 123
+  offset: 33, 43
+  index: -1
+KyGameFrameLight06
+  rotate: false
+  xy: 342, 926
+  size: 85, 83
+  orig: 133, 123
+  offset: 48, 0
+  index: -1
+KyGameFrameLight13
+  rotate: false
+  xy: 331, 74
+  size: 81, 103
+  orig: 133, 123
+  offset: 0, 0
+  index: -1
+KyGameFrameLightL13
+  rotate: false
+  xy: 1, 101
+  size: 142, 98
+  orig: 176, 273
+  offset: 25, 11
+  index: -1
+KyGameFrameLight03
+  rotate: false
+  xy: 328, 732
+  size: 57, 123
+  orig: 133, 123
+  offset: 76, 0
+  index: -1
+KyGameFrameLightL20
+  rotate: false
+  xy: 753, 732
+  size: 2, 206
+  orig: 176, 273
+  offset: 16, 36
+  index: -1
+KyGameFrameLightL12
+  rotate: false
+  xy: 490, 271
+  size: 105, 105
+  orig: 176, 273
+  offset: 62, 11
+  index: -1
+KyGameFrameLightL11
+  rotate: false
+  xy: 229, 137
+  size: 100, 132
+  orig: 176, 273
+  offset: 67, 11
+  index: -1
+KyGameFrameLightL15
+  rotate: false
+  xy: 1, 201
+  size: 141, 98
+  orig: 176, 273
+  offset: 16, 11
+  index: -1
+KyGameFrameLight04
+  rotate: false
+  xy: 186, 381
+  size: 74, 123
+  orig: 133, 123
+  offset: 59, 0
+  index: -1
+KyGameFrameLight02
+  rotate: false
+  xy: 429, 843
+  size: 57, 123
+  orig: 133, 123
+  offset: 76, 0
+  index: -1
+KyGameFrameLight09
+  rotate: false
+  xy: 460, 200
+  size: 133, 53
+  orig: 133, 123
+  offset: 0, 0
+  index: -1
+KyGameFrameLight12
+  rotate: false
+  xy: 256, 926
+  size: 84, 84
+  orig: 133, 123
+  offset: 0, 0
+  index: -1
+KyGameFrameLight15
+  rotate: false
+  xy: 262, 381
+  size: 57, 123
+  orig: 133, 123
+  offset: 0, 0
+  index: -1
+KyGameFrameLight17
+  rotate: false
+  xy: 557, 1
+  size: 58, 104
+  orig: 133, 123
+  offset: 0, 19
+  index: -1
+KyGameFrameLight19
+  rotate: false
+  xy: 154, 843
+  size: 101, 81
+  orig: 133, 123
+  offset: 0, 42
+  index: -1
+KyGameFrameLight00
+  rotate: false
+  xy: 331, 179
+  size: 64, 82
+  orig: 133, 123
+  offset: 69, 41
+  index: -1
+KyGameFrameLight14
+  rotate: false
+  xy: 234, 506
+  size: 73, 122
+  orig: 133, 123
+  offset: 0, 0
+  index: -1
+KyGameFrameLightL01
+  rotate: false
+  xy: 1, 1
+  size: 142, 98
+  orig: 176, 273
+  offset: 16, 168
+  index: -1
+KyGameFrameLightL17
+  rotate: false
+  xy: 186, 1
+  size: 100, 134
+  orig: 176, 273
+  offset: 16, 11
+  index: -1
+KyGameFrameLightL00
+  rotate: false
+  xy: 229, 271
+  size: 106, 108
+  orig: 176, 273
+  offset: 15, 159
+  index: -1
+KyGameFrameLightL21
+  rotate: false
+  xy: 283, 630
+  size: 43, 199
+  orig: 176, 273
+  offset: 16, 67
+  index: -1
+KyGameFrameLight21
+  rotate: false
+  xy: 257, 857
+  size: 133, 51
+  orig: 133, 123
+  offset: 0, 72
+  index: -1
+KyGameFrameLight18
+  rotate: false
+  xy: 557, 107
+  size: 62, 84
+  orig: 133, 123
+  offset: 0, 39
+  index: -1
+KyGameFrameLightL05
+  rotate: false
+  xy: 85, 401
+  size: 99, 137
+  orig: 176, 273
+  offset: 68, 129
+  index: -1
+KyGameFrameLightL19
+  rotate: false
+  xy: 460, 1
+  size: 42, 197
+  orig: 176, 273
+  offset: 16, 11
+  index: -1
+KyGameFrameLightL18
+  rotate: false
+  xy: 1, 401
+  size: 82, 168
+  orig: 176, 273
+  offset: 16, 11
+  index: -1
+KyGameFrameLightL09
+  rotate: false
+  xy: 416, 1
+  size: 42, 198
+  orig: 176, 273
+  offset: 125, 11
+  index: -1
+KyGameFrameLightL06
+  rotate: false
+  xy: 337, 348
+  size: 65, 168
+  orig: 176, 273
+  offset: 102, 98
+  index: -1
+KyGameFrameLight05
+  rotate: false
+  xy: 1, 865
+  size: 82, 103
+  orig: 133, 123
+  offset: 51, 0
+  index: -1
+KyGameFrameLight11
+  rotate: false
+  xy: 154, 760
+  size: 106, 81
+  orig: 133, 123
+  offset: 0, 0
+  index: -1
+KyGameTxtEf01QZNN
+  rotate: false
+  xy: 1, 984
+  size: 151, 33
+  orig: 155, 37
+  offset: 3, 3
+  index: -1
+KyGameTxtStar00
+  rotate: false
+  xy: 288, 74
+  size: 37, 37
+  orig: 37, 39
+  offset: 0, 1
+  index: -1

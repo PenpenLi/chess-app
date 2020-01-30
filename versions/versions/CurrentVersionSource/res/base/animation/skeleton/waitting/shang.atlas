@@ -1,0 +1,48 @@
+
+shang.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j1
+  rotate: false
+  xy: 113, 2
+  size: 109, 50
+  orig: 109, 50
+  offset: 0, 0
+  index: -1
+j2
+  rotate: false
+  xy: 224, 2
+  size: 109, 50
+  orig: 109, 50
+  offset: 0, 0
+  index: -1
+j3
+  rotate: false
+  xy: 335, 2
+  size: 109, 50
+  orig: 109, 50
+  offset: 0, 0
+  index: -1
+j4
+  rotate: false
+  xy: 446, 2
+  size: 109, 50
+  orig: 109, 50
+  offset: 0, 0
+  index: -1
+j5
+  rotate: false
+  xy: 557, 2
+  size: 109, 50
+  orig: 109, 50
+  offset: 0, 0
+  index: -1
+j6
+  rotate: false
+  xy: 2, 2
+  size: 109, 50
+  orig: 109, 50
+  offset: 0, 0
+  index: -1

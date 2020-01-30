@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>games/lhd/images/userinfo/ck_geren_b.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{456,1},{196,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{196,45}</string>
+			</dict>
+			<key>games/lhd/images/userinfo/ck_geren_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{675,311}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{675,311}</string>
+			</dict>
+			<key>games/lhd/images/userinfo/ck_geren_bi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{314,409},{41,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{41,43}</string>
+			</dict>
+			<key>games/lhd/images/userinfo/ck_geren_bi_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{450,199},{208,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{208,28}</string>
+			</dict>
+			<key>games/lhd/images/userinfo/ck_geren_dingwei.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{480,348},{22,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{22,27}</string>
+			</dict>
+			<key>games/lhd/images/userinfo/ck_geren_head_di.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{314,141},{132,134}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{132,134}</string>
+			</dict>
+			<key>games/lhd/images/userinfo/ck_geren_head_k.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{314,1},{138,140}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{138,140}</string>
+			</dict>
+			<key>games/lhd/images/userinfo/ck_vip_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{480,199},{91,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{91,30}</string>
+			</dict>
+			<key>games/lhd/images/userinfo/sex_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{480,292},{26,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{26,26}</string>
+			</dict>
+			<key>games/lhd/images/userinfo/sex_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{480,320},{26,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{26,26}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>userinfo.png</string>
+			<key>realTextureFileName</key>
+			<string>userinfo.png</string>
+			<key>size</key>
+			<string>{511,677}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>511</integer>
+			<key>height</key>
+			<integer>677</integer>
+		</dict>
+	</dict>
+</plist>

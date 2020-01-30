@@ -1,0 +1,9 @@
+{
+  "skeleton": {
+    "width": 225,
+    "height": 286,
+    "fps": 12,
+    "hash": " ",
+    "spine": " ",
+    "name": "qznn_hall_effect_4"
+  },"bones":[{"name":"root"},{"name":"高级房","parent":"root"},{"name":"bg","parent":"高级房"},{"y":40,"name":"奖杯","parent":"高级房"},{"y":35,"name":"粒子","parent":"高级房"},{"name":"glow","parent":"高级房"},{"y":-60,"name":"高级房字","parent":"高级房"}],"slots":[{"name":"bg","bone":"bg","attachment":"qznn_hall_card4_bg"},{"name":"粒子","bone":"粒子","blend":"additive","attachment":"粒子"},{"name":"奖杯","bone":"奖杯","attachment":"qznn_hall_card4_bg2"},{"name":"glow","bone":"glow","blend":"additive","attachment":"qznn_hall_card1_guang_0"},{"name":"高级房字","bone":"高级房字","attachment":"qznn_hall_card4_gjf"}],"skins":{"default":{"高级房字":{"qznn_hall_card4_gjf":{"name":"qznn_hall_card4_gjf","width":107,"height":39}},"bg":{"qznn_hall_card4_bg":{"name":"qznn_hall_card4_bg","width":225,"height":277}},"glow":{"qznn_hall_card1_guang_0":{"name":"qznn_hall_card1_guang_0","width":120,"height":106}},"奖杯":{"qznn_hall_card4_bg2":{"name":"qznn_hall_card4_bg2","width":167,"height":149}}}},"animations":{"newAnimation":{"bones":{"glow":{"translate":[{"time":0,"curve":"stepped"},{"time":0.8333,"x":-14.18,"y":10.97},{"time":2.1666,"x":11.55,"y":10.97}],"scale":[{"time":0,"curve":"stepped","x":1,"y":1},{"time":0.8333,"x":0.2,"y":0.5},{"time":1.4166,"x":1,"y":0.5}]}},"slots":{"glow":{"color":[{"time":0,"color":"FFFFFF00"},{"time":0.8333,"color":"FFFFFF00"},{"time":1,"color":"FFFFFFFF"},{"time":1.4167,"color":"FFFFFFFF"},{"time":2.1667,"color":"FFFFFF00"}]}}}}}

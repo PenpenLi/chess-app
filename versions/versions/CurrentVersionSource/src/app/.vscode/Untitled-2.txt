@@ -1,0 +1,89 @@
+ myBankerBetLabel       
+ myPlayerBetLabel       
+ myTieBetLabel          
+ myBankerPairBetLabel   
+ myPlayerPairBetLabel   
+ 
+ myBankerBetNode        
+ myPlayerBetNode        
+ myTieBetNode           
+ myBankerPairBetNode    
+ myPlayerPairBetNode    
+  
+ allBankerBetLabel      
+ allPlayerBetLabel      
+ allTieBetLabel         
+ allBankerPairBetLabel  
+ allPlayerPairBetLabel  
+ 
+ 5-2503
+ mp from: [string ".\app/games/bjl/BjlCore.lua"]:180:
+  in function <[string ".\app/games/bjl/BjlCore.lua"]:178>
+[LUA-print] - "s2cBet" = {
+[LUA-print] -     "_playerid"   = 1018250 
+[LUA-print] -     "buyall"      = 10     //self
+[LUA-print] -     "chouma"      = 196115
+[LUA-print] -     "dirctionall" = 10    //all 
+[LUA-print] -     "direction"   = 5
+[LUA-print] -     "leftbet" = {
+[LUA-print] -         1 = 9999890
+[LUA-print] -         2 = 9999890
+[LUA-print] -         3 = 1249986
+[LUA-print] -         4 = 909080
+[LUA-print] -         5 = 909080
+[LUA-print] -     }
+[LUA-print] -     "odds"        = 10 
+[LUA-print] -     "playerid"    = 1018250 
+[LUA-print] - }
+
+ bankerWinBlinkImg      
+ playerWinBlinkImg      
+ tieWinBlinkImg         
+ bankerPairWinBlinkImg  
+ playerPairWinBlinkImg  
+] [INFO] 收到网络消息，没有找到相应回调[5][2511]
+[LUA-print] dump from: [string ".\app/network/NetConnect.lua"]:291: in function <[string ".\app/network/NetConnect.lua"]:282>
+[LUA-print] - "data" = {
+[LUA-print] -     "_playerid"    = 1018250
+[LUA-print] -     "cache1"       = 0
+[LUA-print] -     "cache2"       = 0
+[LUA-print] -     "cache3"       = 0
+[LUA-print] -     "cache4"       = 0
+[LUA-print] -     "cache5"       = 0
+[LUA-print] -     "dirctionall1" = 0
+[LUA-print] -     "dirctionall2" = 0
+[LUA-print] -     "dirctionall3" = 0
+[LUA-print] -     "dirctionall4" = 0
+[LUA-print] -     "dirctionall5" = 0
+[LUA-print] - }
+
+
+ [INFO] 收到网络消息[5][2504]
+[LUA-print] dump from: [string ".\app/games/bjl/BjlCore.lua"]:373: in function <[string ".\app/games/bjl/BjlCore.lua"]:371>
+[LUA-print] - "s2cShowCard" = {
+[LUA-print] -     "_playerid" = 1018250
+[LUA-print] -     "cards" = {
+[LUA-print] -         1 = {
+[LUA-print] -             "color"  = 5
+[LUA-print] -             "number" = 1
+[LUA-print] -         }
+[LUA-print] -         2 = {
+[LUA-print] -             "color"  = 5
+[LUA-print] -             "number" = 8
+[LUA-print] -         }
+[LUA-print] -         3 = {
+[LUA-print] -             "color"  = 0
+[LUA-print] -             "number" = 0
+[LUA-print] -         }
+[LUA-print] -         4 = {
+[LUA-print] -             "color"  = 4
+[LUA-print] -             "number" = 11
+[LUA-print] -         }
+[LUA-print] -         5 = {
+[LUA-print] -             "color"  = 5
+[LUA-print] -             "number" = 5
+[LUA-print] -         }
+[LUA-print] -         6 = {
+[LUA-print] -             "color"  = 0
+[LUA-print] -             "number" = 0
+[LUA-print] -         }

@@ -1,0 +1,655 @@
+{
+  "skeleton": {
+    "width": 225,
+    "height": 282,
+    "fps": 24,
+    "hash": " ",
+    "spine": " ",
+    "name": "kpqznn_effect_hall_2"
+  },
+  "bones": [
+
+    { "name": "root" },
+    {
+      "x": 20,
+      "y": -6,
+      "name": "effect",
+      "parent": "root"
+    },
+    {
+      "name": "底图",
+      "parent": "root"
+    },
+    {
+      "name": "cap",
+      "parent": "effect"
+    },
+    {
+      "x": -23.9133,
+      "y": 23.8296,
+      "rotation": 36,
+      "name": "poke",
+      "parent": "effect"
+    },
+    {
+      "x": -33.9291,
+      "y": 15.1852,
+      "rotation": 53,
+      "name": "poke1",
+      "parent": "effect"
+    },
+    {
+      "x": -38.0457,
+      "y": 3.4229,
+      "rotation": 74,
+      "name": "poke2",
+      "parent": "effect"
+    },
+    {
+      "x": -30.5953,
+      "y": -38.7049,
+      "name": "coin",
+      "parent": "effect"
+    },
+    {
+      "x": 6.8553,
+      "y": -48.9599,
+      "name": "shadow",
+      "parent": "effect"
+    },
+    {
+      "x": -29.229,
+      "y": 70.6977,
+      "name": "星光",
+      "parent": "effect"
+    },
+    {
+      "x": 19.0908,
+      "y": 2.2431,
+      "scaleX": 0.5,
+      "scaleY": 0.5,
+      "name": "Bubble4",
+      "parent": "cap"
+    },
+    {
+      "x": 19.0908,
+      "y": 2.2431,
+      "scaleX": 0.5,
+      "scaleY": 0.5,
+      "name": "Bubble1",
+      "parent": "cap"
+    },
+    {
+      "x": 19.0908,
+      "y": 2.2431,
+      "scaleX": 0.5,
+      "scaleY": 0.5,
+      "name": "Bubble",
+      "parent": "cap"
+    },
+    {
+      "x": 19.0908,
+      "y": 2.2431,
+      "scaleX": 0.5,
+      "scaleY": 0.5,
+      "name": "Bubble3",
+      "parent": "cap"
+    },
+    {
+      "x": 19.0908,
+      "y": 2.2431,
+      "scaleX": 0.5,
+      "scaleY": 0.5,
+      "name": "Bubble2",
+      "parent": "cap"
+    }
+  ],
+  "slots": [
+
+    {
+      "name": "底图",
+      "bone": "底图",
+      "attachment": "初级房"
+    },
+    {
+      "name": "shadow",
+      "bone": "shadow",
+      "attachment": "投影"
+    },
+    {
+      "name": "poke2",
+      "bone": "poke2",
+      "attachment": "单张牌"
+    },
+    {
+      "name": "poke1",
+      "bone": "poke1",
+      "attachment": "单张牌"
+    },
+    {
+      "name": "poke",
+      "bone": "poke",
+      "attachment": "单张牌"
+    },
+    {
+      "name": "cap",
+      "bone": "cap",
+      "attachment": "可乐"
+    },
+    {
+      "name": "coin",
+      "bone": "coin",
+      "attachment": "金币1"
+    },
+    {
+      "name": "星光",
+      "bone": "星光",
+      "blend": "additive",
+      "attachment": "星光"
+    },
+    {
+      "name": "Bubble",
+      "bone": "Bubble",
+      "color": "6B1F08FF",
+      "blend": "additive",
+      "attachment": "Bubble"
+    },
+    {
+      "name": "Bubble1",
+      "bone": "Bubble1",
+      "color": "6B1F08FF",
+      "blend": "additive",
+      "attachment": "Bubble"
+    },
+    {
+      "name": "Bubble2",
+      "bone": "Bubble2",
+      "color": "6B1F08FF",
+      "blend": "additive",
+      "attachment": "Bubble"
+    },
+    {
+      "name": "Bubble3",
+      "bone": "Bubble3",
+      "color": "6B1F08FF",
+      "blend": "additive",
+      "attachment": "Bubble"
+    },
+    {
+      "name": "Bubble4",
+      "bone": "Bubble4",
+      "color": "6B1F08FF",
+      "blend": "additive",
+      "attachment": "Bubble"
+    }
+  ],
+  "skins": {
+    "default": {
+      "底图": {
+        "初级房": {
+          "name": "初级房",
+          "width": 222,
+          "height": 278
+        }
+      },
+      "Bubble": {
+        "Bubble": {
+          "name": "Bubble",
+          "width": 19,
+          "height": 18
+        }
+      },
+      "Bubble3": {
+        "Bubble": {
+          "name": "Bubble",
+          "width": 19,
+          "height": 18
+        }
+      },
+      "poke": {
+        "单张牌": {
+          "name": "单张牌",
+          "width": 62,
+          "height": 87
+        }
+      },
+      "poke1": {
+        "单张牌": {
+          "name": "单张牌",
+          "width": 62,
+          "height": 87
+        }
+      },
+      "星光": {
+        "星光": {
+          "name": "星光",
+          "width": 48,
+          "height": 54
+        }
+      },
+      "cap": {
+        "可乐": {
+          "name": "可乐",
+          "width": 78,
+          "height": 113
+        }
+      },
+      "Bubble1": {
+        "Bubble": {
+          "name": "Bubble",
+          "width": 19,
+          "height": 18
+        }
+      },
+      "Bubble4": {
+        "Bubble": {
+          "name": "Bubble",
+          "width": 19,
+          "height": 18
+        }
+      },
+      "shadow": {
+        "投影": {
+          "name": "投影",
+          "width": 137,
+          "height": 76
+        }
+      },
+      "Bubble2": {
+        "Bubble": {
+          "name": "Bubble",
+          "width": 19,
+          "height": 18
+        }
+      },
+      "poke2": {
+        "单张牌": {
+          "name": "单张牌",
+          "width": 62,
+          "height": 87
+        }
+      },
+      "coin": {
+        "金币1": {
+          "name": "金币1",
+          "width": 89,
+          "height": 54
+        }
+      }
+    }
+  },
+  "animations": 
+  {
+    "newAnimation": {
+      "bones": {
+        "poke": {
+          "translate": [
+            { "time": 0 },
+            {
+              "time": 1.25,
+              "x": -5.04,
+              "y": 5.56
+            },
+            { "time": 2.5 },
+            {
+              "time": 3.75,
+              "x": -5.04,
+              "y": 5.56
+            },
+            { "time": 5 }
+          ]
+        },
+        "poke1": {
+          "translate": [
+            { "time": 0 },
+            {
+              "time": 1.25,
+              "x": -9.03,
+              "y": 4.52
+            },
+            { "time": 2.5 },
+            {
+              "time": 3.75,
+              "x": -9.03,
+              "y": 4.52
+            },
+            { "time": 5 }
+          ]
+        },
+        "poke2": {
+          "translate": [
+            { "time": 0 },
+            {
+              "time": 1.25,
+              "x": -8.03,
+              "y": 3.4
+            },
+            { "time": 2.5 },
+            {
+              "time": 3.75,
+              "x": -8.03,
+              "y": 3.4
+            },
+            { "time": 5 }
+          ]
+        },
+        "星光": {
+          "translate": [
+            {
+              "time": 0,
+              "x": -26.54,
+              "y": -4.12
+            },
+            {
+              "time": 3.7917,
+              "x": 53.42,
+              "y": -28.32
+            },
+            {
+              "time": 3.9167,
+              "x": 60.81,
+              "y": -25.87
+            },
+            {
+              "time": 4.0834,
+              "x": 63.81,
+              "y": -22.93
+            }
+          ],
+          "rotate": [
+            {
+              "time": 0,
+              "curve": "stepped",
+              "angle": 0
+            },
+            {
+              "time": 3.75,
+              "angle": 20
+            },
+            {
+              "time": 4.0833,
+              "angle": 0
+            }
+          ],
+          "scale": [
+            {
+              "time": 0,
+              "curve": "stepped",
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 3.75,
+              "x": 0.01,
+              "y": 0.01
+            },
+            {
+              "time": 4.0833,
+              "x": 0.8,
+              "y": 0.8
+            }
+          ],
+          "shear": [
+            {
+              "time": 0,
+              "curve": "stepped"
+            },
+            { "time": 3.75 },
+            { "time": 4.0833 }
+          ]
+        },
+        "Bubble": {
+          "translate": [
+            { "time": 0 },
+            {
+              "time": 1.5417,
+              "y": 20.18
+            }
+          ]
+        },
+        "Bubble1": {
+          "translate": [
+            {
+              "time": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.9167,
+              "x": -23.78,
+              "y": 9.6
+            },
+            {
+              "time": 4.5,
+              "x": -23.78,
+              "y": 25.07
+            }
+          ]
+        },
+        "Bubble2": {
+          "translate": [
+            {
+              "time": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.375,
+              "x": -8.23,
+              "y": -9.49
+            },
+            {
+              "time": 2.0417,
+              "x": -8.23,
+              "y": 26.05
+            }
+          ],
+          "scale": [
+            {
+              "time": 0,
+              "curve": "stepped",
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.375,
+              "x": 0.7,
+              "y": 0.7
+            }
+          ]
+        },
+        "Bubble3": {
+          "translate": [
+            {
+              "time": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.5833,
+              "x": -10.38,
+              "y": 10.38
+            },
+            {
+              "time": 4.25,
+              "x": -10.38,
+              "y": 27.62
+            }
+          ]
+        },
+        "Bubble4": {
+          "translate": [
+            {
+              "time": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.4167,
+              "x": 8.14,
+              "y": 9.98
+            },
+            {
+              "time": 3.0834,
+              "x": 8.14,
+              "y": 25.27
+            }
+          ]
+        }
+      },
+      "slots": {
+        "星光": {
+          "color": [
+            {
+              "time": 0,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 3.75,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 3.7917,
+              "color": "FFFFFFFF"
+            },
+            {
+              "time": 4.25,
+              "color": "FFFFFF00"
+            }
+          ]
+        },
+        "Bubble": {
+          "color": [
+            {
+              "time": 0,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 0.375,
+              "color": "E0750D00"
+            },
+            {
+              "time": 0.7917,
+              "color": "E0750DFF"
+            },
+            {
+              "time": 1.3334,
+              "color": "E0750DFF"
+            },
+            {
+              "time": 1.5417,
+              "color": "E0750D00"
+            }
+          ]
+        },
+        "Bubble1": {
+          "color": [
+            {
+              "time": 0,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 2.9167,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 3.2917,
+              "color": "E0750D00"
+            },
+            {
+              "time": 3.7084,
+              "color": "E0750DFF"
+            },
+            {
+              "time": 4.2501,
+              "color": "E0750DFF"
+            },
+            {
+              "time": 4.5001,
+              "color": "E0750D00"
+            }
+          ]
+        },
+        "Bubble2": {
+          "color": [
+            {
+              "time": 0,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 0.375,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 0.7917,
+              "color": "E0750D00"
+            },
+            {
+              "time": 1.2084,
+              "color": "E0750DFF"
+            },
+            {
+              "time": 1.7917,
+              "color": "E0750DFF"
+            },
+            {
+              "time": 2.0417,
+              "color": "E0750D00"
+            }
+          ]
+        },
+        "Bubble3": {
+          "color": [
+            {
+              "time": 0,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 2.5833,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 3,
+              "color": "E0750D00"
+            },
+            {
+              "time": 3.4167,
+              "color": "E0750DFF"
+            },
+            {
+              "time": 4,
+              "color": "E0750DFF"
+            },
+            {
+              "time": 4.25,
+              "color": "E0750D00"
+            }
+          ]
+        },
+        "Bubble4": {
+          "color": [
+            {
+              "time": 0,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 1.4167,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 1.8334,
+              "color": "E0750D00"
+            },
+            {
+              "time": 2.2501,
+              "color": "E0750DFF"
+            },
+            {
+              "time": 2.8334,
+              "color": "E0750DFF"
+            },
+            {
+              "time": 3.0834,
+              "color": "E0750D00"
+            }
+          ]
+        }
+      }
+    }
+  }}

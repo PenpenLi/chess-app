@@ -1,0 +1,833 @@
+{
+  "skeleton": {
+    "width": 284.69,
+    "height": 330.26,
+    "fps": 24,
+    "hash": " ",
+    "spine": " ",
+    "name": "ybqznn_hall_effect_6"
+  },
+  "bones": [
+
+    { "name": "root" },
+    {
+      "x": 0.45,
+      "y": -130.45,
+      "name": "ybnn_hall_room_bg06",
+      "parent": "root"
+    },
+    {
+      "length": 57,
+      "x": -11.45,
+      "y": 5.6,
+      "rotation": 76.0481,
+      "name": "ybnn_ani_room6_01",
+      "parent": "root"
+    },
+    {
+      "length": 28,
+      "x": 56.45,
+      "y": 132.75,
+      "rotation": 39.9744,
+      "name": "ybnn_ani_room6_06",
+      "parent": "root"
+    },
+    {
+      "length": 38,
+      "x": 66.6,
+      "y": 13.6,
+      "rotation": 44.2708,
+      "name": "ybnn_ani_room6_02",
+      "parent": "root"
+    },
+    {
+      "length": 47,
+      "x": -58.2,
+      "y": 69.7,
+      "rotation": 116.3744,
+      "name": "ybnn_ani_room6_03",
+      "parent": "root"
+    },
+    {
+      "length": 57,
+      "x": -64.8,
+      "y": 45.65,
+      "rotation": 130.8442,
+      "name": "ybnn_ani_room6_04",
+      "parent": "root"
+    },
+    {
+      "length": 44,
+      "x": -70.05,
+      "y": 32.05,
+      "rotation": 148.1593,
+      "name": "ybnn_ani_room6_05",
+      "parent": "root"
+    },
+    {
+      "length": 11,
+      "x": 59.4177,
+      "y": 0.4837,
+      "rotation": 12.9243,
+      "scaleX": 1.0968,
+      "scaleY": 1.0968,
+      "name": "baoshiguang00011",
+      "parent": "ybnn_ani_room6_01"
+    },
+    {
+      "length": 29,
+      "x": 96.3811,
+      "y": -1.8154,
+      "rotation": 0.4073,
+      "name": "ybnn_ani_room6_08",
+      "parent": "ybnn_ani_room6_01"
+    },
+    {
+      "length": 26,
+      "x": -54.0451,
+      "y": -21.9791,
+      "rotation": 13.9519,
+      "name": "lg0001",
+      "parent": "ybnn_ani_room6_01"
+    },
+    {
+      "length": 11,
+      "x": 12.866,
+      "y": -1.8585,
+      "rotation": 12.5169,
+      "name": "baoshiguang0001",
+      "parent": "ybnn_ani_room6_08"
+    }
+  ],
+  "slots": [
+
+    {
+      "name": "ybnn_hall_room_bg06",
+      "bone": "ybnn_hall_room_bg06",
+      "attachment": "ybnn_hall_room_bg06"
+    },
+    {
+      "name": "ybnn_ani_room6_07",
+      "bone": "ybnn_ani_room6_08",
+      "attachment": "ybnn_ani_room6_07"
+    },
+    {
+      "name": "ybnn_ani_room6_06",
+      "bone": "ybnn_ani_room6_06",
+      "attachment": "ybnn_ani_room6_06"
+    },
+    {
+      "name": "ybnn_ani_room6_05",
+      "bone": "ybnn_ani_room6_05",
+      "attachment": "ybnn_ani_room6_05"
+    },
+    {
+      "name": "ybnn_ani_room6_04",
+      "bone": "ybnn_ani_room6_04",
+      "attachment": "ybnn_ani_room6_04"
+    },
+    {
+      "name": "ybnn_ani_room6_03",
+      "bone": "ybnn_ani_room6_03",
+      "attachment": "ybnn_ani_room6_03"
+    },
+    {
+      "name": "ybnn_ani_room6_02",
+      "bone": "ybnn_ani_room6_02",
+      "attachment": "ybnn_ani_room6_02"
+    },
+    {
+      "name": "ybnn_ani_room6_01",
+      "bone": "ybnn_ani_room6_01",
+      "attachment": "ybnn_ani_room6_01"
+    },
+    {
+      "name": "ybnn_ani_room6_08",
+      "bone": "ybnn_ani_room6_08",
+      "attachment": "ybnn_ani_room6_08"
+    },
+    {
+      "name": "baoshiguang0001",
+      "bone": "baoshiguang0001",
+      "blend": "additive",
+      "attachment": "baoshiguang0001"
+    },
+    {
+      "name": "baoshiguang00011",
+      "bone": "baoshiguang00011",
+      "blend": "additive",
+      "attachment": "baoshiguang0001"
+    },
+    {
+      "name": "wang",
+      "bone": "ybnn_ani_room6_01",
+      "blend": "additive",
+      "attachment": "wang"
+    },
+    {
+      "name": "ybnn_hall_room_name06",
+      "bone": "ybnn_hall_room_bg06",
+      "attachment": "ybnn_hall_room_name06"
+    },
+    {
+      "name": "ybnn_ani_light",
+      "bone": "ybnn_ani_room6_08",
+      "blend": "additive",
+      "attachment": "ybnn_ani_light"
+    },
+    {
+      "name": "ybnn_ani_light1",
+      "bone": "ybnn_hall_room_bg06",
+      "color": "FFFFFF70",
+      "blend": "additive",
+      "attachment": "ybnn_ani_light"
+    },
+    {
+      "name": "lg0001",
+      "bone": "lg0001",
+      "blend": "additive",
+      "attachment": "lg0001"
+    }
+  ],
+  "skins": 
+  {
+    "default": {
+      "lg0001": {
+        "lg0013": {
+          "name": "lg0013",
+          "width": 143,
+          "height": 178,
+          "x": 52.15,
+          "y": -3.15,
+          "rotation": -90
+        },
+        "lg0012": {
+          "name": "lg0012",
+          "width": 143,
+          "height": 173,
+          "x": 52.15,
+          "y": -3.15,
+          "rotation": -90
+        },
+        "lg0011": {
+          "name": "lg0011",
+          "width": 136,
+          "height": 173,
+          "x": 52.15,
+          "y": -3.15,
+          "rotation": -90
+        },
+        "lg0010": {
+          "name": "lg0010",
+          "width": 129,
+          "height": 175,
+          "x": 52.15,
+          "y": -3.15,
+          "rotation": -90
+        },
+        "lg0009": {
+          "name": "lg0009",
+          "width": 142,
+          "height": 170,
+          "x": 52.15,
+          "y": -3.15,
+          "rotation": -90
+        },
+        "lg0008": {
+          "name": "lg0008",
+          "width": 159,
+          "height": 169,
+          "x": 52.15,
+          "y": -3.15,
+          "rotation": -90
+        },
+        "lg0007": {
+          "name": "lg0007",
+          "width": 150,
+          "height": 175,
+          "x": 52.15,
+          "y": -3.15,
+          "rotation": -90
+        },
+        "lg0006": {
+          "name": "lg0006",
+          "width": 147,
+          "height": 175,
+          "x": 52.15,
+          "y": -3.15,
+          "rotation": -90
+        },
+        "lg0005": {
+          "name": "lg0005",
+          "width": 142,
+          "height": 167,
+          "x": 52.15,
+          "y": -3.15,
+          "rotation": -90
+        },
+        "lg0004": {
+          "name": "lg0004",
+          "width": 135,
+          "height": 174,
+          "x": 52.15,
+          "y": -3.15,
+          "rotation": -90
+        },
+        "lg0003": {
+          "name": "lg0003",
+          "width": 138,
+          "height": 173,
+          "x": 52.15,
+          "y": -3.15,
+          "rotation": -90
+        },
+        "lg0002": {
+          "name": "lg0002",
+          "width": 140,
+          "height": 175,
+          "x": 52.15,
+          "y": -3.15,
+          "rotation": -90
+        },
+        "lg0001": {
+          "name": "lg0001",
+          "width": 139,
+          "height": 180,
+          "x": 52.15,
+          "y": -3.15,
+          "rotation": -90
+        }
+      },
+      "ybnn_ani_room6_02": {
+        "ybnn_ani_room6_02": {
+          "name": "ybnn_ani_room6_02",
+          "width": 68,
+          "height": 61,
+          "x": 18.62,
+          "y": 1.37,
+          "rotation": -44.27
+        }
+      },
+      "ybnn_ani_room6_05": {
+        "ybnn_ani_room6_05": {
+          "name": "ybnn_ani_room6_05",
+          "width": 87,
+          "height": 75,
+          "x": 16.5,
+          "y": -10.61,
+          "rotation": -148.16
+        }
+      },
+      "ybnn_hall_room_bg06": {
+        "ybnn_hall_room_bg06": {
+          "name": "ybnn_hall_room_bg06",
+          "width": 242,
+          "height": 293,
+          "x": -0.45,
+          "y": 130.45
+        }
+      },
+      "ybnn_ani_room6_01": {
+        "ybnn_ani_room6_01": {
+          "name": "ybnn_ani_room6_01",
+          "width": 195,
+          "height": 183,
+          "x": 24.63,
+          "y": 0.56,
+          "rotation": -76.05
+        }
+      },
+      "ybnn_ani_light1": {
+        "ybnn_ani_light": {
+          "name": "ybnn_ani_light",
+          "width": 234,
+          "height": 92,
+          "x": 31.7,
+          "y": 86.63
+        }
+      },
+      "baoshiguang0001": {
+        "baoshiguang0025": {
+          "name": "baoshiguang0025",
+          "width": 27,
+          "height": 28,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0024": {
+          "name": "baoshiguang0024",
+          "width": 27,
+          "height": 28,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0023": {
+          "name": "baoshiguang0023",
+          "width": 28,
+          "height": 28,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0022": {
+          "name": "baoshiguang0022",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0021": {
+          "name": "baoshiguang0021",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0020": {
+          "name": "baoshiguang0020",
+          "width": 28,
+          "height": 28,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0019": {
+          "name": "baoshiguang0019",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0018": {
+          "name": "baoshiguang0018",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0017": {
+          "name": "baoshiguang0017",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0016": {
+          "name": "baoshiguang0016",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0015": {
+          "name": "baoshiguang0015",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0014": {
+          "name": "baoshiguang0014",
+          "width": 29,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0013": {
+          "name": "baoshiguang0013",
+          "width": 29,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0012": {
+          "name": "baoshiguang0012",
+          "width": 29,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0011": {
+          "name": "baoshiguang0011",
+          "width": 29,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0010": {
+          "name": "baoshiguang0010",
+          "width": 29,
+          "height": 28,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0009": {
+          "name": "baoshiguang0009",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0008": {
+          "name": "baoshiguang0008",
+          "width": 29,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0007": {
+          "name": "baoshiguang0007",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0006": {
+          "name": "baoshiguang0006",
+          "width": 28,
+          "height": 28,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0005": {
+          "name": "baoshiguang0005",
+          "width": 28,
+          "height": 28,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0004": {
+          "name": "baoshiguang0004",
+          "width": 28,
+          "height": 28,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0003": {
+          "name": "baoshiguang0003",
+          "width": 28,
+          "height": 28,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0002": {
+          "name": "baoshiguang0002",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0001": {
+          "name": "baoshiguang0001",
+          "width": 27,
+          "height": 28,
+          "x": 7.19,
+          "y": -1.52,
+          "rotation": -102
+        }
+      },
+      "ybnn_ani_room6_07": {
+        "ybnn_ani_room6_07": {
+          "name": "ybnn_ani_room6_07",
+          "width": 119,
+          "height": 46,
+          "x": -6.06,
+          "y": -0.92,
+          "rotation": -76.46
+        }
+      },
+      "ybnn_hall_room_name06": {
+        "ybnn_hall_room_name06": {
+          "name": "ybnn_hall_room_name06",
+          "width": 199,
+          "height": 89,
+          "x": -23.07,
+          "y": 48.09
+        }
+      },
+      "ybnn_ani_room6_03": {
+        "ybnn_ani_room6_03": {
+          "name": "ybnn_ani_room6_03",
+          "width": 80,
+          "height": 78,
+          "x": 24.42,
+          "y": 1.11,
+          "rotation": -116.37
+        }
+      },
+      "wang": {
+        "wang": {
+          "name": "wang",
+          "width": 55,
+          "height": 56,
+          "x": 24.37,
+          "y": 0.69,
+          "rotation": -76.05
+        }
+      },
+      "baoshiguang00011": {
+        "baoshiguang0025": {
+          "name": "baoshiguang0025",
+          "width": 27,
+          "height": 28,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0024": {
+          "name": "baoshiguang0024",
+          "width": 27,
+          "height": 28,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0023": {
+          "name": "baoshiguang0023",
+          "width": 28,
+          "height": 28,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0022": {
+          "name": "baoshiguang0022",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0021": {
+          "name": "baoshiguang0021",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0020": {
+          "name": "baoshiguang0020",
+          "width": 28,
+          "height": 28,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0019": {
+          "name": "baoshiguang0019",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0018": {
+          "name": "baoshiguang0018",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0017": {
+          "name": "baoshiguang0017",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0016": {
+          "name": "baoshiguang0016",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0015": {
+          "name": "baoshiguang0015",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0014": {
+          "name": "baoshiguang0014",
+          "width": 29,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0013": {
+          "name": "baoshiguang0013",
+          "width": 29,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0012": {
+          "name": "baoshiguang0012",
+          "width": 29,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0011": {
+          "name": "baoshiguang0011",
+          "width": 29,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0010": {
+          "name": "baoshiguang0010",
+          "width": 29,
+          "height": 28,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0009": {
+          "name": "baoshiguang0009",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0008": {
+          "name": "baoshiguang0008",
+          "width": 29,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0007": {
+          "name": "baoshiguang0007",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0006": {
+          "name": "baoshiguang0006",
+          "width": 28,
+          "height": 28,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0005": {
+          "name": "baoshiguang0005",
+          "width": 28,
+          "height": 28,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0004": {
+          "name": "baoshiguang0004",
+          "width": 28,
+          "height": 28,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0003": {
+          "name": "baoshiguang0003",
+          "width": 28,
+          "height": 28,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0002": {
+          "name": "baoshiguang0002",
+          "width": 28,
+          "height": 29,
+          "x": 7.4,
+          "y": -0.07,
+          "rotation": -88.97
+        },
+        "baoshiguang0001": {
+          "name": "baoshiguang0001",
+          "width": 27,
+          "height": 28,
+          "x": 7.19,
+          "y": -1.52,
+          "rotation": -102
+        }
+      },
+      "ybnn_ani_room6_04": {
+        "ybnn_ani_room6_04": {
+          "name": "ybnn_ani_room6_04",
+          "width": 87,
+          "height": 78,
+          "x": 26.7,
+          "y": -3.54,
+          "rotation": -130.84
+        }
+      },
+      "ybnn_ani_room6_08": {
+        "ybnn_ani_room6_08": {
+          "name": "ybnn_ani_room6_08",
+          "width": 149,
+          "height": 92,
+          "x": 18.61,
+          "y": -2.63,
+          "rotation": -76.46
+        }
+      },
+      "ybnn_ani_room6_06": {
+        "ybnn_ani_room6_06": {
+          "name": "ybnn_ani_room6_06",
+          "width": 49,
+          "height": 40,
+          "x": 16.23,
+          "y": -2.45,
+          "rotation": -39.97
+        }
+      },
+      "ybnn_ani_light": {
+        "ybnn_ani_light": {
+          "name": "ybnn_ani_light",
+          "width": 234,
+          "height": 92,
+          "x": 36,
+          "y": -23.24,
+          "rotation": -76.46
+        }
+      }
+    }
+  },"animations":{"newAnimation":{"bones":{"ybnn_ani_room6_01":{"translate":[{"time":0,"x":1.16,"y":3.47},{"time":1.6667,"x":-0.58,"y":-2.31},{"time":2.6667,"x":0.48,"y":1.21},{"time":3.3334,"x":1.16,"y":3.47}]},"ybnn_ani_room6_06":{"translate":[{"time":0,"x":-1.54,"y":-1.33},{"time":0.5417},{"time":2.2084,"x":-4.61,"y":-3.99},{"time":3.3334,"x":-1.54,"y":-1.33}],"rotate":[{"time":0,"angle":-1.21},{"time":0.8333,"angle":0},{"time":2.5,"angle":-2.42},{"time":3.3333,"angle":-1.21}],"shear":[{"time":0},{"time":0.8333},{"time":2.5},{"time":3.3333}]},"ybnn_ani_room6_02":{"translate":[{"time":0,"x":3.68,"y":3.38},{"time":1.6667},{"time":3.3334,"x":3.68,"y":3.38}],"rotate":[{"time":0,"angle":2.75},{"time":0.2917,"angle":3.29},{"time":1.9584,"angle":0},{"time":3.3334,"angle":2.75}],"shear":[{"time":0},{"time":0.2917},{"time":1.9584},{"time":3.3334}]},"ybnn_ani_room6_03":{"translate":[{"time":0,"x":-1.06,"y":2.65},{"time":0.5417,"x":-1.59,"y":3.98},{"time":2.2084},{"time":3.3334,"x":-1.06,"y":2.65}],"rotate":[{"time":0,"angle":0.55},{"time":1.125,"angle":1.65},{"time":2.7917,"angle":0},{"time":3.3334,"angle":0.55}],"shear":[{"time":0},{"time":1.125},{"time":2.7917},{"time":3.3334}]},"ybnn_ani_room6_04":{"translate":[{"time":0},{"time":1.6667,"x":-1.99,"y":3.58},{"time":3.3334}],"rotate":[{"time":0,"angle":-0.33},{"time":0.2917,"angle":0},{"time":1.9584,"angle":-1.99},{"time":3.3334,"angle":-0.33}],"shear":[{"time":0},{"time":0.2917},{"time":1.9584},{"time":3.3334}]},"ybnn_ani_room6_05":{"translate":[{"time":0,"x":-1.59,"y":1.06},{"time":1.125},{"time":2.7917,"x":-2.39,"y":1.59},{"time":3.3334,"x":-1.59,"y":1.06}],"rotate":[{"time":0,"angle":1.3},{"time":0.8333,"angle":0},{"time":2.5,"angle":2.59},{"time":3.3333,"angle":1.3}],"shear":[{"time":0},{"time":0.8333},{"time":2.5},{"time":3.3333}]},"ybnn_ani_room6_08":{"translate":[{"time":0,"x":2.79,"y":-0.36},{"time":0.125,"x":3.09,"y":-0.43},{"time":1.7917,"x":-0.82,"y":0.47},{"time":3.3334,"x":2.79,"y":-0.36}]},"lg0001":{"translate":[{"time":0,"x":178.85,"y":41.54}],"rotate":[{"time":0,"angle":-178.52}],"scale":[{"time":0,"x":1.57,"y":1.57}],"shear":[{"time":0}]}},"slots":{"ybnn_ani_light":{"color":[{"time":0,"color":"FFFFFF7F"},{"time":0.8333,"color":"FFFFFF36"},{"time":1.6666,"color":"FFFFFF7F"},{"time":2.4999,"color":"FFFFFF36"},{"time":3.3332,"color":"FFFFFF7F"}]},"lg0001":{"attachment":[{"time":0,"name":"lg0001"},{"time":0.0833,"name":"lg0002"},{"time":0.1666,"name":"lg0003"},{"time":0.2499,"name":"lg0004"},{"time":0.3332,"name":"lg0005"},{"time":0.4165,"name":"lg0006"},{"time":0.4998,"name":"lg0007"},{"time":0.5831,"name":"lg0008"},{"time":0.6664,"name":"lg0009"},{"time":0.7497,"name":"lg0010"},{"time":0.833,"name":"lg0011"},{"time":0.958,"name":"lg0012"},{"time":1.0413,"name":"lg0013"},{"time":1.1246,"name":"lg0001"},{"time":1.2079,"name":"lg0002"},{"time":1.2912,"name":"lg0003"},{"time":1.3745,"name":"lg0004"},{"time":1.4578,"name":"lg0005"},{"time":1.5411,"name":"lg0006"},{"time":1.6244,"name":"lg0007"},{"time":1.7077,"name":"lg0008"},{"time":1.791,"name":"lg0009"},{"time":1.8743,"name":"lg0010"},{"time":1.9576,"name":"lg0011"},{"time":2.0409,"name":"lg0012"},{"time":2.1242,"name":"lg0013"},{"time":2.2075,"name":"lg0001"},{"time":2.2908,"name":"lg0002"},{"time":2.3741,"name":"lg0003"},{"time":2.4574,"name":"lg0004"},{"time":2.5407,"name":"lg0005"},{"time":2.6657,"name":"lg0006"},{"time":2.749,"name":"lg0007"},{"time":2.8323,"name":"lg0008"},{"time":2.9156,"name":"lg0009"},{"time":2.9989,"name":"lg0010"},{"time":3.0822,"name":"lg0011"},{"time":3.1655,"name":"lg0012"},{"time":3.2488,"name":"lg0013"}]},"baoshiguang0001":{"attachment":[{"time":0,"name":"baoshiguang0001"},{"time":0.0417,"name":"baoshiguang0002"},{"time":0.0834,"name":"baoshiguang0003"},{"time":0.1251,"name":"baoshiguang0004"},{"time":0.1668,"name":"baoshiguang0005"},{"time":0.2085,"name":"baoshiguang0006"},{"time":0.2502,"name":"baoshiguang0007"},{"time":0.3335,"name":"baoshiguang0008"},{"time":0.3752,"name":"baoshiguang0009"},{"time":0.4169,"name":"baoshiguang0010"},{"time":0.4586,"name":"baoshiguang0011"},{"time":0.5003,"name":"baoshiguang0012"},{"time":0.542,"name":"baoshiguang0013"},{"time":0.5837,"name":"baoshiguang0014"},{"time":0.6254,"name":"baoshiguang0015"},{"time":0.6671,"name":"baoshiguang0016"},{"time":0.7088,"name":"baoshiguang0017"},{"time":0.7505,"name":"baoshiguang0018"},{"time":0.7922,"name":"baoshiguang0019"},{"time":0.8339,"name":"baoshiguang0020"},{"time":0.9172,"name":"baoshiguang0021"},{"time":0.9589,"name":"baoshiguang0022"},{"time":1.0006,"name":"baoshiguang0023"},{"time":1.0423,"name":"baoshiguang0024"},{"time":1.084,"name":"baoshiguang0025"},{"time":1.1257,"name":"baoshiguang0001"},{"time":1.1674,"name":"baoshiguang0002"},{"time":1.2091,"name":"baoshiguang0003"},{"time":1.2508,"name":"baoshiguang0004"},{"time":1.2925,"name":"baoshiguang0005"},{"time":1.3342,"name":"baoshiguang0006"},{"time":1.3759,"name":"baoshiguang0007"},{"time":1.4176,"name":"baoshiguang0008"},{"time":1.5009,"name":"baoshiguang0009"},{"time":1.5426,"name":"baoshiguang0010"},{"time":1.5843,"name":"baoshiguang0011"},{"time":1.626,"name":"baoshiguang0012"},{"time":1.6677,"name":"baoshiguang0013"},{"time":1.7094,"name":"baoshiguang0014"},{"time":1.7511,"name":"baoshiguang0015"},{"time":1.7928,"name":"baoshiguang0016"},{"time":1.8345,"name":"baoshiguang0017"},{"time":1.8762,"name":"baoshiguang0018"},{"time":1.9179,"name":"baoshiguang0019"},{"time":1.9596,"name":"baoshiguang0020"},{"time":2.0429,"name":"baoshiguang0021"},{"time":2.0846,"name":"baoshiguang0022"},{"time":2.1263,"name":"baoshiguang0023"},{"time":2.168,"name":"baoshiguang0024"},{"time":2.2097,"name":"baoshiguang0025"},{"time":2.2514,"name":"baoshiguang0001"},{"time":2.2931,"name":"baoshiguang0002"},{"time":2.3348,"name":"baoshiguang0003"},{"time":2.3765,"name":"baoshiguang0004"},{"time":2.4182,"name":"baoshiguang0005"},{"time":2.4599,"name":"baoshiguang0006"},{"time":2.5016,"name":"baoshiguang0007"},{"time":2.5433,"name":"baoshiguang0008"},{"time":2.6266,"name":"baoshiguang0009"},{"time":2.6683,"name":"baoshiguang0010"},{"time":2.71,"name":"baoshiguang0011"},{"time":2.7517,"name":"baoshiguang0012"},{"time":2.7934,"name":"baoshiguang0013"},{"time":2.8351,"name":"baoshiguang0014"},{"time":2.8768,"name":"baoshiguang0015"},{"time":2.9185,"name":"baoshiguang0016"},{"time":2.9602,"name":"baoshiguang0017"},{"time":3.0019,"name":"baoshiguang0018"},{"time":3.0436,"name":"baoshiguang0019"},{"time":3.0853,"name":"baoshiguang0020"},{"time":3.127,"name":"baoshiguang0021"},{"time":3.2103,"name":"baoshiguang0022"},{"time":3.252,"name":"baoshiguang0023"},{"time":3.2937,"name":"baoshiguang0024"},{"time":3.3354,"name":"baoshiguang0025"}]},"baoshiguang00011":{"attachment":[{"time":0,"name":"baoshiguang0001"},{"time":0.0417,"name":"baoshiguang0002"},{"time":0.0834,"name":"baoshiguang0003"},{"time":0.1251,"name":"baoshiguang0004"},{"time":0.1668,"name":"baoshiguang0005"},{"time":0.2085,"name":"baoshiguang0006"},{"time":0.2502,"name":"baoshiguang0007"},{"time":0.3335,"name":"baoshiguang0008"},{"time":0.3752,"name":"baoshiguang0009"},{"time":0.4169,"name":"baoshiguang0010"},{"time":0.4586,"name":"baoshiguang0011"},{"time":0.5003,"name":"baoshiguang0012"},{"time":0.542,"name":"baoshiguang0013"},{"time":0.5837,"name":"baoshiguang0014"},{"time":0.6254,"name":"baoshiguang0015"},{"time":0.6671,"name":"baoshiguang0016"},{"time":0.7088,"name":"baoshiguang0017"},{"time":0.7505,"name":"baoshiguang0018"},{"time":0.7922,"name":"baoshiguang0019"},{"time":0.8339,"name":"baoshiguang0020"},{"time":0.9172,"name":"baoshiguang0021"},{"time":0.9589,"name":"baoshiguang0022"},{"time":1.0006,"name":"baoshiguang0023"},{"time":1.0423,"name":"baoshiguang0024"},{"time":1.084,"name":"baoshiguang0025"},{"time":1.1257,"name":"baoshiguang0001"},{"time":1.1674,"name":"baoshiguang0002"},{"time":1.2091,"name":"baoshiguang0003"},{"time":1.2508,"name":"baoshiguang0004"},{"time":1.2925,"name":"baoshiguang0005"},{"time":1.3342,"name":"baoshiguang0006"},{"time":1.3759,"name":"baoshiguang0007"},{"time":1.4176,"name":"baoshiguang0008"},{"time":1.5009,"name":"baoshiguang0009"},{"time":1.5426,"name":"baoshiguang0010"},{"time":1.5843,"name":"baoshiguang0011"},{"time":1.626,"name":"baoshiguang0012"},{"time":1.6677,"name":"baoshiguang0013"},{"time":1.7094,"name":"baoshiguang0014"},{"time":1.7511,"name":"baoshiguang0015"},{"time":1.7928,"name":"baoshiguang0016"},{"time":1.8345,"name":"baoshiguang0017"},{"time":1.8762,"name":"baoshiguang0018"},{"time":1.9179,"name":"baoshiguang0019"},{"time":1.9596,"name":"baoshiguang0020"},{"time":2.0429,"name":"baoshiguang0021"},{"time":2.0846,"name":"baoshiguang0022"},{"time":2.1263,"name":"baoshiguang0023"},{"time":2.168,"name":"baoshiguang0024"},{"time":2.2097,"name":"baoshiguang0025"},{"time":2.2514,"name":"baoshiguang0001"},{"time":2.2931,"name":"baoshiguang0002"},{"time":2.3348,"name":"baoshiguang0003"},{"time":2.3765,"name":"baoshiguang0004"},{"time":2.4182,"name":"baoshiguang0005"},{"time":2.4599,"name":"baoshiguang0006"},{"time":2.5016,"name":"baoshiguang0007"},{"time":2.5433,"name":"baoshiguang0008"},{"time":2.6266,"name":"baoshiguang0009"},{"time":2.6683,"name":"baoshiguang0010"},{"time":2.71,"name":"baoshiguang0011"},{"time":2.7517,"name":"baoshiguang0012"},{"time":2.7934,"name":"baoshiguang0013"},{"time":2.8351,"name":"baoshiguang0014"},{"time":2.8768,"name":"baoshiguang0015"},{"time":2.9185,"name":"baoshiguang0016"},{"time":2.9602,"name":"baoshiguang0017"},{"time":3.0019,"name":"baoshiguang0018"},{"time":3.0436,"name":"baoshiguang0019"},{"time":3.0853,"name":"baoshiguang0020"},{"time":3.127,"name":"baoshiguang0021"},{"time":3.2103,"name":"baoshiguang0022"},{"time":3.252,"name":"baoshiguang0023"},{"time":3.2937,"name":"baoshiguang0024"},{"time":3.3354,"name":"baoshiguang0025"}]},"wang":{"color":[{"time":0,"color":"FFFFFF00"},{"time":0.8333,"color":"FFFFFFCC"},{"time":1.6666,"color":"FFFFFFCC"},{"time":2.4999,"color":"FFFFFF00"}]}}}}}

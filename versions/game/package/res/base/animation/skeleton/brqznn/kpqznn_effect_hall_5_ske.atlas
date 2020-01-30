@@ -1,0 +1,41 @@
+
+kpqznn_effect_hall_5_ske.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+金币
+  rotate: false
+  xy: 1, 1
+  size: 146, 113
+  orig: 146, 121
+  offset: 0, 0
+  index: -1
+角
+  rotate: false
+  xy: 1, 116
+  size: 42, 46
+  orig: 50, 50
+  offset: 2, 2
+  index: -1
+盾牌
+  rotate: false
+  xy: 149, 103
+  size: 90, 109
+  orig: 132, 120
+  offset: 21, 4
+  index: -1
+star
+  rotate: false
+  xy: 149, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+金币2
+  rotate: false
+  xy: 1, 214
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1

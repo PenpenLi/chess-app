@@ -1,0 +1,34 @@
+
+ying_da.png
+size: 373,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+win_dianguang
+  rotate: true
+  xy: 263, 67
+  size: 213, 108
+  orig: 213, 108
+  offset: 0, 0
+  index: -1
+win_guang
+  rotate: false
+  xy: 2, 9
+  size: 242, 140
+  orig: 242, 140
+  offset: 0, 0
+  index: -1
+win_star
+  rotate: false
+  xy: 246, 2
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+win_touxaingguang
+  rotate: false
+  xy: 2, 151
+  size: 259, 129
+  orig: 263, 154
+  offset: 4, 0
+  index: -1

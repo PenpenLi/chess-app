@@ -1,0 +1,14 @@
+<array>
+	<!-- 海浪 -->
+	<dict>
+		<key>name</key>		<string>Cloud</string>
+		<key>format</key>	<string>Cloud%d.png</string>
+		<key>delay</key>	<string>0.3</string>
+		<key>frames</key>
+		<array>
+			<string>0,1</string>
+			<string>1,1</string>
+		</array>
+	</dict>
+
+</array>

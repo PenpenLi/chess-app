@@ -1,0 +1,62 @@
+
+defen.png
+size: 579,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bullet_bomb_cell-b003
+  rotate: false
+  xy: 196, 2
+  size: 56, 57
+  orig: 57, 57
+  offset: 1, 0
+  index: -1
+c1
+  rotate: false
+  xy: 254, 12
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 360, 89
+  size: 119, 115
+  orig: 119, 115
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 196, 61
+  size: 162, 143
+  orig: 162, 143
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 481, 108
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 2, 12
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+d4
+  rotate: false
+  xy: 481, 10
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+ds2
+  rotate: false
+  xy: 360, 8
+  size: 79, 79
+  orig: 84, 80
+  offset: 2, 0
+  index: -1

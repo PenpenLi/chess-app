@@ -1,0 +1,97 @@
+
+bjl_game_effect_zhuangwin_ske.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+光芒2_00000
+  rotate: false
+  xy: 1, 1
+  size: 488, 439
+  orig: 512, 512
+  offset: 22, 24
+  index: -1
+effect_Result_bg
+  rotate: false
+  xy: 1, 442
+  size: 422, 134
+  orig: 422, 134
+  offset: 0, 0
+  index: -1
+effect_Result_Chip01
+  rotate: false
+  xy: 306, 578
+  size: 96, 49
+  orig: 96, 49
+  offset: 0, 0
+  index: -1
+effect_Result_Chip02
+  rotate: false
+  xy: 399, 629
+  size: 91, 47
+  orig: 91, 47
+  offset: 0, 0
+  index: -1
+effect_Result_Chip03
+  rotate: false
+  xy: 404, 578
+  size: 89, 47
+  orig: 89, 47
+  offset: 0, 0
+  index: -1
+effect_Result_Chip04
+  rotate: false
+  xy: 306, 679
+  size: 92, 47
+  orig: 92, 47
+  offset: 0, 0
+  index: -1
+effect_Result_Chip06
+  rotate: false
+  xy: 306, 629
+  size: 91, 48
+  orig: 91, 48
+  offset: 0, 0
+  index: -1
+effect_Result_Chip05
+  rotate: false
+  xy: 400, 678
+  size: 90, 46
+  orig: 90, 46
+  offset: 0, 0
+  index: -1
+effect_Result_Zhuang
+  rotate: false
+  xy: 1, 734
+  size: 152, 151
+  orig: 152, 151
+  offset: 0, 0
+  index: -1
+effect_Result_Xian
+  rotate: false
+  xy: 162, 578
+  size: 142, 154
+  orig: 142, 154
+  offset: 0, 0
+  index: -1
+effect_Result_He
+  rotate: false
+  xy: 155, 734
+  size: 150, 149
+  orig: 150, 149
+  offset: 0, 0
+  index: -1
+effect_Result_Ying
+  rotate: false
+  xy: 1, 578
+  size: 159, 154
+  orig: 159, 154
+  offset: 0, 0
+  index: -1
+glow_00000
+  rotate: false
+  xy: 425, 442
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

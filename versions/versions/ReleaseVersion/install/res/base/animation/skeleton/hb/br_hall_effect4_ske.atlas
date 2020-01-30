@@ -1,0 +1,111 @@
+
+br_hall_effect4_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HallAniRoomsBg
+  rotate: false
+  xy: 1, 1
+  size: 242, 268
+  orig: 242, 268
+  offset: 0, 0
+  index: -1
+HallAni04_01
+  rotate: false
+  xy: 228, 271
+  size: 165, 154
+  orig: 165, 154
+  offset: 0, 0
+  index: -1
+HallAni04_02
+  rotate: false
+  xy: 395, 399
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+HallAniNameBg04
+  rotate: false
+  xy: 1, 271
+  size: 225, 116
+  orig: 225, 116
+  offset: 0, 0
+  index: -1
+bluestar_00000
+  rotate: false
+  xy: 395, 271
+  size: 104, 126
+  orig: 128, 128
+  offset: 12, 1
+  index: -1
+雀_00000
+  rotate: false
+  xy: 448, 399
+  size: 38, 41
+  orig: 50, 50
+  offset: 6, 6
+  index: -1
+HallAni04_01_00009
+  rotate: false
+  xy: 161, 427
+  size: 78, 23
+  orig: 90, 30
+  offset: 6, 4
+  index: -1
+HallAni04_01_00002
+  rotate: false
+  xy: 81, 414
+  size: 78, 23
+  orig: 90, 30
+  offset: 6, 4
+  index: -1
+HallAni04_01_00005
+  rotate: false
+  xy: 321, 444
+  size: 78, 23
+  orig: 90, 30
+  offset: 6, 4
+  index: -1
+HallAni04_01_00007
+  rotate: false
+  xy: 1, 389
+  size: 78, 23
+  orig: 90, 30
+  offset: 6, 4
+  index: -1
+HallAni04_01_00003
+  rotate: false
+  xy: 1, 439
+  size: 78, 23
+  orig: 90, 30
+  offset: 6, 4
+  index: -1
+HallAni04_01_00008
+  rotate: false
+  xy: 241, 427
+  size: 78, 23
+  orig: 90, 30
+  offset: 6, 4
+  index: -1
+HallAni04_01_00010
+  rotate: false
+  xy: 81, 439
+  size: 78, 23
+  orig: 90, 30
+  offset: 6, 4
+  index: -1
+HallAni04_01_00004
+  rotate: false
+  xy: 81, 389
+  size: 78, 23
+  orig: 90, 30
+  offset: 6, 4
+  index: -1
+HallAni04_01_00006
+  rotate: false
+  xy: 1, 414
+  size: 78, 23
+  orig: 90, 30
+  offset: 6, 4
+  index: -1

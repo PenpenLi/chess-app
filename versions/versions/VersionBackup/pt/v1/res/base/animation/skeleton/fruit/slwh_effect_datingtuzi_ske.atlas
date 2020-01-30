@@ -1,0 +1,258 @@
+
+slwh_effect_datingtuzi_ske.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rabbit/tuyoujiao
+  rotate: false
+  xy: 1594, 1634
+  size: 173, 104
+  orig: 173, 104
+  offset: 0, 0
+  index: -1
+rabbit/tuyougebohou
+  rotate: false
+  xy: 1666, 1759
+  size: 221, 236
+  orig: 221, 236
+  offset: 0, 0
+  index: -1
+rabbit/tubody
+  rotate: false
+  xy: 1, 903
+  size: 644, 745
+  orig: 644, 745
+  offset: 0, 0
+  index: -1
+tubody
+  rotate: false
+  xy: 647, 903
+  size: 639, 744
+  orig: 644, 745
+  offset: 0, 0
+  index: -1
+rabbit/tujiao
+  rotate: false
+  xy: 1806, 1418
+  size: 226, 189
+  orig: 226, 189
+  offset: 0, 0
+  index: -1
+rabbit/luoboye4
+  rotate: false
+  xy: 363, 1650
+  size: 93, 166
+  orig: 93, 166
+  offset: 0, 0
+  index: -1
+rabbit/luoboye3
+  rotate: false
+  xy: 1387, 1953
+  size: 167, 88
+  orig: 167, 88
+  offset: 0, 0
+  index: -1
+rabbit/luoboye2
+  rotate: false
+  xy: 205, 1832
+  size: 191, 151
+  orig: 191, 151
+  offset: 0, 0
+  index: -1
+rabbit/luoboye1
+  rotate: false
+  xy: 911, 1909
+  size: 245, 98
+  orig: 245, 98
+  offset: 0, 0
+  index: -1
+rabbit/daluobo
+  rotate: false
+  xy: 1288, 903
+  size: 653, 513
+  orig: 653, 513
+  offset: 0, 0
+  index: -1
+rabbit/daluoboeye2
+  rotate: false
+  xy: 1166, 1649
+  size: 119, 102
+  orig: 119, 102
+  offset: 0, 0
+  index: -1
+rabbit/daluoboeye1
+  rotate: false
+  xy: 458, 1650
+  size: 133, 116
+  orig: 133, 116
+  offset: 0, 0
+  index: -1
+rabbit/daluobozui
+  rotate: false
+  xy: 398, 1832
+  size: 178, 154
+  orig: 178, 154
+  offset: 0, 0
+  index: -1
+rabbit/daluobokoushui
+  rotate: false
+  xy: 853, 1
+  size: 111, 127
+  orig: 111, 127
+  offset: 0, 0
+  index: -1
+rabbit/youluoboye
+  rotate: false
+  xy: 1889, 1849
+  size: 148, 178
+  orig: 148, 178
+  offset: 0, 0
+  index: -1
+rabbit/youluoboshou
+  rotate: false
+  xy: 578, 1768
+  size: 35, 116
+  orig: 35, 116
+  offset: 0, 0
+  index: -1
+rabbit/youluobo
+  rotate: false
+  xy: 1166, 1759
+  size: 219, 274
+  orig: 219, 274
+  offset: 0, 0
+  index: -1
+rabbit/youluobomouth
+  rotate: false
+  xy: 578, 1886
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+rabbit/youeyey1
+  rotate: false
+  xy: 593, 1650
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+rabbit/youeyey2
+  rotate: false
+  xy: 531, 1768
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+rabbit/zuoluoboye
+  rotate: false
+  xy: 1, 1832
+  size: 202, 165
+  orig: 202, 165
+  offset: 0, 0
+  index: -1
+rabbit/zuoluobobody
+  rotate: false
+  xy: 647, 1649
+  size: 262, 295
+  orig: 262, 295
+  offset: 0, 0
+  index: -1
+rabbit/zuoluobogebo
+  rotate: false
+  xy: 1943, 1
+  size: 88, 116
+  orig: 88, 116
+  offset: 0, 0
+  index: -1
+rabbit/zuoluobomouth
+  rotate: false
+  xy: 578, 1946
+  size: 145, 69
+  orig: 145, 69
+  offset: 0, 0
+  index: -1
+rabbit/zuoeye1
+  rotate: false
+  xy: 458, 1768
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+rabbit/zuoeye2
+  rotate: false
+  xy: 205, 1985
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+rabbit/tuzigeboqian
+  rotate: false
+  xy: 1288, 1418
+  size: 304, 339
+  orig: 304, 339
+  offset: 0, 0
+  index: -1
+rabbit/tuhuzi
+  rotate: false
+  xy: 1, 1650
+  size: 219, 180
+  orig: 219, 180
+  offset: 0, 0
+  index: -1
+rabbit/tutou
+  rotate: false
+  xy: 1, 1
+  size: 850, 900
+  orig: 850, 900
+  offset: 0, 0
+  index: -1
+rabbit/tuyoushou
+  rotate: false
+  xy: 1889, 1609
+  size: 145, 238
+  orig: 145, 238
+  offset: 0, 0
+  index: -1
+rabbit/tuyoueyeball
+  rotate: false
+  xy: 1556, 1953
+  size: 76, 84
+  orig: 76, 84
+  offset: 0, 0
+  index: -1
+rabbit/tuzuoeyeball
+  rotate: false
+  xy: 1769, 1634
+  size: 112, 105
+  orig: 112, 105
+  offset: 0, 0
+  index: -1
+rabbit/tuzuoeyebai
+  rotate: false
+  xy: 911, 1649
+  size: 253, 258
+  orig: 253, 258
+  offset: 0, 0
+  index: -1
+rabbit/tuyuoeyebai
+  rotate: false
+  xy: 222, 1650
+  size: 139, 177
+  orig: 139, 177
+  offset: 0, 0
+  index: -1
+rabbit/gaoguang
+  rotate: false
+  xy: 1594, 1418
+  size: 210, 214
+  orig: 220, 223
+  offset: 4, 3
+  index: -1
+rabbit/hair
+  rotate: false
+  xy: 1387, 1759
+  size: 277, 192
+  orig: 277, 192
+  offset: 0, 0
+  index: -1

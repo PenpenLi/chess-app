@@ -1,0 +1,20 @@
+
+qznn_hall_effect_light_ske.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+803ecf9739b996386505d58b6722342b (1)
+  rotate: false
+  xy: 190, 1
+  size: 650, 280
+  orig: 650, 280
+  offset: 0, 0
+  index: -1
+light_00000
+  rotate: false
+  xy: 1, 1
+  size: 187, 1011
+  orig: 450, 1080
+  offset: 129, 53
+  index: -1

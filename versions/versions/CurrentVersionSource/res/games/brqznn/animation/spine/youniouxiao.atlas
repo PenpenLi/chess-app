@@ -1,0 +1,132 @@
+
+youniouxiao.png
+size: 1476,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 299, 46
+  size: 264, 136
+  orig: 357, 218
+  offset: 26, 44
+  index: -1
+a10
+  rotate: false
+  xy: 1194, 352
+  size: 258, 182
+  orig: 357, 218
+  offset: 34, 17
+  index: -1
+a11
+  rotate: false
+  xy: 2, 2
+  size: 295, 176
+  orig: 357, 218
+  offset: 21, 25
+  index: -1
+a12
+  rotate: true
+  xy: 1211, 52
+  size: 298, 182
+  orig: 357, 218
+  offset: 19, 20
+  index: -1
+a2
+  rotate: false
+  xy: 565, 4
+  size: 310, 188
+  orig: 357, 218
+  offset: 12, 21
+  index: -1
+a3
+  rotate: false
+  xy: 877, 3
+  size: 315, 201
+  orig: 357, 218
+  offset: 13, 11
+  index: -1
+a4
+  rotate: true
+  xy: 203, 184
+  size: 350, 218
+  orig: 357, 218
+  offset: 1, 0
+  index: -1
+a5
+  rotate: true
+  xy: 624, 197
+  size: 337, 210
+  orig: 357, 218
+  offset: 5, 7
+  index: -1
+a6
+  rotate: true
+  xy: 423, 194
+  size: 340, 199
+  orig: 357, 218
+  offset: 17, 14
+  index: -1
+a8
+  rotate: true
+  xy: 2, 180
+  size: 354, 199
+  orig: 357, 218
+  offset: 0, 14
+  index: -1
+a9
+  rotate: true
+  xy: 836, 206
+  size: 328, 198
+  orig: 357, 218
+  offset: 22, 7
+  index: -1
+y1
+  rotate: true
+  xy: 1395, 122
+  size: 112, 77
+  orig: 124, 88
+  offset: 12, 5
+  index: -1
+y2
+  rotate: true
+  xy: 1395, 14
+  size: 106, 77
+  orig: 124, 88
+  offset: 13, 6
+  index: -1
+y3
+  rotate: true
+  xy: 1395, 236
+  size: 114, 79
+  orig: 124, 88
+  offset: 7, 5
+  index: -1
+y4
+  rotate: false
+  xy: 1036, 455
+  size: 117, 79
+  orig: 124, 88
+  offset: 7, 6
+  index: -1
+y5
+  rotate: true
+  xy: 1126, 233
+  size: 117, 83
+  orig: 124, 88
+  offset: 7, 4
+  index: -1
+y6
+  rotate: false
+  xy: 1036, 369
+  size: 116, 84
+  orig: 124, 88
+  offset: 7, 3
+  index: -1
+y7
+  rotate: true
+  xy: 1036, 230
+  size: 120, 88
+  orig: 124, 88
+  offset: 0, 0
+  index: -1

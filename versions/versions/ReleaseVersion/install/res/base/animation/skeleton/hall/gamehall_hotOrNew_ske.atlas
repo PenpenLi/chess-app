@@ -1,0 +1,20 @@
+
+gamehall_hotOrNew_ske.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KyHallFlagHot
+  rotate: false
+  xy: 56, 1
+  size: 53, 92
+  orig: 53, 92
+  offset: 0, 0
+  index: -1
+KyHallFlagNew
+  rotate: false
+  xy: 1, 1
+  size: 53, 92
+  orig: 53, 92
+  offset: 0, 0
+  index: -1

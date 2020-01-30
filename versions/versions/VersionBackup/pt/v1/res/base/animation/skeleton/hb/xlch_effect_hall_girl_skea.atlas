@@ -1,0 +1,83 @@
+
+xlch_effect_hall_girl_skea.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右手
+  rotate: false
+  xy: 851, 399
+  size: 129, 192
+  orig: 129, 192
+  offset: 0, 0
+  index: -1
+头发4
+  rotate: false
+  xy: 919, 765
+  size: 88, 152
+  orig: 88, 152
+  offset: 0, 0
+  index: -1
+头发3
+  rotate: false
+  xy: 831, 765
+  size: 86, 165
+  orig: 86, 165
+  offset: 0, 0
+  index: -1
+头发2
+  rotate: false
+  xy: 462, 399
+  size: 197, 301
+  orig: 197, 301
+  offset: 0, 0
+  index: -1
+头发1
+  rotate: false
+  xy: 661, 399
+  size: 188, 283
+  orig: 188, 283
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 1, 1
+  size: 459, 433
+  orig: 459, 433
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 661, 684
+  size: 168, 138
+  orig: 168, 138
+  offset: 0, 0
+  index: -1
+左胳膊
+  rotate: false
+  xy: 462, 1
+  size: 210, 396
+  orig: 210, 396
+  offset: 0, 0
+  index: -1
+扇子手
+  rotate: false
+  xy: 851, 593
+  size: 142, 170
+  orig: 142, 170
+  offset: 0, 0
+  index: -1
+闭眼
+  rotate: false
+  xy: 919, 919
+  size: 59, 21
+  orig: 60, 22
+  offset: 0, 1
+  index: -1
+眨眼中间帧
+  rotate: false
+  xy: 1, 942
+  size: 56, 17
+  orig: 56, 17
+  offset: 0, 0
+  index: -1

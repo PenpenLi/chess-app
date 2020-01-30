@@ -1,0 +1,446 @@
+{
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 26.75, "x": -2.21, "y": 0.23, "rotation": -50.15 },
+	{ "name": "bone2", "parent": "root", "x": 0.02, "y": -0.01 },
+	{ "name": "bone4", "parent": "root", "length": 11.53, "x": 0.55, "y": 0.52, "rotation": 147.15 },
+	{ "name": "bone3", "parent": "bone2", "length": 11.86, "rotation": -5.39 }
+],
+"slots": [
+	{ "name": "diyuan", "bone": "root", "attachment": "diyuan" },
+	{ "name": "game_loading_01", "bone": "bone", "attachment": "game_loading_01" },
+	{ "name": "game_loading_02", "bone": "bone", "attachment": "game_loading_02" },
+	{ "name": "game_loading_03", "bone": "bone", "attachment": "game_loading_03" },
+	{ "name": "game_loading_04", "bone": "bone", "attachment": "game_loading_04" },
+	{ "name": "game_loading_05", "bone": "bone", "attachment": "game_loading_05" },
+	{ "name": "game_loading_06", "bone": "bone", "attachment": "game_loading_06" },
+	{ "name": "game_loading_07", "bone": "bone", "attachment": "game_loading_07" },
+	{ "name": "game_loading_08", "bone": "bone", "attachment": "game_loading_08" },
+	{ "name": "game_loading_09", "bone": "bone", "attachment": "game_loading_09" },
+	{ "name": "game_loading_10", "bone": "bone", "attachment": "game_loading_10" },
+	{ "name": "game_loading_11", "bone": "bone", "attachment": "game_loading_11" },
+	{ "name": "game_loading_12", "bone": "bone", "attachment": "game_loading_12" },
+	{ "name": "game_loading_13", "bone": "bone", "attachment": "game_loading_13" },
+	{ "name": "game_loading_14", "bone": "bone", "attachment": "game_loading_14" },
+	{ "name": "game_loading_15", "bone": "bone", "attachment": "game_loading_15" },
+	{ "name": "game_loading_16", "bone": "bone", "attachment": "game_loading_16" },
+	{ "name": "chenghu", "bone": "bone3", "attachment": "chenghu" },
+	{ "name": "green", "bone": "bone4", "attachment": "green" }
+],
+"skins": {
+	"default": {
+		"chenghu": {
+			"chenghu": { "x": -0.02, "rotation": 5.39, "width": 113, "height": 114 }
+		},
+		"diyuan": {
+			"diyuan": { "width": 107, "height": 107 }
+		},
+		"game_loading_01": {
+			"game_loading_01": { "x": 1.59, "y": 1.55, "rotation": 50.15, "width": 50, "height": 51 }
+		},
+		"game_loading_02": {
+			"game_loading_02": { "x": 1.59, "y": 1.55, "rotation": 50.15, "width": 50, "height": 51 }
+		},
+		"game_loading_03": {
+			"game_loading_03": { "x": 1.59, "y": 1.55, "rotation": 50.15, "width": 50, "height": 51 }
+		},
+		"game_loading_04": {
+			"game_loading_04": { "x": 1.59, "y": 1.55, "rotation": 50.15, "width": 50, "height": 51 }
+		},
+		"game_loading_05": {
+			"game_loading_05": { "x": 1.59, "y": 1.55, "rotation": 50.15, "width": 50, "height": 51 }
+		},
+		"game_loading_06": {
+			"game_loading_06": { "x": 1.59, "y": 1.55, "rotation": 50.15, "width": 50, "height": 51 }
+		},
+		"game_loading_07": {
+			"game_loading_07": { "x": 1.59, "y": 1.55, "rotation": 50.15, "width": 50, "height": 51 }
+		},
+		"game_loading_08": {
+			"game_loading_08": { "x": 1.59, "y": 1.55, "rotation": 50.15, "width": 50, "height": 51 }
+		},
+		"game_loading_09": {
+			"game_loading_09": { "x": 1.59, "y": 1.55, "rotation": 50.15, "width": 50, "height": 51 }
+		},
+		"game_loading_10": {
+			"game_loading_10": { "x": 1.59, "y": 1.55, "rotation": 50.15, "width": 50, "height": 51 }
+		},
+		"game_loading_11": {
+			"game_loading_11": { "x": 1.59, "y": 1.55, "rotation": 50.15, "width": 50, "height": 51 }
+		},
+		"game_loading_12": {
+			"game_loading_12": { "x": 1.59, "y": 1.55, "rotation": 50.15, "width": 50, "height": 51 }
+		},
+		"game_loading_13": {
+			"game_loading_13": { "x": 1.59, "y": 1.55, "rotation": 50.15, "width": 50, "height": 51 }
+		},
+		"game_loading_14": {
+			"game_loading_14": { "x": 1.59, "y": 1.55, "rotation": 50.15, "width": 50, "height": 51 }
+		},
+		"game_loading_15": {
+			"game_loading_15": { "x": 1.59, "y": 1.55, "rotation": 50.15, "width": 50, "height": 51 }
+		},
+		"game_loading_16": {
+			"game_loading_16": { "x": 1.59, "y": 1.55, "rotation": 50.15, "width": 50, "height": 51 }
+		},
+		"green": {
+			"green": { "x": 0.02, "y": -0.01, "rotation": -147.15, "width": 113, "height": 114 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"bone3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0666, "angle": 13.29 },
+					{ "time": 0.1333, "angle": 29.21 },
+					{ "time": 0.2, "angle": 48.34 },
+					{ "time": 0.2666, "angle": 65.82 },
+					{ "time": 0.3333, "angle": 85.93 },
+					{ "time": 0.4, "angle": 112.16 },
+					{ "time": 0.4666, "angle": 133.53 },
+					{ "time": 0.5333, "angle": 155.1 },
+					{ "time": 0.6, "angle": 177.47 },
+					{ "time": 0.6666, "angle": -154.23 },
+					{ "time": 0.7333, "angle": -144.99 },
+					{ "time": 0.8, "angle": -132.44 },
+					{ "time": 0.8666, "angle": -91.42 },
+					{ "time": 0.9333, "angle": -64.95 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				]
+			},
+			"bone4": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.0666, "angle": 13.29 },
+					{ "time": 0.1333, "angle": 29.21 },
+					{ "time": 0.2, "angle": 48.34 },
+					{ "time": 0.2666, "angle": 65.82 },
+					{ "time": 0.3333, "angle": 85.93 },
+					{ "time": 0.4, "angle": 112.16 },
+					{ "time": 0.4666, "angle": 133.53 },
+					{ "time": 0.5333, "angle": 155.1 },
+					{ "time": 0.6, "angle": 177.47 },
+					{ "time": 0.6666, "angle": -154.23 },
+					{ "time": 0.7333, "angle": -144.99 },
+					{ "time": 0.8, "angle": -132.44 },
+					{ "time": 0.8666, "angle": -91.42 },
+					{ "time": 0.9333, "angle": -64.95 }
+				]
+			}
+		},
+		"slots": {
+			"game_loading_01": {
+				"attachment": [
+					{ "time": 0, "name": "game_loading_01" },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.4666, "name": null },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.6, "name": null },
+					{ "time": 0.6666, "name": null },
+					{ "time": 0.7333, "name": null },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.8666, "name": null },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"game_loading_02": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": "game_loading_02" },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.4666, "name": null },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.6, "name": null },
+					{ "time": 0.6666, "name": null },
+					{ "time": 0.7333, "name": null },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.8666, "name": null },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"game_loading_03": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.1333, "name": "game_loading_03" },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.4666, "name": null },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.6, "name": null },
+					{ "time": 0.6666, "name": null },
+					{ "time": 0.7333, "name": null },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.8666, "name": null },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"game_loading_04": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": "game_loading_04" },
+					{ "time": 0.2666, "name": null },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.4666, "name": null },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.6, "name": null },
+					{ "time": 0.6666, "name": null },
+					{ "time": 0.7333, "name": null },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.8666, "name": null },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"game_loading_05": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": "game_loading_05" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.4666, "name": null },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.6, "name": null },
+					{ "time": 0.6666, "name": null },
+					{ "time": 0.7333, "name": null },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.8666, "name": null },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"game_loading_06": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null },
+					{ "time": 0.3333, "name": "game_loading_06" },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.4666, "name": null },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.6, "name": null },
+					{ "time": 0.6666, "name": null },
+					{ "time": 0.7333, "name": null },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.8666, "name": null },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"game_loading_07": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": "game_loading_07" },
+					{ "time": 0.4666, "name": null },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.6, "name": null },
+					{ "time": 0.6666, "name": null },
+					{ "time": 0.7333, "name": null },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.8666, "name": null },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"game_loading_08": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.4666, "name": "game_loading_08" },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.6, "name": null },
+					{ "time": 0.6666, "name": null },
+					{ "time": 0.7333, "name": null },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.8666, "name": null },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"game_loading_09": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.4666, "name": null },
+					{ "time": 0.5333, "name": "game_loading_09" },
+					{ "time": 0.6, "name": null },
+					{ "time": 0.6666, "name": null },
+					{ "time": 0.7333, "name": null },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.8666, "name": null },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"game_loading_10": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.4666, "name": null },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.6, "name": "game_loading_10" },
+					{ "time": 0.6666, "name": null },
+					{ "time": 0.7333, "name": null },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.8666, "name": null },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"game_loading_11": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.4666, "name": null },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.6, "name": null },
+					{ "time": 0.6666, "name": "game_loading_11" },
+					{ "time": 0.7333, "name": null },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.8666, "name": null },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"game_loading_12": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.4666, "name": null },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.6, "name": null },
+					{ "time": 0.6666, "name": null },
+					{ "time": 0.7333, "name": null },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.8666, "name": null },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"game_loading_13": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.4666, "name": null },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.6, "name": null },
+					{ "time": 0.6666, "name": null },
+					{ "time": 0.7333, "name": "game_loading_13" },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.8666, "name": null },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"game_loading_14": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.4666, "name": null },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.6, "name": null },
+					{ "time": 0.6666, "name": null },
+					{ "time": 0.7333, "name": null },
+					{ "time": 0.8, "name": "game_loading_14" },
+					{ "time": 0.8666, "name": null },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"game_loading_15": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.4666, "name": null },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.6, "name": null },
+					{ "time": 0.6666, "name": null },
+					{ "time": 0.7333, "name": null },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.8666, "name": "game_loading_15" },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"game_loading_16": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0666, "name": null },
+					{ "time": 0.1333, "name": null },
+					{ "time": 0.2, "name": null },
+					{ "time": 0.2666, "name": null },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.4, "name": null },
+					{ "time": 0.4666, "name": null },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.6, "name": null },
+					{ "time": 0.6666, "name": null },
+					{ "time": 0.7333, "name": null },
+					{ "time": 0.8, "name": null },
+					{ "time": 0.8666, "name": null },
+					{ "time": 0.9333, "name": "game_loading_16" }
+				]
+			}
+		}
+	}
+}
+}

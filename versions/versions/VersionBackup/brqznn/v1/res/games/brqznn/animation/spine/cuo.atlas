@@ -1,0 +1,27 @@
+
+cuo.png
+size: 77,28
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c1
+  rotate: false
+  xy: 2, 2
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 27, 2
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 52, 3
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1

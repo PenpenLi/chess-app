@@ -1,0 +1,111 @@
+
+kpqznn_effect_hall_1_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+体验房
+  rotate: false
+  xy: 1, 1
+  size: 222, 278
+  orig: 225, 282
+  offset: 2, 4
+  index: -1
+poke
+  rotate: false
+  xy: 1, 382
+  size: 68, 94
+  orig: 71, 98
+  offset: 1, 2
+  index: -1
+hat
+  rotate: false
+  xy: 1, 281
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+saoguang_00004
+  rotate: false
+  xy: 71, 382
+  size: 76, 26
+  orig: 137, 99
+  offset: 30, 29
+  index: -1
+saoguang_00008
+  rotate: false
+  xy: 71, 410
+  size: 76, 26
+  orig: 137, 99
+  offset: 30, 29
+  index: -1
+saoguang_00012
+  rotate: false
+  xy: 218, 281
+  size: 76, 26
+  orig: 137, 99
+  offset: 30, 29
+  index: -1
+saoguang_00003
+  rotate: false
+  xy: 79, 466
+  size: 76, 26
+  orig: 137, 99
+  offset: 30, 29
+  index: -1
+saoguang_00011
+  rotate: false
+  xy: 1, 478
+  size: 76, 26
+  orig: 137, 99
+  offset: 30, 29
+  index: -1
+saoguang_00005
+  rotate: false
+  xy: 140, 309
+  size: 76, 26
+  orig: 137, 99
+  offset: 30, 29
+  index: -1
+saoguang_00013
+  rotate: false
+  xy: 140, 337
+  size: 76, 26
+  orig: 137, 99
+  offset: 30, 29
+  index: -1
+saoguang_00006
+  rotate: false
+  xy: 71, 438
+  size: 76, 26
+  orig: 137, 99
+  offset: 30, 29
+  index: -1
+saoguang_00009
+  rotate: false
+  xy: 149, 365
+  size: 76, 26
+  orig: 137, 99
+  offset: 30, 29
+  index: -1
+saoguang_00010
+  rotate: false
+  xy: 235, 466
+  size: 76, 26
+  orig: 137, 99
+  offset: 30, 29
+  index: -1
+saoguang_00007
+  rotate: false
+  xy: 157, 466
+  size: 76, 26
+  orig: 137, 99
+  offset: 30, 29
+  index: -1
+saoguang_00014
+  rotate: false
+  xy: 140, 281
+  size: 76, 26
+  orig: 137, 99
+  offset: 30, 29
+  index: -1

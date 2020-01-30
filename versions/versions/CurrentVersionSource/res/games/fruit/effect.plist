@@ -1,0 +1,29 @@
+<!-- 特效动画 资源加载 -->
+<array>
+  <string>games/fruit/Amt/scene/sgj_jmpaomad.ExportJson</string>
+  <string>games/fruit/Amt/scene/sgj_zidong.ExportJson</string>
+  <string>games/fruit/Amt/free/sgj_mianfei.ExportJson</string>
+  <string>games/fruit/Amt/free/sgj_mianfei_xiaomali.ExportJson</string>
+  <string>games/fruit/Amt/free/zhongjiang_tongyong.ExportJson</string>
+  <string>games/fruit/Amt/player/sgj_zhongjiangtoux.ExportJson</string>
+  <string>games/fruit/Amt/ScoreBox/hylj_zhongjiangfankui.ExportJson</string>
+  <string>games/fruit/Amt/expect/sgj_jiasu.ExportJson</string>
+  <string>games/fruit/Amt/items/yingtao/sgj_yingtao.ExportJson</string>
+  <string>games/fruit/Amt/items/caomei/sgj_caomei.ExportJson</string>
+  <string>games/fruit/Amt/items/juzi/sgj_juzi.ExportJson</string>
+  <string>games/fruit/Amt/items/ningmeng/sgj_ningmeng.ExportJson</string>
+  <string>games/fruit/Amt/items/putao/sgj_putao.ExportJson</string>
+  <string>games/fruit/Amt/items/xigua/sgj_xigua.ExportJson</string>
+  <string>games/fruit/Amt/items/lingdang/sgj_lingdang.ExportJson</string>
+  <string>games/fruit/Amt/items/shuangxin/sgj_shuangxin.ExportJson</string>
+  <string>games/fruit/Amt/items/7/sgj_7.ExportJson</string>
+  <string>games/fruit/Amt/items/wild/sgj_wild.ExportJson</string>
+  <string>games/fruit/Amt/items/Scatter/sgj_scatter.ExportJson</string>
+  <string>games/fruit/Amt/items/Bonus/sgj_bonus.ExportJson</string>
+  <string>games/fruit/Amt/game/sgj_sgxml.ExportJson</string>
+  <string>games/fruit/Amt/result/sgj_zhongjiangjs_diban.ExportJson</string>
+  <string>games/fruit/Amt/result/sgj_zhongjiangjs_big.ExportJson</string>
+  <string>games/fruit/Amt/result/sgj_zhongjiangjs_mega.ExportJson</string>
+  <string>games/fruit/Amt/result/sgj_zhongjiangjs_super.ExportJson</string>
+
+</array>

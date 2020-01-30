@@ -1,0 +1,30 @@
+<!-- 金币动画 -->
+<array>
+	<dict>
+		<key>name</key>		<string>CoinMove0</string>
+		<key>format</key>	<string>jinbi_cell-jinbi_%d.png</string>
+		<key>delay</key>	<string>0.1</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+		</array>
+	</dict>
+
+	<dict>
+		<key>name</key>		<string>CoinMove1</string>
+		<key>format</key>	<string>jinbi_cell-jinbi_%d.png</string>
+		<key>delay</key>	<string>0.05</string>
+		<key>frames</key>
+		<array>
+			<string>1,1</string>
+			<string>2,1</string>
+			<string>3,1</string>
+			<string>4,1</string>
+			<string>5,1</string>
+		</array>
+	</dict>		
+</array>

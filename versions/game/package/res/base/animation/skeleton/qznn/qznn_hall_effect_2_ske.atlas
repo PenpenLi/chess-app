@@ -1,0 +1,48 @@
+
+qznn_hall_effect_2_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qznn_hall_card2_bg
+  rotate: false
+  xy: 1, 1
+  size: 225, 277
+  orig: 225, 277
+  offset: 0, 0
+  index: -1
+qznn_hall_card2_bg2
+  rotate: false
+  xy: 1, 280
+  size: 159, 160
+  orig: 159, 160
+  offset: 0, 0
+  index: -1
+qznn_hall_card2_bg3
+  rotate: false
+  xy: 1, 442
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+qznn_hall_card2_bg4
+  rotate: false
+  xy: 35, 442
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+qznn_hall_card2_bg5
+  rotate: false
+  xy: 162, 280
+  size: 130, 151
+  orig: 130, 151
+  offset: 0, 0
+  index: -1
+qznn_hall_card2_cjf
+  rotate: false
+  xy: 162, 433
+  size: 109, 39
+  orig: 109, 39
+  offset: 0, 0
+  index: -1

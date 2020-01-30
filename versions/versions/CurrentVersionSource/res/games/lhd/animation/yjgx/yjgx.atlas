@@ -1,0 +1,27 @@
+
+yjgx.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_light1
+  rotate: false
+  xy: 0, 9
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+img_light2
+  rotate: false
+  xy: 119, 35
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+img_light3
+  rotate: false
+  xy: 119, 0
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1

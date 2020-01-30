@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 1186,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+award_light
+  rotate: false
+  xy: 772, 2
+  size: 412, 301
+  orig: 412, 301
+  offset: 0, 0
+  index: -1
+award_niutou
+  rotate: false
+  xy: 2, 101
+  size: 768, 202
+  orig: 768, 202
+  offset: 0, 0
+  index: -1
+award_star
+  rotate: false
+  xy: 2, 11
+  size: 82, 88
+  orig: 82, 88
+  offset: 0, 0
+  index: -1

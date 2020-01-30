@@ -1,0 +1,188 @@
+
+kpqznn_effect_hall_girl_ske.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+头发后
+  rotate: false
+  xy: 274, 1
+  size: 185, 209
+  orig: 185, 209
+  offset: 0, 0
+  index: -1
+头发后2
+  rotate: false
+  xy: 739, 391
+  size: 112, 90
+  orig: 112, 90
+  offset: 0, 0
+  index: -1
+右臂
+  rotate: false
+  xy: 407, 345
+  size: 123, 159
+  orig: 123, 159
+  offset: 0, 0
+  index: -1
+袋子
+  rotate: false
+  xy: 864, 307
+  size: 102, 125
+  orig: 102, 125
+  offset: 0, 0
+  index: -1
+右腿
+  rotate: false
+  xy: 626, 212
+  size: 111, 213
+  orig: 111, 213
+  offset: 0, 0
+  index: -1
+左腿
+  rotate: false
+  xy: 274, 212
+  size: 131, 227
+  orig: 131, 227
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 1, 1
+  size: 271, 394
+  orig: 271, 394
+  offset: 0, 0
+  index: -1
+头发2
+  rotate: false
+  xy: 208, 397
+  size: 64, 100
+  orig: 64, 100
+  offset: 0, 0
+  index: -1
+头发1
+  rotate: false
+  xy: 739, 212
+  size: 123, 177
+  orig: 123, 177
+  offset: 0, 0
+  index: -1
+发丝3
+  rotate: false
+  xy: 976, 1
+  size: 35, 106
+  orig: 35, 106
+  offset: 0, 0
+  index: -1
+耳环右
+  rotate: false
+  xy: 691, 427
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 864, 173
+  size: 129, 132
+  orig: 140, 133
+  offset: 3, 1
+  index: -1
+帽子
+  rotate: false
+  xy: 407, 212
+  size: 217, 131
+  orig: 217, 131
+  offset: 0, 0
+  index: -1
+左臂
+  rotate: false
+  xy: 461, 1
+  size: 58, 150
+  orig: 58, 150
+  offset: 0, 0
+  index: -1
+左小臂
+  rotate: false
+  xy: 532, 345
+  size: 78, 142
+  orig: 78, 142
+  offset: 0, 0
+  index: -1
+发丝2
+  rotate: false
+  xy: 853, 434
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+发丝1
+  rotate: false
+  xy: 864, 1
+  size: 110, 170
+  orig: 110, 170
+  offset: 0, 0
+  index: -1
+牌
+  rotate: false
+  xy: 612, 427
+  size: 77, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+左手
+  rotate: false
+  xy: 521, 1
+  size: 62, 101
+  orig: 62, 101
+  offset: 0, 0
+  index: -1
+右小臂
+  rotate: false
+  xy: 119, 397
+  size: 87, 90
+  orig: 87, 90
+  offset: 0, 0
+  index: -1
+耳环左
+  rotate: false
+  xy: 976, 141
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+徽标2
+  rotate: false
+  xy: 1, 397
+  size: 116, 113
+  orig: 116, 113
+  offset: 0, 0
+  index: -1
+衣服穗
+  rotate: false
+  xy: 976, 109
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+棕衣带
+  rotate: false
+  xy: 933, 434
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+白衣带
+  rotate: false
+  xy: 983, 434
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+星光_00000
+  rotate: false
+  xy: 532, 489
+  size: 16, 20
+  orig: 32, 32
+  offset: 8, 6
+  index: -1

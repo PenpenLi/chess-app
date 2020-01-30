@@ -1,0 +1,34 @@
+
+kpqznn_effect_hall_3_ske.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+单张
+  rotate: false
+  xy: 96, 119
+  size: 68, 94
+  orig: 70, 98
+  offset: 0, 2
+  index: -1
+啤酒
+  rotate: false
+  xy: 1, 1
+  size: 102, 116
+  orig: 102, 116
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 1, 119
+  size: 93, 73
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+shuidi
+  rotate: false
+  xy: 1, 194
+  size: 12, 14
+  orig: 16, 16
+  offset: 2, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+huodongjuesedaiji.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+choukahuode_03
+  rotate: false
+  xy: 352, 981
+  size: 274, 259
+  orig: 274, 259
+  offset: 0, 0
+  index: -1
+huodongjuesedaiji_01
+  rotate: false
+  xy: 0, 0
+  size: 117, 158
+  orig: 117, 158
+  offset: 0, 0
+  index: -1
+huodongjuesedaiji_02
+  rotate: false
+  xy: 1155, 1500
+  size: 227, 238
+  orig: 227, 238
+  offset: 0, 0
+  index: -1
+huodongjuesedaiji_03
+  rotate: true
+  xy: 930, 1240
+  size: 82, 113
+  orig: 82, 113
+  offset: 0, 0
+  index: -1
+huodongjuesedaiji_04
+  rotate: false
+  xy: 817, 1129
+  size: 82, 111
+  orig: 82, 111
+  offset: 0, 0
+  index: -1
+huodongjuesedaiji_05
+  rotate: false
+  xy: 1733, 1743
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+huodongjuesedaiji_06
+  rotate: false
+  xy: 626, 1015
+  size: 191, 225
+  orig: 191, 225
+  offset: 0, 0
+  index: -1
+huodongjuesedaiji_07
+  rotate: true
+  xy: 1382, 1606
+  size: 132, 240
+  orig: 132, 240
+  offset: 0, 0
+  index: -1
+huodongjuesedaiji_08
+  rotate: false
+  xy: 1733, 1772
+  size: 260, 274
+  orig: 260, 274
+  offset: 0, 0
+  index: -1
+huodongjuesedaiji_09
+  rotate: false
+  xy: 0, 736
+  size: 352, 586
+  orig: 352, 586
+  offset: 0, 0
+  index: -1
+huodongjuesedaiji_10
+  rotate: false
+  xy: 1622, 1640
+  size: 68, 98
+  orig: 68, 98
+  offset: 0, 0
+  index: -1
+huodongjuesedaiji_11
+  rotate: true
+  xy: 1155, 1377
+  size: 123, 242
+  orig: 123, 242
+  offset: 0, 0
+  index: -1
+huodongjuesedaiji_12
+  rotate: true
+  xy: 352, 787
+  size: 194, 271
+  orig: 194, 271
+  offset: 0, 0
+  index: -1
+huodongjuesedaiji_13
+  rotate: false
+  xy: 190, 163
+  size: 94, 129
+  orig: 94, 129
+  offset: 0, 0
+  index: -1
+huodongjuesedaiji_14
+  rotate: false
+  xy: 190, 292
+  size: 143, 444
+  orig: 143, 444
+  offset: 0, 0
+  index: -1
+zcs_bg
+  rotate: false
+  xy: 0, 1322
+  size: 1155, 724
+  orig: 1155, 724
+  offset: 0, 0
+  index: -1
+zhuce_guang_02
+  rotate: false
+  xy: 1155, 1804
+  size: 578, 242
+  orig: 578, 242
+  offset: 0, 0
+  index: -1
+zhuce_guang_03
+  rotate: false
+  xy: 352, 1240
+  size: 578, 82
+  orig: 578, 82
+  offset: 0, 0
+  index: -1
+zhuce_guang_04
+  rotate: true
+  xy: 0, 158
+  size: 578, 190
+  orig: 578, 190
+  offset: 0, 0
+  index: -1
+zhuce_guang_05
+  rotate: false
+  xy: 1155, 1738
+  size: 578, 66
+  orig: 578, 66
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+SG_effect_hallgirl_ske.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右腿
+  rotate: false
+  xy: 1, 1
+  size: 363, 930
+  orig: 363, 930
+  offset: 0, 0
+  index: -1
+头发后2
+  rotate: false
+  xy: 966, 972
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+左腿
+  rotate: false
+  xy: 836, 1
+  size: 161, 931
+  orig: 161, 931
+  offset: 0, 0
+  index: -1
+头发后4
+  rotate: false
+  xy: 706, 944
+  size: 61, 57
+  orig: 62, 57
+  offset: 1, 0
+  index: -1
+头发后3
+  rotate: false
+  xy: 1395, 713
+  size: 120, 245
+  orig: 120, 245
+  offset: 0, 0
+  index: -1
+头发后1
+  rotate: false
+  xy: 1178, 897
+  size: 43, 89
+  orig: 43, 89
+  offset: 0, 0
+  index: -1
+左臂装饰
+  rotate: false
+  xy: 831, 934
+  size: 76, 66
+  orig: 77, 66
+  offset: 1, 0
+  index: -1
+左大臂
+  rotate: false
+  xy: 999, 1
+  size: 136, 563
+  orig: 136, 563
+  offset: 0, 0
+  index: -1
+左小臂
+  rotate: false
+  xy: 706, 630
+  size: 123, 312
+  orig: 123, 312
+  offset: 0, 0
+  index: -1
+右大臂
+  rotate: false
+  xy: 999, 713
+  size: 177, 257
+  orig: 177, 257
+  offset: 0, 0
+  index: -1
+白裙
+  rotate: false
+  xy: 999, 566
+  size: 444, 145
+  orig: 444, 145
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 366, 1
+  size: 468, 627
+  orig: 468, 627
+  offset: 0, 0
+  index: -1
+头发2
+  rotate: false
+  xy: 366, 630
+  size: 338, 331
+  orig: 338, 331
+  offset: 0, 0
+  index: -1
+手指2
+  rotate: false
+  xy: 769, 985
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+发丝
+  rotate: false
+  xy: 1723, 713
+  size: 160, 135
+  orig: 160, 135
+  offset: 0, 0
+  index: -1
+脸
+  rotate: false
+  xy: 1885, 713
+  size: 120, 139
+  orig: 120, 140
+  offset: 0, 1
+  index: -1
+头发1
+  rotate: false
+  xy: 1178, 713
+  size: 215, 182
+  orig: 215, 182
+  offset: 0, 0
+  index: -1
+头花
+  rotate: false
+  xy: 1605, 713
+  size: 116, 190
+  orig: 116, 190
+  offset: 0, 0
+  index: -1
+右小臂
+  rotate: false
+  xy: 1517, 713
+  size: 86, 295
+  orig: 86, 295
+  offset: 0, 0
+  index: -1
+手指1
+  rotate: false
+  xy: 769, 944
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+手环
+  rotate: false
+  xy: 1032, 972
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+肩带
+  rotate: false
+  xy: 909, 934
+  size: 55, 87
+  orig: 55, 87
+  offset: 0, 0
+  index: -1
+耳环左
+  rotate: false
+  xy: 1223, 960
+  size: 17, 52
+  orig: 17, 52
+  offset: 0, 0
+  index: -1
+耳环右
+  rotate: false
+  xy: 1079, 972
+  size: 14, 45
+  orig: 14, 45
+  offset: 0, 0
+  index: -1
