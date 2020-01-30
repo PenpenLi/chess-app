@@ -1,0 +1,198 @@
+<Solution>
+  <PropertyGroup Name="game" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="games">
+          <Folder Name="sangong">
+            <Folder Name="animation">
+              <Folder Name="particle">
+                <PlistParticleFile Name="frame.plist" />
+                <PlistParticleFile Name="star.plist" />
+                <PlistParticleFile Name="star01.plist" />
+              </Folder>
+            </Folder>
+            <Folder Name="font">
+              <Fnt Name="calc_num_b.fnt" />
+              <Fnt Name="calc_num_y.fnt" />
+              <Fnt Name="dt_jinbi_num.fnt" />
+              <Fnt Name="number_lose.fnt" />
+              <Fnt Name="number_win.fnt" />
+              <Fnt Name="numberlabel_vip.fnt" />
+              <TTF Name="PINGFANG BOLD_0.ttf" />
+            </Folder>
+            <Folder Name="images">
+              <PlistImageFolder Image="poker.png" PListFile="poker.plist" Name=".poker_PList.Dir">
+                <PlistImageFile Name="bg_back.png" Key="bg_back.png" />
+                <PlistImageFile Name="bg_front.png" Key="bg_front.png" />
+                <PlistImageFile Name="card0_1.png" Key="card0_1.png" />
+                <PlistImageFile Name="card0_10.png" Key="card0_10.png" />
+                <PlistImageFile Name="card0_11.png" Key="card0_11.png" />
+                <PlistImageFile Name="card0_12.png" Key="card0_12.png" />
+                <PlistImageFile Name="card0_13.png" Key="card0_13.png" />
+                <PlistImageFile Name="card0_2.png" Key="card0_2.png" />
+                <PlistImageFile Name="card0_3.png" Key="card0_3.png" />
+                <PlistImageFile Name="card0_4.png" Key="card0_4.png" />
+                <PlistImageFile Name="card0_5.png" Key="card0_5.png" />
+                <PlistImageFile Name="card0_6.png" Key="card0_6.png" />
+                <PlistImageFile Name="card0_7.png" Key="card0_7.png" />
+                <PlistImageFile Name="card0_8.png" Key="card0_8.png" />
+                <PlistImageFile Name="card0_9.png" Key="card0_9.png" />
+                <PlistImageFile Name="card1_1.png" Key="card1_1.png" />
+                <PlistImageFile Name="card1_10.png" Key="card1_10.png" />
+                <PlistImageFile Name="card1_11.png" Key="card1_11.png" />
+                <PlistImageFile Name="card1_12.png" Key="card1_12.png" />
+                <PlistImageFile Name="card1_13.png" Key="card1_13.png" />
+                <PlistImageFile Name="card1_2.png" Key="card1_2.png" />
+                <PlistImageFile Name="card1_3.png" Key="card1_3.png" />
+                <PlistImageFile Name="card1_4.png" Key="card1_4.png" />
+                <PlistImageFile Name="card1_5.png" Key="card1_5.png" />
+                <PlistImageFile Name="card1_6.png" Key="card1_6.png" />
+                <PlistImageFile Name="card1_7.png" Key="card1_7.png" />
+                <PlistImageFile Name="card1_8.png" Key="card1_8.png" />
+                <PlistImageFile Name="card1_9.png" Key="card1_9.png" />
+                <PlistImageFile Name="card2_1.png" Key="card2_1.png" />
+                <PlistImageFile Name="card2_10.png" Key="card2_10.png" />
+                <PlistImageFile Name="card2_11.png" Key="card2_11.png" />
+                <PlistImageFile Name="card2_12.png" Key="card2_12.png" />
+                <PlistImageFile Name="card2_13.png" Key="card2_13.png" />
+                <PlistImageFile Name="card2_2.png" Key="card2_2.png" />
+                <PlistImageFile Name="card2_3.png" Key="card2_3.png" />
+                <PlistImageFile Name="card2_4.png" Key="card2_4.png" />
+                <PlistImageFile Name="card2_5.png" Key="card2_5.png" />
+                <PlistImageFile Name="card2_6.png" Key="card2_6.png" />
+                <PlistImageFile Name="card2_7.png" Key="card2_7.png" />
+                <PlistImageFile Name="card2_8.png" Key="card2_8.png" />
+                <PlistImageFile Name="card2_9.png" Key="card2_9.png" />
+                <PlistImageFile Name="card3_1.png" Key="card3_1.png" />
+                <PlistImageFile Name="card3_10.png" Key="card3_10.png" />
+                <PlistImageFile Name="card3_11.png" Key="card3_11.png" />
+                <PlistImageFile Name="card3_12.png" Key="card3_12.png" />
+                <PlistImageFile Name="card3_13.png" Key="card3_13.png" />
+                <PlistImageFile Name="card3_2.png" Key="card3_2.png" />
+                <PlistImageFile Name="card3_3.png" Key="card3_3.png" />
+                <PlistImageFile Name="card3_4.png" Key="card3_4.png" />
+                <PlistImageFile Name="card3_5.png" Key="card3_5.png" />
+                <PlistImageFile Name="card3_6.png" Key="card3_6.png" />
+                <PlistImageFile Name="card3_7.png" Key="card3_7.png" />
+                <PlistImageFile Name="card3_8.png" Key="card3_8.png" />
+                <PlistImageFile Name="card3_9.png" Key="card3_9.png" />
+              </PlistImageFolder>
+              <Folder Name="result">
+                <Image Name="btn_continue.png" />
+                <Image Name="btn_leave.png" />
+                <Image Name="girl_lose.png" />
+                <Image Name="girl_win.png" />
+                <Image Name="lose_bg.png" />
+                <Image Name="win_bg.png" />
+                <Image Name="win_light.png" />
+                <Image Name="you_lose.png" />
+                <Image Name="you_win.png" />
+              </Folder>
+              <Folder Name="type">
+                <Image Name="cow_0.png" />
+                <Image Name="cow_1.png" />
+                <Image Name="cow_10.png" />
+                <Image Name="cow_11.png" />
+                <Image Name="cow_12.png" />
+                <Image Name="cow_13.png" />
+                <Image Name="cow_2.png" />
+                <Image Name="cow_3.png" />
+                <Image Name="cow_4.png" />
+                <Image Name="cow_5.png" />
+                <Image Name="cow_6.png" />
+                <Image Name="cow_7.png" />
+                <Image Name="cow_8.png" />
+                <Image Name="cow_9.png" />
+              </Folder>
+              <Image Name="bar_bg.png" />
+              <Image Name="bar_bg2.png" />
+              <Image Name="box_light1.png" />
+              <Image Name="box_light2.png" />
+              <Image Name="btn_back.png" />
+              <Image Name="btn_help.png" />
+              <Image Name="btn_multi_1.png" />
+              <Image Name="btn_multi_10.png" />
+              <Image Name="btn_multi_15.png" />
+              <Image Name="btn_multi_2.png" />
+              <Image Name="btn_multi_20.png" />
+              <Image Name="btn_multi_4.png" />
+              <Image Name="btn_multi_5.png" />
+              <Image Name="btn_nograb.png" />
+              <Image Name="btn_setting.png" />
+              <Image Name="btn_show.png" />
+              <Image Name="calc_bg.png" />
+              <Image Name="cd_bg.png" />
+              <Image Name="choice_box.png" />
+              <Image Name="clock_bg.png" />
+              <Image Name="cow_bg_black.png" />
+              <Image Name="cow_bg_red.png" />
+              <Image Name="cow_bg_yellow.png" />
+              <Image Name="flag_banker.png" />
+              <Image Name="fly_gold.png" />
+              <Image Name="frame_01.png" />
+              <Image Name="game_start.png" />
+              <Image Name="gold_bar.png" />
+              <Image Name="grab_multi_0.png" />
+              <Image Name="grab_multi_1.png" />
+              <Image Name="grab_multi_2.png" />
+              <Image Name="grab_multi_4.png" />
+              <Image Name="head_01.png" />
+              <Image Name="location.png" />
+              <Image Name="play_bg.png" />
+              <Image Name="player_bg.png" />
+              <Image Name="pls_dot.png" />
+              <Image Name="pls_grab.png" />
+              <Image Name="pls_grabing.png" />
+              <Image Name="pls_spell.png" />
+              <Image Name="pls_spelling.png" />
+              <Image Name="pls_throw.png" />
+              <Image Name="pls_throwing.png" />
+              <Image Name="rect_bg.png" />
+              <Image Name="score_bg.png" />
+              <Image Name="scorebg_lose.png" />
+              <Image Name="scorebg_win.png" />
+              <Image Name="start_tip.png" />
+              <Image Name="table.jpg" />
+              <Image Name="tag_10.png" />
+              <Image Name="tag_15.png" />
+              <Image Name="tag_20.png" />
+              <Image Name="tag_5.png" />
+              <Image Name="vip_bg.png" />
+              <Image Name="wait_next.png" />
+              <Image Name="wait_others.png" />
+              <Image Name="wait_others_throw.png" />
+            </Folder>
+            <Folder Name="sound">
+              <Audio Name="banker.mp3" />
+              <Audio Name="bg.mp3" />
+              <Audio Name="card_select.mp3" />
+              <Audio Name="choosing.mp3" />
+              <Audio Name="fly_gold.mp3" />
+              <Audio Name="game_over.mp3" />
+              <Audio Name="game_start.mp3" />
+              <Audio Name="game_win.mp3" />
+              <Audio Name="niu_0.mp3" />
+              <Audio Name="niu_1.mp3" />
+              <Audio Name="niu_10.mp3" />
+              <Audio Name="niu_11.mp3" />
+              <Audio Name="niu_12.mp3" />
+              <Audio Name="niu_2.mp3" />
+              <Audio Name="niu_3.mp3" />
+              <Audio Name="niu_4.mp3" />
+              <Audio Name="niu_5.mp3" />
+              <Audio Name="niu_6.mp3" />
+              <Audio Name="niu_7.mp3" />
+              <Audio Name="niu_8.mp3" />
+              <Audio Name="niu_9.mp3" />
+              <Audio Name="sendcard.mp3" />
+              <Audio Name="show.mp3" />
+            </Folder>
+            <Project Name="PlayerInfo.csd" Type="Node" />
+            <Project Name="SanGongScene.csd" Type="Scene" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

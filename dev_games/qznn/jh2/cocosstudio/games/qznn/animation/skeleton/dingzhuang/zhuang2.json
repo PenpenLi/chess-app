@@ -1,0 +1,167 @@
+{
+"skeleton": { "hash": "2RUAyWU4Uafgnre3thapP4P8lbw", "spine": "3.6.53", "width": 140.81, "height": 193.98, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" },
+	{ "name": "s1", "parent": "bone", "x": 58.31, "y": 84.48 },
+	{ "name": "s2", "parent": "bone" },
+	{ "name": "s3", "parent": "bone" },
+	{ "name": "s4", "parent": "bone", "x": 58.31, "y": 84.48 },
+	{ "name": "s5", "parent": "bone" },
+	{ "name": "s6", "parent": "bone" }
+],
+"slots": [
+	{ "name": "s2", "bone": "s2", "attachment": "s5" },
+	{ "name": "s3", "bone": "s3", "attachment": "s4" },
+	{ "name": "s5", "bone": "s5", "attachment": "s4" },
+	{ "name": "s6", "bone": "s6", "attachment": "s4" },
+	{ "name": "s1", "bone": "s1", "attachment": "s1" },
+	{ "name": "s4", "bone": "s4", "attachment": "s1" }
+],
+"skins": {
+	"default": {
+		"s1": {
+			"s1": { "width": 44, "height": 45 }
+		},
+		"s2": {
+			"s5": { "width": 121, "height": 174 }
+		},
+		"s3": {
+			"s4": { "width": 121, "height": 174 }
+		},
+		"s4": {
+			"s1": { "width": 44, "height": 45 }
+		},
+		"s5": {
+			"s4": { "width": 121, "height": 174 }
+		},
+		"s6": {
+			"s4": { "width": 121, "height": 174 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"s1": {
+				"color": [
+					{ "time": 0, "color": "ffffff48" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"s3": {
+				"color": [
+					{ "time": 0.1667, "color": "fffffff7" },
+					{ "time": 0.6667, "color": "ffffff06" }
+				],
+				"attachment": [
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"s4": {
+				"color": [
+					{ "time": 0, "color": "ffffff3a", "curve": "stepped" },
+					{ "time": 0.3333, "color": "ffffff3a" },
+					{ "time": 0.6667, "color": "ffffff03" },
+					{ "time": 1, "color": "ffffff10" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "s1" },
+					{ "time": 0.6667, "name": null },
+					{ "time": 1, "name": null },
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"s5": {
+				"color": [
+					{ "time": 0.3333, "color": "fffffff7" },
+					{ "time": 0.8333, "color": "ffffff06" }
+				],
+				"attachment": [
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"s6": {
+				"color": [
+					{ "time": 0.5, "color": "fffffff7" },
+					{ "time": 1, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 1, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"s1": {
+				"scale": [
+					{ "time": 0, "x": 2.741, "y": 2.741 },
+					{ "time": 0.3333, "x": 0.712, "y": 0.712 },
+					{ "time": 0.5, "x": 1.16, "y": 1.16 },
+					{ "time": 0.6333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1, "x": 1, "y": 1 }
+				]
+			},
+			"s4": {
+				"scale": [
+					{ "time": 0.3333, "x": 1, "y": 1 },
+					{ "time": 0.6667, "x": 2.645, "y": 2.645, "curve": "stepped" },
+					{ "time": 1, "x": 2.645, "y": 2.645 }
+				]
+			},
+			"s3": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.1667, "x": 1, "y": 1 },
+					{ "time": 0.6667, "x": 1.456, "y": 1.456 }
+				]
+			},
+			"s5": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.3333, "x": 1, "y": 1 },
+					{ "time": 0.8333, "x": 1.456, "y": 1.456 }
+				]
+			},
+			"s6": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.5, "x": 1, "y": 1 },
+					{ "time": 1, "x": 1.456, "y": 1.456, "curve": "stepped" },
+					{ "time": 1.1667, "x": 1.456, "y": 1.456 }
+				]
+			}
+		}
+	},
+	"animation2": {
+		"slots": {
+			"s2": {
+				"attachment": [
+					{ "time": 0, "name": "s5" }
+				]
+			},
+			"s3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"s4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"s5": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"s6": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	}
+}
+}

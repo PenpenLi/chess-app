@@ -1,0 +1,13 @@
+
+yanhuan.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f
+  rotate: true
+  xy: 2, 2
+  size: 245, 255
+  orig: 245, 255
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+<UserData Version="3.10.0.0">
+  <Properties>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Windows" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="games/hhdz/prefab/PlayerListLayer.csd" />
+          <FilePathData Path="games/hhdz/HhdzScene.csd" />
+          <FilePathData Path="games/hhdz/prefab/PlayerInfo.csd" />
+          <FilePathData Path="games/hhdz/prefab/TrendLayer.csd" />
+          <FilePathData Path="games/hhdz/prefab/GameWaiting.csd" />
+          <FilePathData Path="games/hhdz/prefab/GameVs.csd" />
+          <FilePathData Path="games/hhdz/prefab/GameStart.csd" />
+          <FilePathData Path="games/hhdz/prefab/GameEnd.csd" />
+          <FilePathData Path="games/hhdz/prefab/Chip5.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="games/hhdz/HhdzScene.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

@@ -1,0 +1,49 @@
+<UserData Version="3.10.0.0">
+  <Properties>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Windows" />
+      </Value>
+    </Item>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.game" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="" />
+        <iOS_Target Value="game iOS" />
+        <iOS_BundleID Value="" />
+        <Platform Value="None" />
+        <RunPlatform Value="None" />
+        <FrameworkVersion Value="None" />
+        <IsDebugKeystore Value="True" />
+        <KeystorePassword Value="" />
+        <KeystoreAliasName Value="" />
+        <KeystoreAliasPassword Value="" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="games/bjl/BjlScene.csd" />
+          <FilePathData Path="games/bjl/prefab/Chip1.csd" />
+          <FilePathData Path="games/bjl/prefab/BjlHelpLayer.csd" />
+          <FilePathData Path="games/bjl/prefab/BjlLdLayer.csd" />
+          <FilePathData Path="games/bjl/prefab/BjlPlayersList.csd" />
+          <FilePathData Path="games/bjl/prefab/Chip2.csd" />
+          <FilePathData Path="games/bjl/prefab/Chip3.csd" />
+          <FilePathData Path="games/bjl/prefab/Chip4.csd" />
+          <FilePathData Path="games/bjl/prefab/Chip5.csd" />
+          <FilePathData Path="games/bjl/prefab/Chip6.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="games/bjl/BjlScene.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

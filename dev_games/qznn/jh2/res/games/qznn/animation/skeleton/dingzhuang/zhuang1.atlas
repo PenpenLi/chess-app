@@ -1,0 +1,27 @@
+
+zhuang1.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s1
+  rotate: false
+  xy: 438, 66
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 2, 2
+  size: 216, 109
+  orig: 216, 109
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 220, 2
+  size: 216, 109
+  orig: 216, 109
+  offset: 0, 0
+  index: -1

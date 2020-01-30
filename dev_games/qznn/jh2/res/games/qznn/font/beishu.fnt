@@ -1,0 +1,18 @@
+info face="Î¢ÈíÑÅºÚ" size=42 bold=1 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=42 base=34 scaleW=256 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="beishu_0.png"
+chars count=14
+char id=42   x=147   y=0     width=21    height=42    xoffset=0     yoffset=0     xadvance=21    page=0  chnl=15
+char id=48   x=169   y=0     width=21    height=42    xoffset=0     yoffset=0     xadvance=21    page=0  chnl=15
+char id=49   x=82    y=43    width=16    height=42    xoffset=0     yoffset=0     xadvance=16    page=0  chnl=15
+char id=50   x=42    y=43    width=19    height=42    xoffset=0     yoffset=0     xadvance=19    page=0  chnl=15
+char id=51   x=235   y=0     width=20    height=42    xoffset=0     yoffset=0     xadvance=20    page=0  chnl=15
+char id=52   x=123   y=0     width=23    height=42    xoffset=0     yoffset=0     xadvance=23    page=0  chnl=15
+char id=53   x=0     y=43    width=20    height=42    xoffset=0     yoffset=0     xadvance=20    page=0  chnl=15
+char id=54   x=191   y=0     width=21    height=42    xoffset=0     yoffset=0     xadvance=21    page=0  chnl=15
+char id=55   x=62    y=43    width=19    height=42    xoffset=0     yoffset=0     xadvance=19    page=0  chnl=15
+char id=56   x=21    y=43    width=20    height=42    xoffset=0     yoffset=0     xadvance=20    page=0  chnl=15
+char id=57   x=213   y=0     width=21    height=42    xoffset=0     yoffset=0     xadvance=21    page=0  chnl=15
+char id=19979 x=0     y=0     width=40    height=42    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=20493 x=41    y=0     width=40    height=42    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=27880 x=82    y=0     width=40    height=42    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15

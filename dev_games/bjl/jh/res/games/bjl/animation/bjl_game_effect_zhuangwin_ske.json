@@ -1,0 +1,2243 @@
+{
+    "skeleton": {
+        "spine": "3.6.53",
+        "width": 575.9,
+        "height": 512,
+        "fps": 24,
+        "hash": " ",
+        "name": "bjl_game_effect_zhuangwin"
+    },
+    "bones": [
+        {
+            "name": "root"
+        },
+        {
+            "x": -80,
+            "y": 50,
+            "name": "闲",
+            "parent": "root"
+        },
+        {
+            "name": "和",
+            "parent": "root"
+        },
+        {
+            "x": 80,
+            "y": 50,
+            "rotation": 1,
+            "name": "赢",
+            "parent": "root"
+        },
+        {
+            "name": "条带",
+            "parent": "root"
+        },
+        {
+            "x": -23.8219,
+            "y": 77.2231,
+            "scaleX": 1.1,
+            "scaleY": 1.1,
+            "name": "光芒",
+            "parent": "root"
+        },
+        {
+            "name": "筹码总",
+            "parent": "root"
+        },
+        {
+            "name": "星光总",
+            "parent": "root"
+        },
+        {
+            "x": -80,
+            "y": 50,
+            "name": "庄",
+            "parent": "root"
+        },
+        {
+            "x": -23.8219,
+            "y": 77.2231,
+            "scaleX": 1.1,
+            "scaleY": 1.1,
+            "name": "光芒1",
+            "parent": "root"
+        },
+        {
+            "x": 240.9483,
+            "y": 150.38,
+            "rotation": -35,
+            "scaleX": 1.2,
+            "scaleY": 1.2,
+            "name": "筹码橙",
+            "parent": "筹码总"
+        },
+        {
+            "x": 56.7679,
+            "y": 158.761,
+            "rotation": -67,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "name": "筹码黑",
+            "parent": "筹码总"
+        },
+        {
+            "x": 200.58,
+            "y": 93.3517,
+            "name": "筹码紫",
+            "parent": "筹码总"
+        },
+        {
+            "x": 131.197,
+            "y": 112.9051,
+            "name": "星光1",
+            "parent": "星光总"
+        },
+        {
+            "x": -103.9002,
+            "y": 62.0221,
+            "name": "星光2",
+            "parent": "星光总"
+        },
+        {
+            "x": 50.8899,
+            "y": 6.8383,
+            "name": "星光3",
+            "parent": "星光总"
+        },
+        {
+            "x": -46.6491,
+            "y": 104.4303,
+            "name": "星光4",
+            "parent": "星光总"
+        },
+        {
+            "x": -148.795,
+            "y": 99.47,
+            "rotation": 39,
+            "scaleX": 0.6,
+            "scaleY": 0.6,
+            "name": "筹码绿",
+            "parent": "筹码总"
+        },
+        {
+            "x": -240.9483,
+            "y": 68.1215,
+            "rotation": 41,
+            "scaleX": 1.1,
+            "scaleY": 1.1,
+            "name": "筹码蓝",
+            "parent": "筹码总"
+        },
+        {
+            "x": -151.3811,
+            "y": 175.3498,
+            "rotation": -19,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "name": "筹码红",
+            "parent": "筹码总"
+        }
+    ],
+    "slots": [
+        {
+            "name": "光芒",
+            "bone": "光芒",
+            "attachment": "光芒2_00000"
+        },
+        {
+            "name": "光芒1",
+            "bone": "光芒1",
+            "blend": "additive",
+            "attachment": "光芒2_00000"
+        },
+        {
+            "name": "条带",
+            "bone": "条带",
+            "attachment": "effect_Result_bg"
+        },
+        {
+            "name": "筹码橙",
+            "bone": "筹码橙",
+            "attachment": "effect_Result_Chip01"
+        },
+        {
+            "name": "筹码红",
+            "bone": "筹码红",
+            "attachment": "effect_Result_Chip02"
+        },
+        {
+            "name": "筹码紫",
+            "bone": "筹码紫",
+            "attachment": "effect_Result_Chip03"
+        },
+        {
+            "name": "筹码蓝",
+            "bone": "筹码蓝",
+            "attachment": "effect_Result_Chip04"
+        },
+        {
+            "name": "筹码绿",
+            "bone": "筹码绿",
+            "attachment": "effect_Result_Chip06"
+        },
+        {
+            "name": "筹码黑",
+            "bone": "筹码黑",
+            "attachment": "effect_Result_Chip05"
+        },
+        {
+            "name": "庄",
+            "bone": "庄",
+            "attachment": "effect_Result_Zhuang"
+        },
+        {
+            "name": "闲",
+            "bone": "闲"
+        },
+        {
+            "name": "和",
+            "bone": "和"
+        },
+        {
+            "name": "赢",
+            "bone": "赢",
+            "attachment": "effect_Result_Ying"
+        },
+        {
+            "name": "星光1",
+            "bone": "星光1",
+            "blend": "additive",
+            "attachment": "glow_00000"
+        },
+        {
+            "name": "星光2",
+            "bone": "星光2",
+            "blend": "additive",
+            "attachment": "glow_00000"
+        },
+        {
+            "name": "星光3",
+            "bone": "星光3",
+            "blend": "additive",
+            "attachment": "glow_00000"
+        },
+        {
+            "name": "星光4",
+            "bone": "星光4",
+            "blend": "additive",
+            "attachment": "glow_00000"
+        }
+    ],
+    "skins": {
+        "default": {
+            "星光2": {
+                "glow_00000": {
+                    "name": "glow_00000",
+                    "width": 64,
+                    "height": 64
+                }
+            },
+            "筹码绿": {
+                "effect_Result_Chip06": {
+                    "name": "effect_Result_Chip06",
+                    "width": 91,
+                    "height": 48
+                }
+            },
+            "赢": {
+                "effect_Result_Ying": {
+                    "name": "effect_Result_Ying",
+                    "width": 159,
+                    "height": 154
+                }
+            },
+            "庄": {
+                "effect_Result_Zhuang": {
+                    "name": "effect_Result_Zhuang",
+                    "width": 152,
+                    "height": 151
+                }
+            },
+            "条带": {
+                "effect_Result_bg": {
+                    "name": "effect_Result_bg",
+                    "width": 422,
+                    "height": 134
+                }
+            },
+            "和": {
+                "effect_Result_He": {
+                    "name": "effect_Result_He",
+                    "width": 150,
+                    "height": 149
+                }
+            },
+            "筹码红": {
+                "effect_Result_Chip02": {
+                    "name": "effect_Result_Chip02",
+                    "width": 91,
+                    "height": 47
+                }
+            },
+            "星光1": {
+                "glow_00000": {
+                    "name": "glow_00000",
+                    "width": 64,
+                    "height": 64
+                }
+            },
+            "筹码蓝": {
+                "effect_Result_Chip04": {
+                    "name": "effect_Result_Chip04",
+                    "width": 92,
+                    "height": 47
+                }
+            },
+            "星光3": {
+                "glow_00000": {
+                    "name": "glow_00000",
+                    "width": 64,
+                    "height": 64
+                }
+            },
+            "筹码黑": {
+                "effect_Result_Chip05": {
+                    "name": "effect_Result_Chip05",
+                    "width": 90,
+                    "height": 46
+                }
+            },
+            "星光4": {
+                "glow_00000": {
+                    "name": "glow_00000",
+                    "width": 64,
+                    "height": 64
+                }
+            },
+            "光芒1": {
+                "光芒2_00000": {
+                    "name": "光芒2_00000",
+                    "width": 488,
+                    "height": 439
+                }
+            },
+            "闲": {
+                "effect_Result_Xian": {
+                    "name": "effect_Result_Xian",
+                    "width": 142,
+                    "height": 154
+                }
+            },
+            "筹码橙": {
+                "effect_Result_Chip01": {
+                    "name": "effect_Result_Chip01",
+                    "width": 96,
+                    "height": 49
+                }
+            },
+            "光芒": {
+                "光芒2_00000": {
+                    "name": "光芒2_00000",
+                    "width": 488,
+                    "height": 439
+                }
+            },
+            "筹码紫": {
+                "effect_Result_Chip03": {
+                    "name": "effect_Result_Chip03",
+                    "width": 89,
+                    "height": 47,
+                    "rotation": 18,
+                    "scaleX": 0.7,
+                    "scaleY": 0.7
+                }
+            }
+        }
+    },
+    "animations": {
+        "bjl_game_effect_zhuangwin": {
+            "bones": {
+                "庄": {
+                    "scale": [
+                        {
+                            "time": 0,
+                            "curve": "stepped",
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.125,
+                            "x": 2,
+                            "y": 2
+                        },
+                        {
+                            "time": 0.2083,
+                            "x": 0.9,
+                            "y": 0.9
+                        },
+                        {
+                            "time": 0.375,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ]
+                },
+                "赢": {
+                    "scale": [
+                        {
+                            "time": 0,
+                            "curve": "stepped",
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.125,
+                            "x": 2,
+                            "y": 2
+                        },
+                        {
+                            "time": 0.2083,
+                            "x": 0.9,
+                            "y": 0.9
+                        },
+                        {
+                            "time": 0.375,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ]
+                },
+                "条带": {
+                    "scale": [
+                        {
+                            "time": 0,
+                            "curve": "stepped",
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.125,
+                            "x": 0.01,
+                            "y": 0.7
+                        },
+                        {
+                            "time": 0.2917,
+                            "x": 1.2,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.4167,
+                            "x": 0.9,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.5834,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ]
+                },
+                "光芒": {
+                    "rotate": [
+                        {
+                            "time": 0,
+                            "curve": "stepped",
+                            "angle": 0
+                        },
+                        {
+                            "time": 3,
+                            "angle": -45
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "time": 0,
+                            "x": 0.01,
+                            "y": 0.01
+                        },
+                        {
+                            "time": 0.25,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ],
+                    "shear": [
+                        {
+                            "time": 0,
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 3
+                        }
+                    ]
+                },
+                "筹码橙": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": -218.93,
+                            "y": -135.23
+                        },
+                        {
+                            "time": 0.5833,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ]
+                        },
+                        {
+                            "time": 0.7083,
+                            "x": -2.8,
+                            "y": -1.73
+                        },
+                        {
+                            "time": 1.7916,
+                            "x": -5.86,
+                            "y": -5.81
+                        },
+                        {
+                            "time": 2.9999,
+                            "x": -2.8,
+                            "y": -1.73
+                        }
+                    ]
+                },
+                "筹码红": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": 153.21,
+                            "y": -166.39
+                        },
+                        {
+                            "time": 0.4167
+                        },
+                        {
+                            "time": 0.5417,
+                            "x": 2.45,
+                            "y": -2.66
+                        },
+                        {
+                            "time": 1.7084,
+                            "x": 5.51,
+                            "y": -5.72
+                        },
+                        {
+                            "time": 3.0001,
+                            "x": 2.45,
+                            "y": -2.66
+                        }
+                    ]
+                },
+                "筹码紫": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": -196.23,
+                            "y": -82.19
+                        },
+                        {
+                            "time": 0.5
+                        },
+                        {
+                            "time": 0.6667,
+                            "x": -3.14,
+                            "y": -1.31
+                        },
+                        {
+                            "time": 1.7084,
+                            "x": -6.2,
+                            "y": -3.36
+                        },
+                        {
+                            "time": 3.0001,
+                            "x": -3.14,
+                            "y": -1.31
+                        }
+                    ]
+                },
+                "筹码蓝": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": 236.6,
+                            "y": -58.22
+                        },
+                        {
+                            "time": 0.5417
+                        },
+                        {
+                            "time": 0.7084,
+                            "x": 4.73,
+                            "y": -1.16
+                        },
+                        {
+                            "time": 1.7501,
+                            "x": -0.37,
+                            "y": 1.9
+                        },
+                        {
+                            "time": 3.0001,
+                            "x": 4.73,
+                            "y": -1.16
+                        }
+                    ]
+                },
+                "筹码绿": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": 148.23,
+                            "y": -87.04
+                        },
+                        {
+                            "time": 0.4583
+                        },
+                        {
+                            "time": 0.5833,
+                            "x": 1.89,
+                            "y": -1.11
+                        },
+                        {
+                            "time": 1.7083,
+                            "x": 7.81,
+                            "y": -3.74
+                        },
+                        {
+                            "time": 3,
+                            "x": 1.89,
+                            "y": -1.11
+                        }
+                    ]
+                },
+                "筹码黑": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": -56.2,
+                            "y": -153.9
+                        },
+                        {
+                            "time": 0.5417
+                        },
+                        {
+                            "time": 0.6667,
+                            "x": -0.9,
+                            "y": -2.46
+                        },
+                        {
+                            "time": 1.7917,
+                            "x": 1.14,
+                            "y": 4.69
+                        },
+                        {
+                            "time": 3,
+                            "x": -0.9,
+                            "y": -2.46
+                        }
+                    ]
+                },
+                "光芒1": {
+                    "rotate": [
+                        {
+                            "time": 0,
+                            "curve": "stepped",
+                            "angle": 0
+                        },
+                        {
+                            "time": 3,
+                            "angle": -45
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "time": 0,
+                            "x": 0.01,
+                            "y": 0.01
+                        },
+                        {
+                            "time": 0.25,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ],
+                    "shear": [
+                        {
+                            "time": 0,
+                            "curve": "stepped"
+                        },
+                        {
+                            "time": 3
+                        }
+                    ]
+                }
+            },
+            "slots": {
+                "光芒": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.25,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "条带": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.0833,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "庄": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "赢": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "筹码橙": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "筹码红": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "筹码紫": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "筹码蓝": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "筹码绿": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "筹码黑": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "星光1": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.25,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.375,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.5833,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.875,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "星光2": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.3333,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.4583,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.6666,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.9999,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "星光3": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.5417,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.6667,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.875,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 1.125,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "星光4": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.75,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.9167,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 1.125,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 1.4583,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "光芒1": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.25,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                }
+            }
+        },
+        "bjl_game_effect_xianwin": {
+            "bones": {
+                "庄": {
+                    "scale": [
+                        {
+                            "time": 0,
+                            "curve": "stepped",
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.125,
+                            "x": 2,
+                            "y": 2
+                        },
+                        {
+                            "time": 0.2083,
+                            "x": 0.9,
+                            "y": 0.9
+                        },
+                        {
+                            "time": 0.375,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ]
+                },
+                "闲": {
+                    "scale": [
+                        {
+                            "time": 0,
+                            "curve": "stepped",
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.125,
+                            "x": 2,
+                            "y": 2
+                        },
+                        {
+                            "time": 0.2083,
+                            "x": 0.9,
+                            "y": 0.9
+                        },
+                        {
+                            "time": 0.375,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ]
+                },
+                "赢": {
+                    "scale": [
+                        {
+                            "time": 0,
+                            "curve": "stepped",
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.125,
+                            "x": 2,
+                            "y": 2
+                        },
+                        {
+                            "time": 0.2083,
+                            "x": 0.9,
+                            "y": 0.9
+                        },
+                        {
+                            "time": 0.375,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ]
+                },
+                "条带": {
+                    "scale": [
+                        {
+                            "time": 0,
+                            "curve": "stepped",
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.125,
+                            "x": 0.01,
+                            "y": 0.7
+                        },
+                        {
+                            "time": 0.2917,
+                            "x": 1.2,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.4167,
+                            "x": 0.9,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.5834,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ]
+                },
+                "光芒": {
+                    "scale": [
+                        {
+                            "time": 0,
+                            "x": 0.01,
+                            "y": 0.01
+                        },
+                        {
+                            "time": 0.25,
+                            "curve": [
+                                0,
+                                0,
+                                0.33902439024390246,
+                                1
+                            ],
+                            "x": 0.91,
+                            "y": 0.91
+                        },
+                        {
+                            "time": 1.25,
+                            "x": 0.95,
+                            "y": 0.95
+                        }
+                    ]
+                },
+                "筹码绿": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": 148.23,
+                            "y": -87.04
+                        },
+                        {
+                            "time": 0.4583
+                        },
+                        {
+                            "time": 0.5833,
+                            "x": 1.89,
+                            "y": -1.11
+                        },
+                        {
+                            "time": 1.7083,
+                            "x": 7.81,
+                            "y": -3.74
+                        },
+                        {
+                            "time": 3,
+                            "x": 1.89,
+                            "y": -1.11
+                        }
+                    ]
+                },
+                "筹码紫": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": -196.23,
+                            "y": -82.19
+                        },
+                        {
+                            "time": 0.5
+                        },
+                        {
+                            "time": 0.6667,
+                            "x": -3.14,
+                            "y": -1.31
+                        },
+                        {
+                            "time": 1.7084,
+                            "x": -6.2,
+                            "y": -3.36
+                        },
+                        {
+                            "time": 3.0001,
+                            "x": -3.14,
+                            "y": -1.31
+                        }
+                    ]
+                },
+                "筹码蓝": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": 236.6,
+                            "y": -58.22
+                        },
+                        {
+                            "time": 0.5417
+                        },
+                        {
+                            "time": 0.7084,
+                            "x": 4.73,
+                            "y": -1.16
+                        },
+                        {
+                            "time": 1.7501,
+                            "x": -0.37,
+                            "y": 1.9
+                        },
+                        {
+                            "time": 3.0001,
+                            "x": 4.73,
+                            "y": -1.16
+                        }
+                    ]
+                },
+                "筹码红": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": 153.21,
+                            "y": -166.39
+                        },
+                        {
+                            "time": 0.4167
+                        },
+                        {
+                            "time": 0.5417,
+                            "x": 2.45,
+                            "y": -2.66
+                        },
+                        {
+                            "time": 1.7084,
+                            "x": 5.51,
+                            "y": -5.72
+                        },
+                        {
+                            "time": 3.0001,
+                            "x": 2.45,
+                            "y": -2.66
+                        }
+                    ]
+                },
+                "筹码黑": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": -56.2,
+                            "y": -153.9
+                        },
+                        {
+                            "time": 0.5417
+                        },
+                        {
+                            "time": 0.6667,
+                            "x": -0.9,
+                            "y": -2.46
+                        },
+                        {
+                            "time": 1.7917,
+                            "x": 1.14,
+                            "y": 4.69
+                        },
+                        {
+                            "time": 3,
+                            "x": -0.9,
+                            "y": -2.46
+                        }
+                    ]
+                },
+                "筹码橙": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": -218.93,
+                            "y": -135.23
+                        },
+                        {
+                            "time": 0.5833,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ]
+                        },
+                        {
+                            "time": 0.7083,
+                            "x": -2.8,
+                            "y": -1.73
+                        },
+                        {
+                            "time": 1.7916,
+                            "x": -5.86,
+                            "y": -5.81
+                        },
+                        {
+                            "time": 2.9999,
+                            "x": -2.8,
+                            "y": -1.73
+                        }
+                    ]
+                },
+                "光芒1": {
+                    "scale": [
+                        {
+                            "time": 0,
+                            "x": 0.01,
+                            "y": 0.01
+                        },
+                        {
+                            "time": 0.25,
+                            "curve": [
+                                0,
+                                0,
+                                0.33902439024390246,
+                                1
+                            ],
+                            "x": 0.91,
+                            "y": 0.91
+                        },
+                        {
+                            "time": 1.25,
+                            "x": 0.95,
+                            "y": 0.95
+                        }
+                    ]
+                }
+            },
+            "slots": {
+                "光芒": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.0833,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.25,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "条带": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.0833,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "筹码橙": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "筹码红": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "筹码紫": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "筹码蓝": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "筹码绿": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "筹码黑": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "庄": {
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": ""
+                        }
+                    ],
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "闲": {
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": "effect_Result_Xian"
+                        }
+                    ],
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "赢": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "星光1": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.25,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.375,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.5833,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.875,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "星光2": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.3333,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.4583,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.6666,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.9999,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "星光3": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.5417,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.6667,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.875,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 1.125,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "星光4": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.75,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.9167,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 1.125,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 1.4583,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "光芒1": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.0833,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.25,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 1.0417,
+                            "color": "FFFFFF99"
+                        }
+                    ]
+                }
+            }
+        },
+        "bjl_game_effect_hewin": {
+            "bones": {
+                "庄": {
+                    "scale": [
+                        {
+                            "time": 0,
+                            "curve": "stepped",
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.125,
+                            "x": 2,
+                            "y": 2
+                        },
+                        {
+                            "time": 0.2083,
+                            "x": 0.9,
+                            "y": 0.9
+                        },
+                        {
+                            "time": 0.375,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ]
+                },
+                "和": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "y": 50
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "time": 0,
+                            "curve": "stepped",
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.125,
+                            "x": 2,
+                            "y": 2
+                        },
+                        {
+                            "time": 0.2083,
+                            "x": 0.9,
+                            "y": 0.9
+                        },
+                        {
+                            "time": 0.375,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ]
+                },
+                "条带": {
+                    "scale": [
+                        {
+                            "time": 0,
+                            "curve": "stepped",
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.125,
+                            "x": 0.01,
+                            "y": 0.7
+                        },
+                        {
+                            "time": 0.2917,
+                            "x": 1.2,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.4167,
+                            "x": 0.9,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.5834,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ]
+                },
+                "光芒": {
+                    "scale": [
+                        {
+                            "time": 0,
+                            "x": 0.01,
+                            "y": 0.01
+                        },
+                        {
+                            "time": 0.25,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ]
+                },
+                "筹码紫": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": -196.23,
+                            "y": -82.19
+                        },
+                        {
+                            "time": 0.5
+                        },
+                        {
+                            "time": 0.6667,
+                            "x": -3.14,
+                            "y": -1.31
+                        },
+                        {
+                            "time": 1.7084,
+                            "x": -6.2,
+                            "y": -3.36
+                        },
+                        {
+                            "time": 3.0001,
+                            "x": -3.14,
+                            "y": -1.31
+                        }
+                    ]
+                },
+                "筹码蓝": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": 236.6,
+                            "y": -58.22
+                        },
+                        {
+                            "time": 0.5417
+                        },
+                        {
+                            "time": 0.7084,
+                            "x": 4.73,
+                            "y": -1.16
+                        },
+                        {
+                            "time": 1.7501,
+                            "x": -0.37,
+                            "y": 1.9
+                        },
+                        {
+                            "time": 3.0001,
+                            "x": 4.73,
+                            "y": -1.16
+                        }
+                    ]
+                },
+                "筹码红": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": 153.21,
+                            "y": -166.39
+                        },
+                        {
+                            "time": 0.4167
+                        },
+                        {
+                            "time": 0.5417,
+                            "x": 2.45,
+                            "y": -2.66
+                        },
+                        {
+                            "time": 1.7084,
+                            "x": 5.51,
+                            "y": -5.72
+                        },
+                        {
+                            "time": 3.0001,
+                            "x": 2.45,
+                            "y": -2.66
+                        }
+                    ]
+                },
+                "筹码黑": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": -56.2,
+                            "y": -153.9
+                        },
+                        {
+                            "time": 0.5417
+                        },
+                        {
+                            "time": 0.6667,
+                            "x": -0.9,
+                            "y": -2.46
+                        },
+                        {
+                            "time": 1.7917,
+                            "x": 1.14,
+                            "y": 4.69
+                        },
+                        {
+                            "time": 3,
+                            "x": -0.9,
+                            "y": -2.46
+                        }
+                    ]
+                },
+                "筹码橙": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": -218.93,
+                            "y": -135.23
+                        },
+                        {
+                            "time": 0.5833,
+                            "curve": [
+                                0,
+                                0,
+                                0.5,
+                                1
+                            ]
+                        },
+                        {
+                            "time": 0.7083,
+                            "x": -2.8,
+                            "y": -1.73
+                        },
+                        {
+                            "time": 1.7916,
+                            "x": -5.86,
+                            "y": -5.81
+                        },
+                        {
+                            "time": 2.9999,
+                            "x": -2.8,
+                            "y": -1.73
+                        }
+                    ]
+                },
+                "星光1": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "x": -118.94,
+                            "y": -36.81
+                        }
+                    ]
+                },
+                "星光2": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "x": 86.17,
+                            "y": -42.55
+                        }
+                    ]
+                },
+                "光芒1": {
+                    "scale": [
+                        {
+                            "time": 0,
+                            "x": 0.01,
+                            "y": 0.01
+                        },
+                        {
+                            "time": 0.25,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ]
+                }
+            },
+            "slots": {
+                "光芒": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.25,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "条带": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.0833,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "筹码橙": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "筹码红": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "筹码紫": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "筹码蓝": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "筹码绿": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "筹码黑": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "庄": {
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": ""
+                        }
+                    ],
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "和": {
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": "effect_Result_He"
+                        }
+                    ],
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                },
+                "赢": {
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": ""
+                        }
+                    ]
+                },
+                "星光1": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.25,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.375,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.5833,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.875,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "星光2": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.3333,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.4583,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.6666,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.9999,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "星光3": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.5417,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.6667,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.875,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 1.125,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "星光4": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.75,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.9167,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 1.125,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 1.4583,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "光芒1": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.25,
+                            "color": "FFFFFFFF"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

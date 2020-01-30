@@ -1,0 +1,514 @@
+{
+    "skeleton": {
+        "spine": "3.6.53",
+        "width": 527,
+        "height": 105,
+        "fps": 24,
+        "hash": " ",
+        "name": "zjh_effect_xz"
+    },
+    "bones": [
+        {
+            "name": "root"
+        },
+        {
+            "name": "底图",
+            "parent": "root"
+        },
+        {
+            "name": "开始下注",
+            "parent": "root"
+        },
+        {
+            "name": "停止下注",
+            "parent": "root"
+        },
+        {
+            "name": "扫光",
+            "parent": "root"
+        },
+        {
+            "scaleX": 1.55,
+            "scaleY": 1.55,
+            "name": "速度线",
+            "parent": "root"
+        }
+    ],
+    "slots": [
+        {
+            "name": "底图",
+            "bone": "底图",
+            "attachment": "effect_stage_bg2"
+        },
+        {
+            "name": "速度线",
+            "bone": "速度线",
+            "blend": "additive",
+            "attachment": "速度线_00000"
+        },
+        {
+            "name": "开始下注",
+            "bone": "开始下注",
+            "attachment": "effect_stage_start1"
+        },
+        {
+            "name": "停止下注",
+            "bone": "停止下注",
+            "attachment": "effect_stage_stop1"
+        },
+        {
+            "name": "扫光",
+            "bone": "扫光",
+            "attachment": "effect_stage_light2"
+        }
+    ],
+    "skins": {
+        "default": {
+            "底图": {
+                "effect_stage_bg2": {
+                    "name": "effect_stage_bg2",
+                    "width": 527,
+                    "height": 105
+                }
+            },
+            "扫光": {
+                "effect_stage_light2": {
+                    "name": "effect_stage_light2",
+                    "width": 332,
+                    "height": 105
+                }
+            },
+            "停止下注": {
+                "effect_stage_stop1": {
+                    "name": "effect_stage_stop1",
+                    "width": 339,
+                    "height": 103
+                }
+            },
+            "开始下注": {
+                "effect_stage_start1": {
+                    "name": "effect_stage_start1",
+                    "width": 338,
+                    "height": 102
+                }
+            },
+            "速度线": {
+                "速度线_00000": {
+                    "name": "速度线_00000",
+                    "width": 248,
+                    "height": 63
+                }
+            }
+        }
+    },
+    "animations": {
+        "zjh_effect_xz_star": {
+            "bones": {
+                "底图": {
+                    "scale": [
+                        {
+                            "time": 0,
+                            "x": 1,
+                            "y": 0.01
+                        },
+                        {
+                            "time": 0.125,
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.7917,
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "time": 1,
+                            "x": 1,
+                            "y": 0.01
+                        }
+                    ]
+                },
+                "开始下注": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "x": -649.11,
+                            "y": -7
+                        },
+                        {
+                            "time": 0.1667,
+                            "y": -7
+                        },
+                        {
+                            "time": 0.7917,
+                            "x": 10.75,
+                            "y": -7
+                        },
+                        {
+                            "time": 1.0417,
+                            "x": 617.19,
+                            "y": -7
+                        }
+                    ]
+                },
+                "扫光": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "x": -590.29
+                        },
+                        {
+                            "time": 0.0833,
+                            "x": -537.85
+                        },
+                        {
+                            "time": 0.1666,
+                            "x": -65.23
+                        },
+                        {
+                            "time": 0.7499,
+                            "x": 149.88
+                        }
+                    ]
+                },
+                "速度线": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "x": -590.29
+                        },
+                        {
+                            "time": 0.0833,
+                            "x": -537.85
+                        },
+                        {
+                            "time": 0.2083,
+                            "x": -65.23
+                        },
+                        {
+                            "time": 0.8333,
+                            "x": -105.54
+                        },
+                        {
+                            "time": 1.0416,
+                            "x": 489.47
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "time": 0,
+                            "x": 1.58,
+                            "y": 1.35
+                        }
+                    ]
+                }
+            },
+            "slots": {
+                "底图": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.7917,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 1,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "开始下注": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.7917,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 1.0417,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "停止下注": {
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": ""
+                        }
+                    ]
+                },
+                "扫光": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.0833,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.4583,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.6666,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "速度线": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFEBADFF"
+                        },
+                        {
+                            "time": 0.2083,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.7916,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.8333,
+                            "color": "FFEBADFF"
+                        },
+                        {
+                            "time": 0.9166,
+                            "color": "FFEBADFF"
+                        },
+                        {
+                            "time": 1.0416,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                }
+            }
+        },
+        "zjh_effect_xz_end": {
+            "bones": {
+                "底图": {
+                    "scale": [
+                        {
+                            "time": 0,
+                            "x": 1,
+                            "y": 0.01
+                        },
+                        {
+                            "time": 0.125,
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.7917,
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "time": 1,
+                            "x": 1,
+                            "y": 0.01
+                        }
+                    ]
+                },
+                "停止下注": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "x": -649.11,
+                            "y": -7
+                        },
+                        {
+                            "time": 0.1667,
+                            "y": -7
+                        },
+                        {
+                            "time": 0.7917,
+                            "x": 10.75,
+                            "y": -7
+                        },
+                        {
+                            "time": 1.0417,
+                            "x": 617.19,
+                            "y": -7
+                        }
+                    ]
+                },
+                "扫光": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "x": -590.29
+                        },
+                        {
+                            "time": 0.0833,
+                            "x": -537.85
+                        },
+                        {
+                            "time": 0.1666,
+                            "x": -65.23
+                        },
+                        {
+                            "time": 0.7499,
+                            "x": 149.88
+                        }
+                    ]
+                },
+                "速度线": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "x": -590.29
+                        },
+                        {
+                            "time": 0.0833,
+                            "x": -537.85
+                        },
+                        {
+                            "time": 0.2083,
+                            "x": -65.23
+                        },
+                        {
+                            "time": 0.8333,
+                            "x": -105.54
+                        },
+                        {
+                            "time": 1.0416,
+                            "x": 489.47
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "time": 0,
+                            "x": 1.58,
+                            "y": 1.35
+                        }
+                    ]
+                }
+            },
+            "slots": {
+                "底图": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.7917,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 1,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "开始下注": {
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": ""
+                        }
+                    ]
+                },
+                "停止下注": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.1667,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.7917,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 1.0417,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "扫光": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.0833,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.4583,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.6666,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "速度线": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.125,
+                            "color": "FFEBADFF"
+                        },
+                        {
+                            "time": 0.2083,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.7916,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.8333,
+                            "color": "FFEBADFF"
+                        },
+                        {
+                            "time": 0.9166,
+                            "color": "FFEBADFF"
+                        },
+                        {
+                            "time": 1.0416,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

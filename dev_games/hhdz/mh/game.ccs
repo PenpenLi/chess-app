@@ -1,0 +1,343 @@
+<Solution>
+  <PropertyGroup Name="game" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="games">
+          <Folder Name="hhdz">
+            <Folder Name="animation">
+              <PlistImageFolder Image="anim_light.png" PListFile="anim_light.plist" Name=".anim_light_PList.Dir">
+                <PlistImageFile Name="anim_light1.png" Key="anim_light1.png" />
+                <PlistImageFile Name="anim_light10.png" Key="anim_light10.png" />
+                <PlistImageFile Name="anim_light11.png" Key="anim_light11.png" />
+                <PlistImageFile Name="anim_light12.png" Key="anim_light12.png" />
+                <PlistImageFile Name="anim_light13.png" Key="anim_light13.png" />
+                <PlistImageFile Name="anim_light14.png" Key="anim_light14.png" />
+                <PlistImageFile Name="anim_light15.png" Key="anim_light15.png" />
+                <PlistImageFile Name="anim_light16.png" Key="anim_light16.png" />
+                <PlistImageFile Name="anim_light17.png" Key="anim_light17.png" />
+                <PlistImageFile Name="anim_light18.png" Key="anim_light18.png" />
+                <PlistImageFile Name="anim_light19.png" Key="anim_light19.png" />
+                <PlistImageFile Name="anim_light2.png" Key="anim_light2.png" />
+                <PlistImageFile Name="anim_light20.png" Key="anim_light20.png" />
+                <PlistImageFile Name="anim_light21.png" Key="anim_light21.png" />
+                <PlistImageFile Name="anim_light22.png" Key="anim_light22.png" />
+                <PlistImageFile Name="anim_light23.png" Key="anim_light23.png" />
+                <PlistImageFile Name="anim_light24.png" Key="anim_light24.png" />
+                <PlistImageFile Name="anim_light3.png" Key="anim_light3.png" />
+                <PlistImageFile Name="anim_light4.png" Key="anim_light4.png" />
+                <PlistImageFile Name="anim_light5.png" Key="anim_light5.png" />
+                <PlistImageFile Name="anim_light6.png" Key="anim_light6.png" />
+                <PlistImageFile Name="anim_light7.png" Key="anim_light7.png" />
+                <PlistImageFile Name="anim_light8.png" Key="anim_light8.png" />
+                <PlistImageFile Name="anim_light9.png" Key="anim_light9.png" />
+              </PlistImageFolder>
+              <PlistImageFolder Image="anim_start.png" PListFile="anim_start.plist" Name=".anim_start_PList.Dir">
+                <PlistImageFile Name="anim_start1.png" Key="anim_start1.png" />
+                <PlistImageFile Name="anim_start10.png" Key="anim_start10.png" />
+                <PlistImageFile Name="anim_start2.png" Key="anim_start2.png" />
+                <PlistImageFile Name="anim_start3.png" Key="anim_start3.png" />
+                <PlistImageFile Name="anim_start4.png" Key="anim_start4.png" />
+                <PlistImageFile Name="anim_start5.png" Key="anim_start5.png" />
+                <PlistImageFile Name="anim_start6.png" Key="anim_start6.png" />
+                <PlistImageFile Name="anim_start7.png" Key="anim_start7.png" />
+                <PlistImageFile Name="anim_start8.png" Key="anim_start8.png" />
+                <PlistImageFile Name="anim_start9.png" Key="anim_start9.png" />
+              </PlistImageFolder>
+              <Folder Name="defen">
+                <File Name="defen.atlas" />
+                <File Name="defen.json" />
+                <Image Name="defen.png" />
+              </Folder>
+              <Folder Name="hongheidazhan_guowanghuanghou">
+                <ExportJsonFile Name="hongheidazhan_guowanghuanghou.ExportJson" />
+              </Folder>
+              <Folder Name="hongheidazhan_vsdonghua">
+                <ExportJsonFile Name="hongheidazhan_vsdonghua.ExportJson" />
+              </Folder>
+              <PlistParticleFile Name="frame.plist" />
+              <PlistParticleFile Name="luckyStar.plist" />
+              <Image Name="luckyStar.png" />
+              <Image Name="Pentagram01.png" />
+              <PlistParticleFile Name="star.plist" />
+              <PlistParticleFile Name="star_born1.plist" />
+              <PlistParticleFile Name="star_born2.plist" />
+              <PlistParticleFile Name="star_tail.plist" />
+              <PlistParticleFile Name="star01.plist" />
+              <Image Name="StarFlashBlue.png" />
+              <PlistParticleFile Name="start_bomb.plist" />
+            </Folder>
+            <Folder Name="font">
+              <Fnt Name="chip.fnt" />
+              <Fnt Name="chip_num.fnt" />
+              <Fnt Name="dt_jinbi_num.fnt" />
+              <Fnt Name="number_lose.fnt" />
+              <Fnt Name="number_win.fnt" />
+              <Fnt Name="numberlabel_vip.fnt" />
+              <TTF Name="PINGFANG BOLD_0.ttf" />
+              <Fnt Name="rank.fnt" />
+              <Fnt Name="rank_jushu.fnt" />
+              <Fnt Name="time.fnt" />
+              <Fnt Name="vip_num.fnt" />
+            </Folder>
+            <Folder Name="images">
+              <PlistImageFolder Image="card.png" PListFile="card.plist" Name=".card_PList.Dir">
+                <PlistImageFile Name="0_1.png" Key="0_1.png" />
+                <PlistImageFile Name="0_10.png" Key="0_10.png" />
+                <PlistImageFile Name="0_11.png" Key="0_11.png" />
+                <PlistImageFile Name="0_12.png" Key="0_12.png" />
+                <PlistImageFile Name="0_13.png" Key="0_13.png" />
+                <PlistImageFile Name="0_2.png" Key="0_2.png" />
+                <PlistImageFile Name="0_3.png" Key="0_3.png" />
+                <PlistImageFile Name="0_4.png" Key="0_4.png" />
+                <PlistImageFile Name="0_5.png" Key="0_5.png" />
+                <PlistImageFile Name="0_6.png" Key="0_6.png" />
+                <PlistImageFile Name="0_7.png" Key="0_7.png" />
+                <PlistImageFile Name="0_8.png" Key="0_8.png" />
+                <PlistImageFile Name="0_9.png" Key="0_9.png" />
+                <PlistImageFile Name="1_1.png" Key="1_1.png" />
+                <PlistImageFile Name="1_10.png" Key="1_10.png" />
+                <PlistImageFile Name="1_11.png" Key="1_11.png" />
+                <PlistImageFile Name="1_12.png" Key="1_12.png" />
+                <PlistImageFile Name="1_13.png" Key="1_13.png" />
+                <PlistImageFile Name="1_2.png" Key="1_2.png" />
+                <PlistImageFile Name="1_3.png" Key="1_3.png" />
+                <PlistImageFile Name="1_4.png" Key="1_4.png" />
+                <PlistImageFile Name="1_5.png" Key="1_5.png" />
+                <PlistImageFile Name="1_6.png" Key="1_6.png" />
+                <PlistImageFile Name="1_7.png" Key="1_7.png" />
+                <PlistImageFile Name="1_8.png" Key="1_8.png" />
+                <PlistImageFile Name="1_9.png" Key="1_9.png" />
+                <PlistImageFile Name="2_1.png" Key="2_1.png" />
+                <PlistImageFile Name="2_10.png" Key="2_10.png" />
+                <PlistImageFile Name="2_11.png" Key="2_11.png" />
+                <PlistImageFile Name="2_12.png" Key="2_12.png" />
+                <PlistImageFile Name="2_13.png" Key="2_13.png" />
+                <PlistImageFile Name="2_2.png" Key="2_2.png" />
+                <PlistImageFile Name="2_3.png" Key="2_3.png" />
+                <PlistImageFile Name="2_4.png" Key="2_4.png" />
+                <PlistImageFile Name="2_5.png" Key="2_5.png" />
+                <PlistImageFile Name="2_6.png" Key="2_6.png" />
+                <PlistImageFile Name="2_7.png" Key="2_7.png" />
+                <PlistImageFile Name="2_8.png" Key="2_8.png" />
+                <PlistImageFile Name="2_9.png" Key="2_9.png" />
+                <PlistImageFile Name="3_1.png" Key="3_1.png" />
+                <PlistImageFile Name="3_10.png" Key="3_10.png" />
+                <PlistImageFile Name="3_11.png" Key="3_11.png" />
+                <PlistImageFile Name="3_12.png" Key="3_12.png" />
+                <PlistImageFile Name="3_13.png" Key="3_13.png" />
+                <PlistImageFile Name="3_2.png" Key="3_2.png" />
+                <PlistImageFile Name="3_3.png" Key="3_3.png" />
+                <PlistImageFile Name="3_4.png" Key="3_4.png" />
+                <PlistImageFile Name="3_5.png" Key="3_5.png" />
+                <PlistImageFile Name="3_6.png" Key="3_6.png" />
+                <PlistImageFile Name="3_7.png" Key="3_7.png" />
+                <PlistImageFile Name="3_8.png" Key="3_8.png" />
+                <PlistImageFile Name="3_9.png" Key="3_9.png" />
+                <PlistImageFile Name="bg_back.png" Key="bg_back.png" />
+              </PlistImageFolder>
+              <PlistImageFolder Image="chip.png" PListFile="chip.plist" Name=".chip_PList.Dir">
+                <PlistImageFile Name="chip_black.png" Key="chip_black.png" />
+                <PlistImageFile Name="chip_black_bg.png" Key="chip_black_bg.png" />
+                <PlistImageFile Name="chip_blue.png" Key="chip_blue.png" />
+                <PlistImageFile Name="chip_blue_bg.png" Key="chip_blue_bg.png" />
+                <PlistImageFile Name="chip_green.png" Key="chip_green.png" />
+                <PlistImageFile Name="chip_orange_bg.png" Key="chip_orange_bg.png" />
+                <PlistImageFile Name="chip_purple.png" Key="chip_purple.png" />
+                <PlistImageFile Name="chip_red.png" Key="chip_red.png" />
+                <PlistImageFile Name="chip_red_bg.png" Key="chip_red_bg.png" />
+                <PlistImageFile Name="chip_select.png" Key="chip_select.png" />
+                <PlistImageFile Name="chip_yellow.png" Key="chip_yellow.png" />
+                <PlistImageFile Name="chip0.png" Key="chip0.png" />
+                <PlistImageFile Name="chip1.png" Key="chip1.png" />
+                <PlistImageFile Name="chip2.png" Key="chip2.png" />
+                <PlistImageFile Name="chip3.png" Key="chip3.png" />
+                <PlistImageFile Name="chip4.png" Key="chip4.png" />
+                <PlistImageFile Name="chip5.png" Key="chip5.png" />
+                <PlistImageFile Name="chip6.png" Key="chip6.png" />
+                <PlistImageFile Name="chip7.png" Key="chip7.png" />
+                <PlistImageFile Name="chip8.png" Key="chip8.png" />
+                <PlistImageFile Name="chip9.png" Key="chip9.png" />
+              </PlistImageFolder>
+              <Folder Name="chuangkou">
+                <Image Name="an_guan.png" />
+                <Image Name="ck_geren_b.png" />
+                <Image Name="ck_geren_bg.png" />
+                <Image Name="ck_geren_bi.png" />
+                <Image Name="ck_geren_bi_bg.png" />
+                <Image Name="ck_geren_head_di.png" />
+                <Image Name="ck_geren_head_k.png" />
+                <Image Name="ck_vip_bg.png" />
+                <Image Name="location.png" />
+                <Image Name="sex_0.png" />
+                <Image Name="sex_1.png" />
+              </Folder>
+              <Folder Name="liebiao">
+                <Image Name="an_guan.png" />
+                <Image Name="liebiao_b.png" />
+                <Image Name="liebiao_bg.png" />
+                <Image Name="liebiao_jin.png" />
+                <Image Name="liebiao_lan.png" />
+                <Image Name="liebiao_lan_1.png" />
+                <Image Name="liebiao_lan_2.png" />
+                <Image Name="sheng_head_di.png" />
+                <Image Name="sheng_head_k.png" />
+              </Folder>
+              <PlistImageFolder Image="lzt_bg.png" PListFile="lzt_bg.plist" Name=".lzt_bg_PList.Dir">
+                <PlistImageFile Name="dl_bg.png" Key="dl_bg.png" />
+                <PlistImageFile Name="xsl_bg.png" Key="xsl_bg.png" />
+                <PlistImageFile Name="xsl_bg_1.png" Key="xsl_bg_1.png" />
+                <PlistImageFile Name="xsl_bg_2.png" Key="xsl_bg_2.png" />
+                <PlistImageFile Name="zpl_bg_01.png" Key="zpl_bg_01.png" />
+                <PlistImageFile Name="zpl_bg_02.png" Key="zpl_bg_02.png" />
+              </PlistImageFolder>
+              <PlistImageFolder Image="lzt_item.png" PListFile="lzt_item.plist" Name=".lzt_item_PList.Dir">
+                <PlistImageFile Name="black.png" Key="black.png" />
+                <PlistImageFile Name="corner_ball_blue.png" Key="corner_ball_blue.png" />
+                <PlistImageFile Name="corner_ball_red.png" Key="corner_ball_red.png" />
+                <PlistImageFile Name="corner_circle_blue.png" Key="corner_circle_blue.png" />
+                <PlistImageFile Name="corner_circle_red.png" Key="corner_circle_red.png" />
+                <PlistImageFile Name="corner_line_blue.png" Key="corner_line_blue.png" />
+                <PlistImageFile Name="corner_line_red.png" Key="corner_line_red.png" />
+                <PlistImageFile Name="dl_item_blue.png" Key="dl_item_blue.png" />
+                <PlistImageFile Name="dl_item_red.png" Key="dl_item_red.png" />
+                <PlistImageFile Name="dyzl_item_blue.png" Key="dyzl_item_blue.png" />
+                <PlistImageFile Name="dyzl_item_red.png" Key="dyzl_item_red.png" />
+                <PlistImageFile Name="next_round.png" Key="next_round.png" />
+                <PlistImageFile Name="red.png" Key="red.png" />
+                <PlistImageFile Name="xl_item_blue.png" Key="xl_item_blue.png" />
+                <PlistImageFile Name="xl_item_red.png" Key="xl_item_red.png" />
+                <PlistImageFile Name="yyl_item_blue.png" Key="yyl_item_blue.png" />
+                <PlistImageFile Name="yyl_item_red.png" Key="yyl_item_red.png" />
+              </PlistImageFolder>
+              <PlistImageFolder Image="trend.png" PListFile="trend.plist" Name=".trend_PList.Dir">
+                <PlistImageFile Name="black_ circle.png" Key="black_ circle.png" />
+                <PlistImageFile Name="black_bg.png" Key="black_bg.png" />
+                <PlistImageFile Name="black_point.png" Key="black_point.png" />
+                <PlistImageFile Name="black_point_d.png" Key="black_point_d.png" />
+                <PlistImageFile Name="bomb_d.png" Key="bomb_d.png" />
+                <PlistImageFile Name="bomb_l.png" Key="bomb_l.png" />
+                <PlistImageFile Name="double_d.png" Key="double_d.png" />
+                <PlistImageFile Name="double_l.png" Key="double_l.png" />
+                <PlistImageFile Name="flower_d.png" Key="flower_d.png" />
+                <PlistImageFile Name="flower_l.png" Key="flower_l.png" />
+                <PlistImageFile Name="king.png" Key="king.png" />
+                <PlistImageFile Name="new.png" Key="new.png" />
+                <PlistImageFile Name="queen.png" Key="queen.png" />
+                <PlistImageFile Name="recent_bg.png" Key="recent_bg.png" />
+                <PlistImageFile Name="red_ circle.png" Key="red_ circle.png" />
+                <PlistImageFile Name="red_bg.png" Key="red_bg.png" />
+                <PlistImageFile Name="red_point.png" Key="red_point.png" />
+                <PlistImageFile Name="red_point_d.png" Key="red_point_d.png" />
+                <PlistImageFile Name="single_d.png" Key="single_d.png" />
+                <PlistImageFile Name="single_l.png" Key="single_l.png" />
+                <PlistImageFile Name="straight_d.png" Key="straight_d.png" />
+                <PlistImageFile Name="straight_flower_d.png" Key="straight_flower_d.png" />
+                <PlistImageFile Name="straight_flower_l.png" Key="straight_flower_l.png" />
+                <PlistImageFile Name="straight_l.png" Key="straight_l.png" />
+              </PlistImageFolder>
+              <PlistImageFolder Image="winner_area.png" PListFile="winner_area.plist" Name=".winner_area_PList.Dir">
+                <PlistImageFile Name="winner_area_big.png" Key="winner_area_big.png" />
+                <PlistImageFile Name="winner_area_small.png" Key="winner_area_small.png" />
+              </PlistImageFolder>
+              <Image Name="baifenbi.png" />
+              <Image Name="bg.jpg" />
+              <Image Name="bg_hei_liang.png" />
+              <Image Name="bg_hong_liang.png" />
+              <Image Name="bg_xingyun_liang.png" />
+              <Image Name="btn_back.png" />
+              <Image Name="btn_charge.png" />
+              <Image Name="btn_close.png" />
+              <Image Name="btn_help.png" />
+              <Image Name="btn_online.png" />
+              <Image Name="btn_set.png" />
+              <Image Name="btn_trend.png" />
+              <Image Name="card_type_gold_flower.png" />
+              <Image Name="card_type_pairs.png" />
+              <Image Name="card_type_panther.png" />
+              <Image Name="card_type_single.png" />
+              <Image Name="card_type_straight.png" />
+              <Image Name="card_type_straight_gold.png" />
+              <Image Name="df1.png" />
+              <Image Name="dian_1.png" />
+              <Image Name="dian_4G.png" />
+              <Image Name="dian_wifi.png" />
+              <Image Name="dilan.png" />
+              <Image Name="empty_player.png" />
+              <Image Name="frame_00.png" />
+              <Image Name="frame_01.png" />
+              <Image Name="gold_bar.png" />
+              <Image Name="head_01.png" />
+              <Image Name="Head_wanjia_bg.png" />
+              <Image Name="Head_wanjia_kong.png" />
+              <Image Name="Head_wanjia_mingzi.png" />
+              <Image Name="jilu.png" />
+              <Image Name="jin.png" />
+              <Image Name="jin20ju.png" />
+              <Image Name="jznn_nogold_notify.png" />
+              <Image Name="location.png" />
+              <Image Name="luckyStar.png" />
+              <Image Name="notice_bg.png" />
+              <Image Name="pailu.png" />
+              <Image Name="play_bg.png" />
+              <Image Name="rich_1.png" />
+              <Image Name="round.png" />
+              <Image Name="scorebg_lose.png" />
+              <Image Name="scorebg_win.png" />
+              <Image Name="star.png" />
+              <Image Name="start.png" />
+              <Image Name="start_filter.png" />
+              <Image Name="stop.png" />
+              <Image Name="time_bg.png" />
+              <Image Name="top_bar.png" />
+              <Image Name="top_bar2.png" />
+              <Image Name="trend_bg.png" />
+              <Image Name="vip_bg.png" />
+              <Image Name="wait.png" />
+              <Image Name="wait_dot.png" />
+              <Image Name="wait_text.png" />
+              <Image Name="xuya.png" />
+              <Image Name="xuya_02.png" />
+              <Image Name="yuan.png" />
+            </Folder>
+            <Folder Name="prefab">
+              <Project Name="AnimLight.csd" Type="Node" />
+              <Project Name="Chip1.csd" Type="Node" />
+              <Project Name="Chip2.csd" Type="Node" />
+              <Project Name="Chip3.csd" Type="Node" />
+              <Project Name="Chip4.csd" Type="Node" />
+              <Project Name="Chip5.csd" Type="Node" />
+              <Project Name="GameEnd.csd" Type="Node" />
+              <Project Name="GameStart.csd" Type="Node" />
+              <Project Name="GameVs.csd" Type="Node" />
+              <Project Name="GameWaiting.csd" Type="Node" />
+              <Project Name="PlayerInfo.csd" Type="Node" />
+              <Project Name="PlayerListLayer.csd" Type="Layer" />
+              <Project Name="TrendLayer.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="sound">
+              <Audio Name="alert.mp3" />
+              <Audio Name="bet.mp3" />
+              <Audio Name="bg.mp3" />
+              <Audio Name="countdown.mp3" />
+              <Audio Name="flipcard.mp3" />
+              <Audio Name="gold_flower.mp3" />
+              <Audio Name="on_bet.mp3" />
+              <Audio Name="pairs.mp3" />
+              <Audio Name="panther.mp3" />
+              <Audio Name="sendcard.mp3" />
+              <Audio Name="show.mp3" />
+              <Audio Name="single.mp3" />
+              <Audio Name="start.mp3" />
+              <Audio Name="stop.mp3" />
+              <Audio Name="straight.mp3" />
+              <Audio Name="straight_gold.mp3" />
+              <Audio Name="win_bet.mp3" />
+            </Folder>
+            <Project Name="HhdzScene.csd" Type="Scene" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
