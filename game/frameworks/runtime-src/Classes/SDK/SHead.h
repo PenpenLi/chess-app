@@ -1,0 +1,20 @@
+﻿#pragma once
+
+#include "Client.h"
+#include "Http.h"
+#include "SConfig.h"
+#include "Server.h"
+#include "SFile.h"
+#include "SInit.h"
+#include "SInstance.h"
+#include "SListener.h"
+#include "SLua.h"
+#include "SMemoryPool.h"
+#include "SMsgManager.h"
+#include "SPacker.h"
+#include "SPlatform.h"
+#include "SPlatformHead.h"
+#include "STools.h"
+#include "SBase64.h"
+//#include "SDump.h"
+using namespace SDK;
