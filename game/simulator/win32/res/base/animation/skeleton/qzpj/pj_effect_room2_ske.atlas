@@ -1,0 +1,174 @@
+
+pj_effect_room2_ske.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meihuameihua
+  rotate: false
+  xy: 533, 1
+  size: 203, 293
+  orig: 203, 293
+  offset: 0, 0
+  index: -1
+chujijiji1
+  rotate: false
+  xy: 268, 1
+  size: 263, 238
+  orig: 265, 240
+  offset: 0, 1
+  index: -1
+chujifang_00002
+  rotate: false
+  xy: 607, 296
+  size: 119, 222
+  orig: 265, 240
+  offset: 4, 17
+  index: -1
+chujifang_00009
+  rotate: false
+  xy: 738, 194
+  size: 179, 192
+  orig: 265, 240
+  offset: 67, 9
+  index: -1
+chujifang_00013
+  rotate: false
+  xy: 326, 472
+  size: 122, 112
+  orig: 265, 240
+  offset: 139, 51
+  index: -1
+chujifang_00007
+  rotate: false
+  xy: 1, 243
+  size: 184, 225
+  orig: 265, 240
+  offset: 35, 9
+  index: -1
+chujifang_00014
+  rotate: false
+  xy: 919, 194
+  size: 92, 100
+  orig: 265, 240
+  offset: 170, 58
+  index: -1
+chujifang_00003
+  rotate: false
+  xy: 171, 702
+  size: 132, 229
+  orig: 265, 240
+  offset: 4, 10
+  index: -1
+chujifang_00001
+  rotate: false
+  xy: 305, 623
+  size: 99, 140
+  orig: 265, 240
+  offset: 4, 99
+  index: -1
+chujifang_00018
+  rotate: false
+  xy: 514, 241
+  size: 11, 20
+  orig: 265, 240
+  offset: 248, 63
+  index: -1
+chujifang_00008
+  rotate: false
+  xy: 458, 528
+  size: 170, 192
+  orig: 265, 240
+  offset: 58, 9
+  index: -1
+chujifang_00006
+  rotate: false
+  xy: 268, 241
+  size: 188, 229
+  orig: 265, 240
+  offset: 8, 9
+  index: -1
+chujifang_00017
+  rotate: false
+  xy: 458, 241
+  size: 30, 33
+  orig: 265, 240
+  offset: 230, 61
+  index: -1
+chujifang_00000
+  rotate: false
+  xy: 187, 243
+  size: 78, 139
+  orig: 265, 240
+  offset: 4, 100
+  index: -1
+chujifang_00012
+  rotate: false
+  xy: 176, 472
+  size: 148, 149
+  orig: 265, 240
+  offset: 112, 15
+  index: -1
+chujifang_00011
+  rotate: false
+  xy: 1, 702
+  size: 168, 182
+  orig: 265, 240
+  offset: 91, 14
+  index: -1
+chujifang_00019
+  rotate: false
+  xy: 1, 1
+  size: 265, 240
+  orig: 265, 240
+  offset: 0, 0
+  index: -1
+chujifang_00005
+  rotate: false
+  xy: 1, 470
+  size: 173, 230
+  orig: 265, 240
+  offset: 4, 9
+  index: -1
+chujifang_00010
+  rotate: false
+  xy: 738, 1
+  size: 187, 191
+  orig: 265, 240
+  offset: 72, 9
+  index: -1
+chujifang_00016
+  rotate: false
+  xy: 112, 886
+  size: 47, 95
+  orig: 265, 240
+  offset: 214, 59
+  index: -1
+chujifang_00004
+  rotate: false
+  xy: 458, 296
+  size: 147, 230
+  orig: 265, 240
+  offset: 4, 9
+  index: -1
+chujifang_00015
+  rotate: false
+  xy: 927, 1
+  size: 72, 98
+  orig: 265, 240
+  offset: 190, 59
+  index: -1
+meihuaguang
+  rotate: false
+  xy: 1, 886
+  size: 109, 110
+  orig: 111, 111
+  offset: 1, 0
+  index: -1
+meihuagua
+  rotate: false
+  xy: 490, 241
+  size: 22, 21
+  orig: 24, 24
+  offset: 0, 1
+  index: -1

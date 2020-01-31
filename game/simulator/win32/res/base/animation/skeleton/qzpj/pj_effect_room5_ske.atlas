@@ -1,0 +1,286 @@
+
+pj_effect_room5_ske.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paijiu
+  rotate: false
+  xy: 600, 848
+  size: 79, 82
+  orig: 80, 82
+  offset: 1, 0
+  index: -1
+lanhua5
+  rotate: false
+  xy: 1, 1
+  size: 279, 292
+  orig: 279, 292
+  offset: 0, 0
+  index: -1
+lanhua4
+  rotate: false
+  xy: 1, 778
+  size: 239, 177
+  orig: 239, 177
+  offset: 0, 0
+  index: -1
+lanhua3
+  rotate: false
+  xy: 565, 349
+  size: 151, 128
+  orig: 151, 128
+  offset: 0, 0
+  index: -1
+lanhua2
+  rotate: false
+  xy: 1, 957
+  size: 77, 66
+  orig: 77, 66
+  offset: 0, 0
+  index: -1
+lanhua1
+  rotate: false
+  xy: 230, 474
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+lanhuaguang10
+  rotate: false
+  xy: 526, 1002
+  size: 19, 20
+  orig: 24, 24
+  offset: 3, 1
+  index: -1
+lanhuaguang9
+  rotate: false
+  xy: 448, 848
+  size: 20, 20
+  orig: 24, 24
+  offset: 3, 1
+  index: -1
+lanhuaguang8
+  rotate: false
+  xy: 547, 1002
+  size: 19, 19
+  orig: 24, 24
+  offset: 3, 2
+  index: -1
+lanhuaguang7
+  rotate: false
+  xy: 470, 848
+  size: 20, 20
+  orig: 24, 24
+  offset: 2, 1
+  index: -1
+lanhuaguang6
+  rotate: false
+  xy: 526, 981
+  size: 20, 19
+  orig: 24, 24
+  offset: 2, 2
+  index: -1
+lanhuaguang5
+  rotate: false
+  xy: 567, 981
+  size: 17, 19
+  orig: 24, 24
+  offset: 3, 2
+  index: -1
+lanhuaguang4
+  rotate: false
+  xy: 568, 1002
+  size: 18, 19
+  orig: 24, 24
+  offset: 2, 2
+  index: -1
+lanhuaguang3
+  rotate: false
+  xy: 426, 848
+  size: 20, 20
+  orig: 24, 24
+  offset: 2, 1
+  index: -1
+lanhuaguang2
+  rotate: false
+  xy: 548, 981
+  size: 17, 19
+  orig: 24, 24
+  offset: 3, 2
+  index: -1
+lanhuaguang1
+  rotate: false
+  xy: 564, 524
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+zhizunfang
+  rotate: false
+  xy: 1, 537
+  size: 225, 239
+  orig: 227, 240
+  offset: 1, 1
+  index: -1
+zhizunfang_23
+  rotate: false
+  xy: 242, 879
+  size: 164, 141
+  orig: 227, 240
+  offset: 3, 77
+  index: -1
+zhizunfang_28
+  rotate: false
+  xy: 404, 168
+  size: 162, 179
+  orig: 227, 240
+  offset: 48, 2
+  index: -1
+zhizunfang_35
+  rotate: false
+  xy: 346, 474
+  size: 41, 50
+  orig: 227, 240
+  offset: 183, 59
+  index: -1
+zhizunfang_19
+  rotate: false
+  xy: 408, 879
+  size: 96, 140
+  orig: 227, 240
+  offset: 1, 100
+  index: -1
+zhizunfang_20
+  rotate: false
+  xy: 740, 1
+  size: 98, 147
+  orig: 227, 240
+  offset: 1, 93
+  index: -1
+zhizunfang_27
+  rotate: false
+  xy: 404, 349
+  size: 159, 173
+  orig: 227, 240
+  offset: 48, 8
+  index: -1
+zhizunfang_16
+  rotate: false
+  xy: 673, 932
+  size: 65, 70
+  orig: 227, 240
+  offset: 22, 170
+  index: -1
+zhizunfang_30
+  rotate: false
+  xy: 228, 537
+  size: 174, 177
+  orig: 227, 240
+  offset: 50, 0
+  index: -1
+zhizunfang_25
+  rotate: false
+  xy: 242, 716
+  size: 182, 161
+  orig: 227, 240
+  offset: 17, 20
+  index: -1
+zhizunfang_29
+  rotate: false
+  xy: 230, 295
+  size: 172, 177
+  orig: 227, 240
+  offset: 49, 3
+  index: -1
+zhizunfang_21
+  rotate: false
+  xy: 640, 1
+  size: 98, 148
+  orig: 227, 240
+  offset: 1, 91
+  index: -1
+zhizunfang_24
+  rotate: false
+  xy: 282, 1
+  size: 184, 165
+  orig: 227, 240
+  offset: 6, 36
+  index: -1
+zhizunfang_15
+  rotate: false
+  xy: 294, 474
+  size: 50, 52
+  orig: 227, 240
+  offset: 25, 188
+  index: -1
+zhizunfang_13
+  rotate: false
+  xy: 1, 295
+  size: 227, 240
+  orig: 227, 240
+  offset: 0, 0
+  index: -1
+zhizunfang_18
+  rotate: false
+  xy: 506, 848
+  size: 92, 131
+  orig: 227, 240
+  offset: 3, 109
+  index: -1
+zhizunfang_22
+  rotate: false
+  xy: 568, 168
+  size: 114, 142
+  orig: 227, 240
+  offset: 1, 90
+  index: -1
+zhizunfang_31
+  rotate: false
+  xy: 468, 1
+  size: 170, 165
+  orig: 227, 240
+  offset: 55, 0
+  index: -1
+zhizunfang_33
+  rotate: false
+  xy: 684, 168
+  size: 130, 119
+  orig: 227, 240
+  offset: 96, 6
+  index: -1
+zhizunfang_34
+  rotate: false
+  xy: 282, 168
+  size: 115, 107
+  orig: 227, 240
+  offset: 110, 10
+  index: -1
+zhizunfang_26
+  rotate: false
+  xy: 404, 524
+  size: 158, 170
+  orig: 227, 240
+  offset: 48, 11
+  index: -1
+zhizunfang_17
+  rotate: false
+  xy: 600, 932
+  size: 71, 86
+  orig: 227, 240
+  offset: 21, 154
+  index: -1
+zhizunfang_32
+  rotate: false
+  xy: 426, 696
+  size: 153, 150
+  orig: 227, 240
+  offset: 73, 3
+  index: -1
+zhizunfang_14
+  rotate: false
+  xy: 506, 981
+  size: 18, 22
+  orig: 227, 240
+  offset: 30, 216
+  index: -1

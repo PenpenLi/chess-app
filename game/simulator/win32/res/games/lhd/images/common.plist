@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>games/lhd/images/common/btn_close_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{476,209},{35,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{35,35}</string>
+			</dict>
+			<key>games/lhd/images/common/btn_close_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{426,451},{43,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{43,43}</string>
+			</dict>
+			<key>games/lhd/images/common/tishi_an.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{426,1},{206,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{206,69}</string>
+			</dict>
+			<key>games/lhd/images/common/tishi_b.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{426,209},{117,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{117,48}</string>
+			</dict>
+			<key>games/lhd/images/common/tishi_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{543,423}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{543,423}</string>
+			</dict>
+			<key>games/lhd/images/common/jinbi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{426,402},{47,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{47,47}</string>
+			</dict>
+			<key>games/lhd/images/common/btn_close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{426,328},{72,73}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{72,77}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>common.png</string>
+			<key>realTextureFileName</key>
+			<string>common.png</string>
+			<key>size</key>
+			<string>{512,545}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>545</integer>
+		</dict>
+	</dict>
+</plist>

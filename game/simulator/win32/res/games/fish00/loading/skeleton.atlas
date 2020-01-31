@@ -1,0 +1,138 @@
+
+skeleton.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chenghu
+  rotate: true
+  xy: 171, 58
+  size: 50, 81
+  orig: 113, 114
+  offset: 55, 27
+  index: -1
+diyuan
+  rotate: false
+  xy: 2, 29
+  size: 79, 79
+  orig: 107, 107
+  offset: 15, 15
+  index: -1
+game_loading_01
+  rotate: true
+  xy: 890, 60
+  size: 48, 51
+  orig: 50, 51
+  offset: 1, 0
+  index: -1
+game_loading_02
+  rotate: true
+  xy: 413, 59
+  size: 49, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+game_loading_03
+  rotate: true
+  xy: 466, 59
+  size: 49, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+game_loading_04
+  rotate: true
+  xy: 519, 59
+  size: 49, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+game_loading_05
+  rotate: true
+  xy: 254, 58
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+game_loading_06
+  rotate: true
+  xy: 943, 60
+  size: 48, 51
+  orig: 50, 51
+  offset: 1, 0
+  index: -1
+game_loading_07
+  rotate: true
+  xy: 572, 59
+  size: 49, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+game_loading_08
+  rotate: true
+  xy: 625, 59
+  size: 49, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+game_loading_09
+  rotate: true
+  xy: 83, 5
+  size: 48, 51
+  orig: 50, 51
+  offset: 1, 0
+  index: -1
+game_loading_10
+  rotate: true
+  xy: 307, 58
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+game_loading_11
+  rotate: true
+  xy: 678, 59
+  size: 49, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+game_loading_12
+  rotate: false
+  xy: 136, 2
+  size: 48, 51
+  orig: 50, 51
+  offset: 1, 0
+  index: -1
+game_loading_13
+  rotate: true
+  xy: 360, 58
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+game_loading_14
+  rotate: true
+  xy: 731, 59
+  size: 49, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+game_loading_15
+  rotate: true
+  xy: 784, 59
+  size: 49, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+game_loading_16
+  rotate: true
+  xy: 837, 59
+  size: 49, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+green
+  rotate: true
+  xy: 83, 55
+  size: 53, 86
+  orig: 113, 114
+  offset: 8, 5
+  index: -1

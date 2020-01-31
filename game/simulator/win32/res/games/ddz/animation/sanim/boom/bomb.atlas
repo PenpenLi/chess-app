@@ -1,0 +1,276 @@
+
+bomb.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bomb
+  rotate: true
+  xy: 892, 736
+  size: 277, 111
+  orig: 277, 111
+  offset: 0, 0
+  index: -1
+bomb_explosive1
+  rotate: false
+  xy: 678, 41
+  size: 168, 102
+  orig: 168, 102
+  offset: 0, 0
+  index: -1
+bomb_explosive10
+  rotate: true
+  xy: 2, 25
+  size: 608, 450
+  orig: 608, 450
+  offset: 0, 0
+  index: -1
+bomb_explosive11
+  rotate: false
+  xy: 454, 145
+  size: 562, 488
+  orig: 562, 488
+  offset: 0, 0
+  index: -1
+bomb_explosive2
+  rotate: false
+  xy: 454, 9
+  size: 222, 134
+  orig: 222, 134
+  offset: 0, 0
+  index: -1
+bomb_explosive5
+  rotate: true
+  xy: 626, 669
+  size: 344, 264
+  orig: 344, 264
+  offset: 0, 0
+  index: -1
+bomb_explosive8
+  rotate: false
+  xy: 2, 635
+  size: 622, 378
+  orig: 622, 378
+  offset: 0, 0
+  index: -1
+bombd
+  rotate: false
+  xy: 2, 2
+  size: 167, 21
+  orig: 167, 21
+  offset: 0, 0
+  index: -1
+
+bomb2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bomb1
+  rotate: true
+  xy: 2, 738
+  size: 180, 246
+  orig: 180, 246
+  offset: 0, 0
+  index: -1
+bomb10
+  rotate: true
+  xy: 2, 186
+  size: 182, 252
+  orig: 182, 252
+  offset: 0, 0
+  index: -1
+bomb11
+  rotate: true
+  xy: 250, 738
+  size: 180, 254
+  orig: 180, 254
+  offset: 0, 0
+  index: -1
+bomb12
+  rotate: true
+  xy: 256, 186
+  size: 182, 254
+  orig: 182, 254
+  offset: 0, 0
+  index: -1
+bomb13
+  rotate: true
+  xy: 512, 186
+  size: 182, 252
+  orig: 182, 252
+  offset: 0, 0
+  index: -1
+bomb14
+  rotate: true
+  xy: 766, 186
+  size: 182, 250
+  orig: 182, 250
+  offset: 0, 0
+  index: -1
+bomb15
+  rotate: true
+  xy: 506, 738
+  size: 180, 248
+  orig: 180, 248
+  offset: 0, 0
+  index: -1
+bomb16
+  rotate: true
+  xy: 2, 2
+  size: 182, 248
+  orig: 182, 248
+  offset: 0, 0
+  index: -1
+bomb17
+  rotate: true
+  xy: 252, 2
+  size: 182, 246
+  orig: 182, 246
+  offset: 0, 0
+  index: -1
+bomb18
+  rotate: true
+  xy: 500, 2
+  size: 182, 244
+  orig: 182, 244
+  offset: 0, 0
+  index: -1
+bomb19
+  rotate: true
+  xy: 756, 738
+  size: 180, 244
+  orig: 180, 244
+  offset: 0, 0
+  index: -1
+bomb2
+  rotate: true
+  xy: 2, 554
+  size: 182, 248
+  orig: 182, 248
+  offset: 0, 0
+  index: -1
+bomb20
+  rotate: true
+  xy: 746, 2
+  size: 182, 242
+  orig: 182, 242
+  offset: 0, 0
+  index: -1
+bomb3
+  rotate: true
+  xy: 252, 554
+  size: 182, 248
+  orig: 182, 248
+  offset: 0, 0
+  index: -1
+bomb4
+  rotate: true
+  xy: 502, 554
+  size: 182, 250
+  orig: 182, 250
+  offset: 0, 0
+  index: -1
+bomb5
+  rotate: true
+  xy: 754, 554
+  size: 182, 252
+  orig: 182, 252
+  offset: 0, 0
+  index: -1
+bomb6
+  rotate: true
+  xy: 2, 370
+  size: 182, 250
+  orig: 182, 250
+  offset: 0, 0
+  index: -1
+bomb7
+  rotate: true
+  xy: 254, 370
+  size: 182, 242
+  orig: 182, 242
+  offset: 0, 0
+  index: -1
+bomb8
+  rotate: true
+  xy: 498, 370
+  size: 182, 236
+  orig: 182, 236
+  offset: 0, 0
+  index: -1
+bomb9
+  rotate: true
+  xy: 736, 370
+  size: 182, 242
+  orig: 182, 242
+  offset: 0, 0
+  index: -1
+
+bomb3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bomb21
+  rotate: true
+  xy: 228, 22
+  size: 182, 242
+  orig: 182, 242
+  offset: 0, 0
+  index: -1
+bomb_explosive12
+  rotate: false
+  xy: 2, 206
+  size: 470, 474
+  orig: 470, 474
+  offset: 0, 0
+  index: -1
+bomb_explosive13
+  rotate: true
+  xy: 2, 2
+  size: 202, 224
+  orig: 202, 224
+  offset: 0, 0
+  index: -1
+bomb_explosive6
+  rotate: false
+  xy: 474, 138
+  size: 468, 272
+  orig: 468, 272
+  offset: 0, 0
+  index: -1
+bomb_explosive7
+  rotate: false
+  xy: 2, 682
+  size: 596, 320
+  orig: 596, 320
+  offset: 0, 0
+  index: -1
+bomb_explosive9
+  rotate: true
+  xy: 600, 412
+  size: 590, 418
+  orig: 590, 418
+  offset: 0, 0
+  index: -1
+
+bomb4.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bomb_explosive3
+  rotate: false
+  xy: 324, 52
+  size: 262, 198
+  orig: 262, 198
+  offset: 0, 0
+  index: -1
+bomb_explosive4
+  rotate: false
+  xy: 2, 2
+  size: 320, 248
+  orig: 320, 248
+  offset: 0, 0
+  index: -1

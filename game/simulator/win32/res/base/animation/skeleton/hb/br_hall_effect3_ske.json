@@ -1,0 +1,161 @@
+{
+  "skeleton": {
+    "width": 245.5,
+    "height": 288.5,
+    "fps": 24,
+    "hash": " ",
+    "spine": " ",
+    "name": "br_hall_effect3"
+  },
+  "bones": [
+
+    { "name": "root" },
+    {
+      "name": "底图",
+      "parent": "root"
+    },
+    {
+      "x": -12,
+      "y": -60,
+      "name": "标题框",
+      "parent": "root"
+    },
+    {
+      "x": -22,
+      "y": 38.5,
+      "name": "鼓",
+      "parent": "root"
+    },
+    {
+      "x": -79.2581,
+      "y": 62.3628,
+      "name": "鼓槌",
+      "parent": "root"
+    },
+    {
+      "x": 40,
+      "y": 125.5,
+      "name": "麻将",
+      "parent": "root"
+    },
+    {
+      "x": 1.639,
+      "y": 57.7736,
+      "name": "波",
+      "parent": "root"
+    },
+    {
+      "x": -12.7049,
+      "y": 18.4426,
+      "scaleX": 0.5,
+      "scaleY": 0.5,
+      "name": "glow",
+      "parent": "root"
+    },
+    {
+      "length": 73,
+      "rotation": 34.6607,
+      "name": "鼓槌1",
+      "parent": "鼓槌"
+    }
+  ],
+  "slots": [
+
+    {
+      "name": "底图",
+      "bone": "底图",
+      "attachment": "HallAniRoomsBg"
+    },
+    {
+      "name": "鼓",
+      "bone": "鼓",
+      "attachment": "HallAni03_01"
+    },
+    {
+      "name": "鼓槌",
+      "bone": "鼓槌1",
+      "attachment": "HallAni03_03"
+    },
+    {
+      "name": "麻将",
+      "bone": "麻将",
+      "attachment": "HallAni03_02"
+    },
+    {
+      "name": "标题框",
+      "bone": "标题框",
+      "attachment": "HallAniNameBg03"
+    },
+    {
+      "name": "波",
+      "bone": "波",
+      "attachment": "ring045_00000_00000"
+    },
+    {
+      "name": "glow",
+      "bone": "glow",
+      "attachment": "glow_00000"
+    }
+  ],
+  "skins": 
+  {
+    "default": {
+      "波": {
+        "ring045_00000_00000": {
+          "name": "ring045_00000_00000",
+          "width": 104,
+          "height": 125,
+          "x": 7.38,
+          "y": 0.82
+        }
+      },
+      "麻将": {
+        "HallAni03_02": {
+          "name": "HallAni03_02",
+          "width": 59,
+          "height": 58
+        }
+      },
+      "鼓": {
+        "HallAni03_01": {
+          "name": "HallAni03_01",
+          "width": 177,
+          "height": 123
+        }
+      },
+      "底图": {
+        "HallAniRoomsBg": {
+          "name": "HallAniRoomsBg",
+          "width": 242,
+          "height": 268
+        }
+      },
+      "鼓槌": {
+        "HallAni03_03": {
+          "name": "HallAni03_03",
+          "width": 70,
+          "height": 62,
+          "hull": 6,
+          "triangles": [ 0, 3, 4, 0, 4, 5, 1, 3, 0, 1, 2, 3 ],
+          "uvs": [ 0.58643, 0, 0, 0.41048, 0, 1, 0.42071, 1, 1, 0.39435, 1, 0 ],
+          "edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 0 ],
+          "vertices": [ 1, 8, 55.01, 16.55, 1, 1, 8, 6.78, 18.96, 1, 1, 8, -14.01, -11.1, 1, 1, 8, 10.21, -27.85, 1, 1, 8, 64.92, -20.03, 1, 1, 8, 78.83, 0.08, 1 ],
+          "type": "mesh"
+        }
+      },
+      "glow": {
+        "glow_00000": {
+          "name": "glow_00000",
+          "width": 115,
+          "height": 110
+        }
+      },
+      "标题框": {
+        "HallAniNameBg03": {
+          "name": "HallAniNameBg03",
+          "width": 225,
+          "height": 116
+        }
+      }
+    }
+  },"animations":{"newAnimation":{"bones":{"鼓":{"translate":[{"time":0,"y":-2.07}],"scale":[{"time":0,"x":1,"y":1},{"time":1.5417,"x":1,"y":1},{"time":1.5834,"x":0.98,"y":0.98},{"time":1.6251,"x":1,"y":1},{"time":3.8751,"x":1,"y":1},{"time":3.9168,"x":0.98,"y":0.98},{"time":3.9585,"x":1,"y":1},{"time":4.2085,"x":1,"y":1},{"time":4.2502,"x":0.98,"y":0.98},{"time":4.2919,"x":1,"y":1}]},"麻将":{"translate":[{"time":0,"curve":[0.7975778546712804,0,1,1]},{"time":1.25,"curve":[0,0,0.2370242214532872,1],"x":-1.64,"y":-4.1},{"time":2.5},{"time":3.75,"curve":[0,0,0.2370242214532872,1],"x":-1.64,"y":-4.1},{"time":5}]},"鼓槌1":{"translate":[{"time":0},{"time":1.2083,"y":3.5},{"time":1.25,"y":11.82},{"time":1.5417,"x":4.92,"y":-7.27},{"time":1.875,"y":3.5},{"time":3.4583,"y":7.25},{"time":3.5833,"y":15.9},{"time":3.875,"x":6.56,"y":-7.36},{"time":5}],"rotate":[{"time":0,"angle":0},{"time":1.25,"angle":0},{"time":1.4583,"angle":14},{"time":1.5416,"angle":-10},{"time":1.6666,"angle":0},{"time":3.5833,"angle":0},{"time":3.7916,"angle":32},{"time":3.8749,"angle":-10},{"time":3.9999,"angle":0},{"time":4.1249,"angle":27},{"time":4.2082,"angle":-10},{"time":4.3332,"angle":8},{"time":4.9999,"angle":0}],"shear":[{"time":0},{"time":1.25},{"time":1.4583},{"time":1.5416},{"time":1.6666},{"time":3.5833},{"time":3.7916},{"time":3.8749},{"time":3.9999},{"time":4.1249},{"time":4.2082},{"time":4.3332},{"time":4.9999}]},"波":{"translate":[{"time":0,"x":-3.28,"y":-0.94},{"time":1.7083,"x":2.46,"y":-0.9}],"scale":[{"time":0,"curve":"stepped","x":1,"y":1},{"time":1.5417,"x":1,"y":1},{"time":1.7084,"x":1.5,"y":1.5},{"time":3.9167,"x":1,"y":1},{"time":4.0834,"x":1.5,"y":1.5},{"time":4.2501,"x":1,"y":1},{"time":4.4168,"x":1.5,"y":1.5}]},"glow":{"translate":[{"time":0,"curve":"stepped"},{"time":3.3333,"y":-5.77},{"time":4.0416,"y":-3.2}],"rotate":[{"time":0,"curve":"stepped","angle":0},{"time":3.3333,"angle":0},{"time":4.0833,"angle":-22}],"scale":[{"time":0,"curve":"stepped","x":1,"y":1},{"time":3.3333,"x":0.02,"y":0.02},{"time":3.4583,"x":1,"y":1}],"shear":[{"time":0,"curve":"stepped"},{"time":3.3333},{"time":4.0833}]}},"slots":{"波":{"color":[{"time":0,"color":"FFFFFF00"},{"time":1.5,"color":"FFFFFF00"},{"time":1.5417,"color":"FFFFFFFF"},{"time":1.7084,"color":"FFFFFF00"},{"time":3.8751,"color":"FFFFFF00"},{"time":3.9168,"color":"FFFFFFFF"},{"time":4.0835,"color":"FFFFFF00"},{"time":4.2085,"color":"FFFFFF00"},{"time":4.2502,"color":"FFFFFFFF"},{"time":4.4169,"color":"FFFFFF00"}]},"glow":{"color":[{"time":0,"color":"FFFFFF00"},{"time":3.3333,"color":"FFFFFF00"},{"time":3.4583,"color":"FFFFFFFF"},{"time":4.0416,"color":"FFFFFF00"}]}}}}}

@@ -1,0 +1,158 @@
+{
+  "skeleton": {
+    "width": 245.5,
+    "height": 273.17,
+    "fps": 24,
+    "hash": " ",
+    "spine": " ",
+    "name": "br_hall_effect2"
+  },
+  "bones": [
+
+    { "name": "root" },
+    {
+      "name": "底图",
+      "parent": "root"
+    },
+    {
+      "x": -13.5,
+      "y": 49.5,
+      "name": "麻将",
+      "parent": "root"
+    },
+    {
+      "x": -24.0997,
+      "y": 107.1698,
+      "scaleX": 0.9,
+      "scaleY": 0.9,
+      "name": "扇叶花",
+      "parent": "root"
+    },
+    {
+      "x": -59.4549,
+      "y": 85.4563,
+      "scaleX": 0.7,
+      "scaleY": 0.7,
+      "name": "扇叶花1",
+      "parent": "root"
+    },
+    {
+      "x": 42.0319,
+      "y": 23.1482,
+      "scaleX": 0.5,
+      "scaleY": 0.5,
+      "name": "扇叶花2",
+      "parent": "root"
+    },
+    {
+      "x": -12,
+      "y": -60,
+      "name": "标题框",
+      "parent": "root"
+    },
+    {
+      "x": 1.8888,
+      "y": -5.8005,
+      "name": "发",
+      "parent": "麻将"
+    }
+  ],
+  "slots": [
+
+    {
+      "name": "底图",
+      "bone": "底图",
+      "attachment": "HallAniRoomsBg"
+    },
+    {
+      "name": "扇叶花",
+      "bone": "扇叶花",
+      "attachment": "HallAni02_02"
+    },
+    {
+      "name": "扇叶花1",
+      "bone": "扇叶花1",
+      "attachment": "HallAni02_02"
+    },
+    {
+      "name": "扇叶花2",
+      "bone": "扇叶花2",
+      "attachment": "HallAni02_02"
+    },
+    {
+      "name": "麻将",
+      "bone": "麻将",
+      "attachment": "HallAni02_01"
+    },
+    {
+      "name": "标题框",
+      "bone": "标题框",
+      "attachment": "HallAniNameBg02"
+    },
+    {
+      "name": "发",
+      "bone": "发",
+      "blend": "additive",
+      "attachment": "发_00000"
+    }
+  ],
+  "skins": 
+  {
+    "default": {
+      "扇叶花": {
+        "HallAni02_02": {
+          "name": "HallAni02_02",
+          "width": 89,
+          "height": 64
+        }
+      },
+      "扇叶花1": {
+        "HallAni02_02": {
+          "name": "HallAni02_02",
+          "width": 89,
+          "height": 64
+        }
+      },
+      "发": {
+        "发_00000": {
+          "name": "发_00000",
+          "width": 55,
+          "height": 72
+        }
+      },
+      "标题框": {
+        "HallAniNameBg02": {
+          "name": "HallAniNameBg02",
+          "width": 225,
+          "height": 116
+        }
+      },
+      "麻将": {
+        "HallAni02_01": {
+          "name": "HallAni02_01",
+          "width": 177,
+          "height": 172,
+          "hull": 6,
+          "triangles": [ 5, 3, 4, 0, 5, 4, 0, 1, 5, 1, 2, 5 ],
+          "uvs": [ 0.37571, 0.00581, 0, 0.61628, 0.30791, 1, 0.70339, 1, 1, 0.25, 0.56215, 1 ],
+          "edges": [ 0, 2, 2, 4, 4, 10, 6, 8, 6, 10, 8, 0, 0, 10 ],
+          "vertices": [ -22, 85, -88.5, -20, -34, -86, 36, -86, 88.5, 43, 11, -86 ],
+          "type": "mesh"
+        }
+      },
+      "扇叶花2": {
+        "HallAni02_02": {
+          "name": "HallAni02_02",
+          "width": 89,
+          "height": 64
+        }
+      },
+      "底图": {
+        "HallAniRoomsBg": {
+          "name": "HallAniRoomsBg",
+          "width": 242,
+          "height": 268
+        }
+      }
+    }
+  },"animations":{"newAnimation":{"bones":{"麻将":{"translate":[{"time":0,"curve":[0.5,0,1,1]},{"time":2.0833,"curve":[0.5,0,1,1],"y":-5.4},{"time":4.1666}]},"扇叶花":{"translate":[{"time":0},{"time":2.5,"x":8.11},{"time":5}],"scale":[{"time":0,"x":0.01,"y":0.01},{"time":0.125,"curve":[0.7041522491349481,0,1,1],"x":0.01,"y":0.01},{"time":0.2917,"curve":[0,0,0.1401384083044983,1],"x":0.97,"y":0.97},{"time":0.5,"curve":[0,0,0.5,1],"x":1.07,"y":1.07},{"time":0.7083,"curve":[0,0,0.5,1],"x":0.97,"y":0.97},{"time":0.8333,"x":1.02,"y":1.02},{"time":0.9166,"x":1,"y":1}]},"扇叶花1":{"translate":[{"time":0},{"time":2.6667,"x":-8.11},{"time":5}],"scale":[{"time":0,"x":0.01,"y":0.01},{"time":0.2083,"curve":[0.7041522491349481,0,1,1],"x":0.01,"y":0.01},{"time":0.4166,"curve":[0,0,0.1401384083044983,1],"x":0.96,"y":0.96},{"time":0.6666,"curve":[0,0,0.5,1],"x":1.07,"y":1.07},{"time":0.9166,"curve":[0,0,0.5,1],"x":0.96,"y":0.96},{"time":1.0833,"x":1.03,"y":1.03},{"time":1.1666,"x":1,"y":1}]},"扇叶花2":{"translate":[{"time":0},{"time":2.5,"x":8.11},{"time":5}],"scale":[{"time":0,"x":0.02,"y":0.02},{"time":0.2917,"curve":[0.7041522491349481,0,1,1],"x":0.02,"y":0.02},{"time":0.4584,"curve":[0,0,0.5,1],"x":1.1,"y":1.1},{"time":0.7084,"curve":[0,0,0.5,1],"x":0.9,"y":0.9},{"time":0.9167,"x":1.04,"y":1.04},{"time":1,"x":1,"y":1}]}},"slots":{"发":{"color":[{"time":0,"color":"FFFFFFFF"},{"time":1.25,"color":"FFFFFF00"},{"time":2.5,"color":"FFFFFFFF"},{"time":3.75,"color":"FFFFFF00"},{"time":5,"color":"FFFFFFFF"}]}}}}}

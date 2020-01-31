@@ -1,0 +1,90 @@
+
+attack_skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_sputtering1
+  rotate: false
+  xy: 2, 1058
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+attack_sputtering10
+  rotate: false
+  xy: 1058, 1410
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+attack_sputtering11
+  rotate: false
+  xy: 2, 2
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+attack_sputtering12
+  rotate: false
+  xy: 2, 2
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+attack_sputtering2
+  rotate: false
+  xy: 354, 1410
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+attack_sputtering3
+  rotate: false
+  xy: 2, 706
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+attack_sputtering4
+  rotate: false
+  xy: 354, 1058
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+attack_sputtering5
+  rotate: false
+  xy: 706, 1410
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+attack_sputtering6
+  rotate: false
+  xy: 2, 354
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+attack_sputtering7
+  rotate: false
+  xy: 354, 706
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+attack_sputtering8
+  rotate: false
+  xy: 706, 1058
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+attack_sputtering9
+  rotate: false
+  xy: 2, 1410
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1

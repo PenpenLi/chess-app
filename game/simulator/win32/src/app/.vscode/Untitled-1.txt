@@ -1,0 +1,307 @@
+[LUA-print] - "onToOtherRoom" = {
+[LUA-print] -     "_playerid" = 1018250
+[LUA-print] -     "bWatcher"  = 0
+[LUA-print] -     "buyhorse" = {
+[LUA-print] -         1 = 0
+[LUA-print] -         2 = 0
+[LUA-print] -         3 = 0
+[LUA-print] -         4 = 0
+[LUA-print] -         5 = 0
+[LUA-print] -     }
+[LUA-print] -     "canbet" = {
+[LUA-print] -         1 = 10000000
+[LUA-print] -         2 = 10000000
+[LUA-print] -         3 = 1250000
+[LUA-print] -         4 = 909090
+[LUA-print] -         5 = 909090
+[LUA-print] -     }
+[LUA-print] -     "chouma"    = 2997740
+[LUA-print] -     "config" = {
+[LUA-print] -         "Bet" = {
+[LUA-print] -             1 = 10
+[LUA-print] -             2 = 100
+[LUA-print] -             3 = 1000
+[LUA-print] -             4 = 10000
+[LUA-print] -         }
+[LUA-print] -         "Odds" = {
+[LUA-print] -             1 = 1
+[LUA-print] -             2 = 1
+[LUA-print] -             3 = 8
+[LUA-print] -             4 = 11
+[LUA-print] -             5 = 11
+[LUA-print] -         }
+[LUA-print] -         "ShowZhuang" = 1
+[LUA-print] -         "TimeLimit" = {
+[LUA-print] -             "BuyHorse"    = 10
+[LUA-print] -             "CombineCard" = 13
+[LUA-print] -             "RestTime"    = 3
+[LUA-print] -             "ShowCard"    = 2
+[LUA-print] -         }
+[LUA-print] -         "Zhuang" = {
+[LUA-print] -             "MaxTurn" = 10
+[LUA-print] -             "MinTurn" = 3
+[LUA-print] -             "Need"    = 200000
+[LUA-print] -         }
+[LUA-print] -     }
+[LUA-print] -     "currbuy" = {
+[LUA-print] -         1 = 0
+[LUA-print] -         2 = 0
+[LUA-print] -         3 = 0
+[LUA-print] -         4 = 0
+[LUA-print] -         5 = 0
+[LUA-print] -     }
+[LUA-print] -     "data" = {
+[LUA-print] -         1 = {
+[LUA-print] -             "resultpair" = 0 // 1 zd 2 xd 
+[LUA-print] -             "resultpos"  = 2 123 zxh
+[LUA-print] -         }
+[LUA-print] -         2 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         3 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         4 = {
+[LUA-print] -             "resultpair" = 2
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         5 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         6 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         7 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         8 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         9 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         10 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         11 = {
+[LUA-print] -             "resultpair" = 2
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         12 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         13 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         14 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         15 = {
+[LUA-print] -             "resultpair" = 1
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         16 = {
+[LUA-print] -             "resultpair" = 2
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         17 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         18 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         19 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         20 = {
+[LUA-print] -             "resultpair" = 1
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         21 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         22 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         23 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         24 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         25 = {
+[LUA-print] -             "resultpair" = 2
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         26 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 3
+[LUA-print] -         }
+[LUA-print] -         27 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         28 = {
+[LUA-print] -             "resultpair" = 1
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         29 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         30 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         31 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         32 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         33 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         34 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         35 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         36 = {
+[LUA-print] -             "resultpair" = 2
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         37 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         38 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         39 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         40 = {
+[LUA-print] -             "resultpair" = 2
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         41 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 3
+[LUA-print] -         }
+[LUA-print] -         42 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         43 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         44 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 3
+[LUA-print] -         }
+[LUA-print] -         45 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         46 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         47 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         48 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         49 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         50 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         51 = {
+[LUA-print] -             "resultpair" = 1
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         52 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         53 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         54 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         55 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         56 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -         57 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 3
+[LUA-print] -         }
+[LUA-print] -         58 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         59 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 1
+[LUA-print] -         }
+[LUA-print] -         60 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 3
+[LUA-print] -         }
+[LUA-print] -         61 = {
+[LUA-print] -             "resultpair" = 0
+[LUA-print] -             "resultpos"  = 2
+[LUA-print] -         }
+[LUA-print] -     }
+[LUA-print] -     "hascard"   = 1
+[LUA-print] -     "maxbet1"   = 100000
+[LUA-print] -     "maxbet2"   = 10000
+[LUA-print] -     "maxbet3"   = 10000
+[LUA-print] -     "nexttime"  = 1
+[LUA-print] -     "nickname"  = "局域网"
+[LUA-print] -     "rchouma"   = 10000000
+[LUA-print] -     "state"     = 1
+[LUA-print] - }

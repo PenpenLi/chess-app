@@ -1,0 +1,181 @@
+
+gamehall_logo_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+logo_txt
+  rotate: false
+  xy: 132, 151
+  size: 133, 56
+  orig: 135, 64
+  offset: 1, 0
+  index: -1
+logo_Y
+  rotate: false
+  xy: 1, 151
+  size: 129, 176
+  orig: 129, 176
+  offset: 0, 0
+  index: -1
+logo_K
+  rotate: false
+  xy: 319, 1
+  size: 166, 198
+  orig: 166, 198
+  offset: 0, 0
+  index: -1
+logo_txt2
+  rotate: false
+  xy: 132, 209
+  size: 81, 63
+  orig: 82, 63
+  offset: 0, 0
+  index: -1
+hallLogoLight09
+  rotate: false
+  xy: 132, 317
+  size: 86, 53
+  orig: 232, 72
+  offset: 68, 10
+  index: -1
+hallLogoLight06
+  rotate: false
+  xy: 358, 201
+  size: 89, 56
+  orig: 232, 72
+  offset: 26, 8
+  index: -1
+hallLogoLight00
+  rotate: false
+  xy: 267, 151
+  size: 21, 21
+  orig: 232, 72
+  offset: 8, 37
+  index: -1
+hallLogoLight11
+  rotate: false
+  xy: 395, 315
+  size: 89, 53
+  orig: 232, 72
+  offset: 97, 10
+  index: -1
+hallLogoLight03
+  rotate: false
+  xy: 303, 372
+  size: 66, 56
+  orig: 232, 72
+  offset: 8, 8
+  index: -1
+hallLogoLight07
+  rotate: false
+  xy: 307, 315
+  size: 86, 55
+  orig: 232, 72
+  offset: 40, 9
+  index: -1
+hallLogoLight17
+  rotate: false
+  xy: 162, 372
+  size: 41, 54
+  orig: 232, 72
+  offset: 182, 9
+  index: -1
+hallLogoLight10
+  rotate: false
+  xy: 220, 317
+  size: 80, 52
+  orig: 232, 72
+  offset: 92, 10
+  index: -1
+hallLogoLight02
+  rotate: false
+  xy: 449, 255
+  size: 52, 48
+  orig: 232, 72
+  offset: 8, 16
+  index: -1
+hallLogoLight13
+  rotate: false
+  xy: 1, 329
+  size: 88, 51
+  orig: 232, 72
+  offset: 126, 12
+  index: -1
+hallLogoLight19
+  rotate: false
+  xy: 486, 305
+  size: 12, 46
+  orig: 232, 72
+  offset: 210, 13
+  index: -1
+hallLogoLight14
+  rotate: false
+  xy: 220, 371
+  size: 81, 51
+  orig: 232, 72
+  offset: 140, 12
+  index: -1
+hallLogoLight08
+  rotate: false
+  xy: 358, 259
+  size: 89, 54
+  orig: 232, 72
+  offset: 54, 9
+  index: -1
+hallLogoLight12
+  rotate: false
+  xy: 215, 262
+  size: 90, 53
+  orig: 232, 72
+  offset: 111, 10
+  index: -1
+hallLogoLight04
+  rotate: false
+  xy: 395, 370
+  size: 78, 59
+  orig: 232, 72
+  offset: 8, 5
+  index: -1
+hallLogoLight18
+  rotate: false
+  xy: 475, 370
+  size: 27, 54
+  orig: 232, 72
+  offset: 196, 9
+  index: -1
+hallLogoLight15
+  rotate: false
+  xy: 91, 372
+  size: 69, 51
+  orig: 232, 72
+  offset: 153, 12
+  index: -1
+hallLogoLight05
+  rotate: false
+  xy: 267, 201
+  size: 89, 59
+  orig: 232, 72
+  offset: 12, 5
+  index: -1
+hallLogoLight16
+  rotate: false
+  xy: 449, 201
+  size: 56, 52
+  orig: 232, 72
+  offset: 167, 11
+  index: -1
+hallLogoLight01
+  rotate: false
+  xy: 91, 329
+  size: 37, 39
+  orig: 232, 72
+  offset: 8, 25
+  index: -1
+EffectStartLight
+  rotate: false
+  xy: 1, 1
+  size: 316, 148
+  orig: 316, 148
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,24 @@
+﻿<!-- plist 资源加载 -->
+<array>
+	<!-- 游戏场景资源 -->
+	<string>games/fish/flash/jinbi/jinbi.plist</string>
+  <string>games/fish/sprite/sprite.plist</string>
+
+  <string>games/fish/birds1_2.plist</string>
+  <string>games/fish/birds1_3.plist</string>
+  <string>games/fish/birds1_1.plist</string>
+	<string>games/fish/birds2_1.plist</string>
+  <string>games/fish/birds2_2.plist</string>
+  <string>games/fish/birds2_3.plist</string>
+  <string>games/fish/birds2_4.plist</string>
+  <string>games/fish/birds2_5.plist</string>
+  <string>games/fish/birds2_6.plist</string>
+  <string>games/fish/birds2_7.plist</string>
+  <string>games/fish/scene1.plist</string>
+	<string>games/fish/scene3.plist</string>
+	<string>games/fish/scene4.plist</string>	
+	<string>games/fish/flash/jinbi/jinbi.plist</string>
+	<string>games/fish/waterAni/waterAni.plist</string>
+	
+	
+</array>

@@ -1,0 +1,34 @@
+
+qiang.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grab_multi_1
+  rotate: false
+  xy: 340, 2
+  size: 160, 51
+  orig: 160, 51
+  offset: 0, 0
+  index: -1
+grab_multi_2
+  rotate: false
+  xy: 171, 2
+  size: 167, 51
+  orig: 167, 51
+  offset: 0, 0
+  index: -1
+grab_multi_4
+  rotate: false
+  xy: 2, 2
+  size: 167, 51
+  orig: 167, 51
+  offset: 0, 0
+  index: -1
+q3
+  rotate: false
+  xy: 502, 5
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1

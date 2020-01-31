@@ -1,0 +1,153 @@
+
+slwh_effect_datingshizi_ske.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lion_leg_left
+  rotate: false
+  xy: 1992, 1622
+  size: 304, 408
+  orig: 304, 408
+  offset: 0, 0
+  index: -1
+lion_hand
+  rotate: false
+  xy: 353, 1621
+  size: 403, 256
+  orig: 403, 256
+  offset: 0, 0
+  index: -1
+lion_leg_right
+  rotate: false
+  xy: 2323, 804
+  size: 447, 678
+  orig: 447, 678
+  offset: 0, 0
+  index: -1
+lion_body
+  rotate: false
+  xy: 1, 1
+  size: 1353, 855
+  orig: 1353, 855
+  offset: 0, 0
+  index: -1
+lion_hand_0
+  rotate: false
+  xy: 2809, 1484
+  size: 367, 505
+  orig: 369, 507
+  offset: 1, 1
+  index: -1
+lion_hand_left
+  rotate: false
+  xy: 2323, 1484
+  size: 484, 528
+  orig: 484, 528
+  offset: 0, 0
+  index: -1
+microphone
+  rotate: false
+  xy: 1356, 1
+  size: 521, 1572
+  orig: 521, 1577
+  offset: 0, 0
+  index: -1
+lion_hand_on
+  rotate: false
+  xy: 2951, 412
+  size: 169, 191
+  orig: 169, 191
+  offset: 0, 0
+  index: -1
+lion_face_down
+  rotate: false
+  xy: 1879, 1
+  size: 788, 801
+  orig: 788, 801
+  offset: 0, 0
+  index: -1
+lion_hair_left
+  rotate: false
+  xy: 926, 1575
+  size: 617, 420
+  orig: 617, 420
+  offset: 0, 0
+  index: -1
+lion_hair_right
+  rotate: false
+  xy: 2669, 1
+  size: 280, 618
+  orig: 280, 618
+  offset: 0, 0
+  index: -1
+lion_hair_back
+  rotate: false
+  xy: 2772, 621
+  size: 357, 451
+  orig: 357, 451
+  offset: 0, 0
+  index: -1
+lion_face_on
+  rotate: false
+  xy: 1, 858
+  size: 923, 761
+  orig: 923, 761
+  offset: 0, 0
+  index: -1
+rabbit_light_blue
+  rotate: false
+  xy: 3017, 1074
+  size: 204, 345
+  orig: 204, 345
+  offset: 0, 0
+  index: -1
+rabbit_light_green
+  rotate: false
+  xy: 2951, 1
+  size: 177, 409
+  orig: 177, 409
+  offset: 0, 0
+  index: -1
+rabbit_body
+  rotate: false
+  xy: 926, 858
+  size: 420, 643
+  orig: 420, 643
+  offset: 0, 0
+  index: -1
+rabbit_head
+  rotate: false
+  xy: 1545, 1622
+  size: 445, 414
+  orig: 445, 414
+  offset: 0, 0
+  index: -1
+rabbit_arm
+  rotate: false
+  xy: 3178, 1421
+  size: 230, 281
+  orig: 230, 281
+  offset: 0, 0
+  index: -1
+burin_light_green
+  rotate: false
+  xy: 2772, 1074
+  size: 243, 334
+  orig: 243, 334
+  offset: 0, 0
+  index: -1
+bruin_body
+  rotate: false
+  xy: 1879, 804
+  size: 442, 816
+  orig: 442, 816
+  offset: 0, 0
+  index: -1
+bruin_head
+  rotate: false
+  xy: 1, 1621
+  size: 350, 344
+  orig: 350, 344
+  offset: 0, 0
+  index: -1

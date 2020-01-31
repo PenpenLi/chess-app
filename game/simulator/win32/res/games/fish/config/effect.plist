@@ -1,0 +1,24 @@
+<!-- 特效动画 资源加载 -->
+<array>
+	<string>games/fish/flash/zhongjiang/2D_buyu_jiangchi.ExportJson</string>
+	<string>games/fish/flash/baoji/2D_jsby_baoji.ExportJson</string>
+	<string>games/fish/flash/autofire/jsby_zidongzhong_00.ExportJson</string>
+	<string>games/fish/flash/lock/jsby_suodingzhong_00.ExportJson</string>
+	<string>games/fish/flash/longwang/2d_fkby_renwu_longwang.ExportJson</string>
+	<string>games/fish/flash/longwang/fkby_renwu_longwang2.ExportJson</string>
+	<string>games/fish/flash/longwang/buyu_renwu_1.ExportJson</string>
+	<string>games/fish/flash/net/01/jsby_yuwang_01.ExportJson</string>
+	<string>games/fish/flash/net/02/jsby_yuwang_02.ExportJson</string>
+	<string>games/fish/flash/net/03/jsby_yuwang_03.ExportJson</string>
+	<string>games/fish/flash/niumowang/buyu_renwu_2.ExportJson</string>
+	<string>games/fish/flash/niumowang/fkby_niupao.ExportJson</string>
+	<string>games/fish/flash/niumowang/fkby_niushen_huo.ExportJson</string>
+	<string>games/fish/flash/sunwukong/buyu_renwu_3.ExportJson</string>
+	<string>games/fish/flash/sunwukong/fkby_renwu_wukong00.ExportJson</string>
+	<string>games/fish/flash/sunwukong/fkby_renwu_wukong01.ExportJson</string>
+	<string>games/fish/flash/sunwukong/fkby_renwu_wukong02.ExportJson</string>
+	<string>games/fish/flash/boss/boos_laixi_00.ExportJson</string>
+	<string>games/fish/flash/boss/boos_laixi_01.ExportJson</string>
+	<string>games/fish/flash/bingDong/bingdongxiaoguo.ExportJson</string>
+
+</array>

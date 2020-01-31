@@ -1,0 +1,41 @@
+
+br_hall_effect2_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HallAniRoomsBg
+  rotate: false
+  xy: 1, 1
+  size: 242, 268
+  orig: 242, 268
+  offset: 0, 0
+  index: -1
+HallAni02_02
+  rotate: false
+  xy: 407, 271
+  size: 89, 64
+  orig: 89, 64
+  offset: 0, 0
+  index: -1
+HallAni02_01
+  rotate: false
+  xy: 1, 271
+  size: 177, 172
+  orig: 177, 172
+  offset: 0, 0
+  index: -1
+HallAniNameBg02
+  rotate: false
+  xy: 180, 271
+  size: 225, 116
+  orig: 225, 116
+  offset: 0, 0
+  index: -1
+发_00000
+  rotate: false
+  xy: 407, 337
+  size: 55, 72
+  orig: 60, 80
+  offset: 2, 5
+  index: -1

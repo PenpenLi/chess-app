@@ -1,0 +1,154 @@
+{
+"skeleton": { "hash": "GHxCc8R/eWS3WYTAUwDHW6KytRA", "spine": "3.6.53", "width": 1136, "height": 639, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone2", "parent": "root", "x": 5.5, "y": 42.68, "scaleX": 0.703, "scaleY": 0.703 },
+	{ "name": "bomb1", "parent": "bone2", "x": 1, "y": 38, "scaleX": 1.3, "scaleY": 1.3 },
+	{ "name": "bomb_explosive8", "parent": "bone2", "x": 2.98, "y": 7.07, "scaleX": 1.402, "scaleY": 1.402 },
+	{ "name": "bombd", "parent": "bone2", "x": 11, "y": -81 },
+	{ "name": "bone", "parent": "bone2", "x": -4, "y": 86 },
+	{ "name": "bone3", "parent": "root" }
+],
+"slots": [
+	{ "name": "3131107", "bone": "root" },
+	{ "name": "bomb_explosive8", "bone": "bomb_explosive8", "attachment": "bomb_explosive1" },
+	{ "name": "bombd", "bone": "bombd", "attachment": "bombd" },
+	{ "name": "bomb", "bone": "bone", "attachment": "bomb" },
+	{ "name": "bomb1", "bone": "bomb1" }
+],
+"skins": {
+	"default": {
+		"bomb": {
+			"bomb": { "x": 5, "y": -9, "scaleX": 1.42, "scaleY": 1.42, "width": 277, "height": 111 }
+		},
+		"bomb1": {
+			"bomb1": { "y": -2.11, "width": 180, "height": 246 },
+			"bomb2": { "y": -1.26, "width": 182, "height": 248 },
+			"bomb3": { "y": -1.26, "width": 182, "height": 248 },
+			"bomb4": { "width": 182, "height": 250 },
+			"bomb5": { "y": 1.26, "width": 182, "height": 252 },
+			"bomb6": { "width": 182, "height": 250 },
+			"bomb7": { "y": -3.68, "width": 182, "height": 242 },
+			"bomb8": { "y": -6.72, "width": 182, "height": 236 },
+			"bomb9": { "y": -3.79, "width": 182, "height": 242 },
+			"bomb10": { "y": 1.26, "width": 182, "height": 252 },
+			"bomb11": { "y": 2.53, "width": 180, "height": 254 },
+			"bomb12": { "y": 2.53, "width": 182, "height": 254 },
+			"bomb13": { "y": 1.26, "width": 182, "height": 252 },
+			"bomb14": { "width": 182, "height": 250 },
+			"bomb15": { "y": -0.63, "width": 180, "height": 248 },
+			"bomb16": { "y": -0.63, "width": 182, "height": 248 },
+			"bomb17": { "y": -1.89, "width": 182, "height": 246 },
+			"bomb18": { "y": -2.53, "width": 182, "height": 244 },
+			"bomb19": { "y": -2.53, "width": 180, "height": 244 },
+			"bomb20": { "y": -3.79, "width": 182, "height": 242 },
+			"bomb21": { "y": -3.79, "width": 182, "height": 242 }
+		},
+		"bomb_explosive8": {
+			"bomb_explosive1": { "y": -15.6, "width": 168, "height": 102 },
+			"bomb_explosive2": { "width": 222, "height": 134 },
+			"bomb_explosive3": { "y": 22.17, "width": 262, "height": 198 },
+			"bomb_explosive4": { "y": 48.44, "width": 320, "height": 248 },
+			"bomb_explosive5": { "y": 57.47, "width": 344, "height": 264 },
+			"bomb_explosive6": { "y": 65.68, "width": 468, "height": 272 },
+			"bomb_explosive7": { "y": 83.74, "width": 596, "height": 320 },
+			"bomb_explosive8": { "x": -18.67, "y": 109.19, "width": 622, "height": 378 },
+			"bomb_explosive9": { "x": -2.86, "y": 134.64, "width": 590, "height": 418 },
+			"bomb_explosive10": { "x": -9.29, "y": 153.53, "width": 608, "height": 450 },
+			"bomb_explosive11": { "y": 161.74, "width": 562, "height": 488 },
+			"bomb_explosive12": { "y": 169.95, "width": 470, "height": 474 },
+			"bomb_explosive13": { "y": 45.98, "width": 202, "height": 224 }
+		},
+		"bombd": {
+			"bombd": { "x": 4, "y": 2, "scaleX": 1.23, "scaleY": 1.23, "width": 167, "height": 21 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"bomb": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.7, "name": "bomb" },
+					{ "time": 1.4333, "name": null }
+				]
+			},
+			"bomb1": {
+				"attachment": [
+					{ "time": 0, "name": "bomb1" },
+					{ "time": 0.0333, "name": "bomb2" },
+					{ "time": 0.0667, "name": "bomb3" },
+					{ "time": 0.1, "name": "bomb4" },
+					{ "time": 0.1333, "name": "bomb5" },
+					{ "time": 0.1667, "name": "bomb6" },
+					{ "time": 0.2, "name": "bomb7" },
+					{ "time": 0.2333, "name": "bomb8" },
+					{ "time": 0.2667, "name": "bomb9" },
+					{ "time": 0.3, "name": "bomb10" },
+					{ "time": 0.3333, "name": "bomb11" },
+					{ "time": 0.3667, "name": "bomb12" },
+					{ "time": 0.4, "name": "bomb13" },
+					{ "time": 0.4333, "name": "bomb14" },
+					{ "time": 0.4667, "name": "bomb15" },
+					{ "time": 0.5, "name": "bomb16" },
+					{ "time": 0.5333, "name": "bomb17" },
+					{ "time": 0.5667, "name": "bomb18" },
+					{ "time": 0.6, "name": "bomb19" },
+					{ "time": 0.6333, "name": "bomb20" },
+					{ "time": 0.6667, "name": "bomb21" },
+					{ "time": 0.7, "name": null }
+				]
+			},
+			"bomb_explosive8": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.7, "name": "bomb_explosive1" },
+					{ "time": 0.7333, "name": "bomb_explosive1" },
+					{ "time": 0.7667, "name": "bomb_explosive2" },
+					{ "time": 0.8, "name": "bomb_explosive3" },
+					{ "time": 0.8667, "name": "bomb_explosive4" },
+					{ "time": 0.9333, "name": "bomb_explosive5" },
+					{ "time": 0.9667, "name": "bomb_explosive6" },
+					{ "time": 1, "name": "bomb_explosive7" },
+					{ "time": 1.0333, "name": "bomb_explosive8" },
+					{ "time": 1.0667, "name": "bomb_explosive9" },
+					{ "time": 1.1, "name": "bomb_explosive10" },
+					{ "time": 1.1667, "name": "bomb_explosive11" },
+					{ "time": 1.2, "name": "bomb_explosive12" },
+					{ "time": 1.2333, "name": "bomb_explosive13" },
+					{ "time": 1.2667, "name": null }
+				]
+			},
+			"bombd": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "bombd" },
+					{ "time": 0.7, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"bomb1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 398.25 },
+					{ "time": 0.0667, "x": 0, "y": 73.28 },
+					{ "time": 0.1, "x": 0, "y": 35.05 },
+					{ "time": 0.1333, "x": 0, "y": 44.6 },
+					{ "time": 0.2, "x": 0, "y": 60.53 },
+					{ "time": 0.2333, "x": 0, "y": 35.05 }
+				]
+			},
+			"bone": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.7, "x": 0.565, "y": 0.565 },
+					{ "time": 0.9, "x": 1.167, "y": 1.167 },
+					{ "time": 0.9667, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.4, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

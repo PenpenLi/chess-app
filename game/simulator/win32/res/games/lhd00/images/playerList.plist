@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>games/lhd/images/playerList/liebiao_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{914,601}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{914,601}</string>
+			</dict>
+			<key>games/lhd/images/playerList/sheng_head_di.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{952,440},{70,70}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{71,71}</string>
+			</dict>
+			<key>games/lhd/images/playerList/sheng_head_k.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{952,367},{71,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{71,71}</string>
+			</dict>
+			<key>games/lhd/images/playerList/rich_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{917,129},{124,53}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{124,53}</string>
+			</dict>
+			<key>games/lhd/images/playerList/rich_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{952,512},{118,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{118,33}</string>
+			</dict>
+			<key>games/lhd/images/playerList/rich_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{974,125},{119,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{119,33}</string>
+			</dict>
+			<key>games/lhd/images/playerList/rich_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{974,1},{122,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{122,33}</string>
+			</dict>
+			<key>games/lhd/images/playerList/rich_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{972,246},{119,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{119,33}</string>
+			</dict>
+			<key>games/lhd/images/playerList/rich_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{917,255},{119,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{119,33}</string>
+			</dict>
+			<key>games/lhd/images/playerList/rich_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{917,376},{119,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{119,33}</string>
+			</dict>
+			<key>games/lhd/images/playerList/rich_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{917,497},{119,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{119,33}</string>
+			</dict>
+			<key>games/lhd/images/playerList/rich_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{917,1},{126,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{126,55}</string>
+			</dict>
+			<key>games/lhd/images/playerList/rank_cell_d.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,618},{870,95}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{870,95}</string>
+			</dict>
+			<key>games/lhd/images/playerList/rank_cell_l.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,715},{870,95}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{870,95}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>playerList.png</string>
+			<key>realTextureFileName</key>
+			<string>playerList.png</string>
+			<key>size</key>
+			<string>{1024,811}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>811</integer>
+		</dict>
+	</dict>
+</plist>

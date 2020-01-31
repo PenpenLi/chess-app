@@ -1,0 +1,111 @@
+
+kpqznn_effect_hall_6_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+皇冠
+  rotate: false
+  xy: 1, 1
+  size: 139, 112
+  orig: 139, 112
+  offset: 0, 0
+  index: -1
+金币
+  rotate: false
+  xy: 142, 1
+  size: 161, 62
+  orig: 161, 62
+  offset: 0, 0
+  index: -1
+星光_00000
+  rotate: false
+  xy: 1, 325
+  size: 48, 54
+  orig: 64, 64
+  offset: 12, 8
+  index: -1
+宝石
+  rotate: false
+  xy: 51, 325
+  size: 16, 27
+  orig: 20, 32
+  offset: 2, 2
+  index: -1
+xulie_00003
+  rotate: false
+  xy: 142, 65
+  size: 139, 68
+  orig: 139, 112
+  offset: 0, 23
+  index: -1
+xulie_00000
+  rotate: false
+  xy: 142, 275
+  size: 139, 68
+  orig: 139, 112
+  offset: 0, 23
+  index: -1
+xulie_00005
+  rotate: false
+  xy: 283, 71
+  size: 139, 68
+  orig: 139, 112
+  offset: 0, 23
+  index: -1
+xulie_00004
+  rotate: false
+  xy: 142, 205
+  size: 139, 68
+  orig: 139, 112
+  offset: 0, 23
+  index: -1
+xulie_00010
+  rotate: false
+  xy: 142, 135
+  size: 139, 68
+  orig: 139, 112
+  offset: 0, 23
+  index: -1
+xulie_00006
+  rotate: false
+  xy: 1, 185
+  size: 139, 68
+  orig: 139, 112
+  offset: 0, 23
+  index: -1
+xulie_00008
+  rotate: false
+  xy: 283, 141
+  size: 139, 68
+  orig: 139, 112
+  offset: 0, 23
+  index: -1
+xulie_00007
+  rotate: false
+  xy: 1, 115
+  size: 139, 68
+  orig: 139, 112
+  offset: 0, 23
+  index: -1
+xulie_00009
+  rotate: false
+  xy: 283, 211
+  size: 139, 68
+  orig: 139, 112
+  offset: 0, 23
+  index: -1
+xulie_00002
+  rotate: false
+  xy: 1, 255
+  size: 139, 68
+  orig: 139, 112
+  offset: 0, 23
+  index: -1
+xulie_00001
+  rotate: false
+  xy: 305, 1
+  size: 139, 68
+  orig: 139, 112
+  offset: 0, 23
+  index: -1
