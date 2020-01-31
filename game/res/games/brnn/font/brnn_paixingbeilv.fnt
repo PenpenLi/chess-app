@@ -1,0 +1,15 @@
+info face="Î¢ÈíÑÅºÚ" size=48 bold=1 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=47 base=38 scaleW=256 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="brnn_paixingbeilv_0.png"
+chars count=11
+char id=48   x=0     y=0     width=38    height=44    xoffset=0     yoffset=0     xadvance=38    page=0  chnl=15
+char id=49   x=100   y=45    width=17    height=44    xoffset=0     yoffset=0     xadvance=17    page=0  chnl=15
+char id=50   x=0     y=45    width=33    height=44    xoffset=0     yoffset=0     xadvance=33    page=0  chnl=15
+char id=51   x=34    y=45    width=33    height=44    xoffset=0     yoffset=0     xadvance=33    page=0  chnl=15
+char id=52   x=39    y=0     width=37    height=44    xoffset=0     yoffset=0     xadvance=37    page=0  chnl=15
+char id=53   x=150   y=0     width=34    height=44    xoffset=0     yoffset=0     xadvance=34    page=0  chnl=15
+char id=54   x=114   y=0     width=35    height=44    xoffset=0     yoffset=0     xadvance=35    page=0  chnl=15
+char id=55   x=77    y=0     width=36    height=44    xoffset=0     yoffset=0     xadvance=36    page=0  chnl=15
+char id=56   x=185   y=0     width=34    height=44    xoffset=0     yoffset=0     xadvance=34    page=0  chnl=15
+char id=57   x=220   y=0     width=34    height=44    xoffset=0     yoffset=0     xadvance=34    page=0  chnl=15
+char id=88   x=68    y=45    width=31    height=44    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15

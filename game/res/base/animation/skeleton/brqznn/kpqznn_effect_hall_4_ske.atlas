@@ -1,0 +1,48 @@
+
+kpqznn_effect_hall_4_ske.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+高级房
+  rotate: false
+  xy: 1, 1
+  size: 222, 278
+  orig: 225, 282
+  offset: 2, 4
+  index: -1
+单张
+  rotate: false
+  xy: 1, 409
+  size: 68, 94
+  orig: 71, 98
+  offset: 1, 2
+  index: -1
+barrel
+  rotate: false
+  xy: 1, 281
+  size: 115, 126
+  orig: 145, 141
+  offset: 12, 11
+  index: -1
+coin
+  rotate: false
+  xy: 71, 409
+  size: 89, 71
+  orig: 100, 74
+  offset: 6, 1
+  index: -1
+light
+  rotate: false
+  xy: 162, 409
+  size: 48, 54
+  orig: 64, 64
+  offset: 12, 8
+  index: -1
+金币2
+  rotate: false
+  xy: 162, 465
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1

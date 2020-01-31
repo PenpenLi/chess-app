@@ -1,0 +1,331 @@
+
+rocket.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+farmer_hold
+  rotate: true
+  xy: 834, 464
+  size: 73, 126
+  orig: 73, 126
+  offset: 0, 0
+  index: -1
+rocket
+  rotate: false
+  xy: 736, 939
+  size: 277, 83
+  orig: 277, 83
+  offset: 0, 0
+  index: -1
+rocket_bomb2
+  rotate: false
+  xy: 2, 458
+  size: 732, 240
+  orig: 732, 240
+  offset: 0, 0
+  index: -1
+rocket_bomb4
+  rotate: false
+  xy: 2, 700
+  size: 732, 322
+  orig: 732, 322
+  offset: 0, 0
+  index: -1
+rocket_bomb5
+  rotate: true
+  xy: 736, 539
+  size: 398, 274
+  orig: 398, 274
+  offset: 0, 0
+  index: -1
+rocket_bomb8
+  rotate: true
+  xy: 2, 2
+  size: 454, 362
+  orig: 454, 362
+  offset: 0, 0
+  index: -1
+rocket_fire1
+  rotate: false
+  xy: 736, 463
+  size: 96, 74
+  orig: 96, 74
+  offset: 0, 0
+  index: -1
+rocket_fly6
+  rotate: true
+  xy: 704, 6
+  size: 450, 316
+  orig: 450, 316
+  offset: 0, 0
+  index: -1
+rocket_fly7
+  rotate: true
+  xy: 366, 6
+  size: 450, 336
+  orig: 450, 336
+  offset: 0, 0
+  index: -1
+
+rocket2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rocket_bomb10
+  rotate: false
+  xy: 538, 56
+  size: 482, 430
+  orig: 482, 430
+  offset: 0, 0
+  index: -1
+rocket_bomb11
+  rotate: true
+  xy: 546, 488
+  size: 534, 434
+  orig: 534, 434
+  offset: 0, 0
+  index: -1
+rocket_bomb12
+  rotate: false
+  xy: 2, 150
+  size: 534, 434
+  orig: 534, 434
+  offset: 0, 0
+  index: -1
+rocket_bomb9
+  rotate: false
+  xy: 2, 586
+  size: 542, 436
+  orig: 542, 436
+  offset: 0, 0
+  index: -1
+rocket_fire4
+  rotate: true
+  xy: 174, 46
+  size: 102, 182
+  orig: 102, 182
+  offset: 0, 0
+  index: -1
+rocket_fly1
+  rotate: false
+  xy: 358, 2
+  size: 124, 146
+  orig: 124, 146
+  offset: 0, 0
+  index: -1
+rocket_fly2
+  rotate: true
+  xy: 2, 28
+  size: 120, 170
+  orig: 120, 170
+  offset: 0, 0
+  index: -1
+
+rocket3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rocket1
+  rotate: true
+  xy: 736, 862
+  size: 156, 226
+  orig: 156, 226
+  offset: 0, 0
+  index: -1
+rocket_bomb1
+  rotate: false
+  xy: 2, 812
+  size: 732, 206
+  orig: 732, 206
+  offset: 0, 0
+  index: -1
+rocket_bomb14
+  rotate: true
+  xy: 2, 2
+  size: 514, 394
+  orig: 514, 394
+  offset: 0, 0
+  index: -1
+rocket_bomb3
+  rotate: false
+  xy: 2, 518
+  size: 728, 292
+  orig: 728, 292
+  offset: 0, 0
+  index: -1
+rocket_fire2
+  rotate: false
+  xy: 730, 242
+  size: 88, 198
+  orig: 88, 198
+  offset: 0, 0
+  index: -1
+rocket_fire3
+  rotate: true
+  xy: 672, 38
+  size: 96, 186
+  orig: 96, 186
+  offset: 0, 0
+  index: -1
+rocket_fire5
+  rotate: true
+  xy: 498, 32
+  size: 102, 172
+  orig: 102, 172
+  offset: 0, 0
+  index: -1
+rocket_fire6
+  rotate: false
+  xy: 398, 4
+  size: 98, 130
+  orig: 98, 130
+  offset: 0, 0
+  index: -1
+rocket_fire7
+  rotate: false
+  xy: 860, 12
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+rocket_fire8
+  rotate: true
+  xy: 730, 154
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+rocket_fly13
+  rotate: true
+  xy: 860, 80
+  size: 360, 158
+  orig: 360, 158
+  offset: 0, 0
+  index: -1
+rocket_fly5
+  rotate: true
+  xy: 736, 442
+  size: 418, 220
+  orig: 418, 220
+  offset: 0, 0
+  index: -1
+rocket_shock1
+  rotate: true
+  xy: 398, 136
+  size: 380, 330
+  orig: 380, 330
+  offset: 0, 0
+  index: -1
+
+rocket4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rocket_bomb13
+  rotate: false
+  xy: 2, 578
+  size: 536, 426
+  orig: 536, 426
+  offset: 0, 0
+  index: -1
+rocket_bomb6
+  rotate: false
+  xy: 540, 394
+  size: 426, 300
+  orig: 426, 300
+  offset: 0, 0
+  index: -1
+rocket_bomb7
+  rotate: false
+  xy: 540, 696
+  size: 426, 308
+  orig: 426, 308
+  offset: 0, 0
+  index: -1
+rocket_fly10
+  rotate: true
+  xy: 2, 2
+  size: 390, 384
+  orig: 390, 384
+  offset: 0, 0
+  index: -1
+rocket_fly11
+  rotate: false
+  xy: 2, 402
+  size: 378, 174
+  orig: 378, 174
+  offset: 0, 0
+  index: -1
+rocket_fly12
+  rotate: true
+  xy: 776, 22
+  size: 370, 170
+  orig: 370, 170
+  offset: 0, 0
+  index: -1
+rocket_fly9
+  rotate: true
+  xy: 388, 4
+  size: 388, 386
+  orig: 388, 386
+  offset: 0, 0
+  index: -1
+
+rocket5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rocket_bomb15
+  rotate: false
+  xy: 2, 694
+  size: 498, 328
+  orig: 498, 328
+  offset: 0, 0
+  index: -1
+rocket_fly3
+  rotate: false
+  xy: 384, 202
+  size: 326, 156
+  orig: 326, 156
+  offset: 0, 0
+  index: -1
+rocket_fly4
+  rotate: false
+  xy: 384, 36
+  size: 316, 164
+  orig: 316, 164
+  offset: 0, 0
+  index: -1
+rocket_fly8
+  rotate: false
+  xy: 2, 334
+  size: 374, 358
+  orig: 374, 358
+  offset: 0, 0
+  index: -1
+rocket_shock2
+  rotate: false
+  xy: 2, 2
+  size: 380, 330
+  orig: 380, 330
+  offset: 0, 0
+  index: -1
+rocket_shock3
+  rotate: false
+  xy: 502, 692
+  size: 380, 330
+  orig: 380, 330
+  offset: 0, 0
+  index: -1
+rocket_shock4
+  rotate: false
+  xy: 378, 360
+  size: 380, 330
+  orig: 380, 330
+  offset: 0, 0
+  index: -1

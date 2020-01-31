@@ -1,0 +1,69 @@
+
+FootBall.png
+size: 638,638
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+footballs/Q_01
+  rotate: true
+  xy: 2, 25
+  size: 215, 187
+  orig: 221, 193
+  offset: 3, 3
+  index: -1
+footballs/Q_02
+  rotate: false
+  xy: 408, 2
+  size: 210, 181
+  orig: 214, 185
+  offset: 1, 1
+  index: -1
+footballs/Q_03
+  rotate: true
+  xy: 453, 425
+  size: 211, 182
+  orig: 215, 187
+  offset: 1, 2
+  index: -1
+footballs/Q_04
+  rotate: true
+  xy: 2, 242
+  size: 205, 189
+  orig: 211, 197
+  offset: 3, 5
+  index: -1
+footballs/Q_05
+  rotate: false
+  xy: 191, 41
+  size: 215, 180
+  orig: 220, 187
+  offset: 2, 4
+  index: -1
+footballs/Q_06
+  rotate: true
+  xy: 433, 185
+  size: 216, 185
+  orig: 222, 190
+  offset: 3, 2
+  index: -1
+footballs/X_01
+  rotate: true
+  xy: 252, 403
+  size: 233, 199
+  orig: 238, 204
+  offset: 2, 2
+  index: -1
+footballs/X_02
+  rotate: false
+  xy: 2, 449
+  size: 248, 187
+  orig: 252, 193
+  offset: 2, 3
+  index: -1
+footballs/X_03
+  rotate: false
+  xy: 193, 223
+  size: 238, 178
+  orig: 245, 182
+  offset: 2, 2
+  index: -1

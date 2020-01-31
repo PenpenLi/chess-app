@@ -1,0 +1,41 @@
+
+zjh_effect_xz_ske.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_stage_bg2
+  rotate: false
+  xy: 1, 1
+  size: 527, 105
+  orig: 527, 105
+  offset: 0, 0
+  index: -1
+速度线_00000
+  rotate: false
+  xy: 1, 212
+  size: 248, 63
+  orig: 256, 64
+  offset: 8, 0
+  index: -1
+effect_stage_start1
+  rotate: false
+  xy: 1, 108
+  size: 338, 102
+  orig: 338, 102
+  offset: 0, 0
+  index: -1
+effect_stage_stop1
+  rotate: false
+  xy: 530, 1
+  size: 339, 103
+  orig: 339, 103
+  offset: 0, 0
+  index: -1
+effect_stage_light2
+  rotate: false
+  xy: 530, 106
+  size: 332, 105
+  orig: 332, 105
+  offset: 0, 0
+  index: -1

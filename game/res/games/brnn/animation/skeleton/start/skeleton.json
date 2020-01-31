@@ -1,0 +1,74 @@
+{
+"skeleton": { "hash": "C1usn1oR/HNS5dMhjpcQyDk+HQA", "spine": "3.3.07", "width": 685.8, "height": 255.96, "images": "" },
+"bones": [
+	{ "name": "root", "x": 0.99, "y": 1 },
+	{ "name": "bone", "parent": "root", "length": 245.52, "x": -0.99, "y": 42.11, "scaleX": 0.6, "scaleY": 0.6 }
+],
+"slots": [
+	{ "name": "start", "bone": "bone", "attachment": "start" },
+	{ "name": "guang", "bone": "bone", "attachment": "brnn_start_10" }
+],
+"skins": {
+	"default": {
+		"guang": {
+			"brnn_start_01": { "x": 0.99, "y": -58.68, "width": 1124, "height": 114 },
+			"brnn_start_02": { "x": 0.99, "y": -58.68, "width": 1124, "height": 114 },
+			"brnn_start_03": { "x": 0.99, "y": -58.68, "width": 1124, "height": 114 },
+			"brnn_start_04": { "x": 0.99, "y": -58.68, "width": 1124, "height": 114 },
+			"brnn_start_05": { "x": 0.99, "y": -58.68, "width": 1124, "height": 115 },
+			"brnn_start_06": { "x": 0.99, "y": -58.68, "width": 1124, "height": 115 },
+			"brnn_start_07": { "x": 0.99, "y": -58.68, "width": 1124, "height": 114 },
+			"brnn_start_08": { "x": 0.99, "y": -58.68, "width": 1124, "height": 114 },
+			"brnn_start_09": { "x": 0.99, "y": -58.68, "width": 1124, "height": 114 },
+			"brnn_start_10": { "x": 0.99, "y": -58.68, "width": 1124, "height": 114 }
+		},
+		"start": {
+			"start": { "y": 43.52, "scaleX": 1.8, "scaleY": 1.8, "width": 635, "height": 237 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"guang": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.0666, "color": "ffffffff" },
+					{ "time": 1.1, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "brnn_start_09" },
+					{ "time": 0.3666, "name": "brnn_start_09" },
+					{ "time": 0.4333, "name": "brnn_start_03" },
+					{ "time": 0.5, "name": "brnn_start_01" },
+					{ "time": 0.5666, "name": "brnn_start_10" },
+					{ "time": 0.6333, "name": "brnn_start_04" },
+					{ "time": 0.7, "name": "brnn_start_06" },
+					{ "time": 0.7666, "name": "brnn_start_02" },
+					{ "time": 0.8333, "name": "brnn_start_05" },
+					{ "time": 0.9, "name": "brnn_start_07" },
+					{ "time": 0.9666, "name": "brnn_start_08" }
+				]
+			},
+			"start": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.0666, "color": "ffffffff" },
+					{ "time": 1.1, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"translate": [
+					{ "time": 0, "x": -747.62, "y": 0 },
+					{ "time": 0.0666, "x": -340.25, "y": 0 },
+					{ "time": 0.2333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.9, "x": 0, "y": 0 },
+					{ "time": 1.0666, "x": 427.45, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

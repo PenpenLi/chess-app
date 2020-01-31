@@ -1,0 +1,138 @@
+
+skeleton.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anim_vs
+  rotate: false
+  xy: 1008, 271
+  size: 169, 169
+  orig: 169, 171
+  offset: 0, 0
+  index: -1
+niu1
+  rotate: false
+  xy: 755, 442
+  size: 406, 434
+  orig: 406, 434
+  offset: 0, 0
+  index: -1
+niu2
+  rotate: false
+  xy: 1163, 442
+  size: 406, 434
+  orig: 406, 434
+  offset: 0, 0
+  index: -1
+rename/a_11
+  rotate: false
+  xy: 1008, 878
+  size: 469, 391
+  orig: 502, 402
+  offset: 9, 1
+  index: -1
+rename/a_13
+  rotate: false
+  xy: 1511, 882
+  size: 472, 391
+  orig: 502, 402
+  offset: 9, 1
+  index: -1
+rename/a_15
+  rotate: true
+  xy: 1571, 421
+  size: 459, 324
+  orig: 502, 402
+  offset: 13, 53
+  index: -1
+rename/a_17
+  rotate: false
+  xy: 1511, 1655
+  size: 501, 378
+  orig: 502, 402
+  offset: 1, 22
+  index: -1
+rename/a_19
+  rotate: true
+  xy: 383, 378
+  size: 501, 370
+  orig: 502, 402
+  offset: 0, 30
+  index: -1
+rename/a_21
+  rotate: false
+  xy: 505, 6
+  size: 501, 370
+  orig: 502, 402
+  offset: 0, 30
+  index: -1
+rename/b02
+  rotate: false
+  xy: 2, 1649
+  size: 501, 384
+  orig: 502, 402
+  offset: 0, 18
+  index: -1
+rename/b03
+  rotate: false
+  xy: 2, 2
+  size: 501, 374
+  orig: 502, 402
+  offset: 1, 28
+  index: -1
+rename/b04
+  rotate: false
+  xy: 1511, 1275
+  size: 500, 378
+  orig: 502, 402
+  offset: 0, 24
+  index: -1
+rename/b05
+  rotate: false
+  xy: 2, 1265
+  size: 501, 382
+  orig: 502, 402
+  offset: 0, 20
+  index: -1
+rename/b06
+  rotate: true
+  xy: 2, 378
+  size: 501, 379
+  orig: 502, 402
+  offset: 0, 23
+  index: -1
+rename/b07
+  rotate: false
+  xy: 1008, 1271
+  size: 501, 379
+  orig: 502, 402
+  offset: 1, 23
+  index: -1
+rename/b08
+  rotate: false
+  xy: 2, 881
+  size: 500, 382
+  orig: 502, 402
+  offset: 0, 19
+  index: -1
+rename/b09
+  rotate: false
+  xy: 505, 1651
+  size: 501, 382
+  orig: 502, 402
+  offset: 0, 19
+  index: -1
+rename/b10
+  rotate: false
+  xy: 505, 1268
+  size: 501, 381
+  orig: 502, 402
+  offset: 0, 20
+  index: -1
+rename/b11
+  rotate: false
+  xy: 1008, 1652
+  size: 501, 381
+  orig: 502, 402
+  offset: 1, 20
+  index: -1

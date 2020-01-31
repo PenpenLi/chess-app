@@ -1,0 +1,243 @@
+{
+  "skeleton": {
+    "width": 146,
+    "height": 128.32,
+    "fps": 24,
+    "hash": " ",
+    "spine": " ",
+    "name": "kpqznn_effect_hall_5"
+  },
+  "bones": [
+
+    { "name": "root" },
+    {
+      "name": "coin",
+      "parent": "root"
+    },
+    {
+      "name": "dunpai",
+      "parent": "root"
+    },
+    {
+      "x": -37.9175,
+      "y": -45.1638,
+      "name": "coinsmall",
+      "parent": "root"
+    },
+    {
+      "x": 47.151,
+      "y": -53.5743,
+      "name": "coinsmall1",
+      "parent": "root"
+    },
+    {
+      "x": 39.1219,
+      "y": -47.151,
+      "scaleX": -1,
+      "name": "coinsmall2",
+      "parent": "root"
+    },
+    {
+      "x": 42,
+      "y": 37.743,
+      "name": "jiaoright",
+      "parent": "dunpai"
+    },
+    {
+      "x": 1.4015,
+      "y": 7.1892,
+      "name": "star",
+      "parent": "dunpai"
+    },
+    {
+      "x": -42,
+      "y": 37.743,
+      "name": "jiaoleft",
+      "parent": "dunpai"
+    }
+  ],
+  "slots": [
+
+    {
+      "name": "coin",
+      "bone": "coin",
+      "attachment": "金币"
+    },
+    {
+      "name": "jiaoright",
+      "bone": "jiaoright",
+      "attachment": "角"
+    },
+    {
+      "name": "jiaoright1",
+      "bone": "jiaoleft",
+      "attachment": "角"
+    },
+    {
+      "name": "dunpai",
+      "bone": "dunpai",
+      "attachment": "盾牌"
+    },
+    {
+      "name": "star",
+      "bone": "star",
+      "blend": "additive",
+      "attachment": "star"
+    },
+    {
+      "name": "coinsmall",
+      "bone": "coinsmall",
+      "attachment": "金币2"
+    },
+    {
+      "name": "coinsmall1",
+      "bone": "coinsmall1",
+      "attachment": "金币2"
+    },
+    {
+      "name": "coinsmall2",
+      "bone": "coinsmall2",
+      "attachment": "金币2"
+    }
+  ],
+  "skins": {
+    "default": {
+      "jiaoright1": {
+        "角": {
+          "name": "角",
+          "width": 42,
+          "height": 46,
+          "scaleX": -1
+        }
+      },
+      "dunpai": {
+        "盾牌": {
+          "name": "盾牌",
+          "width": 90,
+          "height": 109
+        }
+      },
+      "coin": {
+        "金币": {
+          "name": "金币",
+          "width": 146,
+          "height": 113
+        }
+      },
+      "jiaoright": {
+        "角": {
+          "name": "角",
+          "width": 42,
+          "height": 46
+        }
+      },
+      "coinsmall1": {
+        "金币2": {
+          "name": "金币2",
+          "width": 42,
+          "height": 24
+        }
+      },
+      "coinsmall2": {
+        "金币2": {
+          "name": "金币2",
+          "width": 42,
+          "height": 24
+        }
+      },
+      "star": {
+        "star": {
+          "name": "star",
+          "width": 100,
+          "height": 100
+        }
+      },
+      "coinsmall": {
+        "金币2": {
+          "name": "金币2",
+          "width": 42,
+          "height": 24
+        }
+      }
+    }
+  },
+  "animations": 
+  {
+    "newAnimation": {
+      "bones": {
+        "jiaoright": {
+          "translate": [
+            {
+              "time": 0,
+              "x": 1.02,
+              "y": 1.02
+            },
+            {
+              "time": 1.0417,
+              "x": 3.55,
+              "y": 3.05
+            },
+            {
+              "time": 2.0834,
+              "x": 1.02,
+              "y": 1.02
+            },
+            {
+              "time": 3.3334,
+              "x": 3.55,
+              "y": 3.05
+            },
+            {
+              "time": 4.5834,
+              "x": 1.02,
+              "y": 1.02
+            }
+          ]
+        },
+        "jiaoleft": {
+          "translate": [
+            { "time": 0 },
+            {
+              "time": 1.0417,
+              "x": -3.55,
+              "y": 2.03
+            },
+            { "time": 2.0834 },
+            {
+              "time": 3.3334,
+              "x": -3.55,
+              "y": 2.03
+            },
+            { "time": 4.5834 }
+          ]
+        }
+      },
+      "slots": {
+        "star": {
+          "color": [
+            {
+              "time": 0,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 0.8333,
+              "color": "FFFFFF00"
+            },
+            {
+              "time": 1.6666,
+              "color": "FFFFFFFF"
+            },
+            {
+              "time": 2.9166,
+              "color": "FFFFFFFF"
+            },
+            {
+              "time": 3.7499,
+              "color": "FFFFFF00"
+            }
+          ]
+        }
+      },
+      "drawOrder": [ { "time": 0 } ]
+    }
+  }}

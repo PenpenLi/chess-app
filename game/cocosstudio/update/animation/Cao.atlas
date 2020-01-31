@@ -1,0 +1,62 @@
+
+Cao.png
+size: 971,971
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cao
+  rotate: false
+  xy: 2, 463
+  size: 967, 506
+  orig: 969, 508
+  offset: 1, 1
+  index: -1
+Cao_02
+  rotate: true
+  xy: 56, 289
+  size: 90, 88
+  orig: 92, 90
+  offset: 1, 1
+  index: -1
+Cao_03
+  rotate: true
+  xy: 2, 107
+  size: 132, 39
+  orig: 134, 41
+  offset: 1, 1
+  index: -1
+Cao_05
+  rotate: true
+  xy: 276, 415
+  size: 46, 88
+  orig: 48, 90
+  offset: 1, 1
+  index: -1
+Cao_06
+  rotate: false
+  xy: 146, 364
+  size: 107, 35
+  orig: 109, 37
+  offset: 1, 1
+  index: -1
+Cao_08
+  rotate: true
+  xy: 146, 401
+  size: 60, 128
+  orig: 62, 130
+  offset: 1, 1
+  index: -1
+Cao_10
+  rotate: false
+  xy: 2, 241
+  size: 52, 138
+  orig: 54, 140
+  offset: 1, 1
+  index: -1
+Cao_11
+  rotate: false
+  xy: 2, 381
+  size: 142, 80
+  orig: 144, 82
+  offset: 1, 1
+  index: -1

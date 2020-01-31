@@ -1,0 +1,41 @@
+
+qznn_hall_effect_1_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qznn_hall_card1_bg
+  rotate: false
+  xy: 1, 1
+  size: 225, 277
+  orig: 225, 277
+  offset: 0, 0
+  index: -1
+qznn_hall_card1_1
+  rotate: false
+  xy: 227, 280
+  size: 146, 171
+  orig: 146, 171
+  offset: 0, 0
+  index: -1
+DH_chakram_sharpRing_0
+  rotate: false
+  xy: 1, 280
+  size: 224, 224
+  orig: 256, 256
+  offset: 16, 16
+  index: -1
+glow_0
+  rotate: false
+  xy: 375, 280
+  size: 117, 104
+  orig: 128, 128
+  offset: 6, 12
+  index: -1
+qznn_hall_card1_xsf
+  rotate: false
+  xy: 227, 453
+  size: 108, 38
+  orig: 108, 38
+  offset: 0, 0
+  index: -1

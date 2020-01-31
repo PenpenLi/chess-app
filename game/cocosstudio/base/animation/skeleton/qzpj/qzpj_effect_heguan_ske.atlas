@@ -1,0 +1,132 @@
+
+qzpj_effect_heguan_ske.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+juese/toufa2
+  rotate: false
+  xy: 1525, 216
+  size: 198, 204
+  orig: 198, 204
+  offset: 0, 0
+  index: -1
+juese/toufa1
+  rotate: false
+  xy: 1525, 1
+  size: 214, 213
+  orig: 214, 213
+  offset: 0, 0
+  index: -1
+juese/body
+  rotate: false
+  xy: 1, 1
+  size: 607, 823
+  orig: 607, 823
+  offset: 0, 0
+  index: -1
+juese/shouxin
+  rotate: false
+  xy: 2012, 299
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+juese/qunzi
+  rotate: false
+  xy: 1102, 1
+  size: 421, 318
+  orig: 421, 318
+  offset: 0, 0
+  index: -1
+guahseng/guasheng2
+  rotate: false
+  xy: 1892, 142
+  size: 73, 187
+  orig: 73, 187
+  offset: 0, 0
+  index: -1
+guahseng/guasheng1
+  rotate: false
+  xy: 1892, 418
+  size: 55, 192
+  orig: 55, 192
+  offset: 0, 0
+  index: -1
+juese/zuobi
+  rotate: false
+  xy: 610, 1
+  size: 490, 337
+  orig: 490, 337
+  offset: 0, 0
+  index: -1
+juese/pai2
+  rotate: false
+  xy: 1949, 418
+  size: 35, 57
+  orig: 35, 57
+  offset: 0, 0
+  index: -1
+juese/pai1
+  rotate: false
+  xy: 1986, 418
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+juese/youbi
+  rotate: false
+  xy: 1741, 1
+  size: 144, 313
+  orig: 144, 313
+  offset: 0, 0
+  index: -1
+juese/yanzhu
+  rotate: false
+  xy: 2012, 317
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+juese/yanpi
+  rotate: false
+  xy: 1967, 299
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+juese/erzhui
+  rotate: false
+  xy: 2019, 142
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+juese/liuhai
+  rotate: false
+  xy: 1725, 316
+  size: 165, 200
+  orig: 165, 200
+  offset: 0, 0
+  index: -1
+juese/liuhai2
+  rotate: false
+  xy: 1967, 142
+  size: 50, 155
+  orig: 50, 155
+  offset: 0, 0
+  index: -1
+juese/touhua
+  rotate: false
+  xy: 1892, 331
+  size: 133, 85
+  orig: 133, 85
+  offset: 0, 0
+  index: -1
+juese/juhuaguang2
+  rotate: false
+  xy: 1887, 1
+  size: 140, 139
+  orig: 142, 142
+  offset: 1, 1
+  index: -1

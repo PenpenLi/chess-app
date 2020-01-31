@@ -1,0 +1,1076 @@
+<Solution>
+  <PropertyGroup Name="game" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="base">
+          <Folder Name="animation">
+            <Folder Name="particle">
+              <Folder Name="bubble">
+                <PlistParticleFile Name="bubble_0.plist" />
+                <Image Name="bubble_1.png" />
+                <Image Name="bubble_10.png" />
+                <Image Name="bubble_11.png" />
+                <Image Name="bubble_12.png" />
+                <Image Name="bubble_13.png" />
+                <Image Name="bubble_14.png" />
+                <Image Name="bubble_15.png" />
+                <Image Name="bubble_2.png" />
+                <Image Name="bubble_3.png" />
+                <Image Name="bubble_4.png" />
+                <Image Name="bubble_5.png" />
+                <Image Name="bubble_6.png" />
+                <Image Name="bubble_7.png" />
+                <Image Name="bubble_8.png" />
+                <Image Name="bubble_9.png" />
+                <PlistParticleFile Name="littlestar_0.plist" />
+              </Folder>
+              <PlistParticleFile Name="diamond.plist" />
+              <PlistParticleFile Name="gold.plist" />
+              <PlistParticleFile Name="hall_star_01.plist" />
+              <PlistParticleFile Name="ShanGuangDeng.plist" />
+              <PlistParticleFile Name="snow.plist" />
+            </Folder>
+            <Folder Name="skeleton">
+              <Folder Name="denglong">
+                <File Name="denglong.atlas" />
+                <File Name="denglong.json" />
+                <Image Name="denglong.png" />
+              </Folder>
+              <Folder Name="kpqznn">
+                <File Name="kpqznn_effect_hall_3_ske.atlas" />
+                <File Name="kpqznn_effect_hall_3_ske.json" />
+                <Image Name="kpqznn_effect_hall_3_ske.png" />
+              </Folder>
+              <Folder Name="loading">
+                <File Name="loading.atlas" />
+                <File Name="loading.json" />
+                <Image Name="loading.png" />
+              </Folder>
+              <Folder Name="ny_recharge">
+                <File Name="chongzhi.atlas" />
+                <File Name="chongzhi.json" />
+                <Image Name="chongzhi.png" />
+              </Folder>
+              <Folder Name="qznn">
+                <File Name="qznn_hall_effect_1_ske.atlas" />
+                <File Name="qznn_hall_effect_1_ske.json" />
+                <Image Name="qznn_hall_effect_1_ske.png" />
+                <File Name="qznn_hall_effect_2_ske.atlas" />
+                <File Name="qznn_hall_effect_2_ske.json" />
+                <Image Name="qznn_hall_effect_2_ske.png" />
+                <File Name="qznn_hall_effect_3_ske.atlas" />
+                <File Name="qznn_hall_effect_3_ske.json" />
+                <Image Name="qznn_hall_effect_3_ske.png" />
+                <File Name="qznn_hall_effect_4_ske.atlas" />
+                <Image Name="qznn_hall_effect_4_ske.png" />
+                <File Name="qznn_hall_effect_4_ske_qznn_hall_effect_4.json" />
+                <File Name="qznn_hall_effect_5_ske.atlas" />
+                <Image Name="qznn_hall_effect_5_ske.png" />
+                <File Name="qznn_hall_effect_5_ske_glow.json" />
+                <File Name="qznn_hall_effect_5_ske_qznn_hall_effect_5.json" />
+                <File Name="qznn_hall_effect_6_ske.atlas" />
+                <Image Name="qznn_hall_effect_6_ske.png" />
+                <File Name="qznn_hall_effect_6_ske_qznn_hall_effect_6.json" />
+                <File Name="qznn_hall_effect_girl_ske.atlas" />
+                <File Name="qznn_hall_effect_girl_ske.json" />
+                <Image Name="qznn_hall_effect_girl_ske.png" />
+                <File Name="qznn_hall_effect_light_ske.atlas" />
+                <File Name="qznn_hall_effect_light_ske.json" />
+                <Image Name="qznn_hall_effect_light_ske.png" />
+              </Folder>
+              <Folder Name="qzpj">
+                <File Name="pj_effect_room1_ske.atlas" />
+                <File Name="pj_effect_room1_ske.json" />
+                <Image Name="pj_effect_room1_ske.png" />
+                <File Name="pj_effect_room2_ske.atlas" />
+                <File Name="pj_effect_room2_ske.json" />
+                <Image Name="pj_effect_room2_ske.png" />
+                <File Name="pj_effect_room3_ske.atlas" />
+                <File Name="pj_effect_room3_ske.json" />
+                <Image Name="pj_effect_room3_ske.png" />
+                <File Name="pj_effect_room4_ske.atlas" />
+                <File Name="pj_effect_room4_ske.json" />
+                <Image Name="pj_effect_room4_ske.png" />
+                <File Name="pj_effect_room5_ske.atlas" />
+                <File Name="pj_effect_room5_ske.json" />
+                <Image Name="pj_effect_room5_ske.png" />
+                <File Name="pj_effect_room6_ske.atlas" />
+                <File Name="pj_effect_room6_ske.json" />
+                <Image Name="pj_effect_room6_ske.png" />
+                <File Name="qzpj_effect_heguan_ske.atlas" />
+                <File Name="qzpj_effect_heguan_ske.json" />
+                <Image Name="qzpj_effect_heguan_ske.png" />
+                <File Name="qzpj_effect_logo_ske.atlas" />
+                <File Name="qzpj_effect_logo_ske.json" />
+                <Image Name="qzpj_effect_logo_ske.png" />
+              </Folder>
+              <Folder Name="recharge">
+                <File Name="chongzhi.atlas" />
+                <File Name="chongzhi.json" />
+                <Image Name="chongzhi.png" />
+              </Folder>
+              <Folder Name="songjin">
+                <File Name="huodongjuesedaiji.atlas" />
+                <File Name="huodongjuesedaiji.json" />
+                <Image Name="huodongjuesedaiji.png" />
+              </Folder>
+              <Folder Name="waitting">
+                <File Name="shang.atlas" />
+                <File Name="shang.json" />
+                <Image Name="shang.png" />
+              </Folder>
+              <Folder Name="yanhua">
+                <File Name="yanhuan.atlas" />
+                <File Name="yanhuan.json" />
+                <Image Name="yanhuan.png" />
+              </Folder>
+              <Folder Name="zjhgirl">
+                <File Name="zjh_effect_hall_girl_ske.atlas" />
+                <File Name="zjh_effect_hall_girl_ske.json" />
+                <Image Name="zjh_effect_hall_girl_ske.png" />
+              </Folder>
+            </Folder>
+          </Folder>
+          <Folder Name="font">
+            <Folder Name="fruit">
+              <Image Name="slwh_fnt_hall1.png" />
+              <Fnt Name="slwh_fnt_hall1_a7c44d6f40153649530fe724ce08d6b5.fnt" />
+              <Image Name="slwh_fnt_hall2.png" />
+              <Fnt Name="slwh_fnt_hall2_cf305d5ae8380e0b62162ab11e79380d.fnt" />
+              <Image Name="slwh_fnt_hall3.png" />
+              <Fnt Name="slwh_fnt_hall3_69628da141b440380aa7fcac45685a11.fnt" />
+              <Image Name="slwh_fnt_hall4.png" />
+              <Fnt Name="slwh_fnt_hall4_8898ce8c8dd912e522d4d77c7f1f0616.fnt" />
+            </Folder>
+            <Fnt Name="bxx_baifenbi_num.fnt" />
+            <Fnt Name="by_paobei.fnt" />
+            <Fnt Name="cz_jinbi_num.fnt" />
+            <Fnt Name="dt_jinbi_num.fnt" />
+            <Fnt Name="fj_jinbichang01_num.fnt" />
+            <Fnt Name="fj_jinbichang02_num.fnt" />
+            <Fnt Name="fj_jinbichang03_num.fnt" />
+            <Fnt Name="fj_jinbichang04_num.fnt" />
+            <Fnt Name="fj_jinbichang05_num.fnt" />
+            <Fnt Name="fj_ruchangxianzhi01.fnt" />
+            <Fnt Name="fj_ruchangxianzhi02.fnt" />
+            <Fnt Name="fj_ruchangxianzhi03.fnt" />
+            <Fnt Name="fj_ruchangxianzhi04.fnt" />
+            <Fnt Name="fj_ruchangxianzhi05.fnt" />
+            <Fnt Name="gf_lowBetNumber.fnt" />
+            <Fnt Name="phb_paiming_num.fnt" />
+            <Fnt Name="phb_time_num.fnt" />
+            <TTF Name="PINGFANG BOLD_0.ttf" />
+            <Fnt Name="slhb_bei.fnt" />
+            <Fnt Name="web_zimu.fnt" />
+          </Folder>
+          <Folder Name="images">
+            <Folder Name="account_popup">
+              <Image Name="account_bt_find_g.png" />
+              <Image Name="account_bt_find_y.png" />
+              <Image Name="account_bt_login.png" />
+              <Image Name="account_bt_login_sure.png" />
+              <Image Name="account_bt_modify.png" />
+              <Image Name="account_bt_other_login.png" />
+              <Image Name="account_bt_reg.png" />
+              <Image Name="account_bt_reset.png" />
+              <Image Name="account_bt_sms_d.png" />
+              <Image Name="account_bt_sms_g.png" />
+              <Image Name="account_cell_bg.png" />
+              <Image Name="account_cell_bg_s.png" />
+              <Image Name="account_delete.png" />
+              <Image Name="account_find_title.png" />
+              <Image Name="account_login_title.png" />
+              <Image Name="account_modify_title.png" />
+              <Image Name="account_reg_title.png" />
+              <Image Name="account_title.png" />
+              <Image Name="an_1.png" />
+              <Image Name="hall_login_bg.png" />
+              <Image Name="input_bg.png" />
+              <Image Name="layer_detail_bg_dark.png" />
+              <Image Name="layer_detail_bg_dark1.png" />
+              <Image Name="login_bg.png" />
+              <Image Name="logo.png" />
+              <Image Name="phone_login_btn.png" />
+              <Image Name="registered_bg.png" />
+              <Image Name="scale9sprite.png" />
+              <Image Name="wx_login_btn.png" />
+              <Image Name="youke_login_btn.png" />
+            </Folder>
+            <Folder Name="announce_popup">
+              <Image Name="agent_recharge_bg.png" />
+              <Image Name="ann_bg.png" />
+              <Image Name="ann_btn_gain.png" />
+              <Image Name="ann_btn_read.png" />
+              <Image Name="ann_cell.png" />
+              <Image Name="ann_desc_bg.png" />
+              <Image Name="ann_gained.png" />
+              <Image Name="ann_girl.png" />
+              <Image Name="ann_girl_1.png" />
+              <Image Name="ann_readed.png" />
+              <Image Name="ann_title.png" />
+              <Image Name="bt_confirm.png" />
+              <Image Name="details_bg.png" />
+              <Image Name="details_title.png" />
+              <Image Name="gold.png" />
+              <Image Name="prs_goldBg.png" />
+              <Image Name="receive_recharge_bg.png" />
+              <Image Name="reward_title.png" />
+            </Folder>
+            <Folder Name="bank_popup">
+              <Image Name="01.png" />
+              <Image Name="bk_btn_get.png" />
+              <Image Name="bk_btn_save.png" />
+              <Image Name="bk_flag_less.png" />
+              <Image Name="bk_flag_more.png" />
+              <Image Name="bk_flag_save.png" />
+              <Image Name="bk_info_bg.png" />
+              <Image Name="bk_online_clean.png" />
+              <Image Name="bk_progressBg.png" />
+              <Image Name="bk_progressing.png" />
+              <Image Name="bk_thumb.png" />
+              <Image Name="bk_tipbg.png" />
+              <Image Name="bk_title.png" />
+              <Image Name="bk_txt_gtnum.png" />
+              <Image Name="bk_txt_max.png" />
+              <Image Name="bk_txt_svnum.png" />
+              <Image Name="bk_yellow_btn.png" />
+              <Image Name="bk_yellow_btn_flag_save.png" />
+              <Image Name="bk_yellow_btn_get.png" />
+              <Image Name="scale9sprite.png" />
+              <Image Name="tcbg_baoxianxiang.png" />
+            </Folder>
+            <Folder Name="brnn_res">
+              <Image Name="brnn_game_icon.png" />
+              <Image Name="ybqznn_hall_bg.png" />
+              <Image Name="ybqznn_hall_btn_back.png" />
+              <Image Name="ybqznn_hall_btn_help.png" />
+              <Image Name="ybqznn_hall_btn_history.png" />
+            </Folder>
+            <Folder Name="brqznn_res">
+              <Image Name="kpqznn_hall_back.png" />
+              <Image Name="kpqznn_hall_bg.png" />
+              <Image Name="kpqznn_hall_bg3.png" />
+              <Image Name="kpqznn_hall_bg5.png" />
+              <Image Name="kpqznn_hall_bg6.png" />
+              <Image Name="kpqznn_hall_coin.png" />
+              <Image Name="kpqznn_hall_help.png" />
+              <Image Name="kpqznn_hall_logo.png" />
+              <Image Name="kpqznn_hall_record.png" />
+              <Image Name="kpqznn_hall_top.png" />
+            </Folder>
+            <Folder Name="charge_popup">
+              <PlistImageFolder Image="logo_pay.png" PListFile="logo_pay.plist" Name=".logo_pay_PList.Dir">
+                <PlistImageFile Name="logo_ali.png" Key="logo_ali.png" />
+                <PlistImageFile Name="logo_btc.png" Key="logo_btc.png" />
+                <PlistImageFile Name="logo_flash_pay.png" Key="logo_flash_pay.png" />
+                <PlistImageFile Name="logo_jd.png" Key="logo_jd.png" />
+                <PlistImageFile Name="logo_qq.png" Key="logo_qq.png" />
+                <PlistImageFile Name="logo_union_bank.png" Key="logo_union_bank.png" />
+                <PlistImageFile Name="logo_vip.png" Key="logo_vip.png" />
+                <PlistImageFile Name="logo_wechat.png" Key="logo_wechat.png" />
+                <PlistImageFile Name="logo_yun.png" Key="logo_yun.png" />
+              </PlistImageFolder>
+              <PlistImageFolder Image="star_rating.png" PListFile="star_rating.plist" Name=".star_rating_PList.Dir">
+                <PlistImageFile Name="star_bg_n.png" Key="star_bg_n.png" />
+                <PlistImageFile Name="star_bg_s.png" Key="star_bg_s.png" />
+                <PlistImageFile Name="star1.png" Key="star1.png" />
+                <PlistImageFile Name="star2.png" Key="star2.png" />
+                <PlistImageFile Name="star3.png" Key="star3.png" />
+                <PlistImageFile Name="star4.png" Key="star4.png" />
+                <PlistImageFile Name="star5.png" Key="star5.png" />
+                <PlistImageFile Name="star6.png" Key="star6.png" />
+                <PlistImageFile Name="star7.png" Key="star7.png" />
+              </PlistImageFolder>
+              <Image Name="ad_banner.png" />
+              <Image Name="bt_charge_now.png" />
+              <Image Name="btn_charchat.png" />
+              <Image Name="btn_charge.png" />
+              <Image Name="cell_bg.png" />
+              <Image Name="charge_bg.png" />
+              <Image Name="charge_copy_btn.png" />
+              <Image Name="charge_icon_instruction.png" />
+              <Image Name="charge_online_alipay_bg.png" />
+              <Image Name="charge_online_alipay_btn_d.png" />
+              <Image Name="charge_online_alipay_btn_l.png" />
+              <Image Name="charge_online_alipay_ding_bg.png" />
+              <Image Name="charge_online_alipay_quota_bg.png" />
+              <Image Name="charge_online_alipay_quota_btn_d.png" />
+              <Image Name="charge_online_alipay_quota_btn_l.png" />
+              <Image Name="charge_online_bg.png" />
+              <Image Name="charge_online_jd_btn_d.png" />
+              <Image Name="charge_online_jd_btn_l.png" />
+              <Image Name="charge_online_jdpay_bg.png" />
+              <Image Name="charge_online_num.png" />
+              <Image Name="charge_online_pointcard_btn_d.png" />
+              <Image Name="charge_online_pointcard_btn_l.png" />
+              <Image Name="charge_online_qq_bg.png" />
+              <Image Name="charge_online_qq_btn_d.png" />
+              <Image Name="charge_online_qq_btn_l.png" />
+              <Image Name="charge_online_union_bg.png" />
+              <Image Name="charge_online_union_btn_d.png" />
+              <Image Name="charge_online_union_btn_l.png" />
+              <Image Name="charge_online_wechat_bg.png" />
+              <Image Name="charge_online_wechat_btn_d.png" />
+              <Image Name="charge_online_wechat_btn_l.png" />
+              <Image Name="charge_proxy_btn_d.png" />
+              <Image Name="charge_proxy_btn_l.png" />
+              <Image Name="charge_proxy_charge_2.png" />
+              <Image Name="charge_proxy_title.png" />
+              <Image Name="charge_title.png" />
+              <Image Name="charge_txtid.png" />
+              <Image Name="scale9sprite.png" />
+              <Image Name="tag_bg_blue.png" />
+              <Image Name="tag_bg_green.png" />
+              <Image Name="tag_bg_iron.png" />
+            </Folder>
+            <Folder Name="chargeProxy_popup">
+              <Image Name="charge_copy_bg.png" />
+              <Image Name="charge_proxy_bg.png" />
+              <Image Name="contact_title.png" />
+              <Image Name="exc_ali_bg.png" />
+              <Image Name="pf_btn_wx.png" />
+              <Image Name="pf_icon_wx.png" />
+            </Folder>
+            <Folder Name="ddz_res">
+              <Image Name="ddz_helpBtn.png" />
+              <Image Name="ddz_languegeBtn.png" />
+              <Image Name="ddz_recordBtn.png" />
+              <Image Name="ddz_room_admit_bottom1.png" />
+              <Image Name="ddz_room_admit_bottom2.png" />
+              <Image Name="ddz_room_admit_bottom3.png" />
+              <Image Name="ddz_room_admit_bottom4.png" />
+              <Image Name="ddz_room_bg.png" />
+              <Image Name="ddz_room_btn_back.png" />
+              <Image Name="ddz_room_btn_back_bottom.png" />
+              <Image Name="ddz_room_btn_fliter.png" />
+              <Image Name="ddz_room_btn_pic1.png" />
+              <Image Name="ddz_room_btn_pic2.png" />
+              <Image Name="ddz_room_btn_pic3.png" />
+              <Image Name="ddz_room_btn_pic4.png" />
+              <Image Name="ddz_room_gold.png" />
+              <Image Name="ddz_room_gold_bottom.png" />
+              <Image Name="ddz_room_head_bg.png" />
+              <Image Name="ddz_room_head_bottom.png" />
+              <Image Name="ddz_room_sister.png" />
+              <Image Name="ddz_room_soon_open.png" />
+              <Image Name="ddz_room_title1.png" />
+              <Image Name="ddz_room_title2.png" />
+              <Image Name="ddz_room_title3.png" />
+              <Image Name="ddz_room_title4.png" />
+              <Image Name="ddz_room_trumpet.png" />
+              <Image Name="ddz_scene_help_btn.png" />
+              <Image Name="ddz_scene_help_page_bottom.png" />
+              <Image Name="ddz_scene_over_bottom01.png" />
+              <Image Name="ddz_scene_over_bottom01_texture.png" />
+              <Image Name="ddz_scene_over_bottom02.png" />
+              <Image Name="ddz_scene_over_close.png" />
+              <Image Name="ddz_scene_record_bottom_1.png" />
+              <Image Name="ddz_scene_record_bottom_2.png" />
+              <Image Name="ddz_scene_record_title_bottom.png" />
+              <Image Name="ddz_scene_set_title_bottom.png" />
+            </Folder>
+            <Folder Name="exchange_popup">
+              <Image Name="04.png" />
+              <Image Name="07.png" />
+              <Image Name="08.png" />
+              <Image Name="ali_jd.png" />
+              <Image Name="arrow_down.png" />
+              <Image Name="arrow_up.png" />
+              <Image Name="bank_bg.png" />
+              <Image Name="bank_bind_btn.png" />
+              <Image Name="bank_bind_title.png" />
+              <Image Name="bank_jd_.png" />
+              <Image Name="bank_mid.png" />
+              <Image Name="bank_text_bind.png" />
+              <Image Name="bank_update_btn.png" />
+              <Image Name="bank_update_title.png" />
+              <Image Name="bg.png" />
+              <Image Name="bt_ali.png" />
+              <Image Name="bt_ali_s.png" />
+              <Image Name="bt_bank.png" />
+              <Image Name="bt_bank_s.png" />
+              <Image Name="bt_bind.png" />
+              <Image Name="bt_change.png" />
+              <Image Name="exc_bt_change.png" />
+              <Image Name="exc_max.png" />
+              <Image Name="exc_text_bind.png" />
+              <Image Name="exc_title.png" />
+              <Image Name="exc_top.png" />
+              <Image Name="exchange_btn.png" />
+              <Image Name="exchange_record_btn.png" />
+              <Image Name="info_bg.png" />
+              <Image Name="list_line.png" />
+              <Image Name="scale9sprite.png" />
+              <Image Name="yhk_bg.png" />
+              <Image Name="zfb_bg.png" />
+              <Image Name="zfb_bind_btn.png" />
+              <Image Name="zfb_bind_title.png" />
+              <Image Name="zfb_mid.png" />
+              <Image Name="zfb_update_btn.png" />
+              <Image Name="zfb_update_title.png" />
+            </Folder>
+            <Folder Name="fish_res">
+              <Image Name="fish_game_icon_coin_07bcb59019ab0eeb1fa5ec9097ff4565.png" />
+              <Image Name="fish_game_menu_btn_exit_17a0f6615692846228c6cbafaa2c7e9e.png" />
+              <Image Name="fish_game_menu_btn_help_d9ac921c1bc44bd0d58a4d2969c4dc38.png" />
+              <Image Name="fish_game_menu_btn_record_bd45b57370235c554e572738f6e5a63c.png" />
+              <Image Name="fish_hall_bg_4945cd507a7fa0e3919746d8a7ae0215.png" />
+              <Image Name="fish_hall_img_picFrame_6eea4cce804dde3232f77b5eac3fc138.png" />
+              <Image Name="fish_hall_pic_dizhu_8077fd462db499d5a2087c466bc4f6e2.png" />
+              <Image Name="fish_hall_pic_xinxidi_7bfb96b3f684b74f4fb5e22a2e8cccb0.png" />
+              <Image Name="fish_hall_pic_zhunru_178def9d62b8491449a13ab7f55e7276.png" />
+            </Folder>
+            <Folder Name="fruit_res">
+              <Image Name="slwh_hall_back.png" />
+              <Image Name="slwh_hall_bg.png" />
+              <Image Name="slwh_hall_bg1.png" />
+              <Image Name="slwh_hall_bg1A.png" />
+              <Image Name="slwh_hall_bg2.png" />
+              <Image Name="slwh_hall_bg2A.png" />
+              <Image Name="slwh_hall_bg3.png" />
+              <Image Name="slwh_hall_bg3A.png" />
+              <Image Name="slwh_hall_bg4.png" />
+              <Image Name="slwh_hall_bg4A.png" />
+              <Image Name="slwh_hall_help.png" />
+              <Image Name="slwh_hall_icon1.png" />
+              <Image Name="slwh_hall_icon3.png" />
+              <Image Name="slwh_hall_iconframe3.png" />
+              <Image Name="slwh_hall_record.png" />
+              <Image Name="slwh_hall_roomTxt1.png" />
+              <Image Name="slwh_hall_roomTxt2.png" />
+              <Image Name="slwh_hall_roomTxt3.png" />
+              <Image Name="slwh_hall_roomTxt4.png" />
+              <Image Name="slwh_hall_topBg2.png" />
+              <Image Name="slwh_hall_txt_cardbg_1.png" />
+              <Image Name="slwh_hall_txt_cardbg_2.png" />
+              <Image Name="slwh_hall_txt_cardbg_3.png" />
+              <Image Name="slwh_hall_txt_cardbg_4.png" />
+            </Folder>
+            <Folder Name="hb_res">
+              <Image Name="bloodriverHallBg.png" />
+              <Image Name="bloodriverHallBtnBack.png" />
+              <Image Name="bloodriverhallbtnhelp.png" />
+              <Image Name="bloodriverhallbtnrecord.png" />
+              <Image Name="bloodriverhallicongold.png" />
+              <Image Name="bloodriverhalllangback.png" />
+              <Image Name="bloodriverhalllanghelp.png" />
+              <Image Name="bloodriverhalllangrecord.png" />
+              <Image Name="bloodriverhallroomlang01.png" />
+              <Image Name="bloodriverhallroomlang02.png" />
+              <Image Name="bloodriverhallroomlang03.png" />
+              <Image Name="bloodriverhallroomlang04.png" />
+              <Image Name="bloodriverhalltopbg.png" />
+              <Image Name="text1.png" />
+              <Image Name="text2.png" />
+              <Image Name="text3.png" />
+              <Image Name="text6.png" />
+            </Folder>
+            <Folder Name="huodong_popup">
+              <Image Name="hd_bg.png" />
+              <Image Name="hd_bg_02.png" />
+              <Image Name="hd_btn_lq.png" />
+              <Image Name="hd_btn_star.png" />
+              <Image Name="hd_jindu_01.png" />
+              <Image Name="hd_jindu_02.png" />
+              <Image Name="icon_game_bjl.png" />
+              <Image Name="icon_game_brnn.png" />
+              <Image Name="icon_game_brqznn.png" />
+              <Image Name="icon_game_comm.png" />
+              <Image Name="icon_game_cpddz.png" />
+              <Image Name="icon_game_ddz.png" />
+              <Image Name="icon_game_fruit.png" />
+              <Image Name="icon_game_hb.png" />
+              <Image Name="icon_game_hccc.png" />
+              <Image Name="icon_game_hhdz.png" />
+              <Image Name="icon_game_jsby.png" />
+              <Image Name="icon_game_jsmj.png" />
+              <Image Name="icon_game_jsys.png" />
+              <Image Name="icon_game_lhd.png" />
+              <Image Name="icon_game_pdk.png" />
+              <Image Name="icon_game_qznn.png" />
+              <Image Name="icon_game_zjh.png" />
+              <Image Name="icon_huodong.png" />
+              <Image Name="jchd_title.png" />
+            </Folder>
+            <Folder Name="jsmj_res">
+              <Image Name="ermj_hall_bg.png" />
+              <Image Name="ermj_hallBtnBack.png" />
+              <Image Name="ermj_hallBtnHelp.png" />
+              <Image Name="ermj_hallBtnRecord.png" />
+              <Image Name="ermj_hallGoldBg.png" />
+              <Image Name="ermj_hallLangBack.png" />
+              <Image Name="ermj_hallLangHelp.png" />
+              <Image Name="ermj_hallLangRecord.png" />
+              <Image Name="ermj_hallLogo.png" />
+              <Image Name="ermj_hallTopBg.png" />
+              <Image Name="ermj_room_iconGold.png" />
+            </Folder>
+            <Folder Name="main_layer">
+              <Image Name="arrow_btn.png" />
+              <Image Name="bg.jpg" />
+              <Image Name="bottom_bar.png" />
+              <Image Name="btn_close.png" />
+              <Image Name="btn_icon.png" />
+              <Image Name="close_btn.png" />
+              <Image Name="copy_qrcode.png" />
+              <Image Name="divider.png" />
+              <Image Name="dot1.png" />
+              <Image Name="dot2.png" />
+              <Image Name="dt_game_bjl.png" />
+              <Image Name="dt_game_brnn.png" />
+              <Image Name="dt_game_brqznn.png" />
+              <Image Name="dt_game_cpddz.png" />
+              <Image Name="dt_game_ddz.png" />
+              <Image Name="dt_game_fruit.png" />
+              <Image Name="dt_game_hb.png" />
+              <Image Name="dt_game_hccc.png" />
+              <Image Name="dt_game_hhdz.png" />
+              <Image Name="dt_game_jcby.png" />
+              <Image Name="dt_game_jsby.png" />
+              <Image Name="dt_game_jsmj.png" />
+              <Image Name="dt_game_jsys.png" />
+              <Image Name="dt_game_lhd.png" />
+              <Image Name="dt_game_pdk.png" />
+              <Image Name="dt_game_qznn.png" />
+              <Image Name="dt_game_zjh.png" />
+              <Image Name="gamehall_top_logo.png" />
+              <Image Name="gf_room_bg_043a4148690ff7d591d0119ca6bbe399.png" />
+              <Image Name="guide_btn.png" />
+              <Image Name="Hall_TopBg.png" />
+              <Image Name="icon_add.png" />
+              <Image Name="icon_add_btn.png" />
+              <Image Name="icon_bank.png" />
+              <Image Name="icon_dt_cz.png" />
+              <Image Name="icon_exchange.png" />
+              <Image Name="icon_exchange_2.png" />
+              <Image Name="icon_news.png" />
+              <Image Name="icon_proxy.png" />
+              <Image Name="icon_rank.png" />
+              <Image Name="icon_service.png" />
+              <Image Name="img_dt_idbg.png" />
+              <Image Name="NY_fu.png" />
+              <Image Name="official_url_logo.png" />
+              <Image Name="official_url_logo1.png" />
+              <Image Name="official_url_logo2.png" />
+              <Image Name="official_url_logo3.png" />
+              <Image Name="paomadeng_di.png" />
+              <Image Name="pf_btn_wx.png" />
+              <Image Name="proxy_bg.png" />
+              <Image Name="proxy_btn.png" />
+              <Image Name="qrcode.png" />
+              <Image Name="red_point.png" />
+              <Image Name="top_bar.png" />
+              <Image Name="update_cd.png" />
+              <Image Name="update_cd_bg.png" />
+              <Image Name="update_tip.png" />
+              <Image Name="xsjl_bg.png" />
+              <Image Name="xue1.png" />
+              <Image Name="xue2.png" />
+              <Image Name="xue3.png" />
+              <Image Name="ZCSJ_00.png" />
+              <Image Name="zcsj_bg.png" />
+              <Image Name="zcsj_btn.png" />
+            </Folder>
+            <Folder Name="personal_popup">
+              <Image Name="prs_bg.png" />
+              <Image Name="prs_box.png" />
+              <Image Name="prs_btn_binding.png" />
+              <Image Name="prs_btn_exit.png" />
+              <Image Name="prs_btn_password.png" />
+              <Image Name="prs_btn_portrait.png" />
+              <Image Name="prs_btn_reg_real.png" />
+              <Image Name="prs_btn_setup.png" />
+              <Image Name="prs_checked.png" />
+              <Image Name="prs_copy.png" />
+              <Image Name="prs_head_title.png" />
+              <Image Name="prs_id_bg.png" />
+              <Image Name="prs_name_bg.png" />
+              <Image Name="prs_phonenum_bg.png" />
+              <Image Name="prs_title.png" />
+              <Image Name="prs_txk.png" />
+              <Image Name="prs_up_nicheng.png" />
+              <Image Name="prs_up_title.png" />
+            </Folder>
+            <Folder Name="qmdl_popup">
+              <Image Name="apply_btn.png" />
+              <Image Name="btn_shuaixin.png" />
+              <Image Name="dl_bg.png" />
+              <Image Name="dl_box.png" />
+              <Image Name="dl_btn_td.png" />
+              <Image Name="dl_btn_td_s.png" />
+              <Image Name="dl_btn_tg.png" />
+              <Image Name="dl_btn_tg_s.png" />
+              <Image Name="dl_btn_yj.png" />
+              <Image Name="dl_btn_yj_s.png" />
+              <Image Name="dl_btn_yjmx.png" />
+              <Image Name="dl_btn_yjmx_s.png" />
+              <Image Name="dl_img_help.png" />
+              <Image Name="dl_list_bg.png" />
+              <Image Name="dl_title_tuiguang.png" />
+              <Image Name="dl_yjsm_gb.png" />
+              <Image Name="downpage_btn.png" />
+              <Image Name="get_btn.png" />
+              <Image Name="gold.png" />
+              <Image Name="help_btn.png" />
+              <Image Name="id_box.png" />
+              <Image Name="img_bg_qndl.png" />
+              <Image Name="img_ewm_bg.png" />
+              <Image Name="img_list_bg.png" />
+              <Image Name="img_renshu.png" />
+              <Image Name="img_yongjin_bg.png" />
+              <Image Name="img_zaixian.png" />
+              <Image Name="income_box.png" />
+              <Image Name="name_box.png" />
+              <Image Name="save_btn.png" />
+              <Image Name="share_btn.png" />
+              <Image Name="uppage_btn.png" />
+            </Folder>
+            <Folder Name="qznn_res">
+              <Folder Name="help">
+                <Image Name="qznn_help_bg.png" />
+                <Image Name="qznn_help_bg1.png" />
+                <Image Name="qznn_help_bg2.png" />
+                <Image Name="qznn_help_bs1.png" />
+                <Image Name="qznn_help_bs2.png" />
+                <Image Name="qznn_help_close.png" />
+                <Image Name="qznn_help_dx1.png" />
+                <Image Name="qznn_help_dx2.png" />
+                <Image Name="qznn_help_gy1.png" />
+                <Image Name="qznn_help_gy2.png" />
+                <Image Name="qznn_help_js1.png" />
+                <Image Name="qznn_help_js2.png" />
+                <Image Name="qznn_help_px1.png" />
+                <Image Name="qznn_help_px2.png" />
+                <Image Name="qznn_help_tittle.png" />
+                <Image Name="qznn_help_txt_bs.png" />
+                <Image Name="qznn_help_txt_gy.png" />
+                <Image Name="qznn_help_txt_pxdx.png" />
+                <Image Name="qznn_help_txt_sf.png" />
+                <Image Name="qznn_help_txt_wf.png" />
+              </Folder>
+              <Image Name="qznn_hall_back.png" />
+              <Image Name="qznn_hall_bg_484773b85296ee78ba68ec53614040b7.png" />
+              <Image Name="qznn_hall_card1.png" />
+              <Image Name="qznn_hall_card2.png" />
+              <Image Name="qznn_hall_card3.png" />
+              <Image Name="qznn_hall_card4.png" />
+              <Image Name="qznn_hall_card5.png" />
+              <Image Name="qznn_hall_card6.png" />
+              <Image Name="qznn_hall_help.png" />
+              <Image Name="qznn_hall_icon_coin.png" />
+              <Image Name="qznn_hall_logo5_v0.png" />
+              <Image Name="qznn_hall_moneybg.png" />
+              <Image Name="qznn_hall_record.png" />
+              <Image Name="qznn_hall_top_94dd733896f3ff9a7596bbd05c0e4bad.png" />
+            </Folder>
+            <Folder Name="qzpj_res">
+              <Folder Name="help">
+                <Image Name="pj_game_common_btn_close.png" />
+                <Image Name="pj_game_help_btn_1.png" />
+                <Image Name="pj_game_help_btn_10.png" />
+                <Image Name="pj_game_help_btn_2.png" />
+                <Image Name="pj_game_help_btn_3.png" />
+                <Image Name="pj_game_help_btn_4.png" />
+                <Image Name="pj_game_help_btn_5.png" />
+                <Image Name="pj_game_help_btn_6.png" />
+                <Image Name="pj_game_help_btn_7.png" />
+                <Image Name="pj_game_help_btn_8.png" />
+                <Image Name="pj_game_help_btn_9.png" />
+                <Image Name="pj_game_help_danpai.png" />
+                <Image Name="pj_game_help_dpdx.png" />
+                <Image Name="pj_game_help_dpsm.png" />
+                <Image Name="pj_game_help_tab_btn1.png" />
+                <Image Name="pj_game_help_tab_btn2.png" />
+                <Image Name="pj_game_help_title.png" />
+                <Image Name="pj_game_help_txt_5.png" />
+                <Image Name="pj_game_helpbg.png" />
+              </Folder>
+              <Image Name="pj_btn_help.png" />
+              <Image Name="pj_hall_bg.png" />
+              <Image Name="pj_hall_exchangeBtn.png" />
+              <Image Name="pj_hall_headBg.png" />
+              <Image Name="pj_hall_icon_goldbg.png" />
+              <Image Name="pj_hall_itemBg1.png" />
+              <Image Name="pj_hall_itemBg2.png" />
+              <Image Name="pj_hall_txt_dz.png" />
+              <Image Name="pj_hall_txt_zr.png" />
+              <Image Name="pj_info_bg2.png" />
+              <Image Name="pj_room_return.png" />
+            </Folder>
+            <Folder Name="rank_popup">
+              <Image Name="rank_bg.png" />
+              <Image Name="rank_bt_gold.png" />
+              <Image Name="rank_bt_gold_s.png" />
+              <Image Name="rank_bt_time.png" />
+              <Image Name="rank_bt_time_s.png" />
+              <Image Name="rank_bt_week.png" />
+              <Image Name="rank_bt_week_s.png" />
+              <Image Name="rank_bt_winning.png" />
+              <Image Name="rank_bt_winning_s.png" />
+              <Image Name="rank_cell_bg_last.png" />
+              <Image Name="rank_cell_bg1.png" />
+              <Image Name="rank_cell_bg2.png" />
+              <Image Name="rank_cell_bg3.png" />
+              <Image Name="rank_cell_icon_bg.png" />
+              <Image Name="rank_cell_rank1.png" />
+              <Image Name="rank_cell_rank2.png" />
+              <Image Name="rank_cell_rank3.png" />
+              <Image Name="rank_icon_bg.png" />
+              <Image Name="rank_icon_bg1.png" />
+              <Image Name="rank_icon_bg2.png" />
+              <Image Name="rank_icon_bg3.png" />
+              <Image Name="rank_icon_bonus.png" />
+              <Image Name="rank_icon_gold.png" />
+              <Image Name="rank_icon_id.png" />
+              <Image Name="rank_icon_time.png" />
+              <Image Name="rank_list_icon.png" />
+              <Image Name="rank_list_icon@2x.png" />
+              <Image Name="rank_list_icon@3x.png" />
+              <Image Name="rank_me.png" />
+              <Image Name="rank_me_bg.png" />
+              <Image Name="rank_me_bg1.png" />
+              <Image Name="rank_me_icon_bg.png" />
+              <Image Name="rank_title.png" />
+              <Image Name="rank_unrank.png" />
+              <Image Name="rule_bt.png" />
+              <Image Name="rule_content.png" />
+              <Image Name="rule_content_bg.png" />
+              <Image Name="rule_title.png" />
+            </Folder>
+            <Folder Name="room_layer">
+              <Image Name="brnn_room_1.png" />
+              <Image Name="brnn_room_2.png" />
+              <Image Name="brnn_room_des_1.png" />
+              <Image Name="brnn_room_des_2.png" />
+              <Image Name="brnn_title.png" />
+              <Image Name="brqznn_room_1.png" />
+              <Image Name="brqznn_room_2.png" />
+              <Image Name="brqznn_room_3.png" />
+              <Image Name="brqznn_room_4.png" />
+              <Image Name="brqznn_title.png" />
+              <Image Name="btn_back.png" />
+              <Image Name="cpddz_room_1.png" />
+              <Image Name="cpddz_room_2.png" />
+              <Image Name="cpddz_room_3.png" />
+              <Image Name="cpddz_title.png" />
+              <Image Name="ddz_room_1.png" />
+              <Image Name="ddz_room_2.png" />
+              <Image Name="ddz_room_3.png" />
+              <Image Name="ddz_title.png" />
+              <Image Name="fruit_room_1.png" />
+              <Image Name="fruit_room_2.png" />
+              <Image Name="fruit_room_3.png" />
+              <Image Name="fruit_room_4.png" />
+              <Image Name="fruit_title.png" />
+              <Image Name="hb_room_1.png" />
+              <Image Name="hb_title.png" />
+              <Image Name="img_paobei_01.png" />
+              <Image Name="img_paobei_02.png" />
+              <Image Name="img_paobei_03.png" />
+              <Image Name="jcby_room_1.png" />
+              <Image Name="jcby_room_2.png" />
+              <Image Name="jcby_room_3.png" />
+              <Image Name="jcby_title.png" />
+              <Image Name="jsby_room_1.png" />
+              <Image Name="jsby_room_2.png" />
+              <Image Name="jsby_room_3.png" />
+              <Image Name="jsby_title.png" />
+              <Image Name="jsmj_room_1.png" />
+              <Image Name="jsmj_room_2.png" />
+              <Image Name="jsmj_room_3.png" />
+              <Image Name="jsmj_room_4.png" />
+              <Image Name="jsmj_title.png" />
+              <Image Name="qznn_room_1.png" />
+              <Image Name="qznn_room_2.png" />
+              <Image Name="qznn_room_3.png" />
+              <Image Name="qznn_room_4.png" />
+              <Image Name="qznn_title.png" />
+              <Image Name="shdb_room_1.png" />
+              <Image Name="shdb_room_2.png" />
+              <Image Name="shdb_room_3.png" />
+              <Image Name="shdb_title.png" />
+              <Image Name="zjh_room_1.png" />
+              <Image Name="zjh_room_2.png" />
+              <Image Name="zjh_room_3.png" />
+              <Image Name="zjh_room_4.png" />
+              <Image Name="zjh_title.png" />
+            </Folder>
+            <PlistImageFolder Image="sale_open_pic.png" PListFile="sale_open_pic.plist" Name=".sale_open_pic_PList.Dir">
+              <PlistImageFile Name="sale_open_light_01.png" Key="sale_open_light_01.png" />
+              <PlistImageFile Name="sale_open_word_01.png" Key="sale_open_word_01.png" />
+            </PlistImageFolder>
+            <Folder Name="service_popup">
+              <Image Name="ann_bg.png" />
+              <Image Name="ann_bg_2.png" />
+              <Image Name="ann_btn_customer.png" />
+              <Image Name="ann_btn_customer_g.png" />
+              <Image Name="ann_btn_problem.png" />
+              <Image Name="ann_btn_problem_g.png" />
+              <Image Name="ann_content_txt.png" />
+              <Image Name="ann_gm_tx.png" />
+              <Image Name="bt_feedback.png" />
+              <Image Name="input_information.png" />
+              <Image Name="os_title.png" />
+              <Image Name="own_information_bg.png" />
+              <Image Name="scale9sprite.png" />
+              <Image Name="service_information_bg.png" />
+            </Folder>
+            <Folder Name="zjh_res">
+              <Folder Name="help">
+                <Image Name="gf_bg.png" />
+                <Image Name="gf_bg_close.png" />
+                <Image Name="gf_btn_br.png" />
+                <Image Name="gf_btn_Cancel.png" />
+                <Image Name="gf_btn_y.png" />
+                <Image Name="gf_help.png" />
+                <Image Name="gf_help_txx.png" />
+                <Image Name="gf_introduction.png" />
+                <Image Name="gf_introduction_btn_1.png" />
+                <Image Name="gf_introduction_btn_2.png" />
+                <Image Name="gf_introduction_btn_3.png" />
+                <Image Name="gf_introduction_btn1.png" />
+                <Image Name="gf_introduction_btn2.png" />
+                <Image Name="gf_match_bg.png" />
+                <Image Name="gf_paixing.png" />
+                <Image Name="gf_peilv.png" />
+                <Image Name="gf_tip.png" />
+                <Image Name="gf_tip_line.png" />
+                <Image Name="gf_tip_ts.png" />
+                <Image Name="gf_txt_gywm.png" />
+                <Image Name="gf_txt_pl.png" />
+                <Image Name="gf_txt_px.png" />
+                <Image Name="gf_txt_wf.png" />
+                <Image Name="gf_wanfa.png" />
+              </Folder>
+              <Image Name="gf_effcet_pic_person.png" />
+              <Image Name="gf_game_room_bg_1.png" />
+              <Image Name="gf_game_room_bg_2.png" />
+              <Image Name="gf_game_room_bg_3.png" />
+              <Image Name="gf_game_room_bg_4.png" />
+              <Image Name="gf_logo.png" />
+              <Image Name="gf_room_gold.png" />
+              <Image Name="gf_room_icon_help.png" />
+              <Image Name="gf_room_icon_language.png" />
+              <Image Name="gf_room_icon_record.png" />
+              <Image Name="gf_room_pic_bg.png" />
+              <Image Name="gf_room_return.png" />
+              <Image Name="gf_room_user_bg.png" />
+              <Image Name="zjhBg.png" />
+            </Folder>
+          </Folder>
+          <Folder Name="rooms">
+            <Project Name="BrnnRoom_1.csd" Type="Node" />
+            <Project Name="BrnnRoom_2.csd" Type="Node" />
+            <Project Name="BrqznnRoom_1.csd" Type="Node" />
+            <Project Name="BrqznnRoom_2.csd" Type="Node" />
+            <Project Name="BrqznnRoom_3.csd" Type="Node" />
+            <Project Name="BrqznnRoom_4.csd" Type="Node" />
+            <Project Name="CpddzRoom_1.csd" Type="Node" />
+            <Project Name="CpddzRoom_2.csd" Type="Node" />
+            <Project Name="CpddzRoom_3.csd" Type="Node" />
+            <Project Name="DdzRoom_1.csd" Type="Node" />
+            <Project Name="DdzRoom_2.csd" Type="Node" />
+            <Project Name="DdzRoom_3.csd" Type="Node" />
+            <Project Name="FruitRoom_1.csd" Type="Node" />
+            <Project Name="FruitRoom_2.csd" Type="Node" />
+            <Project Name="FruitRoom_3.csd" Type="Node" />
+            <Project Name="FruitRoom_4.csd" Type="Node" />
+            <Project Name="HbRoom_1.csd" Type="Node" />
+            <Project Name="JcbyRoom_1.csd" Type="Node" />
+            <Project Name="JcbyRoom_2.csd" Type="Node" />
+            <Project Name="JcbyRoom_3.csd" Type="Node" />
+            <Project Name="JsbyRoom_1.csd" Type="Node" />
+            <Project Name="JsbyRoom_2.csd" Type="Node" />
+            <Project Name="JsbyRoom_3.csd" Type="Node" />
+            <Project Name="JsmjRoom_1.csd" Type="Node" />
+            <Project Name="JsmjRoom_2.csd" Type="Node" />
+            <Project Name="JsmjRoom_3.csd" Type="Node" />
+            <Project Name="JsmjRoom_4.csd" Type="Node" />
+            <Project Name="QznnRoom_1.csd" Type="Node" />
+            <Project Name="QznnRoom_2.csd" Type="Node" />
+            <Project Name="QznnRoom_3.csd" Type="Node" />
+            <Project Name="QznnRoom_4.csd" Type="Node" />
+            <Project Name="ShdbRoom_1.csd" Type="Node" />
+            <Project Name="ShdbRoom_2.csd" Type="Node" />
+            <Project Name="ShdbRoom_3.csd" Type="Node" />
+            <Project Name="ZjhRoom_1.csd" Type="Node" />
+            <Project Name="ZjhRoom_2.csd" Type="Node" />
+            <Project Name="ZjhRoom_3.csd" Type="Node" />
+            <Project Name="ZjhRoom_4.csd" Type="Node" />
+          </Folder>
+          <Folder Name="sound">
+            <Audio Name="bg.mp3" />
+            <Audio Name="newyear.mp3" />
+          </Folder>
+          <Project Name="AnnounceDetailLayer.csd" Type="Layer" />
+          <Project Name="AnnounceGainedLayer.csd" Type="Layer" />
+          <Project Name="AnnounceLayer.csd" Type="Layer" />
+          <Project Name="AnnounceUngainedLayer.csd" Type="Layer" />
+          <Project Name="BankLayer.csd" Type="Layer" />
+          <Project Name="BRNNHelp.csd" Type="Layer" />
+          <Project Name="BRNNRoom.csd" Type="Scene" />
+          <Project Name="BRQZNNHelp.csd" Type="Layer" />
+          <Project Name="BRQZNNRoom.csd" Type="Scene" />
+          <Project Name="CPDDZHelp.csd" Type="Layer" />
+          <Project Name="CPDDZRoom.csd" Type="Scene" />
+          <Project Name="DDZHelp.csd" Type="Layer" />
+          <Project Name="DDZRoom.csd" Type="Scene" />
+          <Project Name="ExchangeLayer.csd" Type="Layer" />
+          <Project Name="FishHelp.csd" Type="Layer" />
+          <Project Name="FishRoom.csd" Type="Scene" />
+          <Project Name="FruitHelp.csd" Type="Layer" />
+          <Project Name="FruitRoom.csd" Type="Scene" />
+          <Project Name="HallScene.csd" Type="Scene" />
+          <Project Name="HBHelp.csd" Type="Layer" />
+          <Project Name="HBRoom.csd" Type="Scene" />
+          <Project Name="HeadLayer.csd" Type="Layer" />
+          <Project Name="HuodongLayer.csd" Type="Layer" />
+          <Project Name="JSMJHelp.csd" Type="Layer" />
+          <Project Name="JSMJRoom.csd" Type="Scene" />
+          <Project Name="LoginLayer.csd" Type="Layer" />
+          <Project Name="LoginScene.csd" Type="Scene" />
+          <Project Name="ModifyLayer.csd" Type="Layer" />
+          <Project Name="PersonalLayer.csd" Type="Layer" />
+          <Project Name="ProxyLayer.csd" Type="Layer" />
+          <Project Name="QmdlHelpLayer.csd" Type="Layer" />
+          <Project Name="QmdlLayer.csd" Type="Layer" />
+          <Project Name="QmdlPopupLayer.csd" Type="Layer" />
+          <Project Name="QZNNHelp.csd" Type="Layer" />
+          <Project Name="QZNNRoom.csd" Type="Scene" />
+          <Project Name="QZPJHelp.csd" Type="Layer" />
+          <Project Name="QZPJRoom.csd" Type="Scene" />
+          <Project Name="RankLayer.csd" Type="Layer" />
+          <Project Name="RankRuleLayer.csd" Type="Layer" />
+          <Project Name="RechargeLayer.csd" Type="Layer" />
+          <Project Name="RegisterLayer.csd" Type="Layer" />
+          <Project Name="ResetLayer.csd" Type="Layer" />
+          <Project Name="ServiceLayer.csd" Type="Layer" />
+          <Project Name="SmsLoginLayer.csd" Type="Layer" />
+          <Project Name="SwitchLayer.csd" Type="Layer" />
+          <Project Name="XsjlLayer.csd" Type="Layer" />
+          <Project Name="YhkLayer.csd" Type="Layer" />
+          <Project Name="YinhangkaLayer.csd" Type="Layer" />
+          <Project Name="ZcsjLayer.csd" Type="Layer" />
+          <Project Name="ZhaJinHuaHelp.csd" Type="Layer" />
+          <Project Name="ZhaJinHuaRoom.csd" Type="Scene" />
+          <Project Name="ZhifubaoLayer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="common">
+          <Folder Name="font">
+            <Fnt Name="dt_jinbi_num.fnt" />
+            <Fnt Name="dt_pmd_game.fnt" />
+            <Fnt Name="dt_pmd_id.fnt" />
+            <TTF Name="FZYouHei-DB-GB18030.ttf" />
+            <Fnt Name="id2.fnt" />
+          </Folder>
+          <Folder Name="frame">
+            <Image Name="frame_01.png" />
+          </Folder>
+          <Folder Name="head">
+            <Image Name="head_00.png" />
+            <Image Name="head_01.png" />
+            <Image Name="head_02.png" />
+            <Image Name="head_03.png" />
+            <Image Name="head_04.png" />
+            <Image Name="head_05.png" />
+            <Image Name="head_06.png" />
+            <Image Name="head_07.png" />
+            <Image Name="head_08.png" />
+            <Image Name="head_09.png" />
+            <Image Name="head_10.png" />
+            <Image Name="head_11.png" />
+            <Image Name="head_12.png" />
+            <Image Name="head_default.png" />
+          </Folder>
+          <Folder Name="images">
+            <Image Name="battery_bar.png" />
+            <Image Name="battery_charging.png" />
+            <Image Name="battery_dead.png" />
+            <Image Name="battery_frame.png" />
+            <Image Name="battery_lightnig.png" />
+            <Image Name="close_btn.png" />
+            <Image Name="horn_game_1.png" />
+            <Image Name="horn_game_19.png" />
+            <Image Name="horn_game_20.png" />
+            <Image Name="horn_game_22.png" />
+            <Image Name="horn_game_24.png" />
+            <Image Name="horn_game_26.png" />
+            <Image Name="horn_game_27.png" />
+            <Image Name="horn_game_28.png" />
+            <Image Name="horn_game_30.png" />
+            <Image Name="horn_game_31.png" />
+            <Image Name="horn_game_32.png" />
+            <Image Name="horn_game_33.png" />
+            <Image Name="horn_game_34.png" />
+            <Image Name="horn_game_60.png" />
+            <Image Name="horn_txt_get.png" />
+            <Image Name="horn_txt_gt.png" />
+            <Image Name="horn_txt_gx.png" />
+            <Image Name="horn_txt_kill.png" />
+            <Image Name="horn_txt_use.png" />
+            <Image Name="horn_txt_win.png" />
+            <Image Name="horn_txt_z.png" />
+            <Image Name="horn_txt_znd.png" />
+            <Image Name="load_bg.png" />
+            <Image Name="loading.png" />
+            <Image Name="rules_bg.png" />
+            <Image Name="rules_brnn_10.png" />
+            <Image Name="rules_brnn_5.png" />
+            <Image Name="rules_ddz.png" />
+            <Image Name="rules_hb.png" />
+            <Image Name="rules_hhdz.png" />
+            <Image Name="rules_qznn.png" />
+            <Image Name="rules_title.png" />
+            <Image Name="rules_zjh.png" />
+            <Image Name="setting_bg.png" />
+            <Image Name="setting_img_yx.png" />
+            <Image Name="setting_img_yy.png" />
+            <Image Name="setting_progress1.png" />
+            <Image Name="setting_progress2.png" />
+            <Image Name="setting_slide1.png" />
+            <Image Name="setting_title.png" />
+            <Image Name="tip_bg.png" />
+            <Image Name="tip_bt_confirm.png" />
+            <Image Name="title_tip.png" />
+            <Image Name="web_close_btn.png" />
+          </Folder>
+          <Folder Name="sound">
+            <Audio Name="click.mp3" />
+            <Audio Name="gold.mp3" />
+          </Folder>
+          <Project Name="BatteryNode.csd" Type="Node" />
+          <Project Name="DialogLayer.csd" Type="Layer" />
+          <Project Name="LoadingLayer.csd" Type="Layer" />
+          <Project Name="RollingAnnounceNode.csd" Type="Node" />
+          <Project Name="RuleLayer.csd" Type="Layer" />
+          <Project Name="SettingsLayer.csd" Type="Layer" />
+          <Project Name="ToastLayer.csd" Type="Layer" />
+          <Project Name="WebLayer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="update">
+          <Folder Name="animation" />
+          <Folder Name="font" />
+          <Folder Name="images">
+            <Image Name="blackmask_bg.png" />
+            <Image Name="gamehall_slogan.png" />
+            <Image Name="hall_connecting.png" />
+            <Image Name="hall_diandian.png" />
+            <Image Name="hall_loggingin.png" />
+            <Image Name="hall_login_bg.jpg" />
+            <Image Name="hall_login_bg.png" />
+            <Image Name="hall_login_loding.png" />
+            <Image Name="hall_unzip.png" />
+            <Image Name="hall_update.png" />
+            <Image Name="loading_effect_logo_ske11.png" />
+            <Image Name="logo.png" />
+            <Image Name="progress_bar.png" />
+            <Image Name="progress_bg.png" />
+          </Folder>
+          <Folder Name="sound" />
+          <Project Name="UpdateScene.csd" Type="Scene" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

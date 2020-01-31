@@ -1,0 +1,69 @@
+
+ermj_effect_room1_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HallRooms01
+  rotate: false
+  xy: 1, 1
+  size: 327, 301
+  orig: 343, 304
+  offset: 10, 0
+  index: -1
+HallRooms01Ani01
+  rotate: false
+  xy: 330, 1
+  size: 159, 148
+  orig: 163, 152
+  offset: 2, 2
+  index: -1
+HallRooms01Ani03
+  rotate: false
+  xy: 1, 380
+  size: 106, 103
+  orig: 109, 104
+  offset: 1, 0
+  index: -1
+HallRooms01Ani02
+  rotate: false
+  xy: 109, 380
+  size: 92, 94
+  orig: 95, 97
+  offset: 2, 1
+  index: -1
+HallRooms01Ani04
+  rotate: false
+  xy: 286, 376
+  size: 51, 51
+  orig: 55, 54
+  offset: 2, 1
+  index: -1
+HallRoomsNumBg
+  rotate: false
+  xy: 1, 304
+  size: 208, 74
+  orig: 212, 78
+  offset: 2, 2
+  index: -1
+体验房
+  rotate: false
+  xy: 211, 304
+  size: 73, 188
+  orig: 76, 189
+  offset: 1, 1
+  index: -1
+HallRoomLang01
+  rotate: false
+  xy: 330, 151
+  size: 85, 223
+  orig: 86, 225
+  offset: 0, 2
+  index: -1
+星光_00000
+  rotate: false
+  xy: 286, 304
+  size: 33, 46
+  orig: 64, 64
+  offset: 15, 10
+  index: -1

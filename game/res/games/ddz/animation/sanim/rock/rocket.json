@@ -1,0 +1,225 @@
+{
+"skeleton": { "hash": "CQtVs+xTLfOleBN+hGVxYKbBQcU", "spine": "3.6.53", "width": 756, "height": 473, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": -1.5, "y": 86 },
+	{ "name": "rocket1", "parent": "bone", "x": -1, "y": 21 },
+	{ "name": "farmer_hold", "parent": "rocket1", "x": 56, "y": 12 },
+	{ "name": "rocket", "parent": "bone", "x": -2, "y": 5.09 },
+	{ "name": "rocket_bomb1", "parent": "bone", "x": -268.88, "y": -123 },
+	{ "name": "rocket_fire1", "parent": "bone", "x": 148, "y": -93 },
+	{ "name": "rocket_fly1", "parent": "bone", "x": -2, "y": -100 },
+	{ "name": "rocket_shock1", "parent": "bone", "x": 384, "y": -159 }
+],
+"slots": [
+	{ "name": "a23-1322", "bone": "root" },
+	{ "name": "rocket_fire1", "bone": "rocket_fire1" },
+	{ "name": "rocket1", "bone": "rocket1", "attachment": "rocket1" },
+	{ "name": "farmer_hold", "bone": "farmer_hold", "attachment": "farmer_hold" },
+	{ "name": "rocket_fly1", "bone": "rocket_fly1", "attachment": "rocket_fly13" },
+	{ "name": "rocket_bomb1", "bone": "rocket_bomb1" },
+	{ "name": "rocket_shock1", "bone": "rocket_shock1", "attachment": "rocket_shock4", "blend": "additive" },
+	{ "name": "rocket", "bone": "rocket", "attachment": "rocket" }
+],
+"skins": {
+	"default": {
+		"farmer_hold": {
+			"farmer_hold": { "x": 6, "y": 10, "width": 73, "height": 126 }
+		},
+		"rocket": {
+			"rocket": { "y": -3.09, "width": 277, "height": 83 }
+		},
+		"rocket1": {
+			"rocket1": { "x": 2, "y": 15, "width": 156, "height": 226 }
+		},
+		"rocket_bomb1": {
+			"rocket_bomb1": { "x": 12, "y": 7, "width": 732, "height": 206 },
+			"rocket_bomb2": { "x": 3.49, "width": 732, "height": 240 },
+			"rocket_bomb3": { "width": 728, "height": 292 },
+			"rocket_bomb4": { "width": 732, "height": 322 },
+			"rocket_bomb5": { "x": -28.58, "y": 80.85, "width": 398, "height": 274 },
+			"rocket_bomb6": { "x": 16.03, "y": 107.34, "width": 426, "height": 300 },
+			"rocket_bomb7": { "x": 16.03, "y": 103.16, "width": 426, "height": 308 },
+			"rocket_bomb8": { "x": 15.33, "y": 129.64, "width": 454, "height": 362 },
+			"rocket_bomb9": { "x": 4.88, "y": 165.89, "width": 542, "height": 436 },
+			"rocket_bomb10": { "x": -12.55, "y": 142.88, "width": 482, "height": 430 },
+			"rocket_bomb11": { "x": -9.76, "y": 146.37, "width": 534, "height": 434 },
+			"rocket_bomb12": { "x": -9.76, "y": 145.67, "width": 534, "height": 434 },
+			"rocket_bomb13": { "x": -20.21, "y": 147.07, "width": 536, "height": 426 },
+			"rocket_bomb14": { "x": -2.09, "y": 69.7, "width": 514, "height": 394 },
+			"rocket_bomb15": { "x": 15.33, "y": 86.43, "width": 498, "height": 328 }
+		},
+		"rocket_fire1": {
+			"rocket_fire1": { "x": 4, "y": -33.94, "width": 96, "height": 74 },
+			"rocket_fire2": { "width": 88, "height": 198 },
+			"rocket_fire3": { "width": 96, "height": 186 },
+			"rocket_fire4": { "width": 102, "height": 182 },
+			"rocket_fire5": { "width": 102, "height": 172 },
+			"rocket_fire6": { "width": 98, "height": 130 },
+			"rocket_fire7": { "width": 86, "height": 66 },
+			"rocket_fire8": { "width": 86, "height": 66 }
+		},
+		"rocket_fly1": {
+			"rocket_fly1": { "x": 1, "y": -34.56, "width": 124, "height": 146 },
+			"rocket_fly2": { "y": -30.37, "width": 120, "height": 170 },
+			"rocket_fly3": { "width": 326, "height": 156 },
+			"rocket_fly4": { "x": 2.17, "y": 12.29, "width": 316, "height": 164 },
+			"rocket_fly5": { "x": 2.89, "y": 25.3, "width": 418, "height": 220 },
+			"rocket_fly6": { "x": 5.78, "y": 53.5, "width": 450, "height": 316 },
+			"rocket_fly7": { "x": 4.34, "y": 71.58, "width": 450, "height": 336 },
+			"rocket_fly8": { "x": 8.62, "y": 83.87, "width": 374, "height": 358 },
+			"rocket_fly9": { "x": 5.16, "y": 83.14, "width": 388, "height": 386 },
+			"rocket_fly10": { "x": 1.55, "y": 98.33, "width": 390, "height": 384 },
+			"rocket_fly11": { "x": 5.09, "y": 4.34, "width": 378, "height": 174 },
+			"rocket_fly12": { "x": 5.06, "y": 7.95, "width": 370, "height": 170 },
+			"rocket_fly13": { "y": 7.95, "width": 360, "height": 158 }
+		},
+		"rocket_shock1": {
+			"rocket_shock1": { "x": 0.52, "y": 10.09, "width": 380, "height": 330 },
+			"rocket_shock2": { "width": 380, "height": 330 },
+			"rocket_shock3": { "width": 380, "height": 330 },
+			"rocket_shock4": { "width": 380, "height": 330 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"farmer_hold": {
+				"attachment": [
+					{ "time": 0, "name": "farmer_hold" },
+					{ "time": 0.5, "name": "farmer_hold" },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.9, "name": null }
+				]
+			},
+			"rocket": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.2667, "name": "rocket" },
+					{ "time": 2.0667, "name": null }
+				]
+			},
+			"rocket1": {
+				"attachment": [
+					{ "time": 0, "name": "rocket1" },
+					{ "time": 0.5, "name": "rocket1" },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.8667, "name": null },
+					{ "time": 0.9, "name": "rocket1" },
+					{ "time": 1.1667, "name": "rocket1" },
+					{ "time": 1.2, "name": null }
+				]
+			},
+			"rocket_bomb1": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.2667, "name": "rocket_bomb1" },
+					{ "time": 1.3, "name": "rocket_bomb2" },
+					{ "time": 1.3333, "name": "rocket_bomb3" },
+					{ "time": 1.3667, "name": "rocket_bomb4" },
+					{ "time": 1.4, "name": "rocket_bomb5" },
+					{ "time": 1.4333, "name": "rocket_bomb6" },
+					{ "time": 1.4667, "name": "rocket_bomb7" },
+					{ "time": 1.5, "name": "rocket_bomb8" },
+					{ "time": 1.5333, "name": "rocket_bomb9" },
+					{ "time": 1.5667, "name": "rocket_bomb10" },
+					{ "time": 1.6, "name": "rocket_bomb11" },
+					{ "time": 1.6333, "name": "rocket_bomb12" },
+					{ "time": 1.6667, "name": "rocket_bomb13" },
+					{ "time": 1.7, "name": "rocket_bomb14" },
+					{ "time": 1.7333, "name": "rocket_bomb15" },
+					{ "time": 1.7667, "name": null }
+				]
+			},
+			"rocket_fire1": {
+				"attachment": [
+					{ "time": 1.1667, "name": "rocket_fire1" },
+					{ "time": 1.2333, "name": "rocket_fire2" },
+					{ "time": 1.3, "name": "rocket_fire3" },
+					{ "time": 1.3667, "name": "rocket_fire4" },
+					{ "time": 1.4333, "name": "rocket_fire5" },
+					{ "time": 1.5, "name": "rocket_fire6" },
+					{ "time": 1.5667, "name": "rocket_fire7" },
+					{ "time": 1.6333, "name": "rocket_fire8" },
+					{ "time": 1.6667, "name": null }
+				]
+			},
+			"rocket_fly1": {
+				"attachment": [
+					{ "time": 0, "name": "rocket_fly1" },
+					{ "time": 0.0667, "name": "rocket_fly2" },
+					{ "time": 0.1, "name": "rocket_fly3" },
+					{ "time": 0.1333, "name": "rocket_fly4" },
+					{ "time": 0.1667, "name": "rocket_fly5" },
+					{ "time": 0.2, "name": "rocket_fly6" },
+					{ "time": 0.2333, "name": "rocket_fly7" },
+					{ "time": 0.2667, "name": "rocket_fly8" },
+					{ "time": 0.3, "name": "rocket_fly9" },
+					{ "time": 0.3333, "name": "rocket_fly10" },
+					{ "time": 0.3667, "name": "rocket_fly11" },
+					{ "time": 0.4, "name": "rocket_fly12" },
+					{ "time": 0.4333, "name": "rocket_fly13" },
+					{ "time": 0.4667, "name": null }
+				]
+			},
+			"rocket_shock1": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.2, "name": "rocket_shock1" },
+					{ "time": 1.2333, "name": "rocket_shock2" },
+					{ "time": 1.2667, "name": "rocket_shock3" },
+					{ "time": 1.3, "name": "rocket_shock4" },
+					{ "time": 1.3333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"rocket_bomb1": {
+				"translate": [
+					{ "time": 1.2667, "x": 268.52, "y": -63.96 }
+				]
+			},
+			"rocket_shock1": {
+				"translate": [
+					{ "time": 1.2, "x": -378.32, "y": 126.83 }
+				]
+			},
+			"rocket": {
+				"translate": [
+					{ "time": 1.2667, "x": 0, "y": -68.08 }
+				],
+				"scale": [
+					{ "time": 1.2667, "x": 0.471, "y": 0.471 },
+					{ "time": 1.4333, "x": 1.382, "y": 1.382 },
+					{ "time": 1.5333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.0333, "x": 1, "y": 1 }
+				]
+			},
+			"rocket1": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.8667, "angle": 0 },
+					{ "time": 0.9, "angle": -180 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "x": 0, "y": 312.58, "curve": "stepped" },
+					{ "time": 0.9, "x": 0, "y": 312.58 },
+					{ "time": 1.1667, "x": 0, "y": -53.73 }
+				]
+			},
+			"rocket_fire1": {
+				"translate": [
+					{ "time": 1.1667, "x": -149.59, "y": 209.21 }
+				]
+			}
+		}
+	}
+}
+}

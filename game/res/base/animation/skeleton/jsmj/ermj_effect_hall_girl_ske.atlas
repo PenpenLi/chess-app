@@ -1,0 +1,167 @@
+
+ermj_effect_hall_girl_ske.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+头发3
+  rotate: false
+  xy: 806, 1613
+  size: 173, 354
+  orig: 173, 354
+  offset: 0, 0
+  index: -1
+头发2
+  rotate: false
+  xy: 1052, 1316
+  size: 515, 434
+  orig: 515, 434
+  offset: 0, 0
+  index: -1
+大臂左
+  rotate: false
+  xy: 1, 1103
+  size: 558, 835
+  orig: 558, 835
+  offset: 0, 0
+  index: -1
+裙摆3
+  rotate: false
+  xy: 1073, 590
+  size: 260, 318
+  orig: 260, 318
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 1, 1
+  size: 523, 1100
+  orig: 523, 1100
+  offset: 0, 0
+  index: -1
+头发1
+  rotate: false
+  xy: 1218, 1752
+  size: 128, 271
+  orig: 128, 271
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 981, 1752
+  size: 235, 245
+  orig: 235, 245
+  offset: 0, 0
+  index: -1
+发丝1
+  rotate: false
+  xy: 1566, 1767
+  size: 76, 242
+  orig: 76, 242
+  offset: 0, 0
+  index: -1
+睁眼
+  rotate: false
+  xy: 1881, 1843
+  size: 99, 54
+  orig: 100, 54
+  offset: 0, 0
+  index: -1
+中间帧
+  rotate: false
+  xy: 1644, 1907
+  size: 99, 54
+  orig: 99, 54
+  offset: 0, 0
+  index: -1
+闭眼
+  rotate: false
+  xy: 1774, 1843
+  size: 105, 75
+  orig: 106, 76
+  offset: 0, 1
+  index: -1
+刘海
+  rotate: false
+  xy: 1644, 1767
+  size: 128, 138
+  orig: 128, 138
+  offset: 0, 0
+  index: -1
+大臂右
+  rotate: false
+  xy: 806, 1316
+  size: 214, 295
+  orig: 214, 295
+  offset: 0, 0
+  index: -1
+小臂右
+  rotate: false
+  xy: 526, 1
+  size: 524, 830
+  orig: 524, 830
+  offset: 0, 0
+  index: -1
+右手
+  rotate: false
+  xy: 1348, 1944
+  size: 216, 91
+  orig: 216, 91
+  offset: 0, 0
+  index: -1
+左手
+  rotate: false
+  xy: 1774, 1767
+  size: 183, 74
+  orig: 183, 74
+  offset: 0, 0
+  index: -1
+裙摆1
+  rotate: false
+  xy: 561, 833
+  size: 510, 481
+  orig: 510, 481
+  offset: 0, 0
+  index: -1
+裙摆2
+  rotate: false
+  xy: 1569, 1316
+  size: 368, 449
+  orig: 368, 449
+  offset: 0, 0
+  index: -1
+左手铃铛
+  rotate: false
+  xy: 1052, 1
+  size: 261, 587
+  orig: 261, 587
+  offset: 0, 0
+  index: -1
+右手铃铛
+  rotate: false
+  xy: 561, 1316
+  size: 243, 631
+  orig: 243, 631
+  offset: 0, 0
+  index: -1
+麻将
+  rotate: false
+  xy: 1348, 1752
+  size: 171, 190
+  orig: 171, 190
+  offset: 0, 0
+  index: -1
+耳环左
+  rotate: false
+  xy: 1521, 1752
+  size: 39, 93
+  orig: 39, 93
+  offset: 0, 0
+  index: -1
+耳环右
+  rotate: false
+  xy: 1521, 1847
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1

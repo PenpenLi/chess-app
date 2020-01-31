@@ -1,0 +1,20 @@
+info face="Î¢ÈíÑÅºÚ" size=48 bold=1 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=47 base=38 scaleW=256 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="number_lose_0.png"
+chars count=16
+char id=45   x=71    y=34    width=18    height=33    xoffset=0     yoffset=0     xadvance=18    page=0  chnl=15
+char id=46   x=107   y=34    width=10    height=33    xoffset=0     yoffset=0     xadvance=10    page=0  chnl=15
+char id=48   x=106   y=0     width=23    height=33    xoffset=0     yoffset=0     xadvance=23    page=0  chnl=15
+char id=49   x=90    y=34    width=16    height=33    xoffset=0     yoffset=0     xadvance=16    page=0  chnl=15
+char id=50   x=48    y=34    width=22    height=33    xoffset=0     yoffset=0     xadvance=22    page=0  chnl=15
+char id=51   x=130   y=0     width=23    height=33    xoffset=0     yoffset=0     xadvance=23    page=0  chnl=15
+char id=52   x=154   y=0     width=23    height=33    xoffset=0     yoffset=0     xadvance=23    page=0  chnl=15
+char id=53   x=178   y=0     width=23    height=33    xoffset=0     yoffset=0     xadvance=23    page=0  chnl=15
+char id=54   x=202   y=0     width=23    height=33    xoffset=0     yoffset=0     xadvance=23    page=0  chnl=15
+char id=55   x=226   y=0     width=23    height=33    xoffset=0     yoffset=0     xadvance=23    page=0  chnl=15
+char id=56   x=0     y=34    width=23    height=33    xoffset=0     yoffset=0     xadvance=23    page=0  chnl=15
+char id=57   x=24    y=34    width=23    height=33    xoffset=0     yoffset=0     xadvance=23    page=0  chnl=15
+char id=19975 x=54    y=0     width=25    height=33    xoffset=0     yoffset=0     xadvance=25    page=0  chnl=15
+char id=20159 x=80    y=0     width=25    height=33    xoffset=0     yoffset=0     xadvance=25    page=0  chnl=15
+char id=20803 x=0     y=0     width=26    height=33    xoffset=0     yoffset=0     xadvance=26    page=0  chnl=15
+char id=37329 x=27    y=0     width=26    height=33    xoffset=0     yoffset=0     xadvance=26    page=0  chnl=15

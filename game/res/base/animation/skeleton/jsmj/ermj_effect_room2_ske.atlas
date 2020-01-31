@@ -1,0 +1,55 @@
+
+ermj_effect_room2_ske.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HallRooms02
+  rotate: false
+  xy: 1, 1
+  size: 324, 301
+  orig: 343, 304
+  offset: 10, 1
+  index: -1
+HallRooms02Ani02
+  rotate: false
+  xy: 327, 1
+  size: 184, 225
+  orig: 184, 225
+  offset: 0, 0
+  index: -1
+HallRooms02Ani03
+  rotate: false
+  xy: 212, 304
+  size: 112, 113
+  orig: 112, 113
+  offset: 0, 0
+  index: -1
+HallRooms02Ani01
+  rotate: false
+  xy: 1, 381
+  size: 103, 107
+  orig: 103, 107
+  offset: 0, 0
+  index: -1
+初级房
+  rotate: false
+  xy: 413, 228
+  size: 76, 192
+  orig: 76, 192
+  offset: 0, 0
+  index: -1
+HallRoomLang02
+  rotate: false
+  xy: 327, 228
+  size: 84, 225
+  orig: 84, 225
+  offset: 0, 0
+  index: -1
+HallRoomsNumBg
+  rotate: false
+  xy: 1, 304
+  size: 209, 75
+  orig: 212, 78
+  offset: 2, 1
+  index: -1
