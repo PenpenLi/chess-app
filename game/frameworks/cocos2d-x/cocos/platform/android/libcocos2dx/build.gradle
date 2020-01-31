@@ -1,0 +1,43 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion '27.0.3'
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+
+        multiDexEnabled true
+
+        ndk {
+            abiFilters "armeabi"
+        }
+
+        sourceSets {
+            main {
+                jniLibs.srcDirs = ['jniLibs']
+            }
+        }
+
+    }
+    sourceSets.main {
+        aidl.srcDir "../java/src"
+        java.srcDir "../java/src"
+        manifest.srcFile "AndroidManifest.xml"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: '../java/libs')
+    implementation ('com.jph.takephoto:takephoto_library:4.0.3')
+}

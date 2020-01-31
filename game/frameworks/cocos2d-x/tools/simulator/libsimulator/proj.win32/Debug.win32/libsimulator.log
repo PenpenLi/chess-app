@@ -1,0 +1,59 @@
+﻿  CCHTTPRequest.cpp
+  DeviceEx-win32.cpp
+  PlayerEditBoxServiceWin.cpp
+  PlayerFileDialogServiceWin.cpp
+  PlayerMenuServiceWin.cpp
+  PlayerMessageBoxServiceWin.cpp
+  PlayerTaskServiceWin.cpp
+  PlayerWin.cpp
+  ProjectConfig.cpp
+  SimulatorConfig.cpp
+  AppEvent.cpp
+  AppLang.cpp
+  PlayerMenuServiceProtocol.cpp
+D:\ClientCK_1\game\frameworks\cocos2d-x\tools\simulator\libsimulator\lib\ProjectConfig\ProjectConfig.cpp(661,27): warning C4018: “>=”: 有符号/无符号不匹配
+  PlayerProtocol.cpp
+  PlayerServiceProtocol.cpp
+  PlayerSettings.cpp
+  PlayerTaskServiceProtocol.cpp
+  PlayerUtils.cpp
+  extension_set.cc
+  generated_message_util.cc
+  coded_stream.cc
+  zero_copy_stream.cc
+  zero_copy_stream_impl_lite.cc
+  message_lite.cc
+  repeated_field.cc
+  atomicops_internals_x86_gcc.cc
+D:\ClientCK_1\game\frameworks\cocos2d-x\tools\simulator\libsimulator\lib\protobuf-lite\google\protobuf\io\zero_copy_stream_impl_lite.cc(157,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\ClientCK_1\game\frameworks\cocos2d-x\tools\simulator\libsimulator\lib\protobuf-lite\google\protobuf\io\zero_copy_stream_impl_lite.cc(177,3): warning C4018: “<=”: 有符号/无符号不匹配
+  atomicops_internals_x86_msvc.cc
+  common.cc
+  once.cc
+  stringprintf.cc
+  wire_format_lite.cc
+  ConfigParser.cpp
+  ConnectWaitLayer.cpp
+D:\ClientCK_1\game\frameworks\cocos2d-x\tools\simulator\libsimulator\lib\protobuf-lite\google\protobuf\stubs\stringprintf.cc(152,21): warning C4018: “<”: 有符号/无符号不匹配
+  ConsoleCommand.cpp
+  FileServer.cpp
+D:\ClientCK_1\game\frameworks\cocos2d-x\tools\simulator\libsimulator\lib\protobuf-lite\google\protobuf\stubs\common.cc(377,21): warning C4018: “<”: 有符号/无符号不匹配
+  Landscape_png.cpp
+  PlayDisable_png.cpp
+  PlayEnable_png.cpp
+  Portrait_png.cpp
+  Protos.pb.cc
+  Runtime.cpp
+  RuntimeCCSImpl.cpp
+  RuntimeProtocol.cpp
+  Shine_png.cpp
+  VisibleRect.cpp
+  Runtime_win32.cpp
+  stdafx.cpp
+D:\ClientCK_1\game\frameworks\cocos2d-x\tools\simulator\libsimulator\lib\runtime\ConfigParser.cpp(108,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\ClientCK_1\game\frameworks\cocos2d-x\tools\simulator\libsimulator\lib\runtime\FileServer.cpp(145,24): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“WCHAR *”
+D:\ClientCK_1\game\frameworks\cocos2d-x\tools\simulator\libsimulator\lib\runtime\FileServer.cpp(145,24): message : 请考虑在格式字符串中使用“%ls”
+D:\ClientCK_1\game\frameworks\cocos2d-x\tools\simulator\libsimulator\lib\runtime\FileServer.cpp(145,24): message : 请考虑在格式字符串中使用“%lls”
+D:\ClientCK_1\game\frameworks\cocos2d-x\tools\simulator\libsimulator\lib\runtime\FileServer.cpp(145,24): message : 请考虑在格式字符串中使用“%Ls”
+D:\ClientCK_1\game\frameworks\cocos2d-x\tools\simulator\libsimulator\lib\runtime\FileServer.cpp(145,24): message : 请考虑在格式字符串中使用“%ws”
+  libsimulator.vcxproj -> D:\ClientCK_1\game\frameworks\runtime-src\proj.win32\Debug.win32\libsimulator.lib
